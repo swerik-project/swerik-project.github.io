@@ -8,8 +8,9 @@ categories: sample-posts
 ---
 
 When we submitted our RJ application in the spring of 2022, we had already created a pilot corpus of all Swedish parliamentary debates since 1920. This pre-work was conducted over a two-year period within the [Welfare State Analytics project](https://www.westac.se/en/) and contained four main annotation tags: (1) speaker introduction, (2) matching the speaker introduction to the correct member of parliament (MP), (3) the speech text, and (4) the non-speech text (e.g. descriptions of activities in the chamber). 
-
+ 
 We recurrently released improved versions of the annotated corpora through our agile corpus curation workflow in GitHub. Our initial aim was to reach 90 % accuracy in speaker identification, which we assessed as a good enough quality to start researching the material. To succeed in doing this, we used a combination of machine learning techniques and manual curation work.
-
+ 
 The graph below illustrates how the pilot corpus (often) improved in each version release, upuntil version 0.4.6.
 
+ 
