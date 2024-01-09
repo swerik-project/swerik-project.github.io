@@ -1,0 +1,51 @@
+{
+  "name": "erik samuelson",
+  "swerik-id": "i-YNnGatGGiCN5sfMx84itZi",
+  "DOB": "1904-02-14",
+  "DOD": "1992-01-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Masthuggs församling",
+    "link": "http://www.wikidata.org/entity/Q10578167"
+  },
+  "place-of-death": {
+    "place": "Högsbo församling",
+    "link": "http://www.wikidata.org/entity/Q10532357"
+  },
+  "alt-names": [
+    "erik mauritz samuelson",
+    "samuelson"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1956-07-27 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Samuelson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117287698",
+      "link": "https://www.wikidata.org/wiki/Q117287698"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkQg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkQg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

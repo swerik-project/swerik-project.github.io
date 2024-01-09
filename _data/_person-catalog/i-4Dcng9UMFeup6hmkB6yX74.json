@@ -1,0 +1,103 @@
+{
+  "name": "gustav blix",
+  "swerik-id": "i-4Dcng9UMFeup6hmkB6yX74",
+  "DOB": "1974-08-31",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2016-10-03 00:00:00",
+      "end": "2016-12-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2011-06-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2011-02-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2008-12-08 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2006-10-03 00:00:00",
+      "end": "2008-09-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5579118",
+      "link": "https://www.wikidata.org/wiki/Q5579118"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0741005094627",
+      "link": "https://data.riksdagen.se/personlista/?iid=0741005094627&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "08149064-fefc-4d5a-8b9f-6b5245e89a35",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_08149064-fefc-4d5a-8b9f-6b5245e89a35"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2016-10-03",
+      "end": "2016-12-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

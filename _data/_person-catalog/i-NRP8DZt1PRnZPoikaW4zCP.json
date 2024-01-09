@@ -1,0 +1,51 @@
+{
+  "name": "axel rappe",
+  "swerik-id": "i-NRP8DZt1PRnZPoikaW4zCP",
+  "DOB": "1838-10-02",
+  "DOD": "1918-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arby församling",
+    "link": "http://www.wikidata.org/entity/Q10417120"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1892-06-22 00:00:00",
+      "end": "1899-10-27 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Rappe%20Sr.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4830349",
+      "link": "https://www.wikidata.org/wiki/Q4830349"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7546",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7546"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAB4oEg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAB4oEg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

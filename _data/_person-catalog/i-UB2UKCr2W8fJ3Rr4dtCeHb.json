@@ -1,0 +1,105 @@
+{
+  "name": "mattias vepsä",
+  "swerik-id": "i-UB2UKCr2W8fJ3Rr4dtCeHb",
+  "DOB": "1980-02-02",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kista församling",
+    "link": "http://www.wikidata.org/entity/Q10545885"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2022-02-01 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2020-03-09 00:00:00",
+      "end": "2022-01-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2019-07-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2017-09-25 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2017-05-29 00:00:00",
+      "end": "2017-07-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mattias%20veps%C3%A4.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6223773",
+      "link": "https://www.wikidata.org/wiki/Q6223773"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0911067396229",
+      "link": "https://data.riksdagen.se/personlista/?iid=0911067396229&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b20fb0ab-e161-4d7a-acc9-57c3923d5456",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b20fb0ab-e161-4d7a-acc9-57c3923d5456"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-02-01",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

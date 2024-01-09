@@ -1,0 +1,80 @@
+{
+  "name": "marie ann johansson",
+  "swerik-id": "i-VJesCiRRrnNn2TLsiowtMi",
+  "DOB": "1946-06-06",
+  "DOD": "2013-01-18",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Borås",
+    "link": "http://www.wikidata.org/entity/Q26040"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "johansson",
+    "marie ann eriksson"
+  ],
+  "iorter": [
+    "Backa"
+  ],
+  "positions": [
+    {
+      "start": "1985-06-20 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1983-04-10 00:00:00",
+      "end": "1985-02-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4957065",
+      "link": "https://www.wikidata.org/wiki/Q4957065"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1985-06-20",
+      "end": "1985-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

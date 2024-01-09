@@ -1,0 +1,52 @@
+{
+  "name": "einar gustafsson",
+  "swerik-id": "i-Y8USfRKZJJpJ6u1e4N1LDx",
+  "DOB": "1914-12-21",
+  "DOD": "1995-02-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Loftahammars församling",
+    "link": "http://www.wikidata.org/entity/Q10568829"
+  },
+  "place-of-death": {
+    "place": "Linköping",
+    "link": "http://www.wikidata.org/entity/Q25413"
+  },
+  "alt-names": [
+    "g einar gustafsso",
+    "gustaf einar gustafsson",
+    "gustafsson"
+  ],
+  "iorter": [
+    "Kårby"
+  ],
+  "positions": [
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Einar%20Gustafsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5349634",
+      "link": "https://www.wikidata.org/wiki/Q5349634"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgacw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgacw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

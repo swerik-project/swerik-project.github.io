@@ -1,0 +1,82 @@
+{
+  "name": "aina westin",
+  "swerik-id": "i-Bio8tbASRyri8PZeHWMU4D",
+  "DOB": "1927-05-03",
+  "DOD": "2010-12-11",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Malmö S:t Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q10576131"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "aina linde",
+    "aina viola hillevi westin",
+    "westin"
+  ],
+  "iorter": [
+    "Sundbyberg"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4990382",
+      "link": "https://www.wikidata.org/wiki/Q4990382"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0503986647505",
+      "link": "https://data.riksdagen.se/personlista/?iid=0503986647505&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "acbe3cb8-4ebe-4a08-9458-4f728cf799a6",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_acbe3cb8-4ebe-4a08-9458-4f728cf799a6"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

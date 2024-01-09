@@ -1,0 +1,97 @@
+{
+  "name": "erik andersson",
+  "swerik-id": "i-3TvBf7WWysNpBVYf3bsL5D",
+  "DOB": "1837-06-07",
+  "DOD": "1906-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Holmedals församling",
+    "link": "http://www.wikidata.org/entity/Q18290665"
+  },
+  "place-of-death": {
+    "place": "Holmedals församling",
+    "link": "http://www.wikidata.org/entity/Q18290665"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nordmarks domsagas valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nordmarks domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554461",
+      "link": "https://www.wikidata.org/wiki/Q5554461"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5MdA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5MdA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbng"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeska diskussionsklubben",
+        "party-id": "Q10432852"
+      },
+      "start": "1898",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1896",
+      "end": "1897"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1895"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

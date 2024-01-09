@@ -1,0 +1,89 @@
+{
+  "name": "gunnar nilsson",
+  "swerik-id": "i-Uv6Pqx7vHszj8MTNigPahL",
+  "DOB": "1940",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Eslöv"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1986-09-01 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010314",
+      "link": "https://www.wikidata.org/wiki/Q6010314"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0194731575606",
+      "link": "https://data.riksdagen.se/personlista/?iid=0194731575606&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ca13cd3f-6d5c-44dc-911b-249df0402bae",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ca13cd3f-6d5c-44dc-911b-249df0402bae"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

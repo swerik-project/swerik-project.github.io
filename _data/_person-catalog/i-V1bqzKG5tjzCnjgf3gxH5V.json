@@ -1,0 +1,56 @@
+{
+  "name": "albert andersson",
+  "swerik-id": "i-V1bqzKG5tjzCnjgf3gxH5V",
+  "DOB": "1878-08-29",
+  "DOD": "1962-06-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Österlövsta församling",
+    "link": "http://www.wikidata.org/entity/Q10728061"
+  },
+  "place-of-death": {
+    "place": "Österlövsta församling",
+    "link": "http://www.wikidata.org/entity/Q10728061"
+  },
+  "alt-names": [
+    "andersson",
+    "johan albert andersson"
+  ],
+  "iorter": [
+    "Valnäs"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1946-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4709637",
+      "link": "https://www.wikidata.org/wiki/Q4709637"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "28K7pO-SRrAAAAAAAACRcw",
+      "link": "https://portrattarkiv.se/details/28K7pO-SRrAAAAAAAACRcw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOBw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOBw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

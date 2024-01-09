@@ -1,0 +1,51 @@
+{
+  "name": "anna brandone",
+  "swerik-id": "i-5gF1U3J7PuHQuysnqKyjBZ",
+  "DOB": "1939-08-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anna caisa brandone"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1988-11-12 00:00:00",
+      "end": "1988-12-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117467164",
+      "link": "https://www.wikidata.org/wiki/Q117467164"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0244061841305",
+      "link": "https://data.riksdagen.se/personlista/?iid=0244061841305&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0a32dcb1-1b45-4fd2-a66a-5381acc6037a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0a32dcb1-1b45-4fd2-a66a-5381acc6037a"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,116 @@
+{
+  "name": "lena öhrsvik",
+  "swerik-id": "i-6UrnZSyhA8En3ghbWrejVN",
+  "DOB": "1944-01-08",
+  "DOD": "2016-08-07",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Södra Möckleby församling",
+    "link": "http://www.wikidata.org/entity/Q10688953"
+  },
+  "place-of-death": {
+    "place": "Borgholms distrikt",
+    "link": "http://www.wikidata.org/entity/Q21566428"
+  },
+  "alt-names": [
+    "öhrsvik"
+  ],
+  "iorter": [
+    "Nybro"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1982-05-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-02-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4991125",
+      "link": "https://www.wikidata.org/wiki/Q4991125"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0455312624903",
+      "link": "https://data.riksdagen.se/personlista/?iid=0455312624903&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3a2b24d1-8974-45dd-80ea-5e8fe2970d16",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3a2b24d1-8974-45dd-80ea-5e8fe2970d16"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

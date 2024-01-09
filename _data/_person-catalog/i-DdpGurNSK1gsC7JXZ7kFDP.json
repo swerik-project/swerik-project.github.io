@@ -1,0 +1,80 @@
+{
+  "name": "gillis bildt",
+  "swerik-id": "i-DdpGurNSK1gsC7JXZ7kFDP",
+  "DOB": "1820-10-16",
+  "DOD": "1894-10-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "alt-names": [
+    "bildt",
+    "didrik anders gillis bildt",
+    "didrik gillis bildt"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1889-10-12 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gillis Bildt",
+      "district": null
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1874-03-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gillis%20Bildt.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q52960",
+      "link": "https://www.wikidata.org/wiki/Q52960"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18208",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18208"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA18vw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA18vw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfErA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfErA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

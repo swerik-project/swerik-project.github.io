@@ -1,0 +1,137 @@
+{
+  "name": "viktor larsson",
+  "swerik-id": "i-UbnnZ7kVjVhJrHrUCyEV9K",
+  "DOB": "1869-06-18",
+  "DOD": "1950-09-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kolbäcks församling",
+    "link": "http://www.wikidata.org/entity/Q10547061"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Västerås"
+  ],
+  "positions": [
+    {
+      "start": "1940-01-01 00:00:00",
+      "end": "1941-10-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    },
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1939-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1927-01-01 00:00:00",
+      "end": "1927-12-31 00:00:00",
+      "role": "talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1924-10-18 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting III",
+      "district": null
+    },
+    {
+      "start": "1924-10-18 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sandler",
+      "district": null
+    },
+    {
+      "start": "1924-10-14 00:00:00",
+      "end": "1925-01-24 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting III",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1923-12-31 00:00:00",
+      "role": "talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns östra valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerås valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Larsson%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16649624",
+      "link": "https://www.wikidata.org/wiki/Q16649624"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11052",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11052"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:72667",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:72667"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

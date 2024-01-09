@@ -1,0 +1,98 @@
+{
+  "name": "nils olof gustafsson",
+  "swerik-id": "i-8cFSCdWjvpDgozuk8RHZyW",
+  "DOB": "1934-04-24",
+  "DOD": "2012-01-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östersunds församling",
+    "link": "http://www.wikidata.org/entity/Q10728127"
+  },
+  "place-of-death": {
+    "place": "Borgholms församling",
+    "link": "http://www.wikidata.org/entity/Q10433171"
+  },
+  "alt-names": [
+    "gustafsson"
+  ],
+  "iorter": [
+    "Svenstavik"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5777951",
+      "link": "https://www.wikidata.org/wiki/Q5777951"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0807888102003",
+      "link": "https://data.riksdagen.se/personlista/?iid=0807888102003&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8511be82-0ea3-4915-a1ff-997f0247f7e1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8511be82-0ea3-4915-a1ff-997f0247f7e1"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

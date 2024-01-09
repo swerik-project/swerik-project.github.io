@@ -1,0 +1,41 @@
+{
+  "name": "hedda lindahl",
+  "swerik-id": "i-7JiYVDnK37xg39yjTzjQ3r",
+  "DOB": "1919-02-16",
+  "DOD": "2007-01-12",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10713238"
+  },
+  "place-of-death": {
+    "place": "Alingsås stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q57234599"
+  },
+  "alt-names": [
+    "hedda hansdotter lindahl"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "sjukvårdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4962326",
+      "link": "https://www.wikidata.org/wiki/Q4962326"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

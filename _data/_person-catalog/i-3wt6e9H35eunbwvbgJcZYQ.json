@@ -1,0 +1,96 @@
+{
+  "name": "fritz kaijser",
+  "swerik-id": "i-3wt6e9H35eunbwvbgJcZYQ",
+  "DOB": "1868-02-07",
+  "DOD": "1960-02-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlstad",
+    "link": "http://www.wikidata.org/entity/Q25457"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "fritz richard kaijser",
+    "kaijser"
+  ],
+  "iorter": [
+    "Härnösand"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands södra valkrets"
+    },
+    {
+      "start": "1919-01-10 00:00:00",
+      "end": "1919-06-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fritz%20Richard%20Kaijser.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5897311",
+      "link": "https://www.wikidata.org/wiki/Q5897311"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "0piq-fX0h5AAAAAAAAAnzQ",
+      "link": "https://portrattarkiv.se/details/0piq-fX0h5AAAAAAAAAnzQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:21846",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:21846"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfCg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfCg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1921",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1919",
+      "end": "1919"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

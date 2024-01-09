@@ -1,0 +1,48 @@
+{
+  "name": "ivar andersson",
+  "swerik-id": "i-TEXdMFr5R5hvaQAhJoGaid",
+  "DOB": "1918-04-27",
+  "DOD": "2005-01-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Säfsnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10687922"
+  },
+  "place-of-death": {
+    "place": "Ludvika församling",
+    "link": "http://www.wikidata.org/entity/Q10570482"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Fredriksberg"
+  ],
+  "positions": [
+    {
+      "start": "1968-01-15 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111665825",
+      "link": "https://www.wikidata.org/wiki/Q111665825"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUlA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUlA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

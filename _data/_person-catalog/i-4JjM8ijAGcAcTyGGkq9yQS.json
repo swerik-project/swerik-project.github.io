@@ -1,0 +1,67 @@
+{
+  "name": "johan alrik johansson",
+  "swerik-id": "i-4JjM8ijAGcAcTyGGkq9yQS",
+  "DOB": "1856-12-23",
+  "DOD": "1914-01-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Dragsmarks församling",
+    "link": "http://www.wikidata.org/entity/Q10476439"
+  },
+  "place-of-death": {
+    "place": "Styrsö församling",
+    "link": "http://www.wikidata.org/entity/Q10682819"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Bastholmen"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Lane och Stångenäs härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Johansson%20SPA%2011%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6139653",
+      "link": "https://www.wikidata.org/wiki/Q6139653"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSlw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSlw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1890",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

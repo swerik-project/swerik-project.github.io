@@ -1,0 +1,51 @@
+{
+  "name": "tore billman",
+  "swerik-id": "i-3VwqEFFacV4zXmNXTSMhSz",
+  "DOB": "1903-06-26",
+  "DOD": "1994-03-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10543859"
+  },
+  "place-of-death": {
+    "place": "Toulon",
+    "link": "http://www.wikidata.org/entity/Q44160"
+  },
+  "alt-names": [
+    "billman",
+    "tore gösta billman"
+  ],
+  "iorter": [
+    "Karlskoga"
+  ],
+  "positions": [
+    {
+      "start": "1962-01-01 00:00:00",
+      "end": "1965-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tore%20Billman%201903%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5576164",
+      "link": "https://www.wikidata.org/wiki/Q5576164"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSDw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSDw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

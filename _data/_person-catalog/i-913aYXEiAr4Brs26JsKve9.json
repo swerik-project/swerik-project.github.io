@@ -1,0 +1,68 @@
+{
+  "name": "carl kallstenius",
+  "swerik-id": "i-913aYXEiAr4Brs26JsKve9",
+  "DOB": "1823-09-07",
+  "DOD": "1898-07-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10430776"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl albert viktor kallstenius",
+    "kallstenius"
+  ],
+  "iorter": [
+    "Marietorp"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Selebo, Åkers och Daga häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Kallstenius%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5898215",
+      "link": "https://www.wikidata.org/wiki/Q5898215"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "0piq-fX0h5AAAAAAAAAoUw",
+      "link": "https://portrattarkiv.se/details/0piq-fX0h5AAAAAAAAAoUw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1871",
+      "end": "1872"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1867",
+      "end": "1870"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

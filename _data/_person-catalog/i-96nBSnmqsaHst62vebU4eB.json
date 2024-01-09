@@ -1,0 +1,51 @@
+{
+  "name": "gustaf tornerhjelm",
+  "swerik-id": "i-96nBSnmqsaHst62vebU4eB",
+  "DOB": "1854-07-07",
+  "DOD": "1934-05-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Vrams församling",
+    "link": "http://www.wikidata.org/entity/Q10602615"
+  },
+  "place-of-death": {
+    "place": "Norra Vrams församling",
+    "link": "http://www.wikidata.org/entity/Q10602615"
+  },
+  "alt-names": [
+    "gustaf david rudolf tornerhjelm",
+    "tornerhjelm"
+  ],
+  "iorter": [
+    "Vrams Gunnarstorp"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Torn%C3%A9rhjelm%2C%20Gustaf%20%28ur%20Henning%201950%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6213719",
+      "link": "https://www.wikidata.org/wiki/Q6213719"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSNw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSNw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

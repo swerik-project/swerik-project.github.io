@@ -1,0 +1,50 @@
+{
+  "name": "uno norman",
+  "swerik-id": "i-7JtvJZTLGCNmexuwkZ8o93",
+  "DOB": "1857-12-29",
+  "DOD": "1926-10-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lidens församling",
+    "link": "http://www.wikidata.org/entity/Q10561337"
+  },
+  "place-of-death": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "alt-names": [
+    "norman"
+  ],
+  "iorter": [
+    "Ytterstfors"
+  ],
+  "positions": [
+    {
+      "start": "1916-01-01 00:00:00",
+      "end": "1917-11-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Uno%20Norman%201857%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111380003",
+      "link": "https://www.wikidata.org/wiki/Q111380003"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfieg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfieg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

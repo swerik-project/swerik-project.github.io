@@ -1,0 +1,73 @@
+{
+  "name": "johan jönsson",
+  "swerik-id": "i-FxdNXf7jNvFd3tSPCRfsJN",
+  "DOB": "1825-09-27",
+  "DOD": "1898-08-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Örkelljunga",
+    "link": "http://www.wikidata.org/entity/Q297922"
+  },
+  "place-of-death": {
+    "place": "Fleninge",
+    "link": "http://www.wikidata.org/entity/Q3435883"
+  },
+  "alt-names": [
+    "jönsson"
+  ],
+  "iorter": [
+    "Axtorp"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Åsbo domsagas valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Åsbo härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20J%C3%B6nsson%201825%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5895931",
+      "link": "https://www.wikidata.org/wiki/Q5895931"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Di4a42b6X_AAAAAAAAB6cA",
+      "link": "https://portrattarkiv.se/details/Di4a42b6X_AAAAAAAAB6cA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpbQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpbQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nyliberala partiet",
+        "party-id": "Q10604782"
+      },
+      "start": "1870",
+      "end": "1871"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

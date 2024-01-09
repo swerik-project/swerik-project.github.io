@@ -1,0 +1,89 @@
+{
+  "name": "claes adolf adelsköld",
+  "swerik-id": "i-PZo61ze3oe2bePYTHaDHM9",
+  "DOB": "1824-09-07",
+  "DOD": "1907-10-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alingsås landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q22988682"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "adelsköld"
+  ],
+  "iorter": [
+    "Nolhaga",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Claes%20Adolf%20Adelsk%C3%B6ld%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20XX.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q384847",
+      "link": "https://www.wikidata.org/wiki/Q384847"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5528",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5528"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABhTA",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABhTA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:48603",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:48603"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfcAw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfcAw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACa-hg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACa-hg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,94 @@
+{
+  "name": "edip noyan",
+  "swerik-id": "i-TGaWdBpKLkPEmyhtvWJh2q",
+  "DOB": "1956-01-01",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Turkiet",
+    "link": "http://www.wikidata.org/entity/Q43"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2013-01-01 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-08-16 00:00:00",
+      "end": "2012-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2012-04-19 00:00:00",
+      "end": "2012-08-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-03-19 00:00:00",
+      "end": "2012-04-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2011-10-10 00:00:00",
+      "end": "2012-03-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16633319",
+      "link": "https://www.wikidata.org/wiki/Q16633319"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0178667655211",
+      "link": "https://data.riksdagen.se/personlista/?iid=0178667655211&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0162aade-e0a5-4487-929c-364ea035fa90",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0162aade-e0a5-4487-929c-364ea035fa90"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2013-01-01",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

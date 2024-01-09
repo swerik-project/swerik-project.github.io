@@ -1,0 +1,163 @@
+{
+  "name": "ylva johansson",
+  "swerik-id": "i-SZKUTdtCrCo58yNCQsH76",
+  "DOB": "1964-02-13",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Huddinge kommun",
+    "link": "http://www.wikidata.org/entity/Q492575"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "johansson",
+    "ylva julia margareta johansson"
+  ],
+  "iorter": [
+    "Tumba"
+  ],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2016-05-25 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "arbetsmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "arbetsmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-10-07 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "2004-10-01 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "sjukvårdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1998-10-06 00:00:00",
+      "role": "skolminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1998-10-06 00:00:00",
+      "role": "skolminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hearings%20Ylva%20Johansson%20%28Sweden%29%20Home%20affairs%20%2848826433018%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3369258",
+      "link": "https://www.wikidata.org/wiki/Q3369258"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "011731125914",
+      "link": "https://data.riksdagen.se/personlista/?iid=011731125914&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "bcc80010-fadb-4500-a949-c71521a8d36e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_bcc80010-fadb-4500-a949-c71521a8d36e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2018-09-24"
+    },
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,96 @@
+{
+  "name": "ulrika heindorff",
+  "swerik-id": "i-8xM6U2UEMYF2ek1xU2cetn",
+  "DOB": "1983-10-09",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vetlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10714734"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ulrika linnea heindorff"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2022-05-30 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2021-05-03 00:00:00",
+      "end": "2022-03-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2020-11-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2015-09-28 00:00:00",
+      "end": "2015-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q30000205",
+      "link": "https://www.wikidata.org/wiki/Q30000205"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0764949934324",
+      "link": "https://data.riksdagen.se/personlista/?iid=0764949934324&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7c4e35b2-f653-4746-bb03-351abbd566eb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7c4e35b2-f653-4746-bb03-351abbd566eb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2022-05-30",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

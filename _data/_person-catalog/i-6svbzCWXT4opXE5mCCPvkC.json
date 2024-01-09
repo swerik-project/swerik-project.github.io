@@ -1,0 +1,81 @@
+{
+  "name": "gustaf edström",
+  "swerik-id": "i-6svbzCWXT4opXE5mCCPvkC",
+  "DOB": "1836-04-14",
+  "DOD": "1908-02-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nätra församling",
+    "link": "http://www.wikidata.org/entity/Q10605407"
+  },
+  "place-of-death": {
+    "place": "Nordmalings församling",
+    "link": "http://www.wikidata.org/entity/Q10602185"
+  },
+  "alt-names": [
+    "edström",
+    "gustaf robert edström"
+  ],
+  "iorter": [
+    "Nordmaling"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1903-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Rev.%20Gustaf%20Robert%20Edstr%C3%B6m%20%281836-1908%29%20circa%201901%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5627420",
+      "link": "https://www.wikidata.org/wiki/Q5627420"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAAB-Dw",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAAB-Dw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABtHQ",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABtHQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABtHg",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABtHg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABtHw",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABtHw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABWZlA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABWZlA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb0w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb0w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABlcog",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABlcog"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

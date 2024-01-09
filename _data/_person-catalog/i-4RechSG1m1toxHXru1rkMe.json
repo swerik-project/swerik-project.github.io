@@ -1,0 +1,73 @@
+{
+  "name": "paul ciszuk",
+  "swerik-id": "i-4RechSG1m1toxHXru1rkMe",
+  "DOB": "1939-02-09",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Polen",
+    "link": "http://www.wikidata.org/entity/Q36"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ciszuk",
+    "pavel aleksy ciszuk",
+    "pavel ciszuk"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1990-05-19 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1990-04-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5609071",
+      "link": "https://www.wikidata.org/wiki/Q5609071"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0447050635303",
+      "link": "https://data.riksdagen.se/personlista/?iid=0447050635303&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "26008364-3733-4577-85e2-a5e4ab3d8be6",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_26008364-3733-4577-85e2-a5e4ab3d8be6"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1990-05-19",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "emma wallrup",
+  "swerik-id": "i-LfejaxmUP1kR5ztLJaJTkY",
+  "DOB": "1971-07-23",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sundbybergs församling",
+    "link": "http://www.wikidata.org/entity/Q19978722"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "emma maria wallrup"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-06-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2014-07-01 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2012-01-18 00:00:00",
+      "end": "2012-04-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18335045",
+      "link": "https://www.wikidata.org/wiki/Q18335045"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0115834246514",
+      "link": "https://data.riksdagen.se/personlista/?iid=0115834246514&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ebadd163-606f-49a8-b248-2b8c5f28dd15",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ebadd163-606f-49a8-b248-2b8c5f28dd15"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2014-09-29",
+      "end": "2018-06-07"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

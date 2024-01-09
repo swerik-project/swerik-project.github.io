@@ -1,0 +1,80 @@
+{
+  "name": "lorentz tovatt",
+  "swerik-id": "i-2D6mwMLvYjVnxu8WpPCAeL",
+  "DOB": "1989-11-12",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lorentz andreas tovatt"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-02-01 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-01-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2017-07-15 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lorentz%20Tovatt.jpeg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16633513",
+      "link": "https://www.wikidata.org/wiki/Q16633513"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0495661214429",
+      "link": "https://data.riksdagen.se/personlista/?iid=0495661214429&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "087644a0-838d-4768-9133-62745aeee287",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_087644a0-838d-4768-9133-62745aeee287"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2021-02-01",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

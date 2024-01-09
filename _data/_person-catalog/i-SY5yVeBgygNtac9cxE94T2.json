@@ -1,0 +1,67 @@
+{
+  "name": "jonas millard",
+  "swerik-id": "i-SY5yVeBgygNtac9cxE94T2",
+  "DOB": "1981-09-11",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-01-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18244376",
+      "link": "https://www.wikidata.org/wiki/Q18244376"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0387358739126",
+      "link": "https://data.riksdagen.se/personlista/?iid=0387358739126&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9f5ae9ae-d5de-4253-8e8b-bb455a9f792e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9f5ae9ae-d5de-4253-8e8b-bb455a9f792e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2019-01-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

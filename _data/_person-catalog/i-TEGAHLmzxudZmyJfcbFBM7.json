@@ -1,0 +1,50 @@
+{
+  "name": "jonas samuelsson",
+  "swerik-id": "i-TEGAHLmzxudZmyJfcbFBM7",
+  "DOB": "1816-09-30",
+  "DOD": "1897-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Dädesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10478554"
+  },
+  "place-of-death": {
+    "place": "Dädesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10478554"
+  },
+  "alt-names": [
+    "samuelsson"
+  ],
+  "iorter": [
+    "Eke"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppvidinge härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Samuelsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6090945",
+      "link": "https://www.wikidata.org/wiki/Q6090945"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQFg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "täpp jonas eriksson",
+  "swerik-id": "i-FP7vFgYczp8p2cR6u496W6",
+  "DOB": "1861-12-21",
+  "DOD": "1935-11-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malungs församling",
+    "link": "http://www.wikidata.org/entity/Q10576232"
+  },
+  "place-of-death": {
+    "place": "Malungs församling",
+    "link": "http://www.wikidata.org/entity/Q10576232"
+  },
+  "alt-names": [
+    "eriksson"
+  ],
+  "iorter": [
+    "Yttermalung"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-23 00:00:00",
+      "end": "1914-03-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%A4pp-Jonas%20Eriksson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5717466",
+      "link": "https://www.wikidata.org/wiki/Q5717466"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUlw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUlw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

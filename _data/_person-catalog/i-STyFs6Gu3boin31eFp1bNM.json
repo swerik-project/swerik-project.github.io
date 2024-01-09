@@ -1,0 +1,89 @@
+{
+  "name": "thomas bodström",
+  "swerik-id": "i-STyFs6Gu3boin31eFp1bNM",
+  "DOB": "1962-04-09",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uppsala",
+    "link": "http://www.wikidata.org/entity/Q25286"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "thomas lennart bodström"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2006-10-07 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2000-10-11 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Almedalen%202014%20%2817550252642%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3141607",
+      "link": "https://www.wikidata.org/wiki/Q3141607"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0581480697617",
+      "link": "https://data.riksdagen.se/personlista/?iid=0581480697617&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e0734364-22c1-11d5-8017-0040ca16072a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e0734364-22c1-11d5-8017-0040ca16072a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2010-10-04",
+      "end": "2010-10-19"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

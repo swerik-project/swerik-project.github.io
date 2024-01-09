@@ -1,0 +1,57 @@
+{
+  "name": "andres kung",
+  "swerik-id": "i-Ax7aSZgHS52YNs2WSu7MWr",
+  "DOB": "1945-09-13",
+  "DOD": "2002-12-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1983-11-18 00:00:00",
+      "end": "1983-12-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2846537",
+      "link": "https://www.wikidata.org/wiki/Q2846537"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1982-10-04",
+      "end": "1982-10-08"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

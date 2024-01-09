@@ -1,0 +1,66 @@
+{
+  "name": "lars tingsten",
+  "swerik-id": "i-4PfkDE1g8Bfv8WbXqpPSda",
+  "DOB": "1857-06-13",
+  "DOD": "1937-09-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ingatorps församling",
+    "link": "http://www.wikidata.org/entity/Q10535449"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "lars herman tingsten"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1905-08-02 00:00:00",
+      "end": "1907-12-04 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    },
+    {
+      "start": "1905-08-02 00:00:00",
+      "end": "1907-12-04 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lundeberg",
+      "district": null
+    },
+    {
+      "start": "1905-08-02 00:00:00",
+      "end": "1907-12-04 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Tingsten%2C%20H%C3%A5gkomster.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6211386",
+      "link": "https://www.wikidata.org/wiki/Q6211386"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAB2SzA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAB2SzA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

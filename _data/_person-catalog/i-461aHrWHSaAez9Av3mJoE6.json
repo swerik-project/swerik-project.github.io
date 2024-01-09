@@ -1,0 +1,63 @@
+{
+  "name": "paul petter waldenström",
+  "swerik-id": "i-461aHrWHSaAez9Av3mJoE6",
+  "DOB": "1838-07-20",
+  "DOD": "1917-07-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Luleå domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570636"
+  },
+  "place-of-death": {
+    "place": "Lidingö församling",
+    "link": "http://www.wikidata.org/entity/Q11057477"
+  },
+  "alt-names": [
+    "paul waldenström",
+    "pp waldenström",
+    "waldenström"
+  ],
+  "iorter": [
+    "Gävle",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävle valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Petter%20Waldenstr%C3%B6m.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6229600",
+      "link": "https://www.wikidata.org/wiki/Q6229600"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAUNw",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAUNw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:51877",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:51877"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOpA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOpA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

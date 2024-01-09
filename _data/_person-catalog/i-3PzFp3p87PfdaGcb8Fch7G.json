@@ -1,0 +1,58 @@
+{
+  "name": "gustaf malmberg",
+  "swerik-id": "i-3PzFp3p87PfdaGcb8Fch7G",
+  "DOB": "1869-07-20",
+  "DOD": "1943-09-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hakarps församling",
+    "link": "http://www.wikidata.org/entity/Q10516102"
+  },
+  "place-of-death": {
+    "place": "Högalids församling",
+    "link": "http://www.wikidata.org/entity/Q10532196"
+  },
+  "alt-names": [
+    "gustaf henrik malmberg",
+    "malmberg"
+  ],
+  "iorter": [
+    "Västervik"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1923-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5973668",
+      "link": "https://www.wikidata.org/wiki/Q5973668"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc4A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc4A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "oskar herdin",
+  "swerik-id": "i-5evFXvCqpMETvCKmicrweu",
+  "DOB": "1857-10-13",
+  "DOD": "1939-08-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "place-of-death": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "alt-names": [
+    "herdin",
+    "oskar bernhard herdin"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1905-10-02 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/O%20Herdin%20SPA4.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5802093",
+      "link": "https://www.wikidata.org/wiki/Q5802093"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUnw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

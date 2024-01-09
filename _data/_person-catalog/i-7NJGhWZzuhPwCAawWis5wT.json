@@ -1,0 +1,55 @@
+{
+  "name": "lennart bondeson",
+  "swerik-id": "i-7NJGhWZzuhPwCAawWis5wT",
+  "DOB": "1881-06-07",
+  "DOD": "1970-11-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svalövs församling",
+    "link": "http://www.wikidata.org/entity/Q10684319"
+  },
+  "place-of-death": {
+    "place": "Svalövs församling",
+    "link": "http://www.wikidata.org/entity/Q10684319"
+  },
+  "alt-names": [
+    "bondeson"
+  ],
+  "iorter": [
+    "Svalöv"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1947-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lennart%20Bondeson%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5581607",
+      "link": "https://www.wikidata.org/wiki/Q5581607"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO5A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO5A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:63920",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63920"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "britta sundin",
+  "swerik-id": "i-7SJK192EL4VbjkLD12Xg8y",
+  "DOB": "1934",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sundin"
+  ],
+  "iorter": [
+    "Selånger"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4981243",
+      "link": "https://www.wikidata.org/wiki/Q4981243"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0401289742306",
+      "link": "https://data.riksdagen.se/personlista/?iid=0401289742306&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f29da426-dcf0-49bf-9798-9b8f304e85fc",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f29da426-dcf0-49bf-9798-9b8f304e85fc"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

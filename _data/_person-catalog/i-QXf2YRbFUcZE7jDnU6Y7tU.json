@@ -1,0 +1,132 @@
+{
+  "name": "ove karlsson",
+  "swerik-id": "i-QXf2YRbFUcZE7jDnU6Y7tU",
+  "DOB": "1933-12-02",
+  "DOD": "2008-08-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malungs församling",
+    "link": "http://www.wikidata.org/entity/Q10576232"
+  },
+  "place-of-death": {
+    "place": "Malungs församling",
+    "link": "http://www.wikidata.org/entity/Q10576232"
+  },
+  "alt-names": [
+    "karlsson",
+    "knut ove karlsson"
+  ],
+  "iorter": [
+    "Malung",
+    "Malungsfors"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1968-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5901935",
+      "link": "https://www.wikidata.org/wiki/Q5901935"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0119158487501",
+      "link": "https://data.riksdagen.se/personlista/?iid=0119158487501&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f0e03e90-984a-4116-b721-c6c3787c44b8",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f0e03e90-984a-4116-b721-c6c3787c44b8"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUpg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUpg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

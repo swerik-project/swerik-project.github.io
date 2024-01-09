@@ -1,0 +1,191 @@
+{
+  "name": "kjell olof feldt",
+  "swerik-id": "i-QSBS4dqtsRDzm8fcNNRFaC",
+  "DOB": "1931-08-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Holmsund",
+    "link": "http://www.wikidata.org/entity/Q388953"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "feldt",
+    "kjell olof fält"
+  ],
+  "iorter": [
+    "Nacka"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1986-10-10 00:00:00",
+      "end": "1990-02-16 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1983-01-01 00:00:00",
+      "end": "1990-02-16 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1983-01-01 00:00:00",
+      "end": "1990-02-16 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme II",
+      "district": null
+    },
+    {
+      "start": "1982-10-08 00:00:00",
+      "end": "1982-12-31 00:00:00",
+      "role": "budgetminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme II",
+      "district": null
+    },
+    {
+      "start": "1982-10-08 00:00:00",
+      "end": "1982-12-31 00:00:00",
+      "role": "ekonomiminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme II",
+      "district": null
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1982-10-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1975-11-01 00:00:00",
+      "end": "1976-10-08 00:00:00",
+      "role": "löneminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1970-10-09 00:00:00",
+      "end": "1975-10-27 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1970-10-03 00:00:00",
+      "end": "1976-10-08 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Kjell-Olof%20Feldt%20in%202016.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q927466",
+      "link": "https://www.wikidata.org/wiki/Q927466"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0805977157102",
+      "link": "https://data.riksdagen.se/personlista/?iid=0805977157102&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3ea4d579-9abc-4d0a-a71c-576cd49d5248",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3ea4d579-9abc-4d0a-a71c-576cd49d5248"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

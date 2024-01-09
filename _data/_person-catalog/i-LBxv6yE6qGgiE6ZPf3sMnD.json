@@ -1,0 +1,71 @@
+{
+  "name": "göran engström",
+  "swerik-id": "i-LBxv6yE6qGgiE6ZPf3sMnD",
+  "DOB": "1945-10-11",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderbärke församling",
+    "link": "http://www.wikidata.org/entity/Q10688505"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "engström"
+  ],
+  "iorter": [
+    "Söderbärke"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1982-03-12 00:00:00",
+      "end": "1982-04-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21694244",
+      "link": "https://www.wikidata.org/wiki/Q21694244"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0366083752400",
+      "link": "https://data.riksdagen.se/personlista/?iid=0366083752400&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "db1e73e4-1638-4c50-9dbf-73b32a7772f1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_db1e73e4-1638-4c50-9dbf-73b32a7772f1"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

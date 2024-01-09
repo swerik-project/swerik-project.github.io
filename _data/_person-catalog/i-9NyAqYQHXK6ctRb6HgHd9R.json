@@ -1,0 +1,112 @@
+{
+  "name": "albert ehrensvärd den äldre",
+  "swerik-id": "i-9NyAqYQHXK6ctRb6HgHd9R",
+  "DOB": "1821-01-10",
+  "DOD": "1901-01-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björkö församling",
+    "link": "http://www.wikidata.org/entity/Q10430649"
+  },
+  "place-of-death": {
+    "place": "Tosterups församling",
+    "link": "http://www.wikidata.org/entity/Q10700577"
+  },
+  "alt-names": [
+    "albert carl august lars ehrensvärd",
+    "albert ehrensvärd",
+    "albert ehrensvärd dä",
+    "ehrensvärd"
+  ],
+  "iorter": [
+    "Tosterup"
+  ],
+  "positions": [
+    {
+      "start": "1885-09-25 00:00:00",
+      "end": "1889-06-12 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gillis Bildt",
+      "district": null
+    },
+    {
+      "start": "1885-09-25 00:00:00",
+      "end": "1889-06-12 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Themptander",
+      "district": null
+    },
+    {
+      "start": "1877-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nystr%C3%B6m%20-%20Albert%20Ehrensv%C3%A4rd.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5628451",
+      "link": "https://www.wikidata.org/wiki/Q5628451"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16729",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16729"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAAAHJg",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAAAHJg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45754",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45754"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSOw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSOw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Skånska partiet",
+        "party-id": "Q10671173"
+      },
+      "start": "1877",
+      "end": "1885"
+    },
+    {
+      "party": {
+        "name": "Första kammarens ministeriella grupp",
+        "party-id": "Q10501499"
+      },
+      "start": "1867",
+      "end": "1872"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

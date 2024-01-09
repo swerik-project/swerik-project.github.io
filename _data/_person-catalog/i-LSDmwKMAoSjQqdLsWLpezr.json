@@ -1,0 +1,59 @@
+{
+  "name": "nils nilsson",
+  "swerik-id": "i-LSDmwKMAoSjQqdLsWLpezr",
+  "DOB": "1873-09-10",
+  "DOD": "1948-08-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskoga",
+    "link": "http://www.wikidata.org/entity/Q54732"
+  },
+  "place-of-death": {
+    "place": "Södermalms sjukhus",
+    "link": "http://www.wikidata.org/entity/Q123149942"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Nilsson%20SPA%201873%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011367",
+      "link": "https://www.wikidata.org/wiki/Q6011367"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcOQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcOQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1931",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

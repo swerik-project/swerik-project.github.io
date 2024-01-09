@@ -1,0 +1,93 @@
+{
+  "name": "ernst lindblad",
+  "swerik-id": "i-9sCRQAt7PK4FUgLX6kWCiK",
+  "DOB": "1857-08-28",
+  "DOD": "1936-07-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Askersunds stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q57237333"
+  },
+  "place-of-death": {
+    "place": "Vårdinge församling",
+    "link": "http://www.wikidata.org/entity/Q11055413"
+  },
+  "alt-names": [
+    "ernst august lindblad",
+    "lindblad"
+  ],
+  "iorter": [
+    "Närlunda"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Rönö, Hölebo och Daga häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Lindblad%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5954175",
+      "link": "https://www.wikidata.org/wiki/Q5954175"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP9w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP9w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1919"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1909",
+      "end": "1909"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1908"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

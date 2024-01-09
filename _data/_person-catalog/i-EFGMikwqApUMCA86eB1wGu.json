@@ -1,0 +1,105 @@
+{
+  "name": "edvard casparsson",
+  "swerik-id": "i-EFGMikwqApUMCA86eB1wGu",
+  "DOB": "1827-07-21",
+  "DOD": "1899-02-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Vänge församling",
+    "link": "http://www.wikidata.org/entity/Q10717379"
+  },
+  "alt-names": [
+    "carl edvard casparsson",
+    "casparsson"
+  ],
+  "iorter": [
+    "Brunna"
+  ],
+  "positions": [
+    {
+      "start": "1896-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1899-02-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns mellersta domsagas valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Casparsson%201904.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5604447",
+      "link": "https://www.wikidata.org/wiki/Q5604447"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16478",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16478"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOHw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOHw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:62371",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:62371"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1873",
+      "end": "1881"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

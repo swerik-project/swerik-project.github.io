@@ -1,0 +1,62 @@
+{
+  "name": "carl thoren",
+  "swerik-id": "i-PZ6ZomHgowfA3MBCPfm9Wn",
+  "DOB": "1874-02-10",
+  "DOD": "1964-11-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torhamns församling",
+    "link": "http://www.wikidata.org/entity/Q10700102"
+  },
+  "place-of-death": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "alt-names": [
+    "carl august thoren",
+    "karl august thoren",
+    "thoren"
+  ],
+  "iorter": [
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1927-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20August%20Thor%C3%A9n%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6209126",
+      "link": "https://www.wikidata.org/wiki/Q6209126"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABHASw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABHASw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABMyBA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABMyBA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQMQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQMQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

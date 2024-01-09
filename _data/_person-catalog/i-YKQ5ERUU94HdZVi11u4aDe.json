@@ -1,0 +1,55 @@
+{
+  "name": "jöns bengtsson",
+  "swerik-id": "i-YKQ5ERUU94HdZVi11u4aDe",
+  "DOB": "1820-01-21",
+  "DOD": "1897-02-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Välinge församling",
+    "link": "http://www.wikidata.org/entity/Q10717255"
+  },
+  "place-of-death": {
+    "place": "Västra Broby församling",
+    "link": "http://www.wikidata.org/entity/Q10718211"
+  },
+  "alt-names": [
+    "bengtsson"
+  ],
+  "iorter": [
+    "Lilla Hyllinge"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6ns%20Bengtsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5596510",
+      "link": "https://www.wikidata.org/wiki/Q5596510"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAACqpg",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAACqpg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO0Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO0Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

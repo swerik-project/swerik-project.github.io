@@ -1,0 +1,51 @@
+{
+  "name": "sigfrid nordkvist",
+  "swerik-id": "i-UjegcaJBjmjg2aszVMRfAm",
+  "DOB": "1889-11-25",
+  "DOD": "1962-12-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kverrestads församling",
+    "link": "http://www.wikidata.org/entity/Q10551058"
+  },
+  "place-of-death": {
+    "place": "Kalmar",
+    "link": "http://www.wikidata.org/entity/Q26345"
+  },
+  "alt-names": [
+    "nils sigfrid nordkvist",
+    "nordkvist"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigfrid%20Nordkvist%201889%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6015492",
+      "link": "https://www.wikidata.org/wiki/Q6015492"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc4Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc4Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

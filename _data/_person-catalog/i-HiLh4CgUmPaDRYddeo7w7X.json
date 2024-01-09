@@ -1,0 +1,65 @@
+{
+  "name": "gustaf lagercrantz",
+  "swerik-id": "i-HiLh4CgUmPaDRYddeo7w7X",
+  "DOB": "1816-07-10",
+  "DOD": "1867-10-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skå församling",
+    "link": "http://www.wikidata.org/entity/Q10671051"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "carl gustaf lagercrantz",
+    "lagercrantz"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1867-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1866-09-04 00:00:00",
+      "end": "1867-05-31 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Lagercrantz%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5930999",
+      "link": "https://www.wikidata.org/wiki/Q5930999"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAD24w",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAD24w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRWQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRWQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

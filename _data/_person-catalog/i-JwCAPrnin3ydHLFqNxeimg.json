@@ -1,0 +1,96 @@
+{
+  "name": "mats sander",
+  "swerik-id": "i-JwCAPrnin3ydHLFqNxeimg",
+  "DOB": "1963-02-26",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mats esse sander"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-03-14 00:00:00",
+      "end": "2022-05-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2020-11-02 00:00:00",
+      "end": "2021-05-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2011-04-04 00:00:00",
+      "end": "2011-06-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6092482",
+      "link": "https://www.wikidata.org/wiki/Q6092482"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0150200797210",
+      "link": "https://data.riksdagen.se/personlista/?iid=0150200797210&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "783cb616-bbb0-49ff-9f2a-1200fd90f133",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_783cb616-bbb0-49ff-9f2a-1200fd90f133"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2022-03-14",
+      "end": "2022-05-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

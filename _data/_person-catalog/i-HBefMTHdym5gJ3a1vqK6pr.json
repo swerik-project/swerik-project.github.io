@@ -1,0 +1,137 @@
+{
+  "name": "doris håvik",
+  "swerik-id": "i-HBefMTHdym5gJ3a1vqK6pr",
+  "DOB": "1924-10-20",
+  "DOD": "2009-09-21",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Göteborgs Carl Johans församling",
+    "link": "http://www.wikidata.org/entity/Q10512805"
+  },
+  "place-of-death": {
+    "place": "Örgryte församling",
+    "link": "http://www.wikidata.org/entity/Q10727562"
+  },
+  "alt-names": [
+    "håvik",
+    "inga doris helena håvik"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Doris%20H%C3%A5vik%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4955378",
+      "link": "https://www.wikidata.org/wiki/Q4955378"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "017025148404",
+      "link": "https://data.riksdagen.se/personlista/?iid=017025148404&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "749228a7-0088-44d6-9535-f463c7cb0b66",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_749228a7-0088-44d6-9535-f463c7cb0b66"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

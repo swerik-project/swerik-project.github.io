@@ -1,0 +1,85 @@
+{
+  "name": "britta rådström",
+  "swerik-id": "i-DKVEwjAedaaDyvZjYRUhUM",
+  "DOB": "1954-06-18",
+  "DOD": "2015-07-28",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2004-09-14 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2003-09-16 00:00:00",
+      "end": "2004-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2002-11-14 00:00:00",
+      "end": "2003-07-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4971571",
+      "link": "https://www.wikidata.org/wiki/Q4971571"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0741187745315",
+      "link": "https://data.riksdagen.se/personlista/?iid=0741187745315&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9e95a958-f728-11d6-ae6b-000103091f99",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9e95a958-f728-11d6-ae6b-000103091f99"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2006-10-02",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

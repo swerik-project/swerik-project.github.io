@@ -1,0 +1,97 @@
+{
+  "name": "gustaf berg",
+  "swerik-id": "i-YSW8Kg6NVNWR81nXxwY7Pw",
+  "DOB": "1844-02-25",
+  "DOD": "1908-04-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mönsterås församling",
+    "link": "http://www.wikidata.org/entity/Q10593574"
+  },
+  "place-of-death": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "alt-names": [
+    "berg",
+    "gustaf axel berg",
+    "gustaf johan georg axel berg"
+  ],
+  "iorter": [
+    "Eksjö"
+  ],
+  "positions": [
+    {
+      "start": "1905-08-02 00:00:00",
+      "end": "1905-11-07 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lundeberg",
+      "district": null
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1908-04-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Eksjö, Vimmerby och Västerviks valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Berg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5571210",
+      "link": "https://www.wikidata.org/wiki/Q5571210"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18542",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18542"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAACx3A",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAACx3A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbhg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbhg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1891",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

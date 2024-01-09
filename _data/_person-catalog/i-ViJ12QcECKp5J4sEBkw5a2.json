@@ -1,0 +1,69 @@
+{
+  "name": "sofie eriksson",
+  "swerik-id": "i-ViJ12QcECKp5J4sEBkw5a2",
+  "DOB": "1992-12-13",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sandvikens församling",
+    "link": "http://www.wikidata.org/entity/Q10661257"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "2022-01-10 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sofie%20Eriksson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110635584",
+      "link": "https://www.wikidata.org/wiki/Q110635584"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "023732429721",
+      "link": "https://data.riksdagen.se/personlista/?iid=023732429721&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "939a9917-d0d3-40cc-bef4-96d29d140fdf",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_939a9917-d0d3-40cc-bef4-96d29d140fdf"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-01-10",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

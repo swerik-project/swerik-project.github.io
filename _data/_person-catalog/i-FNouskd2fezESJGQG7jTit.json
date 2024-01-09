@@ -1,0 +1,67 @@
+{
+  "name": "lars fredrik odell",
+  "swerik-id": "i-FNouskd2fezESJGQG7jTit",
+  "DOB": "1830-08-08",
+  "DOD": "1922-07-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristinehamns församling",
+    "link": "http://www.wikidata.org/entity/Q10549260"
+  },
+  "place-of-death": {
+    "place": "Kils församling",
+    "link": "http://www.wikidata.org/entity/Q10545426"
+  },
+  "alt-names": [
+    "odell"
+  ],
+  "iorter": [
+    "Skankerud"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Edsbergs, Grimstens och Hardemo häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/L%20F%20Odell%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6158190",
+      "link": "https://www.wikidata.org/wiki/Q6158190"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsKA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsKA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1887",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

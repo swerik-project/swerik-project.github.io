@@ -1,0 +1,93 @@
+{
+  "name": "lars ingvar sörenson",
+  "swerik-id": "i-YbgaAY79FADF32ty9BkkW",
+  "DOB": "1920-10-11",
+  "DOD": "2016-05-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åmåls stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58496152"
+  },
+  "place-of-death": {
+    "place": "Bergsjöns distrikt",
+    "link": "http://www.wikidata.org/entity/Q21566615"
+  },
+  "alt-names": [
+    "sörenson"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6202605",
+      "link": "https://www.wikidata.org/wiki/Q6202605"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkZA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1982-10-04",
+      "end": "1985-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

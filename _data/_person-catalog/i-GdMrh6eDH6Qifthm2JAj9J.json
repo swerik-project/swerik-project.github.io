@@ -1,0 +1,51 @@
+{
+  "name": "gunnar sanne",
+  "swerik-id": "i-GdMrh6eDH6Qifthm2JAj9J",
+  "DOB": "1879-10-05",
+  "DOD": "1954-12-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uddevalla församling",
+    "link": "http://www.wikidata.org/entity/Q10708421"
+  },
+  "place-of-death": {
+    "place": "Östra Frosta landskommun",
+    "link": "http://www.wikidata.org/entity/Q10728270"
+  },
+  "alt-names": [
+    "gunnar teodor sanne",
+    "sanne"
+  ],
+  "iorter": [
+    "Morlanda"
+  ],
+  "positions": [
+    {
+      "start": "1935-01-01 00:00:00",
+      "end": "1937-04-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Sanne%20SPA6%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6093739",
+      "link": "https://www.wikidata.org/wiki/Q6093739"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkdg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkdg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

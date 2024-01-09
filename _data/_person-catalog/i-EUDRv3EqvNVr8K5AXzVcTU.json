@@ -1,0 +1,51 @@
+{
+  "name": "bengt elmgren",
+  "swerik-id": "i-EUDRv3EqvNVr8K5AXzVcTU",
+  "DOB": "1901-03-21",
+  "DOD": "1966-02-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "place-of-death": {
+    "place": "Norrköpings Hedvigs församling",
+    "link": "http://www.wikidata.org/entity/Q10602799"
+  },
+  "alt-names": [
+    "bengt folke elmgren",
+    "elmgren"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1966-05-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bengt%20Elmgren%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5710001",
+      "link": "https://www.wikidata.org/wiki/Q5710001"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABganQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABganQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

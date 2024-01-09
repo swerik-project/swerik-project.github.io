@@ -1,0 +1,89 @@
+{
+  "name": "ola möller",
+  "swerik-id": "i-SRx5MYgiUBkgGLPueXgws5",
+  "DOB": "1983-02-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Genarps församling",
+    "link": "http://www.wikidata.org/entity/Q10503759"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ola patrik bertil möller"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-11-14 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2023-10-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2019-11-04 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ola%20M%C3%B6ller%202021.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q19977055",
+      "link": "https://www.wikidata.org/wiki/Q19977055"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0271338654822",
+      "link": "https://data.riksdagen.se/personlista/?iid=0271338654822&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "002ed7e8-1202-46df-a87c-8585e5b92012",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_002ed7e8-1202-46df-a87c-8585e5b92012"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2023-10-13"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

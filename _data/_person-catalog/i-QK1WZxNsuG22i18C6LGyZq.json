@@ -1,0 +1,48 @@
+{
+  "name": "sigrid danielsson",
+  "swerik-id": "i-QK1WZxNsuG22i18C6LGyZq",
+  "DOB": "1936",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1983-01-10 00:00:00",
+      "end": "1983-02-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q106350110",
+      "link": "https://www.wikidata.org/wiki/Q106350110"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1983-01-10",
+      "end": "1983-02-11"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

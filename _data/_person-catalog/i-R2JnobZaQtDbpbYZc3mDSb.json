@@ -1,0 +1,51 @@
+{
+  "name": "arthur elmroth",
+  "swerik-id": "i-R2JnobZaQtDbpbYZc3mDSb",
+  "DOB": "1892-11-04",
+  "DOD": "1965-03-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fagerhults församling",
+    "link": "http://www.wikidata.org/entity/Q10493557"
+  },
+  "place-of-death": {
+    "place": "Tierps församling",
+    "link": "http://www.wikidata.org/entity/Q10697799"
+  },
+  "alt-names": [
+    "arthur erik elmroth",
+    "elmroth"
+  ],
+  "iorter": [
+    "Tierp"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Elmroth%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q112049450",
+      "link": "https://www.wikidata.org/wiki/Q112049450"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN-g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN-g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

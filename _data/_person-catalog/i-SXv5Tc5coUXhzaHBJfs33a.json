@@ -1,0 +1,77 @@
+{
+  "name": "birger petersson",
+  "swerik-id": "i-SXv5Tc5coUXhzaHBJfs33a",
+  "DOB": "1885-11-07",
+  "DOD": "1937-06-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Frölunda församling",
+    "link": "http://www.wikidata.org/entity/Q10728271"
+  },
+  "place-of-death": {
+    "place": "Ulricehamn",
+    "link": "http://www.wikidata.org/entity/Q27999"
+  },
+  "alt-names": [
+    "anders birger petersson",
+    "petersson"
+  ],
+  "iorter": [
+    "Lerbäcksbyn"
+  ],
+  "positions": [
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1937-06-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Birger%20Petersson%201885%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6045269",
+      "link": "https://www.wikidata.org/wiki/Q6045269"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZ5Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ5Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1937"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1925",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

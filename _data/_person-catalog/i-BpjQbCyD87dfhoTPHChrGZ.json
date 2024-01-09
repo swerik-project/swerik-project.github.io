@@ -1,0 +1,68 @@
+{
+  "name": "jan eliasson",
+  "swerik-id": "i-BpjQbCyD87dfhoTPHChrGZ",
+  "DOB": "1826-12-24",
+  "DOD": "1907-12-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skuttunge församling",
+    "link": "http://www.wikidata.org/entity/Q10670760"
+  },
+  "place-of-death": {
+    "place": "Skuttunge församling",
+    "link": "http://www.wikidata.org/entity/Q10670760"
+  },
+  "alt-names": [
+    "eliasson",
+    "johan eliasson"
+  ],
+  "iorter": [
+    "Skuttungeby"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns mellersta domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Eliasson%20Skuttungebyn%201887.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5708797",
+      "link": "https://www.wikidata.org/wiki/Q5708797"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN-Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN-Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

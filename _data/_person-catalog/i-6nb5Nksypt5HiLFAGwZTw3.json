@@ -1,0 +1,120 @@
+{
+  "name": "august henricson",
+  "swerik-id": "i-6nb5Nksypt5HiLFAGwZTw3",
+  "DOB": "1839-02-06",
+  "DOD": "1932-04-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Östra Eneby församling",
+    "link": "http://www.wikidata.org/entity/Q10602834"
+  },
+  "place-of-death": {
+    "place": "Skärkinds församling",
+    "link": "http://www.wikidata.org/entity/Q10671006"
+  },
+  "alt-names": [
+    "august teodor henricson",
+    "henricson"
+  ],
+  "iorter": [
+    "Karlslund"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns norra valkrets"
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hammarkinds och Skärkinds domsagas valkrets"
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hammarkinds och Skärkinds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Henricson%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5801048",
+      "link": "https://www.wikidata.org/wiki/Q5801048"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12875",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12875"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgalA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgalA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:68524",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:68524"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "Bondeska diskussionsklubben",
+        "party-id": "Q10432852"
+      },
+      "start": "1899",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1896",
+      "end": "1898"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1895"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

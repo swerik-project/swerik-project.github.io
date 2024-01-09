@@ -1,0 +1,55 @@
+{
+  "name": "gustaf silfverstolpe",
+  "swerik-id": "i-FaoUS6KQkC3yXJre1uVh4Z",
+  "DOB": "1815-07-05",
+  "DOD": "1895-02-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköping",
+    "link": "http://www.wikidata.org/entity/Q25724"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "silfverstolpe"
+  ],
+  "iorter": [
+    "Näs"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Mellersta Roslags domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Silfverstolpe%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6175938",
+      "link": "https://www.wikidata.org/wiki/Q6175938"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACiYg",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACiYg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgefQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgefQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

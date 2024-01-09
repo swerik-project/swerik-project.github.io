@@ -1,0 +1,56 @@
+{
+  "name": "lars magnus altin",
+  "swerik-id": "i-HaF5q92oQDHP1ddwWQQoVv",
+  "DOB": "1812-10-22",
+  "DOD": "1880-01-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Härnösands domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10531743"
+  },
+  "place-of-death": {
+    "place": "Västerås domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10718088"
+  },
+  "alt-names": [
+    "altin",
+    "l m altin"
+  ],
+  "iorter": [
+    "Västerås"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerås, Köpings och Enköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Altin%201812%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5548121",
+      "link": "https://www.wikidata.org/wiki/Q5548121"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA2WFQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA2WFQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:8972",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:8972"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

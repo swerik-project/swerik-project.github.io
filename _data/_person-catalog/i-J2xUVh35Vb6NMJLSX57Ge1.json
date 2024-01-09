@@ -1,0 +1,68 @@
+{
+  "name": "gustaf velander",
+  "swerik-id": "i-J2xUVh35Vb6NMJLSX57Ge1",
+  "DOB": "1884-06-01",
+  "DOD": "1970-03-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sättna församling",
+    "link": "http://www.wikidata.org/entity/Q10688207"
+  },
+  "place-of-death": {
+    "place": "Sundsvalls församling",
+    "link": "http://www.wikidata.org/entity/Q10683835"
+  },
+  "alt-names": [
+    "carl gustaf velander",
+    "velander"
+  ],
+  "iorter": [
+    "Sundsvall"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Velander%201884%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6223367",
+      "link": "https://www.wikidata.org/wiki/Q6223367"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfHg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfHg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1956"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

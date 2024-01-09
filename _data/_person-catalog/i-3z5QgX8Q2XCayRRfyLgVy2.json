@@ -1,0 +1,111 @@
+{
+  "name": "anders göransson",
+  "swerik-id": "i-3z5QgX8Q2XCayRRfyLgVy2",
+  "DOB": "1845-01-15",
+  "DOD": "1927-05-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ovansjö församling",
+    "link": "http://www.wikidata.org/entity/Q10613557"
+  },
+  "place-of-death": {
+    "place": "Ovansjö församling",
+    "link": "http://www.wikidata.org/entity/Q10613557"
+  },
+  "alt-names": [
+    "göransson"
+  ],
+  "iorter": [
+    "Åsen"
+  ],
+  "positions": [
+    {
+      "start": "1917-01-01 00:00:00",
+      "end": "1918-10-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1911-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gästriklands västra tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20G%C3%B6ransson%201845%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5780280",
+      "link": "https://www.wikidata.org/wiki/Q5780280"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "1ha4xkDj-uAAAAAAAAAOYg",
+      "link": "https://portrattarkiv.se/details/1ha4xkDj-uAAAAAAAAAOYg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "1ha4xkDj-uAAAAAAAAAOYw",
+      "link": "https://portrattarkiv.se/details/1ha4xkDj-uAAAAAAAAAOYw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOfQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOfQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1917",
+      "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1911",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1882",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

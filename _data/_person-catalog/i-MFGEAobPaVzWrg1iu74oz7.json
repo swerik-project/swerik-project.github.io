@@ -1,0 +1,67 @@
+{
+  "name": "conny sandholm",
+  "swerik-id": "i-MFGEAobPaVzWrg1iu74oz7",
+  "DOB": "1941-08-16",
+  "DOD": "1996-02-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "place-of-death": {
+    "place": "Nyköpings Sankt Nicolai församling",
+    "link": "http://www.wikidata.org/entity/Q10604751"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1996-02-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1992-03-09 00:00:00",
+      "end": "1992-04-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6092700",
+      "link": "https://www.wikidata.org/wiki/Q6092700"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0455181302203",
+      "link": "https://data.riksdagen.se/personlista/?iid=0455181302203&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "bb72753f-407b-4888-bc91-a9d06b1a4f84",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_bb72753f-407b-4888-bc91-a9d06b1a4f84"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-10-03",
+      "end": "1996-02-22"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

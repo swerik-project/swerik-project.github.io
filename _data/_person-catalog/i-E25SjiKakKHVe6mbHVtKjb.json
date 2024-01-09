@@ -1,0 +1,53 @@
+{
+  "name": "parisa liljestrand",
+  "swerik-id": "i-E25SjiKakKHVe6mbHVtKjb",
+  "DOB": "1983-03-15",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Iran",
+    "link": "http://www.wikidata.org/entity/Q794"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "parisa molagholi liljestrand"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "kulturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Parisa%20Liljestrand%20in%202022.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q40321803",
+      "link": "https://www.wikidata.org/wiki/Q40321803"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0647668663722",
+      "link": "https://data.riksdagen.se/personlista/?iid=0647668663722&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "22fbe534-72a4-4d2c-9b10-8f7aa65fa5db",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_22fbe534-72a4-4d2c-9b10-8f7aa65fa5db"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

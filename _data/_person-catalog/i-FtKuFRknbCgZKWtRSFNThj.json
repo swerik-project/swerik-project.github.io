@@ -1,0 +1,51 @@
+{
+  "name": "carl von essen",
+  "swerik-id": "i-FtKuFRknbCgZKWtRSFNThj",
+  "DOB": "1874-10-24",
+  "DOD": "1935-06-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstad",
+    "link": "http://www.wikidata.org/entity/Q26937"
+  },
+  "place-of-death": {
+    "place": "Brunflo församling",
+    "link": "http://www.wikidata.org/entity/Q10436351"
+  },
+  "alt-names": [
+    "carl johan von essen af zellie",
+    "von essen af zellie"
+  ],
+  "iorter": [
+    "Änge"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1919-06-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20von%20Essen%201874%20SPA3.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5719559",
+      "link": "https://www.wikidata.org/wiki/Q5719559"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfReg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfReg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

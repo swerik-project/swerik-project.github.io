@@ -1,0 +1,84 @@
+{
+  "name": "per olof lundell",
+  "swerik-id": "i-9zXKiuNmSKJDEsoG3gjATF",
+  "DOB": "1849-02-09",
+  "DOD": "1921-09-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kläckeberga församling",
+    "link": "http://www.wikidata.org/entity/Q10546504"
+  },
+  "place-of-death": {
+    "place": "Dörby församling",
+    "link": "http://www.wikidata.org/entity/Q10478702"
+  },
+  "alt-names": [
+    "lundell"
+  ],
+  "iorter": [
+    "Ebbetorp"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Möre och Stranda domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Olof%20Lundell%201849%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5966400",
+      "link": "https://www.wikidata.org/wiki/Q5966400"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdCQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

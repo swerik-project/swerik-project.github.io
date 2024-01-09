@@ -1,0 +1,58 @@
+{
+  "name": "harald hjalmarsson",
+  "swerik-id": "i-27oyAJvfzbLeTfsxMsKC4D",
+  "DOB": "1963",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2020-03-09 00:00:00",
+      "end": "2020-06-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96678365",
+      "link": "https://www.wikidata.org/wiki/Q96678365"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0316870450511",
+      "link": "https://data.riksdagen.se/personlista/?iid=0316870450511&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7f6a14a2-03fd-4750-9e3f-06bdc8118fe9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7f6a14a2-03fd-4750-9e3f-06bdc8118fe9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2020-03-09",
+      "end": "2020-06-21"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

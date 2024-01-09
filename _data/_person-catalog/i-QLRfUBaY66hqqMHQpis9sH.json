@@ -1,0 +1,48 @@
+{
+  "name": "karl gustaf wirten",
+  "swerik-id": "i-QLRfUBaY66hqqMHQpis9sH",
+  "DOB": "1892-02-19",
+  "DOD": "1981-10-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gränna stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10509739"
+  },
+  "place-of-death": {
+    "place": "Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10673010"
+  },
+  "alt-names": [
+    "wirten"
+  ],
+  "iorter": [
+    "Mellösa"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6244898",
+      "link": "https://www.wikidata.org/wiki/Q6244898"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPuQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPuQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

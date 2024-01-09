@@ -1,0 +1,90 @@
+{
+  "name": "johan johansson",
+  "swerik-id": "i-9gw6tCpchuRJcG4S3PU6wP",
+  "DOB": "1868-09-14",
+  "DOD": "1928-06-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Forsa församling",
+    "link": "http://www.wikidata.org/entity/Q10498070"
+  },
+  "place-of-death": {
+    "place": "Bollnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10432594"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Kälkebo"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1919-08-04 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1907-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Enångers och Forsa tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Johansson%201868%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5886585",
+      "link": "https://www.wikidata.org/wiki/Q5886585"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12151",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12151"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO9Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO9Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1919",
+      "end": "1928"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1907",
+      "end": "1908"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

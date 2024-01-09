@@ -1,0 +1,51 @@
+{
+  "name": "casper lexow",
+  "swerik-id": "i-NqsVYK7WE522ZKgDBho7e1",
+  "DOB": "1830-07-28",
+  "DOD": "1900-10-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alsters församling",
+    "link": "http://www.wikidata.org/entity/Q10406815"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "axel casper lexow",
+    "lexow"
+  ],
+  "iorter": [
+    "Alstrums bruk"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Casper%20Lexow%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5949534",
+      "link": "https://www.wikidata.org/wiki/Q5949534"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgb8g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgb8g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

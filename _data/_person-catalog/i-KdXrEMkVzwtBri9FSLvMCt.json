@@ -1,0 +1,95 @@
+{
+  "name": "jöns jesperson",
+  "swerik-id": "i-KdXrEMkVzwtBri9FSLvMCt",
+  "DOB": "1861-11-14",
+  "DOD": "1935-05-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tofta församling",
+    "link": "http://www.wikidata.org/entity/Q10699220"
+  },
+  "place-of-death": {
+    "place": "Roma församling",
+    "link": "http://www.wikidata.org/entity/Q10656499"
+  },
+  "alt-names": [
+    "j p jesperson",
+    "jesperson",
+    "jöns peter jesperson"
+  ],
+  "iorter": [
+    "Dorisborg"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns norra valkrets"
+    },
+    {
+      "start": "1904-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Onsjö härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6ns%20Jesperson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5883054",
+      "link": "https://www.wikidata.org/wiki/Q5883054"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRng"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1918",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1904",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

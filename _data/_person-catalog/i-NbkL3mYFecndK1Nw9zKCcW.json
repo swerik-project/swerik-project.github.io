@@ -1,0 +1,50 @@
+{
+  "name": "torsten caap",
+  "swerik-id": "i-NbkL3mYFecndK1Nw9zKCcW",
+  "DOB": "1896-02-22",
+  "DOD": "1961-06-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vara församling",
+    "link": "http://www.wikidata.org/entity/Q18334545"
+  },
+  "place-of-death": {
+    "place": "Linköpings S:t Lars församling",
+    "link": "http://www.wikidata.org/entity/Q10562781"
+  },
+  "alt-names": [
+    "caap"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1943-07-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Torsten%20Caap%20SPA5%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5600648",
+      "link": "https://www.wikidata.org/wiki/Q5600648"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRCA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRCA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

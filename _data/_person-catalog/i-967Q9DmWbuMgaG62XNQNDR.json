@@ -1,0 +1,132 @@
+{
+  "name": "roland brännström",
+  "swerik-id": "i-967Q9DmWbuMgaG62XNQNDR",
+  "DOB": "1930-02-08",
+  "DOD": "2019-01-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bureå församling",
+    "link": "http://www.wikidata.org/entity/Q10437821"
+  },
+  "place-of-death": {
+    "place": "Skellefteå",
+    "link": "http://www.wikidata.org/entity/Q54344"
+  },
+  "alt-names": [
+    "brännström",
+    "roland johannes brännström"
+  ],
+  "iorter": [
+    "Myckle",
+    "Skellefteå"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5589038",
+      "link": "https://www.wikidata.org/wiki/Q5589038"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0822327872306",
+      "link": "https://data.riksdagen.se/personlista/?iid=0822327872306&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fb667890-e8b9-4cec-86b1-ab8de51858f1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fb667890-e8b9-4cec-86b1-ab8de51858f1"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbzA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbzA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

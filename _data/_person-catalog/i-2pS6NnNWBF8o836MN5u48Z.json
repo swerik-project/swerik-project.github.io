@@ -1,0 +1,50 @@
+{
+  "name": "georg engström",
+  "swerik-id": "i-2pS6NnNWBF8o836MN5u48Z",
+  "DOB": "1865-08-28",
+  "DOD": "1931-08-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Styrsö församling",
+    "link": "http://www.wikidata.org/entity/Q10682819"
+  },
+  "place-of-death": {
+    "place": "Skee församling",
+    "link": "http://www.wikidata.org/entity/Q10669935"
+  },
+  "alt-names": [
+    "engström"
+  ],
+  "iorter": [
+    "Hogen"
+  ],
+  "positions": [
+    {
+      "start": "1911-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrvikens domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Engstr%C3%B6m%201927.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q88477845",
+      "link": "https://www.wikidata.org/wiki/Q88477845"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSEg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSEg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

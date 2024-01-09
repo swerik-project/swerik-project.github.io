@@ -1,0 +1,61 @@
+{
+  "name": "sven johan enander",
+  "swerik-id": "i-NEpRkdSsVMJsoZ2CsDVptk",
+  "DOB": "1847-12-29",
+  "DOD": "1928-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torsås församling",
+    "link": "http://www.wikidata.org/entity/Q10700457"
+  },
+  "place-of-death": {
+    "place": "Victoria",
+    "link": "http://www.wikidata.org/entity/Q2132"
+  },
+  "alt-names": [
+    "enander",
+    "salixkungen"
+  ],
+  "iorter": [
+    "Lillhärdal"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Härjedalens domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Johan%20Enander.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5711053",
+      "link": "https://www.wikidata.org/wiki/Q5711053"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16064",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16064"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAAA3iQ",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAAA3iQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRIA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRIA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

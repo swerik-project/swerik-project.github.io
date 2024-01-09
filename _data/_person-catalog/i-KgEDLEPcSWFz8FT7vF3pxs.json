@@ -1,0 +1,56 @@
+{
+  "name": "per hubinette",
+  "swerik-id": "i-KgEDLEPcSWFz8FT7vF3pxs",
+  "DOB": "1835-10-31",
+  "DOD": "1911-12-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vendels församling",
+    "link": "http://www.wikidata.org/entity/Q10713940"
+  },
+  "place-of-death": {
+    "place": "Vendels församling",
+    "link": "http://www.wikidata.org/entity/Q10713940"
+  },
+  "alt-names": [
+    "hubinette",
+    "per hybinette"
+  ],
+  "iorter": [
+    "Gryttby"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norunda och Örbyhus häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20H%C3%BCbinette%201835%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5818482",
+      "link": "https://www.wikidata.org/wiki/Q5818482"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAB8yw",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAB8yw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOCQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

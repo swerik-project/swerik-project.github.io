@@ -1,0 +1,65 @@
+{
+  "name": "anders andersson",
+  "swerik-id": "i-QNtjoW5Vxzee49kvmSyDsT",
+  "DOB": "1878-12-06",
+  "DOD": "1944-09-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skrea församling",
+    "link": "http://www.wikidata.org/entity/Q10670549"
+  },
+  "place-of-death": {
+    "place": "Falkenbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10493734"
+  },
+  "alt-names": [
+    "anders birger andersson",
+    "andersson"
+  ],
+  "iorter": [
+    "Falkenberg"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1920-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Andersson%201878%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5553942",
+      "link": "https://www.wikidata.org/wiki/Q5553942"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABKtUA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABKtUA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnuw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnuw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

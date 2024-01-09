@@ -1,0 +1,63 @@
+{
+  "name": "osvald toll",
+  "swerik-id": "i-Ny7BBxNq5BQZ7g1mbWQpy4",
+  "DOB": "1826-01-29",
+  "DOD": "1889-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skepparslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10670031"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "j l osvald toll",
+    "johan ludvig osvald toll",
+    "oswald toll",
+    "toll"
+  ],
+  "iorter": [
+    "Helsingborg"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Helsingborgs och Ängelholms valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Toll%20SPA3.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q24018260",
+      "link": "https://www.wikidata.org/wiki/Q24018260"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAeFg",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAeFg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:32003",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:32003"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSCw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSCw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "lars arne staxäng",
+  "swerik-id": "i-RNLiVMpCYiPgzxr2ERSxMt",
+  "DOB": "1956-06-07",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tossene församling",
+    "link": "http://www.wikidata.org/entity/Q10700567"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2019-09-09 00:00:00",
+      "end": "2020-03-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars-Arne%20Stax%C3%A4ng.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6187608",
+      "link": "https://www.wikidata.org/wiki/Q6187608"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0718937995813",
+      "link": "https://data.riksdagen.se/personlista/?iid=0718937995813&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d8b31172-7ce6-4737-b55c-24c6c9aec023",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d8b31172-7ce6-4737-b55c-24c6c9aec023"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2019-09-09",
+      "end": "2020-03-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

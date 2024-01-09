@@ -1,0 +1,73 @@
+{
+  "name": "johan lindh",
+  "swerik-id": "i-8cj54b7ZCyYib8TeKZQQkx",
+  "DOB": "1831-09-10",
+  "DOD": "1898-08-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Nedertorneå-Haparanda församling",
+    "link": "http://www.wikidata.org/entity/Q10595657"
+  },
+  "alt-names": [
+    "lindh"
+  ],
+  "iorter": [
+    "Västanvik"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Torneå domsagas valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1887-03-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Torneå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Lindh%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5956442",
+      "link": "https://www.wikidata.org/wiki/Q5956442"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAA9yg",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAA9yg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRPA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRPA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

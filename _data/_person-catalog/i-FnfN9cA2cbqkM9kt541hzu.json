@@ -1,0 +1,58 @@
+{
+  "name": "thoralf alfsson",
+  "swerik-id": "i-FnfN9cA2cbqkM9kt541hzu",
+  "DOB": "1957-10-13",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Södra Vi församling",
+    "link": "http://www.wikidata.org/entity/Q10689031"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5546459",
+      "link": "https://www.wikidata.org/wiki/Q5546459"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0132698667318",
+      "link": "https://data.riksdagen.se/personlista/?iid=0132698667318&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "43daf7a0-fee5-47b7-b572-6710cee3a0d0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_43daf7a0-fee5-47b7-b572-6710cee3a0d0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

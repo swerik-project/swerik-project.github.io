@@ -1,0 +1,75 @@
+{
+  "name": "sven lubeck",
+  "swerik-id": "i-JTwhXpmu1eVKQtUbjXVxkV",
+  "DOB": "1877-06-02",
+  "DOD": "1941-02-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "alt-names": [
+    "lubeck",
+    "sven edvard julius lybeck",
+    "sven edward julius lubeck"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1928-10-02 00:00:00",
+      "end": "1930-06-07 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman II",
+      "district": null
+    },
+    {
+      "start": "1923-04-19 00:00:00",
+      "end": "1924-10-18 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Trygger",
+      "district": null
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20L%C3%BCbeck%20SPA3.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5968560",
+      "link": "https://www.wikidata.org/wiki/Q5968560"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9944",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9944"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN6A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN6A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

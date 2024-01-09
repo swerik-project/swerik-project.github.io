@@ -1,0 +1,58 @@
+{
+  "name": "åke sundqvist",
+  "swerik-id": "i-UGPm4jyF89HbDsXRhKzQQr",
+  "DOB": "1931-04-15",
+  "DOD": "2009-08-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1995-12-19 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21745484",
+      "link": "https://www.wikidata.org/wiki/Q21745484"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0596987397601",
+      "link": "https://data.riksdagen.se/personlista/?iid=0596987397601&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ac03c24a-8342-4e95-8351-ae2ab5142dff",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ac03c24a-8342-4e95-8351-ae2ab5142dff"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1995-12-19",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,110 @@
+{
+  "name": "theodor adelswärd",
+  "swerik-id": "i-KSYmHt2CfUPZ7TEuPagciq",
+  "DOB": "1860-10-13",
+  "DOD": "1929-09-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hyltinge församling",
+    "link": "http://www.wikidata.org/entity/Q10529218"
+  },
+  "place-of-death": {
+    "place": "Åtvids församling",
+    "link": "http://www.wikidata.org/entity/Q10727009"
+  },
+  "alt-names": [
+    "adelswärd",
+    "axel theodor adelswärd"
+  ],
+  "iorter": [
+    "Åtvidaberg"
+  ],
+  "positions": [
+    {
+      "start": "1920-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns södra valkrets"
+    },
+    {
+      "start": "1911-10-07 00:00:00",
+      "end": "1914-02-17 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff II",
+      "district": null
+    },
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo, Bankekinds och Hanekinds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Adelsw%C3%A4rd%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5542641",
+      "link": "https://www.wikidata.org/wiki/Q5542641"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5537",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5537"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4uyQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4uyQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:48618",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:48618"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaMQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaMQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1924"
+    },
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1908",
+      "end": "1908"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

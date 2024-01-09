@@ -1,0 +1,51 @@
+{
+  "name": "gustaf bratt",
+  "swerik-id": "i-PBEJiCDqE8eh8P4Tgw8kNj",
+  "DOB": "1826-04-22",
+  "DOD": "1906-02-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Broddetorps församling",
+    "link": "http://www.wikidata.org/entity/Q10435952"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "bratt",
+    "gustaf napoleon eugene bratt"
+  ],
+  "iorter": [
+    "Dalkarlsberg"
+  ],
+  "positions": [
+    {
+      "start": "1887-06-17 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nora domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/GNEBratt.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5585253",
+      "link": "https://www.wikidata.org/wiki/Q5585253"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfr9A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfr9A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

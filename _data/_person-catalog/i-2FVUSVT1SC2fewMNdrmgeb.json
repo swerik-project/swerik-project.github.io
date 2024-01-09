@@ -1,0 +1,73 @@
+{
+  "name": "olle schmidt",
+  "swerik-id": "i-2FVUSVT1SC2fewMNdrmgeb",
+  "DOB": "1949-07-22",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skärvs församling",
+    "link": "http://www.wikidata.org/entity/Q10671041"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "schmidt"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1994-05-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-02-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olle%20Schmidt%20March%2019%202013.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3496488",
+      "link": "https://www.wikidata.org/wiki/Q3496488"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0751995030915",
+      "link": "https://data.riksdagen.se/personlista/?iid=0751995030915&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "613a4100-db1c-4c97-b073-132f75d1fefb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_613a4100-db1c-4c97-b073-132f75d1fefb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-05-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

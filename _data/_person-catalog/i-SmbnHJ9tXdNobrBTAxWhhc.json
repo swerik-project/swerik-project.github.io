@@ -1,0 +1,49 @@
+{
+  "name": "eivor wallin",
+  "swerik-id": "i-SmbnHJ9tXdNobrBTAxWhhc",
+  "DOB": "1904-10-16",
+  "DOD": "2003-04-01",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Västlands församling",
+    "link": "http://www.wikidata.org/entity/Q10718159"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eivor linnea wallin",
+    "wallin"
+  ],
+  "iorter": [
+    "Skutskär"
+  ],
+  "positions": [
+    {
+      "start": "1950-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4990153",
+      "link": "https://www.wikidata.org/wiki/Q4990153"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfODA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfODA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

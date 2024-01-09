@@ -1,0 +1,78 @@
+{
+  "name": "torgil von seth",
+  "swerik-id": "i-Bwox3EjKfvDRkzWdd46vzA",
+  "DOB": "1895-10-03",
+  "DOD": "1989-01-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköping",
+    "link": "http://www.wikidata.org/entity/Q25415"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "t g v seth",
+    "torgil gabriel alexander von seth",
+    "von seth"
+  ],
+  "iorter": [
+    "Bratteberg"
+  ],
+  "positions": [
+    {
+      "start": "1961-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "andre vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Torgil%20von%20Seth%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6173314",
+      "link": "https://www.wikidata.org/wiki/Q6173314"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbiQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbiQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1964"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1934",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

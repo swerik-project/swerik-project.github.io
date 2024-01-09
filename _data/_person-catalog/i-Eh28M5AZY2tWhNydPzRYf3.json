@@ -1,0 +1,52 @@
+{
+  "name": "johan boström",
+  "swerik-id": "i-Eh28M5AZY2tWhNydPzRYf3",
+  "DOB": "1841-01-08",
+  "DOD": "1911-04-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Luleå",
+    "link": "http://www.wikidata.org/entity/Q26268"
+  },
+  "place-of-death": {
+    "place": "Sundsvall",
+    "link": "http://www.wikidata.org/entity/Q26476"
+  },
+  "alt-names": [
+    "boström",
+    "jo boström",
+    "johan oskar boström"
+  ],
+  "iorter": [
+    "Sättna"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ljustorps, Sköns, Indals och Selångers domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Bostr%C3%B6m%201841%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5583240",
+      "link": "https://www.wikidata.org/wiki/Q5583240"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgffw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgffw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

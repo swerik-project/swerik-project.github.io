@@ -1,0 +1,80 @@
+{
+  "name": "curt wallis",
+  "swerik-id": "i-L8igD41spNvbEjshjG3znh",
+  "DOB": "1845-03-09",
+  "DOD": "1922-03-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tyska S:ta Gertruds församling",
+    "link": "http://www.wikidata.org/entity/Q10707814"
+  },
+  "place-of-death": {
+    "place": "Nacka församling",
+    "link": "http://www.wikidata.org/entity/Q18292494"
+  },
+  "alt-names": [
+    "wallis"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Curt%20Wallis%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6231327",
+      "link": "https://www.wikidata.org/wiki/Q6231327"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNbw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNbw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:9574",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:9574"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1907",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1906"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

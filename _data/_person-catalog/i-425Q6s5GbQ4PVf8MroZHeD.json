@@ -1,0 +1,67 @@
+{
+  "name": "sven yngve persson",
+  "swerik-id": "i-425Q6s5GbQ4PVf8MroZHeD",
+  "DOB": "1960",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-11-10 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2006-11-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043823",
+      "link": "https://www.wikidata.org/wiki/Q6043823"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0114769874810",
+      "link": "https://data.riksdagen.se/personlista/?iid=0114769874810&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c864bbd7-02c5-4d33-b3e8-a20c2e169c1e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c864bbd7-02c5-4d33-b3e8-a20c2e169c1e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2006-11-10",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

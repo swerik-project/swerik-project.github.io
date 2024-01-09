@@ -1,0 +1,44 @@
+{
+  "name": "alfred åslin",
+  "swerik-id": "i-RvF8easYFNVqGmUEao6qaX",
+  "DOB": "1882-12-23",
+  "DOD": "1966-12-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Holms församling",
+    "link": "http://www.wikidata.org/entity/Q10525317"
+  },
+  "place-of-death": {
+    "place": "Holms församling",
+    "link": "http://www.wikidata.org/entity/Q10525317"
+  },
+  "alt-names": [
+    "olof alfred åslin",
+    "åslin"
+  ],
+  "iorter": [
+    "Holm"
+  ],
+  "positions": [
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255943",
+      "link": "https://www.wikidata.org/wiki/Q6255943"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "eva goes",
+  "swerik-id": "i-5orH1EJN5hP5LGxnLXboj2",
+  "DOB": "1947-07-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Umeå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10709189"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "goes"
+  ],
+  "iorter": [
+    "Härnösand"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-21 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Go%C3%ABs%20110730%20%28edit%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4950339",
+      "link": "https://www.wikidata.org/wiki/Q4950339"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0401344912307",
+      "link": "https://data.riksdagen.se/personlista/?iid=0401344912307&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1d94d7b1-b48a-4224-920f-133024c392c0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1d94d7b1-b48a-4224-920f-133024c392c0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1994-10-21",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

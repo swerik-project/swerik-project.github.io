@@ -1,0 +1,85 @@
+{
+  "name": "jöns bromee",
+  "swerik-id": "i-PPQzQpjxJgK9T8oVftkuFD",
+  "DOB": "1841-01-10",
+  "DOD": "1931-08-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hackås församling",
+    "link": "http://www.wikidata.org/entity/Q10515489"
+  },
+  "place-of-death": {
+    "place": "Hackås församling",
+    "link": "http://www.wikidata.org/entity/Q10515489"
+  },
+  "alt-names": [
+    "bromee"
+  ],
+  "iorter": [
+    "Billsta"
+  ],
+  "positions": [
+    {
+      "start": "1887-05-02 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands östra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6ns%20Bromee.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5587303",
+      "link": "https://www.wikidata.org/wiki/Q5587303"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17009",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17009"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNVMA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNVMA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRfQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRfQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "michael stjernström",
+  "swerik-id": "i-FDa87dk7yYWBzZZXiiurE6",
+  "DOB": "1961-09-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Spånga-Kista församling",
+    "link": "http://www.wikidata.org/entity/Q10676706"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6190751",
+      "link": "https://www.wikidata.org/wiki/Q6190751"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0962700307214",
+      "link": "https://data.riksdagen.se/personlista/?iid=0962700307214&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "88f25b4b-fe09-4e53-9c58-c0da97f19283",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_88f25b4b-fe09-4e53-9c58-c0da97f19283"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

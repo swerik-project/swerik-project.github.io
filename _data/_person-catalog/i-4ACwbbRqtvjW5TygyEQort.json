@@ -1,0 +1,67 @@
+{
+  "name": "per nilsson",
+  "swerik-id": "i-4ACwbbRqtvjW5TygyEQort",
+  "DOB": "1821-06-11",
+  "DOD": "1892-03-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Osby församling",
+    "link": "http://www.wikidata.org/entity/Q10612943"
+  },
+  "place-of-death": {
+    "place": "Osby församling",
+    "link": "http://www.wikidata.org/entity/Q10612943"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Kulhult"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Nilsson%20Kullhult.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011628",
+      "link": "https://www.wikidata.org/wiki/Q6011628"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpdA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpdA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1872",
+      "end": "1878"
+    },
+    {
+      "party": {
+        "name": "Nyliberala partiet",
+        "party-id": "Q10604782"
+      },
+      "start": "1868",
+      "end": "1871"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

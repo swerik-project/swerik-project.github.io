@@ -1,0 +1,59 @@
+{
+  "name": "ivar persson",
+  "swerik-id": "i-FooDdbstXg6Pqwp431p9Bu",
+  "DOB": "1901-05-03",
+  "DOD": "1979-10-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svedala",
+    "link": "http://www.wikidata.org/entity/Q369863"
+  },
+  "place-of-death": {
+    "place": "Burlövs kommun",
+    "link": "http://www.wikidata.org/entity/Q186662"
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Skabersjö"
+  ],
+  "positions": [
+    {
+      "start": "1951-10-01 00:00:00",
+      "end": "1957-10-31 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1938-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ivar%20Persson%20-%20Ecklesiastikminister%201951.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6042992",
+      "link": "https://www.wikidata.org/wiki/Q6042992"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7114",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7114"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

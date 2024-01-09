@@ -1,0 +1,50 @@
+{
+  "name": "alexander nilsson",
+  "swerik-id": "i-48cDAKDXTm6d1FC6ZcJ7xK",
+  "DOB": "1876-12-12",
+  "DOD": "1941-06-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Karaby församling",
+    "link": "http://www.wikidata.org/entity/Q10718279"
+  },
+  "place-of-death": {
+    "place": "Stoby församling",
+    "link": "http://www.wikidata.org/entity/Q10680407"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Fredriksfält"
+  ],
+  "positions": [
+    {
+      "start": "1924-01-01 00:00:00",
+      "end": "1939-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Nilsson%201876%20SPA2%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6009516",
+      "link": "https://www.wikidata.org/wiki/Q6009516"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpNA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpNA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,117 @@
+{
+  "name": "karin israelsson",
+  "swerik-id": "i-TVpY9zEquJ2jKT7pqxS85w",
+  "DOB": "1941",
+  "DOD": "2013-04-25",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "israelsson",
+    "karin birgitta israelsson"
+  ],
+  "iorter": [
+    "Gargnäs"
+  ],
+  "positions": [
+    {
+      "start": "1996-02-01 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1991-10-08 00:00:00",
+      "end": "1994-06-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1986-11-18 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1986-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4955982",
+      "link": "https://www.wikidata.org/wiki/Q4955982"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0263142725304",
+      "link": "https://data.riksdagen.se/personlista/?iid=0263142725304&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b6142a86-ff64-4e9b-962e-97d8a674cdc3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b6142a86-ff64-4e9b-962e-97d8a674cdc3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1996-02-01",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,147 @@
+{
+  "name": "raoul hamilton",
+  "swerik-id": "i-4kz1fC2gQwdiC7G6RzQ2SK",
+  "DOB": "1855-10-17",
+  "DOD": "1931-01-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Paris",
+    "link": "http://www.wikidata.org/entity/Q90"
+  },
+  "place-of-death": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "alt-names": [
+    "hamilton"
+  ],
+  "iorter": [
+    "Ovesholm"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1931-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1931-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1923-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads läns sydöstra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gärds och Albo domsagas valkrets"
+    },
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Raoul%20Hamilton%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786333",
+      "link": "https://www.wikidata.org/wiki/Q5786333"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12505",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12505"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfp1Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfp1Q"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67670",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67670"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1931"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1909",
+      "end": "1923"
+    },
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1908",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1892",
+      "end": "1892"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

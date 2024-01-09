@@ -1,0 +1,60 @@
+{
+  "name": "anders pettersson",
+  "swerik-id": "i-kV7ygy9xY6TGwSSE92Y8N",
+  "DOB": "1826-02-03",
+  "DOD": "1883-08-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tofta församling",
+    "link": "http://www.wikidata.org/entity/Q10699220"
+  },
+  "place-of-death": {
+    "place": "Reslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10651236"
+  },
+  "alt-names": [
+    "anders fredrik pettersson",
+    "pettersson"
+  ],
+  "iorter": [
+    "Sibbarp"
+  ],
+  "positions": [
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Onsjö härads valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Onsjö härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Pettersson%201826%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6046605",
+      "link": "https://www.wikidata.org/wiki/Q6046605"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRwQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRwQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

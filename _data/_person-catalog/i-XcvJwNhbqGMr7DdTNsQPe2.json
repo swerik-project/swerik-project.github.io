@@ -1,0 +1,48 @@
+{
+  "name": "anton norling",
+  "swerik-id": "i-XcvJwNhbqGMr7DdTNsQPe2",
+  "DOB": "1889-08-03",
+  "DOD": "1969-03-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Oppmanna församling",
+    "link": "http://www.wikidata.org/entity/Q10610916"
+  },
+  "place-of-death": {
+    "place": "Nylöse församling",
+    "link": "http://www.wikidata.org/entity/Q10604787"
+  },
+  "alt-names": [
+    "norling"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1947-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6017006",
+      "link": "https://www.wikidata.org/wiki/Q6017006"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTgQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTgQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

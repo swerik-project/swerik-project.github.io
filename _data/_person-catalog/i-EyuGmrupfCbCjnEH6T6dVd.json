@@ -1,0 +1,56 @@
+{
+  "name": "carl adam jakob raab",
+  "swerik-id": "i-EyuGmrupfCbCjnEH6T6dVd",
+  "DOB": "1815-12-18",
+  "DOD": "1902-10-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mönsterås församling",
+    "link": "http://www.wikidata.org/entity/Q10593574"
+  },
+  "place-of-death": {
+    "place": "Helgerum",
+    "link": "http://www.wikidata.org/entity/Q10519536"
+  },
+  "alt-names": [
+    "carl raab",
+    "raab"
+  ],
+  "iorter": [
+    "Åkerholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1873-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Adam%20Jakob%20Raab%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6060127",
+      "link": "https://www.wikidata.org/wiki/Q6060127"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAB_w",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAB_w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcdA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcdA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

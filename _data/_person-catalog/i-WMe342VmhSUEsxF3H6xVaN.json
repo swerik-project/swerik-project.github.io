@@ -1,0 +1,48 @@
+{
+  "name": "anna brita hulth",
+  "swerik-id": "i-WMe342VmhSUEsxF3H6xVaN",
+  "DOB": "1926-12-24",
+  "DOD": "2012-07-22",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": "Träslövsläge",
+    "link": "http://www.wikidata.org/entity/Q28063849"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1986-10-15 00:00:00",
+      "end": "1986-11-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4955040",
+      "link": "https://www.wikidata.org/wiki/Q4955040"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1986-10-15",
+      "end": "1986-11-16"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,88 @@
+{
+  "name": "isak wallberg",
+  "swerik-id": "i-WQy7jhhVcjc3igCufRCGPd",
+  "DOB": "1825-09-03",
+  "DOD": "1905-05-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Halmstads församling",
+    "link": "http://www.wikidata.org/entity/Q10516510"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "isak andreas wallberg",
+    "wallberg"
+  ],
+  "iorter": [
+    "Halmstad"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1891-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Halmstads och Ängelholms valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Isak%20Wallberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6230338",
+      "link": "https://www.wikidata.org/wiki/Q6230338"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAASiA",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAASiA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAATYA",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAATYA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnng"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1891"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

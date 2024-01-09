@@ -1,0 +1,107 @@
+{
+  "name": "ewa björling",
+  "swerik-id": "i-Vuf2iovr2aWWgDThaeqMPN",
+  "DOB": "1961-05-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Ekerö kommun",
+    "link": "http://www.wikidata.org/entity/Q492614"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eva björling"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2007-09-12 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2007-09-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Modegalan2011%201c554%205277.Eva%20Bjorling.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q457877",
+      "link": "https://www.wikidata.org/wiki/Q457877"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0784309503313",
+      "link": "https://data.riksdagen.se/personlista/?iid=0784309503313&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5d5d5a1d-47e1-48a5-8933-00761d230787",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5d5d5a1d-47e1-48a5-8933-00761d230787"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-09-29",
+      "end": "2014-10-16"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

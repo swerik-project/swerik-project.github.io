@@ -1,0 +1,50 @@
+{
+  "name": "pehr benjaminsson",
+  "swerik-id": "i-43ePM4dk5fFKDKndkNTYar",
+  "DOB": "1819-04-27",
+  "DOD": "1905-04-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tämta församling",
+    "link": "http://www.wikidata.org/entity/Q10707955"
+  },
+  "place-of-death": {
+    "place": "Sandhults församling",
+    "link": "http://www.wikidata.org/entity/Q10661183"
+  },
+  "alt-names": [
+    "benjaminsson"
+  ],
+  "iorter": [
+    "Tämta"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vedens och Bollebygds härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Pehr%20Benjaminsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5570504",
+      "link": "https://www.wikidata.org/wiki/Q5570504"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZNA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZNA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

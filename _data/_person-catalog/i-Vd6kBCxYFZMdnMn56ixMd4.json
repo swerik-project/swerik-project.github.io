@@ -1,0 +1,51 @@
+{
+  "name": "anna rosvall",
+  "swerik-id": "i-Vd6kBCxYFZMdnMn56ixMd4",
+  "DOB": "1911-01-30",
+  "DOD": "2004-10-08",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "place-of-death": {
+    "place": "Limhamns församling",
+    "link": "http://www.wikidata.org/entity/Q10562025"
+  },
+  "alt-names": [
+    "anna thyra gunhild rosvall",
+    "anna tyra gunhild lindberg",
+    "anna tyra gunhild rosvall",
+    "rosvall"
+  ],
+  "iorter": [
+    "Dösjebro"
+  ],
+  "positions": [
+    {
+      "start": "1964-12-02 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110544246",
+      "link": "https://www.wikidata.org/wiki/Q110544246"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRtg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRtg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

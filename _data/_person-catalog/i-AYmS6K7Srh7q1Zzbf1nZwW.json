@@ -1,0 +1,85 @@
+{
+  "name": "christopher ödmann",
+  "swerik-id": "i-AYmS6K7Srh7q1Zzbf1nZwW",
+  "DOB": "1960",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2008-09-01 00:00:00",
+      "end": "2008-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2007-07-09 00:00:00",
+      "end": "2007-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2007-05-28 00:00:00",
+      "end": "2007-07-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2007-02-19 00:00:00",
+      "end": "2007-03-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q54396872",
+      "link": "https://www.wikidata.org/wiki/Q54396872"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0214849275619",
+      "link": "https://data.riksdagen.se/personlista/?iid=0214849275619&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "6f06cbf8-4e82-4a4d-b33e-e43ab1329e48",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_6f06cbf8-4e82-4a4d-b33e-e43ab1329e48"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2008-09-01",
+      "end": "2008-12-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

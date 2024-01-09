@@ -1,0 +1,50 @@
+{
+  "name": "victor fleetwood",
+  "swerik-id": "i-Jrqp3xhubpckqh6NNnYVm4",
+  "DOB": "1804-07-19",
+  "DOD": "1879-02-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Loftahammars församling",
+    "link": "http://www.wikidata.org/entity/Q10568829"
+  },
+  "place-of-death": {
+    "place": "Gamleby församling",
+    "link": "http://www.wikidata.org/entity/Q10502501"
+  },
+  "alt-names": [
+    "fleetwood"
+  ],
+  "iorter": [
+    "Kasimirsborg"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1868-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Fleetwood.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5732950",
+      "link": "https://www.wikidata.org/wiki/Q5732950"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdBg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdBg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

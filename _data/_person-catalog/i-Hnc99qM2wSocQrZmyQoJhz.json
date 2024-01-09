@@ -1,0 +1,80 @@
+{
+  "name": "rose marie frebran",
+  "swerik-id": "i-Hnc99qM2wSocQrZmyQoJhz",
+  "DOB": "1948-04-12",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Barkåkra församling",
+    "link": "http://www.wikidata.org/entity/Q10426434"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "frebran"
+  ],
+  "iorter": [
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4948794",
+      "link": "https://www.wikidata.org/wiki/Q4948794"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0699354970600",
+      "link": "https://data.riksdagen.se/personlista/?iid=0699354970600&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31ccc-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31ccc-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "1998-10-05",
+      "end": "2002-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

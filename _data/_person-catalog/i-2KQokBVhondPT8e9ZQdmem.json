@@ -1,0 +1,83 @@
+{
+  "name": "carl axel mannerskantz",
+  "swerik-id": "i-2KQokBVhondPT8e9ZQdmem",
+  "DOB": "1809-11-27",
+  "DOD": "1888-01-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Halltorps församling",
+    "link": "http://www.wikidata.org/entity/Q10516446"
+  },
+  "place-of-death": {
+    "place": "Halltorps församling",
+    "link": "http://www.wikidata.org/entity/Q10516446"
+  },
+  "alt-names": [
+    "mannerskantz"
+  ],
+  "iorter": [
+    "Värnanäs"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Mannerskantz.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5975041",
+      "link": "https://www.wikidata.org/wiki/Q5975041"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9053",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9053"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABLzow",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABLzow"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABS3Zw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABS3Zw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcnA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcnA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

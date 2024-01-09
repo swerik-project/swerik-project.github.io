@@ -1,0 +1,45 @@
+{
+  "name": "zakris åslund",
+  "swerik-id": "i-6HcN2Xpkh4VyUKdNEBeDYf",
+  "DOB": "1865-05-13",
+  "DOD": "1930-05-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sidensjö församling",
+    "link": "http://www.wikidata.org/entity/Q10667386"
+  },
+  "place-of-death": {
+    "place": "Örnsköldsvik",
+    "link": "http://www.wikidata.org/entity/Q28327"
+  },
+  "alt-names": [
+    "åslund"
+  ],
+  "iorter": [
+    "Hämra"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nätra och Nordingrå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Zakris%20%C3%85slund%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111792528",
+      "link": "https://www.wikidata.org/wiki/Q111792528"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "gustaf skagerberg",
+  "swerik-id": "i-4ce1yVE7LLQNwiL4N3JeoC",
+  "DOB": "1889-01-21",
+  "DOD": "1936-04-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Säfsnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10687922"
+  },
+  "place-of-death": {
+    "place": "Hammars församling",
+    "link": "http://www.wikidata.org/entity/Q10516892"
+  },
+  "alt-names": [
+    "skagerberg"
+  ],
+  "iorter": [
+    "Annefors"
+  ],
+  "positions": [
+    {
+      "start": "1920-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Skagerberg%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6179348",
+      "link": "https://www.wikidata.org/wiki/Q6179348"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbrg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbrg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "ernst aronson",
+  "swerik-id": "i-Dt5hSraH652po1YHZdhcSr",
+  "DOB": "1876-03-02",
+  "DOD": "1965-11-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedemora församling",
+    "link": "http://www.wikidata.org/entity/Q18290535"
+  },
+  "place-of-death": {
+    "place": "Hedemora församling",
+    "link": "http://www.wikidata.org/entity/Q18290535"
+  },
+  "alt-names": [
+    "aronson",
+    "aronsson",
+    "ernst carl aronson"
+  ],
+  "iorter": [
+    "Nibble"
+  ],
+  "positions": [
+    {
+      "start": "1928-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Aronson%201876%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5559921",
+      "link": "https://www.wikidata.org/wiki/Q5559921"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUxA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUxA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1928",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

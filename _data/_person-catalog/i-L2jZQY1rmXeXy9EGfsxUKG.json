@@ -1,0 +1,78 @@
+{
+  "name": "lars eriksson",
+  "swerik-id": "i-L2jZQY1rmXeXy9EGfsxUKG",
+  "DOB": "1970-04-02",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-03-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2012-10-01 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Eriksson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5716833",
+      "link": "https://www.wikidata.org/wiki/Q5716833"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0988383147219",
+      "link": "https://data.riksdagen.se/personlista/?iid=0988383147219&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b67316c8-173c-46aa-b561-fbe617fa4310",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b67316c8-173c-46aa-b561-fbe617fa4310"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2014-09-29",
+      "end": "2018-03-19"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

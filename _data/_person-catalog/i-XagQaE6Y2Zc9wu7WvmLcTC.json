@@ -1,0 +1,62 @@
+{
+  "name": "adolv olsson",
+  "swerik-id": "i-XagQaE6Y2Zc9wu7WvmLcTC",
+  "DOB": "1886-01-15",
+  "DOD": "1958-07-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "place-of-death": {
+    "place": "Sandvikens församling",
+    "link": "http://www.wikidata.org/entity/Q10661257"
+  },
+  "alt-names": [
+    "gustaf adolf olsson",
+    "gustav adolv olsson",
+    "olsson"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1957-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolv%20Olsson%201886%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026379",
+      "link": "https://www.wikidata.org/wiki/Q6026379"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7771",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7771"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPCg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPCg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAIBg",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAIBg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

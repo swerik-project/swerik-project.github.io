@@ -1,0 +1,108 @@
+{
+  "name": "anders gustafsson",
+  "swerik-id": "i-WSxGsjkEHq7ws5C5Cxnh3C",
+  "DOB": "1852-11-22",
+  "DOD": "1948-07-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kumla församling",
+    "link": "http://www.wikidata.org/entity/Q10550065"
+  },
+  "place-of-death": {
+    "place": "Örebro Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10727452"
+  },
+  "alt-names": [
+    "anders petter gustafsson",
+    "gustafsson"
+  ],
+  "iorter": [
+    "Sjögesta",
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns norra valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro och Glanshammars häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Gustafsson%201852%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5777495",
+      "link": "https://www.wikidata.org/wiki/Q5777495"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN7Pg",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN7Pg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsSw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsSw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1924"
+    },
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,100 @@
+{
+  "name": "margo ingvardsson",
+  "swerik-id": "i-XxMRaKyWvbxm3uJmt8WBtZ",
+  "DOB": "1941-02-16",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Tyringe församling",
+    "link": "http://www.wikidata.org/entity/Q10707715"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ingvardsson",
+    "margo sörinder ingvardsson",
+    "sörinder ingvardsson"
+  ],
+  "iorter": [
+    "Sundbyberg"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1983-10-15 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1983-05-01 00:00:00",
+      "end": "1983-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1983-04-01 00:00:00",
+      "end": "1983-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4955783",
+      "link": "https://www.wikidata.org/wiki/Q4955783"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0601901584501",
+      "link": "https://data.riksdagen.se/personlista/?iid=0601901584501&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b4281c6c-a027-45f8-afb4-512cbd711984",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b4281c6c-a027-45f8-afb4-512cbd711984"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

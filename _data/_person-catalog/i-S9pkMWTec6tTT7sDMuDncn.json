@@ -1,0 +1,66 @@
+{
+  "name": "ivar koskull",
+  "swerik-id": "i-S9pkMWTec6tTT7sDMuDncn",
+  "DOB": "1817-08-20",
+  "DOD": "1899-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Örtomta församling",
+    "link": "http://www.wikidata.org/entity/Q10727715"
+  },
+  "alt-names": [
+    "ivar otto herman koskull",
+    "iwar koskull",
+    "koskull"
+  ],
+  "iorter": [
+    "Svenneby"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo, Bankekinds och Hanekinds domsagas valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo, Bankekinds och Hanekinds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ivar%20Koskull%201817%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5920219",
+      "link": "https://www.wikidata.org/wiki/Q5920219"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "0piq-fX0h5AAAAAAAABB8g",
+      "link": "https://portrattarkiv.se/details/0piq-fX0h5AAAAAAAABB8g"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgajA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgajA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

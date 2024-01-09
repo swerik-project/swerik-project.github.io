@@ -1,0 +1,63 @@
+{
+  "name": "gustaf sparre",
+  "swerik-id": "i-D6aqZFLHgoGLzA4xpqmeuW",
+  "DOB": "1802-09-04",
+  "DOD": "1886-04-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torrlösa församling",
+    "link": "http://www.wikidata.org/entity/Q10700305"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "gustaf adolf vive sparre",
+    "gustaf adolph vive sparre",
+    "gösta adolf vive sparre",
+    "sparre af söfdesborg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sparre%2C%20Gustaf%20Adolf%20Vive%20%28ur%20Lagerberg%201915%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6184994",
+      "link": "https://www.wikidata.org/wiki/Q6184994"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACwaQ",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACwaQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:50662",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:50662"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfcBQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfcBQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

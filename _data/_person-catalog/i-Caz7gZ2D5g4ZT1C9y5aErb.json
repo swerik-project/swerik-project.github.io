@@ -1,0 +1,50 @@
+{
+  "name": "troed troedsson",
+  "swerik-id": "i-Caz7gZ2D5g4ZT1C9y5aErb",
+  "DOB": "1858-09-16",
+  "DOD": "1922-09-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vittsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10716456"
+  },
+  "place-of-death": {
+    "place": "Norra Åkarps församling",
+    "link": "http://www.wikidata.org/entity/Q10602657"
+  },
+  "alt-names": [
+    "troedsson"
+  ],
+  "iorter": [
+    "Bjärnum"
+  ],
+  "positions": [
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/T%20Troedsson%201858%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6215406",
+      "link": "https://www.wikidata.org/wiki/Q6215406"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpSA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpSA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

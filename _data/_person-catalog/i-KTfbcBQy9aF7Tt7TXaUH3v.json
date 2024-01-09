@@ -1,0 +1,51 @@
+{
+  "name": "annie jäderberg",
+  "swerik-id": "i-KTfbcBQy9aF7Tt7TXaUH3v",
+  "DOB": "1898-11-18",
+  "DOD": "1985-09-08",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Karl Gustavs församling",
+    "link": "http://www.wikidata.org/entity/Q10543675"
+  },
+  "place-of-death": {
+    "place": "Laholms församling",
+    "link": "http://www.wikidata.org/entity/Q10553372"
+  },
+  "alt-names": [
+    "anna margareta jäderberg",
+    "jäderberg"
+  ],
+  "iorter": [
+    "Kiruna"
+  ],
+  "positions": [
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Annie%20J%C3%A4derberg-Kankanranta%201898%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4957618",
+      "link": "https://www.wikidata.org/wiki/Q4957618"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRZA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

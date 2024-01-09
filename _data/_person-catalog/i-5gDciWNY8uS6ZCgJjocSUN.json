@@ -1,0 +1,78 @@
+{
+  "name": "marianne kierkemann",
+  "swerik-id": "i-5gDciWNY8uS6ZCgJjocSUN",
+  "DOB": "1950",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2011-09-01 00:00:00",
+      "end": "2011-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "2005-11-09 00:00:00",
+      "end": "2005-12-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Marianne%20Kirkemann%20%28M%29%20Sverige.%20Nordiska%20radets%20session%20i%20Stockholm%202009.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4958729",
+      "link": "https://www.wikidata.org/wiki/Q4958729"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0731265898310",
+      "link": "https://data.riksdagen.se/personlista/?iid=0731265898310&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a124c97d-5147-425a-90b1-ff4d582bb7af",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a124c97d-5147-425a-90b1-ff4d582bb7af"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2011-09-01",
+      "end": "2011-12-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

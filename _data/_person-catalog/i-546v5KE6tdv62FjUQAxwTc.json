@@ -1,0 +1,49 @@
+{
+  "name": "christofer bergenblock",
+  "swerik-id": "i-546v5KE6tdv62FjUQAxwTc",
+  "DOB": "1974-09-15",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Unnaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10709778"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q112075255",
+      "link": "https://www.wikidata.org/wiki/Q112075255"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0951905661227",
+      "link": "https://data.riksdagen.se/personlista/?iid=0951905661227&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "84cd5a15-44cb-48ed-8433-b907f2d8b8bf",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_84cd5a15-44cb-48ed-8433-b907f2d8b8bf"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

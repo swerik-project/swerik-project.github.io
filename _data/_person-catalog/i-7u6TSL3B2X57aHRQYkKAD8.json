@@ -1,0 +1,76 @@
+{
+  "name": "theodor af callerholm",
+  "swerik-id": "i-7u6TSL3B2X57aHRQYkKAD8",
+  "DOB": "1852-07-11",
+  "DOD": "1912-02-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedemora församling",
+    "link": "http://www.wikidata.org/entity/Q18290535"
+  },
+  "place-of-death": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "alt-names": [
+    "af callerholm",
+    "g n theodor af callerholm",
+    "gustaf nils theodor af callerholm",
+    "nils af callerholm"
+  ],
+  "iorter": [
+    "Hedemora"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1912-02-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns östra valkrets"
+    },
+    {
+      "start": "1910-01-01 00:00:00",
+      "end": "1912-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Falu, Hedemora och Säters valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Nils%20Theodor%20af%20Callerholm.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5601098",
+      "link": "https://www.wikidata.org/wiki/Q5601098"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16326",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16326"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU4A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU4A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,101 @@
+{
+  "name": "carl von friesen",
+  "swerik-id": "i-LBM3Az1PKbJiuDyXhKPoS9",
+  "DOB": "1846-09-10",
+  "DOD": "1905-06-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hökhuvuds församling",
+    "link": "http://www.wikidata.org/entity/Q10532510"
+  },
+  "place-of-death": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "alt-names": [
+    "carl sebastian von friesen",
+    "von friesen"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1902-07-05 00:00:00",
+      "end": "1905-06-10 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström II",
+      "district": null
+    },
+    {
+      "start": "1902-07-05 00:00:00",
+      "end": "1905-06-10 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ramstedt",
+      "district": null
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20von%20Friesen%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5744372",
+      "link": "https://www.wikidata.org/wiki/Q5744372"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "14490",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14490"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABhVA",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABhVA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:5638",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:5638"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMmA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMmA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1897",
+      "end": "1904"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

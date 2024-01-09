@@ -1,0 +1,58 @@
+{
+  "name": "pernilla zethraeus",
+  "swerik-id": "i-5pddtLwy622h33X3RtqGeL",
+  "DOB": "1962-07-23",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Brämhult",
+    "link": "http://www.wikidata.org/entity/Q15390598"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2007-09-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4990906",
+      "link": "https://www.wikidata.org/wiki/Q4990906"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0677210453318",
+      "link": "https://data.riksdagen.se/personlista/?iid=0677210453318&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ff076c5b-363c-437e-a6d4-004c998c053d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ff076c5b-363c-437e-a6d4-004c998c053d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2006-10-02",
+      "end": "2007-09-25"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

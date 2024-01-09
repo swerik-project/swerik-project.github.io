@@ -1,0 +1,84 @@
+{
+  "name": "karl karlsson",
+  "swerik-id": "i-FDUnfwLSnbmZFbmEoCBSeE",
+  "DOB": "1867-04-16",
+  "DOD": "1953-03-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lits församling",
+    "link": "http://www.wikidata.org/entity/Q10567892"
+  },
+  "place-of-death": {
+    "place": "Östersunds församling",
+    "link": "http://www.wikidata.org/entity/Q10728127"
+  },
+  "alt-names": [
+    "karlsson"
+  ],
+  "iorter": [
+    "Mo"
+  ],
+  "positions": [
+    {
+      "start": "1914-05-18 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands läns norra valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands norra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Karlsson%201867%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5901685",
+      "link": "https://www.wikidata.org/wiki/Q5901685"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRHA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRHA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1914",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1909",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1903",
+      "end": "1908"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

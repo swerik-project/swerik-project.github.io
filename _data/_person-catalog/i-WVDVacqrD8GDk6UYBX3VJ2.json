@@ -1,0 +1,96 @@
+{
+  "name": "helene hellmark knutsson",
+  "swerik-id": "i-WVDVacqrD8GDk6UYBX3VJ2",
+  "DOB": "1969-09-12",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2019-01-22 00:00:00",
+      "end": "2020-07-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2016-08-15 00:00:00",
+      "end": "2016-09-13 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2016-08-15 00:00:00",
+      "end": "2016-09-13 00:00:00",
+      "role": "skolminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "högskoleminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Hellmark%20Knutsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4953463",
+      "link": "https://www.wikidata.org/wiki/Q4953463"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0505783078517",
+      "link": "https://data.riksdagen.se/personlista/?iid=0505783078517&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "19fab9cf-9ed3-4cf9-9a04-f9d0eedeaec9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_19fab9cf-9ed3-4cf9-9a04-f9d0eedeaec9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2019-01-22",
+      "end": "2020-07-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

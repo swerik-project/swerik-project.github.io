@@ -1,0 +1,48 @@
+{
+  "name": "göran pettersson",
+  "swerik-id": "i-J51oKu5Bg3QyKSiv1qBybU",
+  "DOB": "1898-05-24",
+  "DOD": "1968-12-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rudskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10657628"
+  },
+  "place-of-death": {
+    "place": "Degerfors församling",
+    "link": "http://www.wikidata.org/entity/Q10467695"
+  },
+  "alt-names": [
+    "pettersson"
+  ],
+  "iorter": [
+    "Degerfors"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6046847",
+      "link": "https://www.wikidata.org/wiki/Q6046847"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsPw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsPw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

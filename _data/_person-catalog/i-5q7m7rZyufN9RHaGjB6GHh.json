@@ -1,0 +1,107 @@
+{
+  "name": "björn samuelson",
+  "swerik-id": "i-5q7m7rZyufN9RHaGjB6GHh",
+  "DOB": "1951-12-05",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arvika",
+    "link": "http://www.wikidata.org/entity/Q654308"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "samuelson"
+  ],
+  "iorter": [
+    "Arvika"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1996-06-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1992-12-17 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6090670",
+      "link": "https://www.wikidata.org/wiki/Q6090670"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0272316208815",
+      "link": "https://data.riksdagen.se/personlista/?iid=0272316208815&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8d59bf6a-fdf3-431f-bbf7-b205cace3503",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8d59bf6a-fdf3-431f-bbf7-b205cace3503"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1994-10-03",
+      "end": "1996-06-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

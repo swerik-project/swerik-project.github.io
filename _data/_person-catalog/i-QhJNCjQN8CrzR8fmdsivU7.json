@@ -1,0 +1,80 @@
+{
+  "name": "britta bjelle",
+  "swerik-id": "i-QhJNCjQN8CrzR8fmdsivU7",
+  "DOB": "1941-06-08",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bjelle"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4939177",
+      "link": "https://www.wikidata.org/wiki/Q4939177"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0702441395302",
+      "link": "https://data.riksdagen.se/personlista/?iid=0702441395302&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "dbbb888b-b6f8-4e2c-84a3-36adbf2e541d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_dbbb888b-b6f8-4e2c-84a3-36adbf2e541d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1991-09-30",
+      "end": "1994-06-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

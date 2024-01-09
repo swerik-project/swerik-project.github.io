@@ -1,0 +1,58 @@
+{
+  "name": "bertil borglund",
+  "swerik-id": "i-L7jHcteMMoWakzuR5vkPeP",
+  "DOB": "1943",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1995-05-15 00:00:00",
+      "end": "1995-06-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q107413452",
+      "link": "https://www.wikidata.org/wiki/Q107413452"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "044562190409",
+      "link": "https://data.riksdagen.se/personlista/?iid=044562190409&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7d8da3e3-a63e-49b1-a38e-384a962e03d2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7d8da3e3-a63e-49b1-a38e-384a962e03d2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1995-05-15",
+      "end": "1995-06-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

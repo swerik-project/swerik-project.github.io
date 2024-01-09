@@ -1,0 +1,51 @@
+{
+  "name": "johan sanne",
+  "swerik-id": "i-UG1t6nqWVSEF4oaAqgwrC1",
+  "DOB": "1836-01-14",
+  "DOD": "1919-02-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uddevalla församling",
+    "link": "http://www.wikidata.org/entity/Q10708421"
+  },
+  "place-of-death": {
+    "place": "Uddevalla församling",
+    "link": "http://www.wikidata.org/entity/Q10708421"
+  },
+  "alt-names": [
+    "johan newton sanne",
+    "sanne"
+  ],
+  "iorter": [
+    "Uddevalla"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Sanne%201836%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6167539",
+      "link": "https://www.wikidata.org/wiki/Q6167539"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkfw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkfw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

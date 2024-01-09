@@ -1,0 +1,62 @@
+{
+  "name": "peter svensson",
+  "swerik-id": "i-WGVu1mngDvsCZRYD2QisGt",
+  "DOB": "1826-06-05",
+  "DOD": "1902-06-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Södra Vings församling",
+    "link": "http://www.wikidata.org/entity/Q10689036"
+  },
+  "place-of-death": {
+    "place": "Borås församling",
+    "link": "http://www.wikidata.org/entity/Q57407324"
+  },
+  "alt-names": [
+    "svensson"
+  ],
+  "iorter": [
+    "Brämhult"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ås och Gäsene domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Svensson.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6199107",
+      "link": "https://www.wikidata.org/wiki/Q6199107"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

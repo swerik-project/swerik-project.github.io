@@ -1,0 +1,87 @@
+{
+  "name": "gunilla svantorp",
+  "swerik-id": "i-6Y7QyEzZ7gFrVaMjjyMzXk",
+  "DOB": "1964-01-19",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Fässbergs församling",
+    "link": "http://www.wikidata.org/entity/Q5511485"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunilla%20svantorp.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4981396",
+      "link": "https://www.wikidata.org/wiki/Q4981396"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0801311569314",
+      "link": "https://data.riksdagen.se/personlista/?iid=0801311569314&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "434f8fc8-eb9d-4364-99f6-63f1ef873561",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_434f8fc8-eb9d-4364-99f6-63f1ef873561"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "ola isacsson",
+  "swerik-id": "i-VtstjgkmLnMdTCDsWiW7kM",
+  "DOB": "1885-12-08",
+  "DOD": "1945-05-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Sönnarslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10728419"
+  },
+  "place-of-death": {
+    "place": "Norra Åsums församling",
+    "link": "http://www.wikidata.org/entity/Q10602670"
+  },
+  "alt-names": [
+    "isacsson"
+  ],
+  "iorter": [
+    "Kristianstad",
+    "Norra Åsum"
+  ],
+  "positions": [
+    {
+      "start": "1932-01-01 00:00:00",
+      "end": "1945-05-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ola%20Isacsson%201885%20SPA%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5824299",
+      "link": "https://www.wikidata.org/wiki/Q5824299"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

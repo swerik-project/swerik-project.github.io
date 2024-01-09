@@ -1,0 +1,51 @@
+{
+  "name": "carl persson",
+  "swerik-id": "i-YWq3i8pzd2ek446XvasGri",
+  "DOB": "1834-10-14",
+  "DOD": "1908-02-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gammalkils församling",
+    "link": "http://www.wikidata.org/entity/Q10502525"
+  },
+  "place-of-death": {
+    "place": "Norrköpings Östra Eneby församling",
+    "link": "http://www.wikidata.org/entity/Q10602834"
+  },
+  "alt-names": [
+    "carl johan persson",
+    "persson"
+  ],
+  "iorter": [
+    "Gärstad"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1886-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo, Bankekinds och Hanekinds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Persson%201834%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105067206",
+      "link": "https://www.wikidata.org/wiki/Q105067206"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgatQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgatQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

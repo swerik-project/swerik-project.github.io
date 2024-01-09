@@ -1,0 +1,58 @@
+{
+  "name": "pether nordblad",
+  "swerik-id": "i-GbgpVTmbtsxfHABLU5NSxn",
+  "DOB": "1948",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-07-01 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21567856",
+      "link": "https://www.wikidata.org/wiki/Q21567856"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0211294699701",
+      "link": "https://data.riksdagen.se/personlista/?iid=0211294699701&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "04e13e71-85f3-4d55-82c2-db9f8c9bdc48",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_04e13e71-85f3-4d55-82c2-db9f8c9bdc48"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-07-01",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "edvard mårtensson",
+  "swerik-id": "i-QqZ5oAnryify9HZXD97Cpe",
+  "DOB": "1892-12-15",
+  "DOD": "1954-08-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Tommarps församling",
+    "link": "http://www.wikidata.org/entity/Q10728430"
+  },
+  "place-of-death": {
+    "place": "Smedstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10671963"
+  },
+  "alt-names": [
+    "mårten edvard mårtensson",
+    "mårtensson"
+  ],
+  "iorter": [
+    "Smedstorp"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1954-08-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20M%C3%A5rtensson%201892%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6000547",
+      "link": "https://www.wikidata.org/wiki/Q6000547"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpbg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpbg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

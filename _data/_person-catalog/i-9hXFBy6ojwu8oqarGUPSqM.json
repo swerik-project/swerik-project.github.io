@@ -1,0 +1,67 @@
+{
+  "name": "johan fredrik fåhraeus",
+  "swerik-id": "i-9hXFBy6ojwu8oqarGUPSqM",
+  "DOB": "1796-03-23",
+  "DOD": "1865-02-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Slite",
+    "link": "http://www.wikidata.org/entity/Q1495534"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "fredrik fåhraeus"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1847-09-23 00:00:00",
+      "end": "1856-12-16 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Mauritz Posse II",
+      "district": null
+    },
+    {
+      "start": "1847-09-23 00:00:00",
+      "end": "1856-12-16 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sparre",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Fredrik%20F%C3%A5hr%C3%A6us%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5748247",
+      "link": "https://www.wikidata.org/wiki/Q5748247"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "14603",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14603"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "IQojCnw0WmAAAAAAAABR7g",
+      "link": "https://portrattarkiv.se/details/IQojCnw0WmAAAAAAAABR7g"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:66035",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:66035"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

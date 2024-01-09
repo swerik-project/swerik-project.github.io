@@ -1,0 +1,63 @@
+{
+  "name": "lena rådström baastad",
+  "swerik-id": "i-CHJPjAq3cfFXw6rLQ1zPWT",
+  "DOB": "1974-04-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Örebro",
+    "link": "http://www.wikidata.org/entity/Q25732"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lena baastad",
+    "lena therese rådström baastad"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-09-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lena%20R%C3%A5dstr%C3%B6m%20Baastad%20%2829010211076%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q26305110",
+      "link": "https://www.wikidata.org/wiki/Q26305110"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0267085997926",
+      "link": "https://data.riksdagen.se/personlista/?iid=0267085997926&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3303f6e9-7957-4a86-9457-090ef22a54ef",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3303f6e9-7957-4a86-9457-090ef22a54ef"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2021-09-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

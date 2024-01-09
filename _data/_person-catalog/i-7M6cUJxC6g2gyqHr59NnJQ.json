@@ -1,0 +1,56 @@
+{
+  "name": "helene fritzon",
+  "swerik-id": "i-7M6cUJxC6g2gyqHr59NnJQ",
+  "DOB": "1960-09-29",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kristianstad",
+    "link": "http://www.wikidata.org/entity/Q26937"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "helene eklund",
+    "helene persson",
+    "helene svensson",
+    "marie helene elisabet fritzon"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2017-07-27 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "migrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hel%C3%A9ne%20Fritzon%2C%20Minister%20for%20Migration%20and%20Deputy%20Minister%20for%20Justice%20of%20Sweden%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4949040",
+      "link": "https://www.wikidata.org/wiki/Q4949040"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0103279988010",
+      "link": "https://data.riksdagen.se/personlista/?iid=0103279988010&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fd7f2b47-e70d-46c2-8558-a6c3f81f2790",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fd7f2b47-e70d-46c2-8558-a6c3f81f2790"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

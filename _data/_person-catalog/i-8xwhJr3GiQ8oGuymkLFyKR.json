@@ -1,0 +1,89 @@
+{
+  "name": "ingegerd sahlström",
+  "swerik-id": "i-8xwhJr3GiQ8oGuymkLFyKR",
+  "DOB": "1943-10-29",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sahlström"
+  ],
+  "iorter": [
+    "Halmstad"
+  ],
+  "positions": [
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "1998-10-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4976504",
+      "link": "https://www.wikidata.org/wiki/Q4976504"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0311892218602",
+      "link": "https://data.riksdagen.se/personlista/?iid=0311892218602&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "96b213d6-b9eb-4246-bb08-b1383f4ed7bf",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_96b213d6-b9eb-4246-bb08-b1383f4ed7bf"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1998-10-05",
+      "end": "1998-10-19"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "jacob spens",
+  "swerik-id": "i-CTRDnjHvysaSVk2BrDb7Nd",
+  "DOB": "1861-10-09",
+  "DOD": "1943-11-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vånga församling",
+    "link": "http://www.wikidata.org/entity/Q10718697"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "jacob wilhelm spens",
+    "spens"
+  ],
+  "iorter": [
+    "Jönköping",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1910-01-01 00:00:00",
+      "end": "1933-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Spens%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6185494",
+      "link": "https://www.wikidata.org/wiki/Q6185494"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN2cg",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN2cg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbeQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbeQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1933"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

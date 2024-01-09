@@ -1,0 +1,66 @@
+{
+  "name": "carl storckenfeldt",
+  "swerik-id": "i-CXFCZFq2nZauNUKatGNNgK",
+  "DOB": "1812-10-09",
+  "DOD": "1892-03-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bjurums församling",
+    "link": "http://www.wikidata.org/entity/Q10430426"
+  },
+  "place-of-death": {
+    "place": "Vartofta-Åsaka församling",
+    "link": "http://www.wikidata.org/entity/Q10713183"
+  },
+  "alt-names": [
+    "carl johan storckenfeldt",
+    "storckenfeldt",
+    "storckenfelt"
+  ],
+  "iorter": [
+    "Vartofta"
+  ],
+  "positions": [
+    {
+      "start": "1874-01-01 00:00:00",
+      "end": "1886-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Storckenfeldt%201812%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6191520",
+      "link": "https://www.wikidata.org/wiki/Q6191520"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABL_g",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABL_g"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeWQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeWQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

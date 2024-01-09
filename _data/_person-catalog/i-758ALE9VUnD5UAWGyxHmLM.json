@@ -1,0 +1,51 @@
+{
+  "name": "sten leijonhufvud",
+  "swerik-id": "i-758ALE9VUnD5UAWGyxHmLM",
+  "DOB": "1826-05-24",
+  "DOD": "1908-09-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björkviks församling",
+    "link": "http://www.wikidata.org/entity/Q10430628"
+  },
+  "place-of-death": {
+    "place": "Kärnbo församling",
+    "link": "http://www.wikidata.org/entity/Q10551864"
+  },
+  "alt-names": [
+    "leijonhufvud",
+    "sten erik gabriel leijonhufvud"
+  ],
+  "iorter": [
+    "Åkerö"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sten%20Leijonhufvud.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5945227",
+      "link": "https://www.wikidata.org/wiki/Q5945227"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP6A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP6A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

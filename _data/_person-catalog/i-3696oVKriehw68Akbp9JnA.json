@@ -1,0 +1,69 @@
+{
+  "name": "tony wiklander",
+  "swerik-id": "i-3696oVKriehw68Akbp9JnA",
+  "DOB": "1939-06-03",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Wiklander.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6241274",
+      "link": "https://www.wikidata.org/wiki/Q6241274"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0693341580004",
+      "link": "https://data.riksdagen.se/personlista/?iid=0693341580004&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5dc0c65f-2fe2-434b-8b85-92b39d03e034",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5dc0c65f-2fe2-434b-8b85-92b39d03e034"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

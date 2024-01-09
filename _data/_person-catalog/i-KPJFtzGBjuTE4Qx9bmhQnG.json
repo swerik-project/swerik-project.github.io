@@ -1,0 +1,85 @@
+{
+  "name": "nils quensel",
+  "swerik-id": "i-KPJFtzGBjuTE4Qx9bmhQnG",
+  "DOB": "1894-10-22",
+  "DOD": "1971-11-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "alt-names": [
+    "nils jakob eberhard quensel"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1946-10-11 00:00:00",
+      "end": "1951-10-01 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1946-10-06 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    },
+    {
+      "start": "1939-12-13 00:00:00",
+      "end": "1940-10-11 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1939-12-13 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Quensel%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6059390",
+      "link": "https://www.wikidata.org/wiki/Q6059390"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7453",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7453"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "nAIiJBP4AcAAAAAAAAABPw",
+      "link": "https://portrattarkiv.se/details/nAIiJBP4AcAAAAAAAAABPw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45818",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45818"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

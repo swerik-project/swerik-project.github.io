@@ -1,0 +1,50 @@
+{
+  "name": "jöns olsson",
+  "swerik-id": "i-17wP8w7go36vS3sLZVkrL5",
+  "DOB": "1836-02-18",
+  "DOD": "1923-11-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Veberöds församling",
+    "link": "http://www.wikidata.org/entity/Q10713508"
+  },
+  "place-of-death": {
+    "place": "Veberöds församling",
+    "link": "http://www.wikidata.org/entity/Q10713508"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Kvarnbrodda"
+  ],
+  "positions": [
+    {
+      "start": "1868-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6ns%20Olsson%201836%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027237",
+      "link": "https://www.wikidata.org/wiki/Q6027237"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRyg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRyg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

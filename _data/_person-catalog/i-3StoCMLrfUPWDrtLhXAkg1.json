@@ -1,0 +1,86 @@
+{
+  "name": "bertil johansson",
+  "swerik-id": "i-3StoCMLrfUPWDrtLhXAkg1",
+  "DOB": "1930-08-02",
+  "DOD": "2018-01-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Växjö landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10718572"
+  },
+  "place-of-death": {
+    "place": "Växjö domkyrkodistrikt",
+    "link": "http://www.wikidata.org/entity/Q21566579"
+  },
+  "alt-names": [
+    "johansson",
+    "nils bertil magnus johansson"
+  ],
+  "iorter": [
+    "Holstorp",
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4895688",
+      "link": "https://www.wikidata.org/wiki/Q4895688"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQNw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQNw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1976-10-04",
+      "end": "1979-10-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

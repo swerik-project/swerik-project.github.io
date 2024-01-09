@@ -1,0 +1,102 @@
+{
+  "name": "gustaf gilljam",
+  "swerik-id": "i-E87PtNrvf5D9mPbn59wpkU",
+  "DOB": "1832-07-22",
+  "DOD": "1908-01-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ärentuna församling",
+    "link": "http://www.wikidata.org/entity/Q10726031"
+  },
+  "place-of-death": {
+    "place": "Jakobs församling",
+    "link": "http://www.wikidata.org/entity/Q10539290"
+  },
+  "alt-names": [
+    "gilljam",
+    "gustaf fredrik gilljam"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1891-11-06 00:00:00",
+      "end": "1898-06-22 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1887-05-02 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/G.F.%20Gilljam%201913.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5759618",
+      "link": "https://www.wikidata.org/wiki/Q5759618"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13071",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13071"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNfA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNfA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29565",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29565"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABlc-w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABlc-w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1903",
+      "end": "1907"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

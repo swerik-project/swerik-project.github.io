@@ -1,0 +1,65 @@
+{
+  "name": "anders örne",
+  "swerik-id": "i-GFbGCi8kh9TEUKXENMrEeH",
+  "DOB": "1881-10-01",
+  "DOD": "1956-11-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Främmestads församling",
+    "link": "http://www.wikidata.org/entity/Q10499617"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "anders emanuel örne",
+    "örne"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20%C3%96rne.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6257291",
+      "link": "https://www.wikidata.org/wiki/Q6257291"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ai4MrcHN22AAAAAAAAAJJw",
+      "link": "https://portrattarkiv.se/details/ai4MrcHN22AAAAAAAAAJJw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsfA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsfA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

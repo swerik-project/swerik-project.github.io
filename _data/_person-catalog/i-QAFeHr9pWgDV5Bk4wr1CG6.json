@@ -1,0 +1,67 @@
+{
+  "name": "melker strand",
+  "swerik-id": "i-QAFeHr9pWgDV5Bk4wr1CG6",
+  "DOB": "1930-05-28",
+  "DOD": "2005-01-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1986-10-15 00:00:00",
+      "end": "1986-11-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1985-10-15 00:00:00",
+      "end": "1985-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104215541",
+      "link": "https://www.wikidata.org/wiki/Q104215541"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0963587133807",
+      "link": "https://data.riksdagen.se/personlista/?iid=0963587133807&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2c564437-c084-41f3-9863-8ece650ecf96",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2c564437-c084-41f3-9863-8ece650ecf96"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1985-10-15",
+      "end": "1985-11-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

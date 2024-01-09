@@ -1,0 +1,53 @@
+{
+  "name": "ivar sefve",
+  "swerik-id": "i-P3xm4ZiLR6VTYmHADsnXPS",
+  "DOB": "1886-11-22",
+  "DOD": "1953-07-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10602802"
+  },
+  "place-of-death": {
+    "place": "Örgryte församling",
+    "link": "http://www.wikidata.org/entity/Q10727562"
+  },
+  "alt-names": [
+    "sefve",
+    "sven ivar sefve"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6326156",
+      "link": "https://www.wikidata.org/wiki/Q6326156"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

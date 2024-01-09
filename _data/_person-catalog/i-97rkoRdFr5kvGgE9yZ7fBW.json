@@ -1,0 +1,51 @@
+{
+  "name": "jonas peter zakrisson",
+  "swerik-id": "i-97rkoRdFr5kvGgE9yZ7fBW",
+  "DOB": "1845-08-07",
+  "DOD": "1931-03-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vetlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10714734"
+  },
+  "place-of-death": {
+    "place": "Vetlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10714734"
+  },
+  "alt-names": [
+    "jonas zakrisson",
+    "zakrisson"
+  ],
+  "iorter": [
+    "Fageräng"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1900-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östra härads domsagas valkrets, Jönköpings län"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Zakrisson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6250899",
+      "link": "https://www.wikidata.org/wiki/Q6250899"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAA6-g",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAA6-g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

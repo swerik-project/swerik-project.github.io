@@ -1,0 +1,50 @@
+{
+  "name": "karl henrik berlin",
+  "swerik-id": "i-WQdu6MraZKg46K4qVrG243",
+  "DOB": "1832-11-04",
+  "DOD": "1896-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sundsvalls församling",
+    "link": "http://www.wikidata.org/entity/Q10683835"
+  },
+  "place-of-death": {
+    "place": "Härnösands domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10531743"
+  },
+  "alt-names": [
+    "berlin"
+  ],
+  "iorter": [
+    "Härnösand"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Härnösands och Östersunds valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Berlin%201832%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105025768",
+      "link": "https://www.wikidata.org/wiki/Q105025768"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfOA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfOA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

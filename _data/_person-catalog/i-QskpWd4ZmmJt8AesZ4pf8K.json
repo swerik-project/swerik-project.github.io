@@ -1,0 +1,43 @@
+{
+  "name": "carl erik johansson",
+  "swerik-id": "i-QskpWd4ZmmJt8AesZ4pf8K",
+  "DOB": "1902-03-23",
+  "DOD": "1980-06-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ekerö församling",
+    "link": "http://www.wikidata.org/entity/Q10480598"
+  },
+  "place-of-death": {
+    "place": "Södertälje",
+    "link": "http://www.wikidata.org/entity/Q26518"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Södertälje"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5885782",
+      "link": "https://www.wikidata.org/wiki/Q5885782"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "herman schmidt",
+  "swerik-id": "i-ABHqHPdDMU18oR56JBTLbP",
+  "DOB": "1811-11-23",
+  "DOD": "1893-06-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sachsen-Altenburg",
+    "link": "http://www.wikidata.org/entity/Q158151"
+  },
+  "place-of-death": {
+    "place": "Partille församling",
+    "link": "http://www.wikidata.org/entity/Q10621388"
+  },
+  "alt-names": [
+    "herrman schmidt",
+    "schmidt"
+  ],
+  "iorter": [
+    "Partille"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sävedals domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Schmidt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6168498",
+      "link": "https://www.wikidata.org/wiki/Q6168498"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABizA",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABizA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkYg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkYg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "august beskow",
+  "swerik-id": "i-GgLe25PMgoUutAdzJ14BUX",
+  "DOB": "1880-09-23",
+  "DOD": "1946-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "einar august beskow"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1928-10-02 00:00:00",
+      "end": "1930-06-07 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman II",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Beskow%2C%20August%20-%20portr%C3%A4tt%20-%20AF.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5574680",
+      "link": "https://www.wikidata.org/wiki/Q5574680"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADy0A",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADy0A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:38577",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:38577"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

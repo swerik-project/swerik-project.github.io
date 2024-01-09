@@ -1,0 +1,60 @@
+{
+  "name": "anders kristian gasslander",
+  "swerik-id": "i-AuvNgvupyypcCHtg3MDctG",
+  "DOB": "1835-11-22",
+  "DOD": "1890-07-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vassända församling",
+    "link": "http://www.wikidata.org/entity/Q10713346"
+  },
+  "place-of-death": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "alt-names": [
+    "anders c gasslander",
+    "gasslander"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlskrona valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1876-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlskrona valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Gasslander%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5752978",
+      "link": "https://www.wikidata.org/wiki/Q5752978"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQfw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQfw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

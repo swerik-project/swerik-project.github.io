@@ -1,0 +1,68 @@
+{
+  "name": "vira eklund",
+  "swerik-id": "i-DXGYFK7qyjVCT7njRxj8GT",
+  "DOB": "1880-02-13",
+  "DOD": "1967-12-09",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Rytterne församling",
+    "link": "http://www.wikidata.org/entity/Q10658365"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "eklund",
+    "maria elvira eklund"
+  ],
+  "iorter": [
+    "Ösmo"
+  ],
+  "positions": [
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elvira%20Eklund%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4946138",
+      "link": "https://www.wikidata.org/wiki/Q4946138"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeeg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeeg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1934",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

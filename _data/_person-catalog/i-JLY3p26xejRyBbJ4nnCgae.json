@@ -1,0 +1,51 @@
+{
+  "name": "nils strandler",
+  "swerik-id": "i-JLY3p26xejRyBbJ4nnCgae",
+  "DOB": "1892-08-14",
+  "DOD": "1973-11-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Växjö församling",
+    "link": "http://www.wikidata.org/entity/Q10718570"
+  },
+  "place-of-death": {
+    "place": "Mjölby församling",
+    "link": "http://www.wikidata.org/entity/Q10586847"
+  },
+  "alt-names": [
+    "nils georg strandler",
+    "strandler"
+  ],
+  "iorter": [
+    "Mjölby"
+  ],
+  "positions": [
+    {
+      "start": "1953-10-19 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Strandler%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6192056",
+      "link": "https://www.wikidata.org/wiki/Q6192056"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaww",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaww"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

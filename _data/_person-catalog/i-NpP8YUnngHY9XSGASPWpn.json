@@ -1,0 +1,89 @@
+{
+  "name": "carl sandquist",
+  "swerik-id": "i-NpP8YUnngHY9XSGASPWpn",
+  "DOB": "1841-06-15",
+  "DOD": "1928-10-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hargs församling",
+    "link": "http://www.wikidata.org/entity/Q10518095"
+  },
+  "place-of-death": {
+    "place": "Börstils församling",
+    "link": "http://www.wikidata.org/entity/Q10438774"
+  },
+  "alt-names": [
+    "sandquist"
+  ],
+  "iorter": [
+    "Söderby Norregård",
+    "Väddö"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Roslags domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Sandquist%201841%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6092974",
+      "link": "https://www.wikidata.org/wiki/Q6092974"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABGdJw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABGdJw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgebA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgebA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1908",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1903",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1900",
+      "end": "1902"
+    },
+    {
+      "party": {
+        "name": "Bondeska diskussionsklubben",
+        "party-id": "Q10432852"
+      },
+      "start": "1898",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

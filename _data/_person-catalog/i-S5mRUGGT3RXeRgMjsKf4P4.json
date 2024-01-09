@@ -1,0 +1,59 @@
+{
+  "name": "tage gussing",
+  "swerik-id": "i-S5mRUGGT3RXeRgMjsKf4P4",
+  "DOB": "1851-03-18",
+  "DOD": "1908-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ystad",
+    "link": "http://www.wikidata.org/entity/Q28287"
+  },
+  "place-of-death": {
+    "place": "Ystad",
+    "link": "http://www.wikidata.org/entity/Q28287"
+  },
+  "alt-names": [
+    "gussing"
+  ],
+  "iorter": [
+    "Ystad"
+  ],
+  "positions": [
+    {
+      "start": "1899-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tage%20Gussing%201851%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5777328",
+      "link": "https://www.wikidata.org/wiki/Q5777328"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRZA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

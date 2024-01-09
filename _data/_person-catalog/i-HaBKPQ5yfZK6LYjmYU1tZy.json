@@ -1,0 +1,51 @@
+{
+  "name": "aida birinxhiku",
+  "swerik-id": "i-HaBKPQ5yfZK6LYjmYU1tZy",
+  "DOB": "1999-06-29",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Aida%20Birinxhiku%2C%20riksdagsledamot%20f%C3%B6r%20Socialdemokraterna%20i%20Halland.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031237",
+      "link": "https://www.wikidata.org/wiki/Q114031237"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0710595759638",
+      "link": "https://data.riksdagen.se/personlista/?iid=0710595759638&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "17eb4f01-2fcf-42ab-a19d-659b568cf1bb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_17eb4f01-2fcf-42ab-a19d-659b568cf1bb"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

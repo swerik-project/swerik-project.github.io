@@ -1,0 +1,80 @@
+{
+  "name": "clas göran carlsson",
+  "swerik-id": "i-4Ws9LsXRwLZaA8tWp4hc7i",
+  "DOB": "1962-09-03",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljungby",
+    "link": "http://www.wikidata.org/entity/Q744491"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "clasgöran carlsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "2017-07-27 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/ClasG%C3%B6ran%20Carlsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4887285",
+      "link": "https://www.wikidata.org/wiki/Q4887285"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "049290762318",
+      "link": "https://data.riksdagen.se/personlista/?iid=049290762318&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "34f7ceb6-9f7c-4b37-a15e-1c61ffa639e5",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_34f7ceb6-9f7c-4b37-a15e-1c61ffa639e5"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

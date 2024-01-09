@@ -1,0 +1,56 @@
+{
+  "name": "knut falk",
+  "swerik-id": "i-458Xitx1rMUDzu6Nz48nrJ",
+  "DOB": "1836-04-25",
+  "DOD": "1918-01-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arboga landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10417015"
+  },
+  "place-of-death": {
+    "place": "Säfsnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10687922"
+  },
+  "alt-names": [
+    "falk",
+    "knut henrik falk"
+  ],
+  "iorter": [
+    "Gravendal"
+  ],
+  "positions": [
+    {
+      "start": "1899-01-01 00:00:00",
+      "end": "1905-08-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Falk%201836%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5724207",
+      "link": "https://www.wikidata.org/wiki/Q5724207"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "IQojCnw0WmAAAAAAAAAVJA",
+      "link": "https://portrattarkiv.se/details/IQojCnw0WmAAAAAAAAAVJA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUvg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUvg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

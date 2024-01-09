@@ -1,0 +1,60 @@
+{
+  "name": "georg af trolle",
+  "swerik-id": "i-Zq5Y9UAAqJMQEuP9CRuss",
+  "DOB": "1834-12-17",
+  "DOD": "1893-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "place-of-death": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "alt-names": [
+    "af trolle"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20af%20Trolle%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q48704901",
+      "link": "https://www.wikidata.org/wiki/Q48704901"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAizQ",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAizQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAizg",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAizg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQPA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQPA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

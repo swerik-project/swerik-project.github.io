@@ -1,0 +1,61 @@
+{
+  "name": "rolf hagel",
+  "swerik-id": "i-6HVmZpF6CAUVuorYgJb32Y",
+  "DOB": "1934-10-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "hagel"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1977-03-10 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1977-03-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5420791",
+      "link": "https://www.wikidata.org/wiki/Q5420791"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1976-10-04",
+      "end": "1977-03-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

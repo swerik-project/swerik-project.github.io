@@ -1,0 +1,51 @@
+{
+  "name": "eugene clairfelt",
+  "swerik-id": "i-SagFYWsf9ZULapdG7h6Wue",
+  "DOB": "1824-07-14",
+  "DOD": "1879-07-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö",
+    "link": "http://www.wikidata.org/entity/Q2211"
+  },
+  "place-of-death": {
+    "place": "Ramlösa hälsobrunn",
+    "link": "http://www.wikidata.org/entity/Q9361026"
+  },
+  "alt-names": [
+    "carl eugene mauritz clairfelt",
+    "clairfelt"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads och Simrishamns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A9ne%20Clairfelt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5609230",
+      "link": "https://www.wikidata.org/wiki/Q5609230"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpiw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpiw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

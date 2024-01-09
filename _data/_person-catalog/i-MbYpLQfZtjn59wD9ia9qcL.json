@@ -1,0 +1,56 @@
+{
+  "name": "gustaf burman",
+  "swerik-id": "i-MbYpLQfZtjn59wD9ia9qcL",
+  "DOB": "1827-06-06",
+  "DOD": "1890-03-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karl Gustavs församling",
+    "link": "http://www.wikidata.org/entity/Q10543677"
+  },
+  "place-of-death": {
+    "place": "Nedertorneå-Haparanda församling",
+    "link": "http://www.wikidata.org/entity/Q10595657"
+  },
+  "alt-names": [
+    "burman",
+    "erik gustaf burman"
+  ],
+  "iorter": [
+    "Nedertorneå"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Torneå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Burman%201827%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5590427",
+      "link": "https://www.wikidata.org/wiki/Q5590427"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA2-wg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA2-wg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ-g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ-g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

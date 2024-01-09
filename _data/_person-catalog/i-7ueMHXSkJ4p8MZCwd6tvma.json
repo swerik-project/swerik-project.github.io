@@ -1,0 +1,60 @@
+{
+  "name": "sofia fölster",
+  "swerik-id": "i-7ueMHXSkJ4p8MZCwd6tvma",
+  "DOB": "1991-12-17",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Nacka",
+    "link": "http://www.wikidata.org/entity/Q13383459"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sofia%20F%C3%B6lster.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18202361",
+      "link": "https://www.wikidata.org/wiki/Q18202361"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0914002106327",
+      "link": "https://data.riksdagen.se/personlista/?iid=0914002106327&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0da60ff2-0199-4192-b0a2-33563891dfed",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0da60ff2-0199-4192-b0a2-33563891dfed"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

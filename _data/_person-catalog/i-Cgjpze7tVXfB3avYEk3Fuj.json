@@ -1,0 +1,79 @@
+{
+  "name": "sigvard rimås",
+  "swerik-id": "i-Cgjpze7tVXfB3avYEk3Fuj",
+  "DOB": "1909-03-21",
+  "DOD": "1972-10-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tjärstads församling",
+    "link": "http://www.wikidata.org/entity/Q10699047"
+  },
+  "place-of-death": {
+    "place": "Västra Ny församling",
+    "link": "http://www.wikidata.org/entity/Q10718315"
+  },
+  "alt-names": [
+    "k sigvard e rimås",
+    "karl sigvard emanuel rimås",
+    "rimås"
+  ],
+  "iorter": [
+    "Åsandby"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1972-10-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1963-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigvard%20Rim%C3%A5s%201909%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6072728",
+      "link": "https://www.wikidata.org/wiki/Q6072728"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga4g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga4g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1971-01-11",
+      "end": "1972-10-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

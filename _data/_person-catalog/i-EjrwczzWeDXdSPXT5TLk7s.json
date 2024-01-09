@@ -1,0 +1,51 @@
+{
+  "name": "johan erland gavelius",
+  "swerik-id": "i-EjrwczzWeDXdSPXT5TLk7s",
+  "DOB": "1816-05-03",
+  "DOD": "1894-11-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Härnösands domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10531743"
+  },
+  "place-of-death": {
+    "place": "Sollefteå församling",
+    "link": "http://www.wikidata.org/entity/Q10673246"
+  },
+  "alt-names": [
+    "gavelius",
+    "janne gavelius"
+  ],
+  "iorter": [
+    "Bollstabruk"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Gavelius%201816%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5753625",
+      "link": "https://www.wikidata.org/wiki/Q5753625"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfog",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfog"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

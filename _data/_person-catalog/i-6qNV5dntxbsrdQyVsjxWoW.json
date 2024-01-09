@@ -1,0 +1,63 @@
+{
+  "name": "folke kyling",
+  "swerik-id": "i-6qNV5dntxbsrdQyVsjxWoW",
+  "DOB": "1901-12-20",
+  "DOD": "1982-06-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderby-Karls församling",
+    "link": "http://www.wikidata.org/entity/Q10688496"
+  },
+  "place-of-death": {
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
+  },
+  "alt-names": [
+    "carl folke frithiof",
+    "karl folke f kyling",
+    "karl folke frithiof kyling",
+    "kyling"
+  ],
+  "iorter": [
+    "Johanheshov",
+    "Lyrestad"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1954-10-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    },
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Folke%20Kyling%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5927887",
+      "link": "https://www.wikidata.org/wiki/Q5927887"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge3A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge3A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

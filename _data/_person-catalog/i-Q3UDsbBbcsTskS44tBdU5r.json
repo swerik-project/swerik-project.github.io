@@ -1,0 +1,49 @@
+{
+  "name": "lennart eliasson",
+  "swerik-id": "i-Q3UDsbBbcsTskS44tBdU5r",
+  "DOB": "1914-09-03",
+  "DOD": "1992-05-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Markaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10577528"
+  },
+  "place-of-death": {
+    "place": "Tullstorp",
+    "link": "http://www.wikidata.org/entity/Q10706158"
+  },
+  "alt-names": [
+    "eliasson",
+    "lennart sixten eliasson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5708836",
+      "link": "https://www.wikidata.org/wiki/Q5708836"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMdw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMdw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

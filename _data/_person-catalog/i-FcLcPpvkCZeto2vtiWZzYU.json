@@ -1,0 +1,87 @@
+{
+  "name": "petter löberg",
+  "swerik-id": "i-FcLcPpvkCZeto2vtiWZzYU",
+  "DOB": "1968-08-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vänersborgs församling",
+    "link": "http://www.wikidata.org/entity/Q18334839"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "2010-02-16 00:00:00",
+      "end": "2010-03-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Petter%20L%C3%B6berg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5969317",
+      "link": "https://www.wikidata.org/wiki/Q5969317"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0274462857213",
+      "link": "https://data.riksdagen.se/personlista/?iid=0274462857213&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7826c819-d0da-4e4a-a16b-ffa3d8e9b155",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7826c819-d0da-4e4a-a16b-ffa3d8e9b155"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "göran ericsson",
+  "swerik-id": "i-RULC5JA5WV3y9ZKs31VLzx",
+  "DOB": "1942-05-16",
+  "DOD": "2011-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ericsson"
+  ],
+  "iorter": [
+    "Hägersten"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-27 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5715151",
+      "link": "https://www.wikidata.org/wiki/Q5715151"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0602452646106",
+      "link": "https://data.riksdagen.se/personlista/?iid=0602452646106&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "47e3083d-d40a-4b98-ab96-c6a7aaba9669",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_47e3083d-d40a-4b98-ab96-c6a7aaba9669"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1988-10-27",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

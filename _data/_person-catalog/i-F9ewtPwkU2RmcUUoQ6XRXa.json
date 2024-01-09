@@ -1,0 +1,51 @@
+{
+  "name": "martin holmström",
+  "swerik-id": "i-F9ewtPwkU2RmcUUoQ6XRXa",
+  "DOB": "1867-02-15",
+  "DOD": "1936-02-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Sönnarslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10718371"
+  },
+  "place-of-death": {
+    "place": "Norra Vrams församling",
+    "link": "http://www.wikidata.org/entity/Q10602615"
+  },
+  "alt-names": [
+    "holmström",
+    "martin wilhelm holmström"
+  ],
+  "iorter": [
+    "Södra Vram"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Holmstr%C3%B6m%201867%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110621758",
+      "link": "https://www.wikidata.org/wiki/Q110621758"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRRw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRRw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

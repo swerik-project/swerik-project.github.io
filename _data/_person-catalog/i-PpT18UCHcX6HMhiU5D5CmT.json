@@ -1,0 +1,50 @@
+{
+  "name": "lars nilsson",
+  "swerik-id": "i-PpT18UCHcX6HMhiU5D5CmT",
+  "DOB": "1818-12-12",
+  "DOD": "1899-03-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arboga landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10417015"
+  },
+  "place-of-death": {
+    "place": "Arboga landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10417015"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Viby"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns västra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Nilsson%20i%20Viby%20%28f.%201818%29%20Arboga.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010969",
+      "link": "https://www.wikidata.org/wiki/Q6010969"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPTg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPTg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

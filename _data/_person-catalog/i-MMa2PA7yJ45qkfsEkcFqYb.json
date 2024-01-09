@@ -1,0 +1,98 @@
+{
+  "name": "christer engelhardt",
+  "swerik-id": "i-MMa2PA7yJ45qkfsEkcFqYb",
+  "DOB": "1969-10-23",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Visby domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10716051"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "christer nils olof engelhardt"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2015-01-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    },
+    {
+      "start": "2005-01-01 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2004-08-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Christer%20och%20Maria%20Engelhardt.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3359406",
+      "link": "https://www.wikidata.org/wiki/Q3359406"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0936723349517",
+      "link": "https://data.riksdagen.se/personlista/?iid=0936723349517&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "815e7b55-9546-4188-86ea-898aa8375ab2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_815e7b55-9546-4188-86ea-898aa8375ab2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2014-09-29",
+      "end": "2015-01-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

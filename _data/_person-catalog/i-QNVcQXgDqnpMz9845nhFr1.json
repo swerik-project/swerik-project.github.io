@@ -1,0 +1,68 @@
+{
+  "name": "jonas petter nilsson",
+  "swerik-id": "i-QNVcQXgDqnpMz9845nhFr1",
+  "DOB": "1829-09-02",
+  "DOD": "1902-12-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tryserums församling",
+    "link": "http://www.wikidata.org/entity/Q10705515"
+  },
+  "place-of-death": {
+    "place": "Tryserums församling",
+    "link": "http://www.wikidata.org/entity/Q10705515"
+  },
+  "alt-names": [
+    "jonas nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Käggla"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Tjusts härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Nilsson%201829%20SPA33%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010769",
+      "link": "https://www.wikidata.org/wiki/Q6010769"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc6Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc6Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

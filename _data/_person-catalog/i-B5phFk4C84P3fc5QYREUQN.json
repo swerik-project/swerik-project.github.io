@@ -1,0 +1,95 @@
+{
+  "name": "lars johan jansson",
+  "swerik-id": "i-B5phFk4C84P3fc5QYREUQN",
+  "DOB": "1840-12-02",
+  "DOD": "1918-07-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Värsås församling",
+    "link": "http://www.wikidata.org/entity/Q10717739"
+  },
+  "place-of-death": {
+    "place": "Värsås församling",
+    "link": "http://www.wikidata.org/entity/Q10717739"
+  },
+  "alt-names": [
+    "jansson",
+    "lars jansson"
+  ],
+  "iorter": [
+    "Djursätra"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns norra valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gudhems och Kåkinds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Jansson%201840%20SPA4.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5879719",
+      "link": "https://www.wikidata.org/wiki/Q5879719"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12050",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12050"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Di4a42b6X_AAAAAAAABpzg",
+      "link": "https://portrattarkiv.se/details/Di4a42b6X_AAAAAAAABpzg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdUQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdUQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

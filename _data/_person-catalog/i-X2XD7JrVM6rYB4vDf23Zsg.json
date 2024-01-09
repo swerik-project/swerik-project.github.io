@@ -1,0 +1,50 @@
+{
+  "name": "hans fredrik bergström",
+  "swerik-id": "i-X2XD7JrVM6rYB4vDf23Zsg",
+  "DOB": "1829-10-05",
+  "DOD": "1890-07-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "place-of-death": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "alt-names": [
+    "bergström"
+  ],
+  "iorter": [
+    "Björsbyn"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Luleå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Fredrik%20Bergstr%C3%B6m%201829%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5573383",
+      "link": "https://www.wikidata.org/wiki/Q5573383"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRAQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRAQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

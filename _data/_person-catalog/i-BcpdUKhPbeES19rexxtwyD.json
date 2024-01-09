@@ -1,0 +1,67 @@
+{
+  "name": "sermin özurkut",
+  "swerik-id": "i-BcpdUKhPbeES19rexxtwyD",
+  "DOB": "1949-12-19",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Turkiet",
+    "link": "http://www.wikidata.org/entity/Q43"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-04-20 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-03-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4991197",
+      "link": "https://www.wikidata.org/wiki/Q4991197"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0229825314217",
+      "link": "https://data.riksdagen.se/personlista/?iid=0229825314217&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f31bc5bb-a0e8-4fee-8897-999f39f47c36",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f31bc5bb-a0e8-4fee-8897-999f39f47c36"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2006-04-20",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

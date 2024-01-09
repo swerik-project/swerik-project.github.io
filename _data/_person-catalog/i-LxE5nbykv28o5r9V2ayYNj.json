@@ -1,0 +1,69 @@
+{
+  "name": "birger gezelius",
+  "swerik-id": "i-LxE5nbykv28o5r9V2ayYNj",
+  "DOB": "1894-05-22",
+  "DOD": "1961-09-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "place-of-death": {
+    "place": "Falköping",
+    "link": "http://www.wikidata.org/entity/Q21165"
+  },
+  "alt-names": [
+    "gezelius",
+    "lars evald birger gezelius"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1960-01-01 00:00:00",
+      "end": "1961-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1959-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Gezelius%201894%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5757569",
+      "link": "https://www.wikidata.org/wiki/Q5757569"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU5w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU5w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

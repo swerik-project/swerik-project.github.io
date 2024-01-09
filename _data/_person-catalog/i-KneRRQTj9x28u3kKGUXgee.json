@@ -1,0 +1,48 @@
+{
+  "name": "gunnar ericsson",
+  "swerik-id": "i-KneRRQTj9x28u3kKGUXgee",
+  "DOB": "1906-07-27",
+  "DOD": "1974-05-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vimmerby stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10715642"
+  },
+  "place-of-death": {
+    "place": "Vimmerby församling",
+    "link": "http://www.wikidata.org/entity/Q10715633"
+  },
+  "alt-names": [
+    "ericsson"
+  ],
+  "iorter": [
+    "Näs"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5411103",
+      "link": "https://www.wikidata.org/wiki/Q5411103"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdEw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdEw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

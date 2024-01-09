@@ -1,0 +1,52 @@
+{
+  "name": "thorwald ekdahl",
+  "swerik-id": "i-BnHiBgFtncWWuL2vqzgWzD",
+  "DOB": "1888-06-12",
+  "DOD": "1966-11-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sireköpinge församling",
+    "link": "http://www.wikidata.org/entity/Q10668783"
+  },
+  "place-of-death": {
+    "place": "Friggeråkers församling",
+    "link": "http://www.wikidata.org/entity/Q10499113"
+  },
+  "alt-names": [
+    "anders elver thorwald ekdahl",
+    "ekdahl"
+  ],
+  "iorter": [
+    "Barkåkra",
+    "Nyvång"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Thorvald%20Ekdahl%201888%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5629550",
+      "link": "https://www.wikidata.org/wiki/Q5629550"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfptA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfptA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

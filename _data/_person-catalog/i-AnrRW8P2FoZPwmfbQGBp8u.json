@@ -1,0 +1,140 @@
+{
+  "name": "arne gadd",
+  "swerik-id": "i-AnrRW8P2FoZPwmfbQGBp8u",
+  "DOB": "1932-09-06",
+  "DOD": "2012-04-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedemora församling",
+    "link": "http://www.wikidata.org/entity/Q18290535"
+  },
+  "place-of-death": {
+    "place": "Uppsala",
+    "link": "http://www.wikidata.org/entity/Q25286"
+  },
+  "alt-names": [
+    "gadd",
+    "per emil arne gadd"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1989-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1979-11-21 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5863281",
+      "link": "https://www.wikidata.org/wiki/Q5863281"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0188408764206",
+      "link": "https://data.riksdagen.se/personlista/?iid=0188408764206&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "23d9e646-2c1c-4439-afcf-9d89f00d4b11",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_23d9e646-2c1c-4439-afcf-9d89f00d4b11"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN_g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN_g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1989-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

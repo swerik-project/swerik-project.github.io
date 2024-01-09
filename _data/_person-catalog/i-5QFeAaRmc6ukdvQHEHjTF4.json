@@ -1,0 +1,56 @@
+{
+  "name": "herman juhlin dannfelt",
+  "swerik-id": "i-5QFeAaRmc6ukdvQHEHjTF4",
+  "DOB": "1852-02-02",
+  "DOD": "1937-07-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lovö församling",
+    "link": "http://www.wikidata.org/entity/Q10570024"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "herman julius brorson juhlin dannfelt",
+    "juhlin dannfelt"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1908-02-26 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Juhlin-Dannfelt%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5893733",
+      "link": "https://www.wikidata.org/wiki/Q5893733"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12233",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12233"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfivw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfivw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

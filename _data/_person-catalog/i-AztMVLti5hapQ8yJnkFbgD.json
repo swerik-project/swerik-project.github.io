@@ -1,0 +1,60 @@
+{
+  "name": "sofia nilsson",
+  "swerik-id": "i-AztMVLti5hapQ8yJnkFbgD",
+  "DOB": "1982-03-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Broby",
+    "link": "http://www.wikidata.org/entity/Q923113"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sofia%20Nilsson%20%2848917879493%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q60823070",
+      "link": "https://www.wikidata.org/wiki/Q60823070"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0454698803028",
+      "link": "https://data.riksdagen.se/personlista/?iid=0454698803028&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "560c0817-1b91-478a-b273-87a82888328e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_560c0817-1b91-478a-b273-87a82888328e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

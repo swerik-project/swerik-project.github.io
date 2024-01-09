@@ -1,0 +1,52 @@
+{
+  "name": "vivi niva",
+  "swerik-id": "i-82MwvDv7xPN1fZSBKWshB8",
+  "DOB": "1919-12-02",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Övertorneå församling",
+    "link": "http://www.wikidata.org/entity/Q10728680"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "kerstin vivi teresia niva",
+    "kerstin vivi teresia stenberg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1988-02-01 00:00:00",
+      "end": "1988-02-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q118873879",
+      "link": "https://www.wikidata.org/wiki/Q118873879"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0231363411995",
+      "link": "https://data.riksdagen.se/personlista/?iid=0231363411995&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7e620df6-3c92-460f-b7c7-017f2a000246",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7e620df6-3c92-460f-b7c7-017f2a000246"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

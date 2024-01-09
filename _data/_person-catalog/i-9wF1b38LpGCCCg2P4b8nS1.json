@@ -1,0 +1,48 @@
+{
+  "name": "feodor werner",
+  "swerik-id": "i-9wF1b38LpGCCCg2P4b8nS1",
+  "DOB": "1836-02-29",
+  "DOD": "1910-12-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skeppsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10670076"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "werner"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105115301",
+      "link": "https://www.wikidata.org/wiki/Q105115301"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNFw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNFw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

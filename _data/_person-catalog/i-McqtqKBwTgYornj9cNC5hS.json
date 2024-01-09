@@ -1,0 +1,50 @@
+{
+  "name": "harald larsson",
+  "swerik-id": "i-McqtqKBwTgYornj9cNC5hS",
+  "DOB": "1913-05-01",
+  "DOD": "1966-08-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grubbnäsudden",
+    "link": "http://www.wikidata.org/entity/Q2798070"
+  },
+  "place-of-death": {
+    "place": "Kalix",
+    "link": "http://www.wikidata.org/entity/Q83681"
+  },
+  "alt-names": [
+    "larsson",
+    "laurell"
+  ],
+  "iorter": [
+    "Hedenäset",
+    "Lundsholm"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1966-08-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6147314",
+      "link": "https://www.wikidata.org/wiki/Q6147314"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRaw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRaw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

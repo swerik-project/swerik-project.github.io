@@ -1,0 +1,104 @@
+{
+  "name": "arvid gumaelius",
+  "swerik-id": "i-Tb3QUhGvYi4j7F3VwMLWH7",
+  "DOB": "1833-11-25",
+  "DOD": "1908-02-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Örebro Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10727452"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl arvid gumaelius",
+    "gumaelius",
+    "gumelius",
+    "karl arvid gumaelius"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Arvid%20Gum%C3%A6lius-1908.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5776520",
+      "link": "https://www.wikidata.org/wiki/Q5776520"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13295",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13295"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "1ha4xkDj-uAAAAAAAAAp1A",
+      "link": "https://portrattarkiv.se/details/1ha4xkDj-uAAAAAAAAAp1A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:66913",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:66913"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsbA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsbA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1891",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "\"vänstern\"",
+        "party-id": "Q111597190"
+      },
+      "start": "1886",
+      "end": "1886"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

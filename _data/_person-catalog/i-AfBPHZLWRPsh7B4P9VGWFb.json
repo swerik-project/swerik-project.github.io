@@ -1,0 +1,68 @@
+{
+  "name": "lars börjesson",
+  "swerik-id": "i-AfBPHZLWRPsh7B4P9VGWFb",
+  "DOB": "1825-11-01",
+  "DOD": "1888-12-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tvååkers församling",
+    "link": "http://www.wikidata.org/entity/Q10706898"
+  },
+  "place-of-death": {
+    "place": "Tvååkers församling",
+    "link": "http://www.wikidata.org/entity/Q10706898"
+  },
+  "alt-names": [
+    "börjesson"
+  ],
+  "iorter": [
+    "Vråen"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Himle härads valkrets"
+    },
+    {
+      "start": "1871-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Himle härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20B%C3%B6rjesson%20Vr%C3%A5en.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5600515",
+      "link": "https://www.wikidata.org/wiki/Q5600515"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfngw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfngw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1888",
+      "end": "1888"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

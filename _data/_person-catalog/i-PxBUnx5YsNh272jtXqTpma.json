@@ -1,0 +1,46 @@
+{
+  "name": "christian söderström",
+  "swerik-id": "i-PxBUnx5YsNh272jtXqTpma",
+  "DOB": "1824-10-03",
+  "DOD": "1904-10-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl christian söderström",
+    "söderström"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4tt%20av%20Christian%20S%C3%B6derstr%C3%B6m.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6202293",
+      "link": "https://www.wikidata.org/wiki/Q6202293"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

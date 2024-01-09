@@ -1,0 +1,89 @@
+{
+  "name": "berit bölander",
+  "swerik-id": "i-6kM68wZxXHDg8bWsDW7eih",
+  "DOB": "1939-08-10",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bölander"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1986-11-05 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1985-11-16 00:00:00",
+      "end": "1986-11-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1985-10-21 00:00:00",
+      "end": "1985-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1984-11-19 00:00:00",
+      "end": "1984-12-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4941539",
+      "link": "https://www.wikidata.org/wiki/Q4941539"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0386891409405",
+      "link": "https://data.riksdagen.se/personlista/?iid=0386891409405&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0b29beb8-5357-462c-9543-01c04d1bb723",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0b29beb8-5357-462c-9543-01c04d1bb723"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1986-11-05",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

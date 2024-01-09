@@ -1,0 +1,50 @@
+{
+  "name": "axel danckwardt lillieström",
+  "swerik-id": "i-VNhc7kVJhkCWCAK5XCdbTH",
+  "DOB": "1839-09-08",
+  "DOD": "1920-01-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västermo församling",
+    "link": "http://www.wikidata.org/entity/Q10717990"
+  },
+  "place-of-death": {
+    "place": "Sya församling",
+    "link": "http://www.wikidata.org/entity/Q10686688"
+  },
+  "alt-names": [
+    "danckwardt lillieström"
+  ],
+  "iorter": [
+    "Solberga"
+  ],
+  "positions": [
+    {
+      "start": "1899-01-01 00:00:00",
+      "end": "1903-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Danckwardt-Lilliestr%C3%B6m%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5616503",
+      "link": "https://www.wikidata.org/wiki/Q5616503"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaHw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaHw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

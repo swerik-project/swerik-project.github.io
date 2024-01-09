@@ -1,0 +1,123 @@
+{
+  "name": "david hansen",
+  "swerik-id": "i-WWTjh2Sq31BbC9iSJFphqg",
+  "DOB": "1880-10-06",
+  "DOD": "1957-05-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Överluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10728626"
+  },
+  "place-of-death": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "alt-names": [
+    "hansen"
+  ],
+  "iorter": [
+    "Gammelstad",
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1930-06-07 00:00:00",
+      "end": "1932-09-24 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ekman II",
+      "district": null
+    },
+    {
+      "start": "1930-06-07 00:00:00",
+      "end": "1932-09-24 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hamrin",
+      "district": null
+    },
+    {
+      "start": "1928-01-01 00:00:00",
+      "end": "1938-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    },
+    {
+      "start": "1919-09-26 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Hans%C3%A9n%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5788293",
+      "link": "https://www.wikidata.org/wiki/Q5788293"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12588",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12588"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRnw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67745",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67745"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACbg7w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACbg7w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACd8yQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACd8yQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1938"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1928",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1919",
+      "end": "1920"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

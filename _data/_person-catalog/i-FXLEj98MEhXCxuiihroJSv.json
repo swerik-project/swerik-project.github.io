@@ -1,0 +1,76 @@
+{
+  "name": "edoff andersson",
+  "swerik-id": "i-FXLEj98MEhXCxuiihroJSv",
+  "DOB": "1892-07-25",
+  "DOD": "1934-06-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Salems församling",
+    "link": "http://www.wikidata.org/entity/Q10660414"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "andersson",
+    "edoff emanuel andersson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1934-06-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edoff%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5340170",
+      "link": "https://www.wikidata.org/wiki/Q5340170"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEjg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEjg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialistiska partiet",
+        "party-id": "Q2425638"
+      },
+      "start": "1934",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Kilbomspartiet",
+        "party-id": "Q111188360"
+      },
+      "start": "1930",
+      "end": "1933"
+    },
+    {
+      "party": {
+        "name": "Kommunistiska partiet",
+        "party-id": "Q965481"
+      },
+      "start": "1929",
+      "end": "1929"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

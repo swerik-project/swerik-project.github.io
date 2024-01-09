@@ -1,0 +1,79 @@
+{
+  "name": "klas malmborg",
+  "swerik-id": "i-WD3x4acRmc8gJstpVpSak5",
+  "DOB": "1865-07-23",
+  "DOD": "1930-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ryssby församling",
+    "link": "http://www.wikidata.org/entity/Q10658311"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "claes alfrid jonsson",
+    "claes alfrid malmborg",
+    "klas alfred malmborg",
+    "malmborg"
+  ],
+  "iorter": [
+    "Ljungby"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Möre domsagas östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Klas%20Malmborg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5973785",
+      "link": "https://www.wikidata.org/wiki/Q5973785"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc_Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc_Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

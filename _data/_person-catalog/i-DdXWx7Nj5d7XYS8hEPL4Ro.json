@@ -1,0 +1,58 @@
+{
+  "name": "siv ramsell",
+  "swerik-id": "i-DdXWx7Nj5d7XYS8hEPL4Ro",
+  "DOB": "1947",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1988-11-11 00:00:00",
+      "end": "1988-12-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q109500985",
+      "link": "https://www.wikidata.org/wiki/Q109500985"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0337174358806",
+      "link": "https://data.riksdagen.se/personlista/?iid=0337174358806&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "50f34d26-9fe9-441d-8892-0ee0ac04a7ae",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_50f34d26-9fe9-441d-8892-0ee0ac04a7ae"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1988-11-11",
+      "end": "1988-12-12"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

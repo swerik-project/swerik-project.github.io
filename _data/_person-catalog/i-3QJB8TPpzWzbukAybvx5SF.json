@@ -1,0 +1,41 @@
+{
+  "name": "elisabet holm",
+  "swerik-id": "i-3QJB8TPpzWzbukAybvx5SF",
+  "DOB": "1917-11-21",
+  "DOD": "1997-06-26",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "place-of-death": {
+    "place": "Karlskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10543859"
+  },
+  "alt-names": [
+    "elisabet larsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1981-05-05 00:00:00",
+      "role": "sjukvårdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4954452",
+      "link": "https://www.wikidata.org/wiki/Q4954452"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

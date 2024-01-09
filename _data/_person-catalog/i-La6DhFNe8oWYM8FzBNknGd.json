@@ -1,0 +1,56 @@
+{
+  "name": "albert lilienberg",
+  "swerik-id": "i-La6DhFNe8oWYM8FzBNknGd",
+  "DOB": "1833-06-08",
+  "DOD": "1921-07-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "place-of-death": {
+    "place": "Ronneby församling",
+    "link": "http://www.wikidata.org/entity/Q10656780"
+  },
+  "alt-names": [
+    "albert alexander lilienberg",
+    "lilienberg"
+  ],
+  "iorter": [
+    "Ronneby"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlshamns, Sölvesborgs och Ronneby valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/AALilienberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5951340",
+      "link": "https://www.wikidata.org/wiki/Q5951340"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11384",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11384"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAA1ww",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAA1ww"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

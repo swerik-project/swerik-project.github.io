@@ -1,0 +1,133 @@
+{
+  "name": "axel pehrsson bramstorp",
+  "swerik-id": "i-QSvXYSPnCaog2kVQuZMYmX",
+  "DOB": "1883-08-19",
+  "DOD": "1954-02-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Öja församling",
+    "link": "http://www.wikidata.org/entity/Q10727163"
+  },
+  "place-of-death": {
+    "place": "Trelleborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10701736"
+  },
+  "alt-names": [
+    "axel alarik pehrsson bramstorp",
+    "pehrsson",
+    "pehrsson bramstorp"
+  ],
+  "iorter": [
+    "Bramstorp"
+  ],
+  "positions": [
+    {
+      "start": "1939-12-13 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1939-12-13 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1936-06-19 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1936-06-19 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1936-06-19 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Pehrsson-Bramstorp",
+      "district": null
+    },
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1949-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Pehrsson-Bramstorp.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q53701",
+      "link": "https://www.wikidata.org/wiki/Q53701"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7079",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7079"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAAArWw",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAAArWw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgR1w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgR1w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1929",
+      "end": "1949"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1918",
+      "end": "1921"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

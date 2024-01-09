@@ -1,0 +1,66 @@
+{
+  "name": "yngve larsson",
+  "swerik-id": "i-UvYFDbcMobZu83QYZFu9QF",
+  "DOB": "1881-12-13",
+  "DOD": "1977-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sundsvalls församling",
+    "link": "http://www.wikidata.org/entity/Q10683835"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "gustaf richard yngve larsson",
+    "larsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1946-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Yngve%20Larsson%20av%20Jan%20de%20Meyere.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1368035",
+      "link": "https://www.wikidata.org/wiki/Q1368035"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11054",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11054"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAC-GA",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAC-GA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:72672",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:72672"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN3Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN3Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "emil kinander",
+  "swerik-id": "i-R7JN7wFG1oCMU6AUTLyeTw",
+  "DOB": "1860-04-15",
+  "DOD": "1929-07-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Långtora församling",
+    "link": "http://www.wikidata.org/entity/Q10572687"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl emil kinander",
+    "kinander"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1907-01-01 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Kinander.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5909615",
+      "link": "https://www.wikidata.org/wiki/Q5909615"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11488",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11488"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNnw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:71801",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:71801"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

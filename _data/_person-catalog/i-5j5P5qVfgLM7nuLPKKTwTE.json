@@ -1,0 +1,48 @@
+{
+  "name": "ivar wittberg",
+  "swerik-id": "i-5j5P5qVfgLM7nuLPKKTwTE",
+  "DOB": "1890-06-02",
+  "DOD": "1966-04-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hemse församling",
+    "link": "http://www.wikidata.org/entity/Q10521833"
+  },
+  "place-of-death": {
+    "place": "Örebro",
+    "link": "http://www.wikidata.org/entity/Q25732"
+  },
+  "alt-names": [
+    "carl ivar wittberg",
+    "carl wittberg",
+    "karl ivar wittberg",
+    "wittberg"
+  ],
+  "iorter": [
+    "Filipstad"
+  ],
+  "positions": [
+    {
+      "start": "1932-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Wittberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111448420",
+      "link": "https://www.wikidata.org/wiki/Q111448420"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

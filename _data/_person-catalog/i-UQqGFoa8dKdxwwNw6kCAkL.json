@@ -1,0 +1,96 @@
+{
+  "name": "gerhard strindlund",
+  "swerik-id": "i-UQqGFoa8dKdxwwNw6kCAkL",
+  "DOB": "1890-09-24",
+  "DOD": "1957-10-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sollefteå församling",
+    "link": "http://www.wikidata.org/entity/Q10673246"
+  },
+  "place-of-death": {
+    "place": "Essinge församling",
+    "link": "http://www.wikidata.org/entity/Q10489189"
+  },
+  "alt-names": [
+    "strindlund"
+  ],
+  "iorter": [
+    "Skedom"
+  ],
+  "positions": [
+    {
+      "start": "1938-12-16 00:00:00",
+      "end": "1939-12-13 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1938-12-16 00:00:00",
+      "end": "1939-12-13 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1936-06-19 00:00:00",
+      "end": "1936-09-28 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Pehrsson-Bramstorp",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gerhard%20Strindlund.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6192576",
+      "link": "https://www.wikidata.org/wiki/Q6192576"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "34547",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34547"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABSDQ",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABSDQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfJg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfJg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

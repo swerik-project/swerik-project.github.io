@@ -1,0 +1,71 @@
+{
+  "name": "marianne andersson",
+  "swerik-id": "i-XimzbhsHd6LGFXU9s2FTzJ",
+  "DOB": "1953",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Gislaved"
+  ],
+  "positions": [
+    {
+      "start": "1990-02-20 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1988-11-13 00:00:00",
+      "end": "1988-12-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21795365",
+      "link": "https://www.wikidata.org/wiki/Q21795365"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0590096877813",
+      "link": "https://data.riksdagen.se/personlista/?iid=0590096877813&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "db72bcbc-f874-4f84-bde0-dd121fb93015",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_db72bcbc-f874-4f84-bde0-dd121fb93015"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1990-02-20",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

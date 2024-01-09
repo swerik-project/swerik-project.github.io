@@ -1,0 +1,67 @@
+{
+  "name": "sofia steiner",
+  "swerik-id": "i-RgFNG2ePDYdWBf83NEmayT",
+  "DOB": "1971",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1996-07-01 00:00:00",
+      "end": "1996-08-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1995-10-03 00:00:00",
+      "end": "1996-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97971249",
+      "link": "https://www.wikidata.org/wiki/Q97971249"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0484493492213",
+      "link": "https://data.riksdagen.se/personlista/?iid=0484493492213&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c4244ef1-947e-4bff-9013-cde6974c841d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c4244ef1-947e-4bff-9013-cde6974c841d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1996-07-01",
+      "end": "1996-08-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

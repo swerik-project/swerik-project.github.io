@@ -1,0 +1,75 @@
+{
+  "name": "sven hammarberg",
+  "swerik-id": "i-JsWHPBCAYAHTnamSZD7gjg",
+  "DOB": "1912-02-08",
+  "DOD": "2002-07-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hofors församling",
+    "link": "http://www.wikidata.org/entity/Q10525048"
+  },
+  "place-of-death": {
+    "place": "Västerås domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10718088"
+  },
+  "alt-names": [
+    "hammarberg"
+  ],
+  "iorter": [
+    "Västerås"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1961-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786657",
+      "link": "https://www.wikidata.org/wiki/Q5786657"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPSg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPSg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

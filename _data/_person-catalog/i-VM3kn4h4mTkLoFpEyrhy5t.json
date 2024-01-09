@@ -1,0 +1,132 @@
+{
+  "name": "hjalmar branting",
+  "swerik-id": "i-VM3kn4h4mTkLoFpEyrhy5t",
+  "DOB": "1860-11-23",
+  "DOD": "1925-02-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Gustav Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10511165"
+  },
+  "alt-names": [
+    "branting"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1924-10-14 00:00:00",
+      "end": "1925-01-24 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting III",
+      "district": null
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1920-03-10 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1917-10-19 00:00:00",
+      "end": "1918-01-05 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Edén",
+      "district": null
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1925-01-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hjalmar%20Brantings%20portr%C3%A4tt%20av%20Richard%20Bergh.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q53620",
+      "link": "https://www.wikidata.org/wiki/Q53620"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16868",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16868"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4lEQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4lEQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:60259",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:60259"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:7396",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:7396"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEvA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEvA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1903",
+      "end": "1925"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1897",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

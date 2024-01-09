@@ -1,0 +1,69 @@
+{
+  "name": "carl jakob jakobson",
+  "swerik-id": "i-88F2izoh1T5L92PUKZMdpe",
+  "DOB": "1839-10-27",
+  "DOD": "1907-06-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Godegårds församling",
+    "link": "http://www.wikidata.org/entity/Q10506658"
+  },
+  "place-of-death": {
+    "place": "Vadstena församling",
+    "link": "http://www.wikidata.org/entity/Q10711974"
+  },
+  "alt-names": [
+    "c j jakobson",
+    "carl jakobson",
+    "jakobson"
+  ],
+  "iorter": [
+    "Karlshult"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Aska, Dals och Bobergs domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Jakob%20Jakobson%201839%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5827298",
+      "link": "https://www.wikidata.org/wiki/Q5827298"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgabg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgabg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

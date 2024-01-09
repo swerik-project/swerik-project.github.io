@@ -1,0 +1,76 @@
+{
+  "name": "nils oskar nilsson",
+  "swerik-id": "i-6PVw9b14nHyyamxGVvRRDJ",
+  "DOB": "1935-08-23",
+  "DOD": "2018-12-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-03-01 00:00:00",
+      "end": "2014-04-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2003-09-22 00:00:00",
+      "end": "2004-06-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011391",
+      "link": "https://www.wikidata.org/wiki/Q6011391"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0186989169008",
+      "link": "https://data.riksdagen.se/personlista/?iid=0186989169008&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7cfb3e67-aebd-4acb-a4f8-51daf320b1e5",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7cfb3e67-aebd-4acb-a4f8-51daf320b1e5"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-03-01",
+      "end": "2014-04-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

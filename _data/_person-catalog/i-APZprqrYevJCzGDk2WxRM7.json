@@ -1,0 +1,52 @@
+{
+  "name": "anne marie gustafsson",
+  "swerik-id": "i-APZprqrYevJCzGDk2WxRM7",
+  "DOB": "1923-06-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "gustafsson"
+  ],
+  "iorter": [
+    "Brunsbo"
+  ],
+  "positions": [
+    {
+      "start": "1977-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98538756",
+      "link": "https://www.wikidata.org/wiki/Q98538756"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1977-10-04",
+      "end": "1979-10-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

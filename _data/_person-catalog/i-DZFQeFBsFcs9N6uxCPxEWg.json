@@ -1,0 +1,56 @@
+{
+  "name": "evald krispin kropp",
+  "swerik-id": "i-DZFQeFBsFcs9N6uxCPxEWg",
+  "DOB": "1859-07-30",
+  "DOD": "1918-09-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Harakers församling",
+    "link": "http://www.wikidata.org/entity/Q10517960"
+  },
+  "place-of-death": {
+    "place": "Klosters församling",
+    "link": "http://www.wikidata.org/entity/Q10546437"
+  },
+  "alt-names": [
+    "evald chrispin kropp",
+    "kropp"
+  ],
+  "iorter": [
+    "Eskilstuna"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1918-09-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Evald%20Chrispin%20Kropp%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5924265",
+      "link": "https://www.wikidata.org/wiki/Q5924265"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPqg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPqg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:72152",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:72152"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

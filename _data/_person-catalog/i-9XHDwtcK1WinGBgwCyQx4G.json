@@ -1,0 +1,61 @@
+{
+  "name": "olof hallin",
+  "swerik-id": "i-9XHDwtcK1WinGBgwCyQx4G",
+  "DOB": "1821-03-03",
+  "DOD": "1888-12-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bankekinds församling",
+    "link": "http://www.wikidata.org/entity/Q10426046"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "hallin",
+    "olof fredrik hallin"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1871-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Hallin%20%28l%C3%A4kare%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5784939",
+      "link": "https://www.wikidata.org/wiki/Q5784939"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAATGg",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAATGg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:5201",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:5201"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU2A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU2A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

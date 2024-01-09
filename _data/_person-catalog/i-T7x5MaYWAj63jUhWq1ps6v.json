@@ -1,0 +1,82 @@
+{
+  "name": "walburga habsburg douglas",
+  "swerik-id": "i-T7x5MaYWAj63jUhWq1ps6v",
+  "DOB": "1958-10-05",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Berg",
+    "link": "http://www.wikidata.org/entity/Q127744"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "walburga douglas",
+    "walburga habsburg",
+    "walburga von habsburg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2013-06-29 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2012-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20europeanpeoplesparty%20-%20EPP%20Congress%20Bonn%20%28635%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q77555",
+      "link": "https://www.wikidata.org/wiki/Q77555"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0181728423812",
+      "link": "https://data.riksdagen.se/personlista/?iid=0181728423812&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5b225ad5-56be-4497-8f30-fad280dbb87f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5b225ad5-56be-4497-8f30-fad280dbb87f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2013-06-29",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "conrad cedercrantz",
+  "swerik-id": "i-N8FXGCgL6sRda95xoiryMZ",
+  "DOB": "1854-10-22",
+  "DOD": "1932-08-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tuna församling",
+    "link": "http://www.wikidata.org/entity/Q10706262"
+  },
+  "place-of-death": {
+    "place": "Stuttgart",
+    "link": "http://www.wikidata.org/entity/Q1022"
+  },
+  "alt-names": [
+    "cedercrantz",
+    "otto conrad waldemar cedercrantz"
+  ],
+  "iorter": [
+    "Kalmar",
+    "Kulltorp"
+  ],
+  "positions": [
+    {
+      "start": "1904-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Conrad%20Waldemar%20Cedercrantz%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5605497",
+      "link": "https://www.wikidata.org/wiki/Q5605497"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16548",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16548"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdFw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdFw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1908",
+      "end": "1908"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

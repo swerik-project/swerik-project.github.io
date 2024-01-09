@@ -1,0 +1,81 @@
+{
+  "name": "carl oscar johansson",
+  "swerik-id": "i-KskiFCs8o96tmw5AHrgTPt",
+  "DOB": "1875-12-20",
+  "DOD": "1938-09-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10543859"
+  },
+  "place-of-death": {
+    "place": "Sollefteå församling",
+    "link": "http://www.wikidata.org/entity/Q10673246"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Sollefteå"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Oscar%20Johansson.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5885765",
+      "link": "https://www.wikidata.org/wiki/Q5885765"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfqg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfqg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:72054",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:72054"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1924",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Socialdemokratiska vänstergruppen",
+        "party-id": "Q10672903"
+      },
+      "start": "1917",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

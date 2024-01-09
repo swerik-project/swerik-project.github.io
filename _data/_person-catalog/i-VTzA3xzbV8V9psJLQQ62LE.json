@@ -1,0 +1,56 @@
+{
+  "name": "erik bernström",
+  "swerik-id": "i-VTzA3xzbV8V9psJLQQ62LE",
+  "DOB": "1875-08-27",
+  "DOD": "1954-10-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Carl Johans församling",
+    "link": "http://www.wikidata.org/entity/Q10512805"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "bernström",
+    "erik andreas bernström"
+  ],
+  "iorter": [
+    "Djursholms Ösby"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Bernstr%C3%B6m%201875%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5574107",
+      "link": "https://www.wikidata.org/wiki/Q5574107"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADXog",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADXog"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgejA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgejA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

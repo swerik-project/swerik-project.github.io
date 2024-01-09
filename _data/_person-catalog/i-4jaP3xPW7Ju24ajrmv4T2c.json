@@ -1,0 +1,67 @@
+{
+  "name": "torsten henrikson",
+  "swerik-id": "i-4jaP3xPW7Ju24ajrmv4T2c",
+  "DOB": "1906-08-03",
+  "DOD": "1983-09-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Haga församling",
+    "link": "http://www.wikidata.org/entity/Q10515876"
+  },
+  "place-of-death": {
+    "place": "Härlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10531676"
+  },
+  "alt-names": [
+    "henrikson"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1933-05-09 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Torsten%20Henrikson%201957.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5801319",
+      "link": "https://www.wikidata.org/wiki/Q5801319"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfStA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfStA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialistiska partiet",
+        "party-id": "Q2425638"
+      },
+      "start": "1934",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1933",
+      "end": "1933"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

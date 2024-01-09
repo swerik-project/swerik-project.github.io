@@ -1,0 +1,58 @@
+{
+  "name": "greger tidlund",
+  "swerik-id": "i-34DNmqiL54dgDmYoH4mPs8",
+  "DOB": "1953",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-02-01 00:00:00",
+      "end": "2010-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97824072",
+      "link": "https://www.wikidata.org/wiki/Q97824072"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0197306878612",
+      "link": "https://data.riksdagen.se/personlista/?iid=0197306878612&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "949ae3d9-eec1-4804-a0da-5c2a3ada8097",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_949ae3d9-eec1-4804-a0da-5c2a3ada8097"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2010-02-01",
+      "end": "2010-05-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

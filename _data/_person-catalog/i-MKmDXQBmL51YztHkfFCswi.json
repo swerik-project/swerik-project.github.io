@@ -1,0 +1,55 @@
+{
+  "name": "august bystedt",
+  "swerik-id": "i-MKmDXQBmL51YztHkfFCswi",
+  "DOB": "1848-11-02",
+  "DOD": "1902-12-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Häggdångers församling",
+    "link": "http://www.wikidata.org/entity/Q10531271"
+  },
+  "place-of-death": {
+    "place": "Sundsvalls församling",
+    "link": "http://www.wikidata.org/entity/Q10683835"
+  },
+  "alt-names": [
+    "bystedt"
+  ],
+  "iorter": [
+    "Sundsvall"
+  ],
+  "positions": [
+    {
+      "start": "1902-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundsvalls valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Bystedt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5591469",
+      "link": "https://www.wikidata.org/wiki/Q5591469"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA3LfQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA3LfQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfVQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfVQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

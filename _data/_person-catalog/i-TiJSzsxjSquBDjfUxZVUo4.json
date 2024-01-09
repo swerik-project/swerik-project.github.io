@@ -1,0 +1,61 @@
+{
+  "name": "victor hugo wickström",
+  "swerik-id": "i-TiJSzsxjSquBDjfUxZVUo4",
+  "DOB": "1856-05-29",
+  "DOD": "1907-12-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedemora församling",
+    "link": "http://www.wikidata.org/entity/Q18290535"
+  },
+  "place-of-death": {
+    "place": "Östersunds församling",
+    "link": "http://www.wikidata.org/entity/Q10728127"
+  },
+  "alt-names": [
+    "asoka rodiya",
+    "christer swahn",
+    "dag svenske",
+    "hugo wickström",
+    "phemios",
+    "stefanus eremita",
+    "wickström"
+  ],
+  "iorter": [
+    "Östersund"
+  ],
+  "positions": [
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östersunds och Hudiksvalls valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Hugo%20Wickstr%C3%B6m%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6239905",
+      "link": "https://www.wikidata.org/wiki/Q6239905"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ6Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ6Q"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29685",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29685"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

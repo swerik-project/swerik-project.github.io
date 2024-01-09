@@ -1,0 +1,96 @@
+{
+  "name": "kenneth johansson",
+  "swerik-id": "i-EANGVQ7bBDvQLJRQXHptPX",
+  "DOB": "1956-05-02",
+  "DOD": "2021-07-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Avesta",
+    "link": "http://www.wikidata.org/entity/Q83682"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2012-08-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1996-01-29 00:00:00",
+      "end": "1996-02-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Johansson%20%28C%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5886752",
+      "link": "https://www.wikidata.org/wiki/Q5886752"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0327857385513",
+      "link": "https://data.riksdagen.se/personlista/?iid=0327857385513&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c32412-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c32412-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2010-10-04",
+      "end": "2012-08-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

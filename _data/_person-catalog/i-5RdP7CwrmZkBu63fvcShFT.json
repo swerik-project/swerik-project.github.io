@@ -1,0 +1,55 @@
+{
+  "name": "elis nilson",
+  "swerik-id": "i-5RdP7CwrmZkBu63fvcShFT",
+  "DOB": "1842-06-01",
+  "DOD": "1898-05-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hardeberga församling",
+    "link": "http://www.wikidata.org/entity/Q10518044"
+  },
+  "place-of-death": {
+    "place": "Ystad",
+    "link": "http://www.wikidata.org/entity/Q28287"
+  },
+  "alt-names": [
+    "elis bernhard adolf nilson",
+    "nilson"
+  ],
+  "iorter": [
+    "Ystad"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1898-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ystads valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ystads, Skanör-Falsterbo och Trelleborgs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elis%20Nilson%20SPG.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6009010",
+      "link": "https://www.wikidata.org/wiki/Q6009010"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

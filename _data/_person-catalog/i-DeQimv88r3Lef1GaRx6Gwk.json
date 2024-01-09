@@ -1,0 +1,58 @@
+{
+  "name": "martin larsson",
+  "swerik-id": "i-DeQimv88r3Lef1GaRx6Gwk",
+  "DOB": "1910-02-05",
+  "DOD": "1985-09-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "bengt martin larsson",
+    "larsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1968-04-24 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938180",
+      "link": "https://www.wikidata.org/wiki/Q5938180"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfM_A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfM_A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

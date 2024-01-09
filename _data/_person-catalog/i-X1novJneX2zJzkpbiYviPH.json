@@ -1,0 +1,44 @@
+{
+  "name": "johan persson",
+  "swerik-id": "i-X1novJneX2zJzkpbiYviPH",
+  "DOB": "1887-02-27",
+  "DOD": "1947-04-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mularps socken",
+    "link": "http://www.wikidata.org/entity/Q10590046"
+  },
+  "place-of-death": {
+    "place": "Tidaholm",
+    "link": "http://www.wikidata.org/entity/Q983889"
+  },
+  "alt-names": [
+    "johan albert leander persson",
+    "persson"
+  ],
+  "iorter": [
+    "Tidaholm"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1947-04-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043112",
+      "link": "https://www.wikidata.org/wiki/Q6043112"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

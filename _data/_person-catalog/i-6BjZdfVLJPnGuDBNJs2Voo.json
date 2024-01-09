@@ -1,0 +1,51 @@
+{
+  "name": "erik pettersson",
+  "swerik-id": "i-6BjZdfVLJPnGuDBNJs2Voo",
+  "DOB": "1889-04-17",
+  "DOD": "1955-09-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "By församling",
+    "link": "http://www.wikidata.org/entity/Q10438113"
+  },
+  "place-of-death": {
+    "place": "Folkärna församling",
+    "link": "http://www.wikidata.org/entity/Q10497509"
+  },
+  "alt-names": [
+    "erik albert pettersson",
+    "pettersson"
+  ],
+  "iorter": [
+    "Ersbacken"
+  ],
+  "positions": [
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Pettersson%201889%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6046742",
+      "link": "https://www.wikidata.org/wiki/Q6046742"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb5g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb5g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

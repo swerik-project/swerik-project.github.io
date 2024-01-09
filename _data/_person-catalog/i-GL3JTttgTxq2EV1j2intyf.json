@@ -1,0 +1,50 @@
+{
+  "name": "otto anderson",
+  "swerik-id": "i-GL3JTttgTxq2EV1j2intyf",
+  "DOB": "1874-11-14",
+  "DOD": "1932-01-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lästringe församling",
+    "link": "http://www.wikidata.org/entity/Q10572407"
+  },
+  "place-of-death": {
+    "place": "Vadstena församling",
+    "link": "http://www.wikidata.org/entity/Q10711974"
+  },
+  "alt-names": [
+    "anderson"
+  ],
+  "iorter": [
+    "Linköping"
+  ],
+  "positions": [
+    {
+      "start": "1919-05-21 00:00:00",
+      "end": "1920-05-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Anderson%201874%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111438695",
+      "link": "https://www.wikidata.org/wiki/Q111438695"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaCQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

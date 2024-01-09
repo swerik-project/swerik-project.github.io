@@ -1,0 +1,57 @@
+{
+  "name": "karl magnus andersson",
+  "swerik-id": "i-WsSYRNyvrHGqpbtNPRGG1m",
+  "DOB": "1853-11-22",
+  "DOD": "1939-05-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stenums församling",
+    "link": "http://www.wikidata.org/entity/Q10679322"
+  },
+  "place-of-death": {
+    "place": "Härlunda församling",
+    "link": "http://www.wikidata.org/entity/Q10531695"
+  },
+  "alt-names": [
+    "andersson",
+    "carl magnus andersson",
+    "km andersson"
+  ],
+  "iorter": [
+    "Milsmaden"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Magnus%20Andersson%201853%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555145",
+      "link": "https://www.wikidata.org/wiki/Q5555145"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4t2A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4t2A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdUw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdUw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

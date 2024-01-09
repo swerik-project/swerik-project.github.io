@@ -1,0 +1,125 @@
+{
+  "name": "ulla britt åbark",
+  "swerik-id": "i-C5JetE1KcaA3AEzNVRe5CG",
+  "DOB": "1936",
+  "DOD": "1992-05-20",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "åbark"
+  ],
+  "iorter": [
+    "Kungsbacka"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-05-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1990-12-10 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1989-12-16 00:00:00",
+      "end": "1990-11-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1989-11-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1981-04-30 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1981-04-01 00:00:00",
+      "end": "1981-04-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4990983",
+      "link": "https://www.wikidata.org/wiki/Q4990983"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0608089286702",
+      "link": "https://data.riksdagen.se/personlista/?iid=0608089286702&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b61344de-4b45-41e4-aa60-56356d06ea69",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b61344de-4b45-41e4-aa60-56356d06ea69"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1992-05-20"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

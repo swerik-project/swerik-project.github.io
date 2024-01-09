@@ -1,0 +1,49 @@
+{
+  "name": "axel gylfe",
+  "swerik-id": "i-3NBw8ikngc89zrUXJBCx5D",
+  "DOB": "1883-07-19",
+  "DOD": "1930-01-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Folkärna församling",
+    "link": "http://www.wikidata.org/entity/Q10497509"
+  },
+  "place-of-death": {
+    "place": "Sandvikens församling",
+    "link": "http://www.wikidata.org/entity/Q10661257"
+  },
+  "alt-names": [
+    "axel edvard jonsson gylfe",
+    "gylfe"
+  ],
+  "iorter": [
+    "Krylbo"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5779149",
+      "link": "https://www.wikidata.org/wiki/Q5779149"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUmQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUmQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

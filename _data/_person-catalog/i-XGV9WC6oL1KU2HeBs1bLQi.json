@@ -1,0 +1,67 @@
+{
+  "name": "patrik stockman",
+  "swerik-id": "i-XGV9WC6oL1KU2HeBs1bLQi",
+  "DOB": "1824-08-19",
+  "DOD": "1890-03-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fors församling",
+    "link": "http://www.wikidata.org/entity/Q10498043"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "stockman"
+  ],
+  "iorter": [
+    "Kuserud"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1890-03-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundals härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Patrik%20Stockman%201824%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6190941",
+      "link": "https://www.wikidata.org/wiki/Q6190941"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZiA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZiA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1885",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

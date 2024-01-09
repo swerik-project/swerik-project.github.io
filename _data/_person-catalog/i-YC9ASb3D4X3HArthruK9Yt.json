@@ -1,0 +1,72 @@
+{
+  "name": "sigrid ekendahl",
+  "swerik-id": "i-YC9ASb3D4X3HArthruK9Yt",
+  "DOB": "1904-01-17",
+  "DOD": "1996-10-15",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Eskilstuna stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10489097"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "ekendahl",
+    "eriksson",
+    "sigrid eriksson ekendahl",
+    "sigrid hildur elvira ekendahl"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1956-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1940-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigrid%20Hildur%20Elvira%20Ekendahl%202.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4946074",
+      "link": "https://www.wikidata.org/wiki/Q4946074"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABX1A",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABX1A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:39645",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:39645"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMmg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMmg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

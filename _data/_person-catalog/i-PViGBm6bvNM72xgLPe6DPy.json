@@ -1,0 +1,55 @@
+{
+  "name": "herman norling",
+  "swerik-id": "i-PViGBm6bvNM72xgLPe6DPy",
+  "DOB": "1889-06-06",
+  "DOD": "1978-10-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rämmens församling",
+    "link": "http://www.wikidata.org/entity/Q10658435"
+  },
+  "place-of-death": {
+    "place": "Norrstrands församling",
+    "link": "http://www.wikidata.org/entity/Q10602940"
+  },
+  "alt-names": [
+    "norling"
+  ],
+  "iorter": [
+    "Lesjöfors"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1937-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Norling.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6017044",
+      "link": "https://www.wikidata.org/wiki/Q6017044"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcPw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcPw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "wbbNj8LLWMAAAAAAAABIwQ",
+      "link": "https://portrattarkiv.se/details/wbbNj8LLWMAAAAAAAABIwQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "hugo arwidsson",
+  "swerik-id": "i-3sN9DMuKUv4qbPVAGpgpoG",
+  "DOB": "1825-08-06",
+  "DOD": "1886-01-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "arwidsson",
+    "hugo ivar arwidsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1883-01-01 00:00:00",
+      "end": "1886-01-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Arwidsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5560646",
+      "link": "https://www.wikidata.org/wiki/Q5560646"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA3gIA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA3gIA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEiA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEiA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

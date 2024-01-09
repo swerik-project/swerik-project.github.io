@@ -1,0 +1,49 @@
+{
+  "name": "axel leander",
+  "swerik-id": "i-NFv2qxFFXnJhXFucqnQBjY",
+  "DOB": "1888-08-28",
+  "DOD": "1958-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Backaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10424149"
+  },
+  "place-of-death": {
+    "place": "Ystads församling",
+    "link": "http://www.wikidata.org/entity/Q10723793"
+  },
+  "alt-names": [
+    "leander",
+    "leander jönsson"
+  ],
+  "iorter": [
+    "Ystad"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5942265",
+      "link": "https://www.wikidata.org/wiki/Q5942265"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRSA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRSA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

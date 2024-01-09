@@ -1,0 +1,52 @@
+{
+  "name": "gustaf svensson",
+  "swerik-id": "i-JzFnmTZvh2HBnWRxpGWm5p",
+  "DOB": "1901-06-11",
+  "DOD": "1997-08-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Reftele församling",
+    "link": "http://www.wikidata.org/entity/Q10650352"
+  },
+  "place-of-death": {
+    "place": "Reftele församling",
+    "link": "http://www.wikidata.org/entity/Q10650352"
+  },
+  "alt-names": [
+    "svensson"
+  ],
+  "iorter": [
+    "Vä"
+  ],
+  "positions": [
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198525",
+      "link": "https://www.wikidata.org/wiki/Q6198525"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

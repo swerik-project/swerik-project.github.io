@@ -1,0 +1,49 @@
+{
+  "name": "tage hansson",
+  "swerik-id": "i-2drk6Ji3xqAraxv3JSzgNa",
+  "DOB": "1915-07-07",
+  "DOD": "1989-06-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Luleå",
+    "link": "http://www.wikidata.org/entity/Q26268"
+  },
+  "place-of-death": {
+    "place": "Piteå",
+    "link": "http://www.wikidata.org/entity/Q21169"
+  },
+  "alt-names": [
+    "hansson",
+    "tage tycko hansson"
+  ],
+  "iorter": [
+    "Piteå"
+  ],
+  "positions": [
+    {
+      "start": "1967-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5789691",
+      "link": "https://www.wikidata.org/wiki/Q5789691"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRPw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRPw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

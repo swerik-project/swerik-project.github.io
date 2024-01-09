@@ -1,0 +1,69 @@
+{
+  "name": "karl wilhelm skareen",
+  "swerik-id": "i-DHjzH9jnTayyfbJeUy4jsg",
+  "DOB": "1866-09-30",
+  "DOD": "1924-05-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skärvs församling",
+    "link": "http://www.wikidata.org/entity/Q10671041"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "karl wilhelm andersson",
+    "karl wilhelm andersson skareen",
+    "skareen"
+  ],
+  "iorter": [
+    "Skövde"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Skareen%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6179501",
+      "link": "https://www.wikidata.org/wiki/Q6179501"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd7g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd7g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokratiska vänstergruppen",
+        "party-id": "Q10672903"
+      },
+      "start": "1917",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1914",
+      "end": "1916"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

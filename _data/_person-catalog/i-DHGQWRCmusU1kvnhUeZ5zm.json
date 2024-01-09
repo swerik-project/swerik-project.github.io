@@ -1,0 +1,78 @@
+{
+  "name": "edvard petersson",
+  "swerik-id": "i-DHGQWRCmusU1kvnhUeZ5zm",
+  "DOB": "1875-08-09",
+  "DOD": "1949-02-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Älmeboda församling",
+    "link": "http://www.wikidata.org/entity/Q10725645"
+  },
+  "place-of-death": {
+    "place": "Eringsboda församling",
+    "link": "http://www.wikidata.org/entity/Q10487774"
+  },
+  "alt-names": [
+    "j edvard petersson",
+    "johan edvard petersson",
+    "petersson"
+  ],
+  "iorter": [
+    "Storegården"
+  ],
+  "positions": [
+    {
+      "start": "1936-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "1932-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Petersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q115870509",
+      "link": "https://www.wikidata.org/wiki/Q115870509"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQOw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQOw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1936",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1932",
+      "end": "1932"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

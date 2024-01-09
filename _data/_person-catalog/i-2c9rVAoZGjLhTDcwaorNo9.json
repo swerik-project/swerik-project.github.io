@@ -1,0 +1,78 @@
+{
+  "name": "niklas karlsson",
+  "swerik-id": "i-2c9rVAoZGjLhTDcwaorNo9",
+  "DOB": "1974-06-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landskrona församling",
+    "link": "http://www.wikidata.org/entity/Q10553938"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Niklas%20Karlsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16633140",
+      "link": "https://www.wikidata.org/wiki/Q16633140"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "065105536026",
+      "link": "https://data.riksdagen.se/personlista/?iid=065105536026&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b20fb574-b44c-42af-ae93-064dfabbffaf",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b20fb574-b44c-42af-ae93-064dfabbffaf"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

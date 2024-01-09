@@ -1,0 +1,55 @@
+{
+  "name": "olof andersson",
+  "swerik-id": "i-TW2v8kvC9bB35Jx86j8aCC",
+  "DOB": "1887-06-10",
+  "DOD": "1961-10-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fränninge församling",
+    "link": "http://www.wikidata.org/entity/Q10499629"
+  },
+  "place-of-death": {
+    "place": "Möllevångens församling",
+    "link": "http://www.wikidata.org/entity/Q10593520"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Andersson%201887%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555679",
+      "link": "https://www.wikidata.org/wiki/Q5555679"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5FrA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5FrA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO4Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO4Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

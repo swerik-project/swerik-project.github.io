@@ -1,0 +1,64 @@
+{
+  "name": "adolf westrin",
+  "swerik-id": "i-JdNpeUCX3ZK9NMoMR8C4zh",
+  "DOB": "1847-01-12",
+  "DOD": "1911-07-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Asarums församling",
+    "link": "http://www.wikidata.org/entity/Q10419122"
+  },
+  "place-of-death": {
+    "place": "Kalmar domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10542836"
+  },
+  "alt-names": [
+    "westrin"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Westrin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q19977241",
+      "link": "https://www.wikidata.org/wiki/Q19977241"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAA0jg",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAA0jg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc_w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc_w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1889"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

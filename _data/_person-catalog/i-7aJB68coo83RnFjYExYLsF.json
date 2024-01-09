@@ -1,0 +1,49 @@
+{
+  "name": "martin ljungberg",
+  "swerik-id": "i-7aJB68coo83RnFjYExYLsF",
+  "DOB": "1894-12-06",
+  "DOD": "1949-11-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Hedvigs församling",
+    "link": "http://www.wikidata.org/entity/Q10602799"
+  },
+  "place-of-death": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "alt-names": [
+    "ljungberg",
+    "martin samuel ljungberg"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1949-11-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5960947",
+      "link": "https://www.wikidata.org/wiki/Q5960947"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga3w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga3w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

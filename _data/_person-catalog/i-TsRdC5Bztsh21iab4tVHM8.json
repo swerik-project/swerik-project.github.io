@@ -1,0 +1,48 @@
+{
+  "name": "anton svensson",
+  "swerik-id": "i-TsRdC5Bztsh21iab4tVHM8",
+  "DOB": "1859-01-06",
+  "DOD": "1933-06-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Eksjö landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10480772"
+  },
+  "place-of-death": {
+    "place": "Eksjö landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10480772"
+  },
+  "alt-names": [
+    "svensson"
+  ],
+  "iorter": [
+    "Högsjöhult"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198270",
+      "link": "https://www.wikidata.org/wiki/Q6198270"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbGA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbGA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "erik ullenhag",
+  "swerik-id": "i-QKE6ihmLRJvwhV4neD6h7b",
+  "DOB": "1972-07-20",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10519481"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "erik jörgen carl ullenhag"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-10-04 00:00:00",
+      "end": "2016-08-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2009-07-14 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2005-07-16 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2005-01-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Ullenhag%201c399%200316.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4588714",
+      "link": "https://www.wikidata.org/wiki/Q4588714"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0275724540919",
+      "link": "https://data.riksdagen.se/personlista/?iid=0275724540919&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ee124ebd-22d4-482c-b074-224db3409a10",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ee124ebd-22d4-482c-b074-224db3409a10"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2014-10-04",
+      "end": "2016-08-25"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

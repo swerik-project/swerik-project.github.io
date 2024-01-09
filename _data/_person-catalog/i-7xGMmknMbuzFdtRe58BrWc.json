@@ -1,0 +1,50 @@
+{
+  "name": "hans morfeldt",
+  "swerik-id": "i-7xGMmknMbuzFdtRe58BrWc",
+  "DOB": "1879-05-18",
+  "DOD": "1970-03-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Eda församling",
+    "link": "http://www.wikidata.org/entity/Q10479823"
+  },
+  "place-of-death": {
+    "place": "Eda församling",
+    "link": "http://www.wikidata.org/entity/Q10479823"
+  },
+  "alt-names": [
+    "morfeldt"
+  ],
+  "iorter": [
+    "Eda glasbruk"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Morfeldt%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5993615",
+      "link": "https://www.wikidata.org/wiki/Q5993615"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcDA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcDA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

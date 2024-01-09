@@ -1,0 +1,96 @@
+{
+  "name": "wilhelm dufva",
+  "swerik-id": "i-XDG44hX632Fdzg8LhQZZrW",
+  "DOB": "1825-10-06",
+  "DOD": "1883-08-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "place-of-death": {
+    "place": "Överjärna församling",
+    "link": "http://www.wikidata.org/entity/Q10728600"
+  },
+  "alt-names": [
+    "alfred wilhelm dufwa",
+    "dufwa"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Dufva.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5625211",
+      "link": "https://www.wikidata.org/wiki/Q5625211"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17685",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17685"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMmQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMmQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:64621",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:64621"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiets filial",
+        "party-id": "Q10554126"
+      },
+      "start": "1873",
+      "end": "1879"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1870",
+      "end": "1872"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

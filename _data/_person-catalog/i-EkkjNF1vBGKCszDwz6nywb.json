@@ -1,0 +1,74 @@
+{
+  "name": "john rettig",
+  "swerik-id": "i-EkkjNF1vBGKCszDwz6nywb",
+  "DOB": "1847-08-18",
+  "DOD": "1907-07-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "place-of-death": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "alt-names": [
+    "johan robert rettig",
+    "john robert rettig",
+    "rettig"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävle valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Rettig%20SPA15%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6068620",
+      "link": "https://www.wikidata.org/wiki/Q6068620"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAA-uA",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAA-uA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO9w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO9w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1894",
+      "end": "1904"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

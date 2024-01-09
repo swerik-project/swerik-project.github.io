@@ -1,0 +1,89 @@
+{
+  "name": "sam larsson",
+  "swerik-id": "i-2kXWA54DYtEaQ9G6hutqL8",
+  "DOB": "1883-09-30",
+  "DOD": "1945-12-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "place-of-death": {
+    "place": "Solna församling",
+    "link": "http://www.wikidata.org/entity/Q10673304"
+  },
+  "alt-names": [
+    "axel samuel emanuel larsson",
+    "larsson"
+  ],
+  "iorter": [
+    "Ulriksdal"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1945-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    },
+    {
+      "start": "1930-06-07 00:00:00",
+      "end": "1932-09-24 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ekman II",
+      "district": null
+    },
+    {
+      "start": "1930-06-07 00:00:00",
+      "end": "1932-09-24 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hamrin",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Larsson%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938659",
+      "link": "https://www.wikidata.org/wiki/Q5938659"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11050",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11050"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABUQdA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABUQdA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:394",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:394"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:41924",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:41924"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfHA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfHA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,116 @@
+{
+  "name": "kenth skårvik",
+  "swerik-id": "i-DMheKZZCYDtLzdvzFzc5vP",
+  "DOB": "1935-01-18",
+  "DOD": "2018-01-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "skårvik"
+  ],
+  "iorter": [
+    "Mölndal"
+  ],
+  "positions": [
+    {
+      "start": "2000-12-19 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2000-11-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6180602",
+      "link": "https://www.wikidata.org/wiki/Q6180602"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0954999878706",
+      "link": "https://data.riksdagen.se/personlista/?iid=0954999878706&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31a7e-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31a7e-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2000-12-19",
+      "end": "2002-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

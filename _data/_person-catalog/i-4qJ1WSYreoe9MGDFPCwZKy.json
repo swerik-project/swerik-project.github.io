@@ -1,0 +1,199 @@
+{
+  "name": "margareta winberg",
+  "swerik-id": "i-4qJ1WSYreoe9MGDFPCwZKy",
+  "DOB": "1947-08-13",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sjuntorp",
+    "link": "http://www.wikidata.org/entity/Q2790350"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "winberg"
+  ],
+  "iorter": [
+    "Nälden"
+  ],
+  "positions": [
+    {
+      "start": "2002-10-21 00:00:00",
+      "end": "2003-10-30 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2002-10-21 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2002-10-21 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2002-10-21 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-10-06 00:00:00",
+      "role": "arbetsmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1981-10-06 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/MargaretaWinberg%2C%20June%2012%2C%202013.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3430022",
+      "link": "https://www.wikidata.org/wiki/Q3430022"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0874604979107",
+      "link": "https://data.riksdagen.se/personlista/?iid=0874604979107&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31a58-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31a58-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2002-09-30",
+      "end": "2002-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

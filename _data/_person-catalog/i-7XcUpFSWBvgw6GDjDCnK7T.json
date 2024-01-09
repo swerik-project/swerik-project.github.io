@@ -1,0 +1,50 @@
+{
+  "name": "margret nilsson",
+  "swerik-id": "i-7XcUpFSWBvgw6GDjDCnK7T",
+  "DOB": "1903-09-18",
+  "DOD": "1986-04-08",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Rinkaby församling",
+    "link": "http://www.wikidata.org/entity/Q10655528"
+  },
+  "place-of-death": {
+    "place": "Hovsta församling",
+    "link": "http://www.wikidata.org/entity/Q10526728"
+  },
+  "alt-names": [
+    "gunhild margareta berggren",
+    "gunhild margareta nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Tjusebotorp"
+  ],
+  "positions": [
+    {
+      "start": "1954-11-24 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4969705",
+      "link": "https://www.wikidata.org/wiki/Q4969705"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsEg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsEg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

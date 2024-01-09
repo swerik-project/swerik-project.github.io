@@ -1,0 +1,52 @@
+{
+  "name": "börje runesson",
+  "swerik-id": "i-Bmxu9K3yS89dSP1etG4TRJ",
+  "DOB": "1943-06-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "runesson"
+  ],
+  "iorter": [
+    "Finspång"
+  ],
+  "positions": [
+    {
+      "start": "1971-05-25 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98528070",
+      "link": "https://www.wikidata.org/wiki/Q98528070"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1971-05-25",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

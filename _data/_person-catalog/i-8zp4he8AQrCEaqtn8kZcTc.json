@@ -1,0 +1,137 @@
+{
+  "name": "edvard von krusenstjerna",
+  "swerik-id": "i-8zp4he8AQrCEaqtn8kZcTc",
+  "DOB": "1841-09-26",
+  "DOD": "1907-02-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Askeryds församling",
+    "link": "http://www.wikidata.org/entity/Q10419804"
+  },
+  "place-of-death": {
+    "place": "Narvik",
+    "link": "http://www.wikidata.org/entity/Q59101"
+  },
+  "alt-names": [
+    "edvard von krusenstierna",
+    "julius edvard von krusenstjerna",
+    "von krusenstjerna"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1896-10-06 00:00:00",
+      "end": "1902-07-05 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1896-10-06 00:00:00",
+      "end": "1902-07-05 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen von Otter",
+      "district": null
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1907-02-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1883-11-30 00:00:00",
+      "end": "1889-10-12 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gillis Bildt",
+      "district": null
+    },
+    {
+      "start": "1883-11-30 00:00:00",
+      "end": "1889-10-12 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Themptander",
+      "district": null
+    },
+    {
+      "start": "1883-11-30 00:00:00",
+      "end": "1889-10-12 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Thyselius",
+      "district": null
+    },
+    {
+      "start": "1883-10-05 00:00:00",
+      "end": "1883-11-30 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Thyselius",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Civilmin%20E.%20von%20Krusenstj%C3%A4rna%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5359589",
+      "link": "https://www.wikidata.org/wiki/Q5359589"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11825",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11825"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:72166",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:72166"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1894",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1890",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

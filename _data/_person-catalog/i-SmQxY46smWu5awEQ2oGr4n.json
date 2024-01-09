@@ -1,0 +1,76 @@
+{
+  "name": "ingemar vänerlöv",
+  "swerik-id": "i-SmQxY46smWu5awEQ2oGr4n",
+  "DOB": "1944",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Brålanda",
+    "link": "http://www.wikidata.org/entity/Q2283709"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6032157",
+      "link": "https://www.wikidata.org/wiki/Q6032157"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0548843588006",
+      "link": "https://data.riksdagen.se/personlista/?iid=0548843588006&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c32777-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c32777-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2006-10-02",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

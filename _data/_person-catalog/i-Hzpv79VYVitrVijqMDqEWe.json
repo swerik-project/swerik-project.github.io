@@ -1,0 +1,65 @@
+{
+  "name": "dagmar heurlin",
+  "swerik-id": "i-Hzpv79VYVitrVijqMDqEWe",
+  "DOB": "1919-04-24",
+  "DOD": "2008-09-22",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Lidingö",
+    "link": "http://www.wikidata.org/entity/Q54349"
+  },
+  "place-of-death": {
+    "place": "Hässelby",
+    "link": "http://www.wikidata.org/entity/Q5963259"
+  },
+  "alt-names": [
+    "heurlin"
+  ],
+  "iorter": [
+    "Bromma"
+  ],
+  "positions": [
+    {
+      "start": "1965-11-02 00:00:00",
+      "end": "1968-10-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4953880",
+      "link": "https://www.wikidata.org/wiki/Q4953880"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNAw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNAw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1968-05-07",
+      "end": "1968-10-15"
+    },
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1965",
+      "end": "1968-05-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

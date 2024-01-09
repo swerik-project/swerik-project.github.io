@@ -1,0 +1,102 @@
+{
+  "name": "axel ryding",
+  "swerik-id": "i-GZ8zgKrERmYzyqE3k77bWB",
+  "DOB": "1831-08-28",
+  "DOD": "1897-02-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Tunhems församling",
+    "link": "http://www.wikidata.org/entity/Q10718396"
+  },
+  "place-of-death": {
+    "place": "Skövde stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58674640"
+  },
+  "alt-names": [
+    "knut axel ryding",
+    "ryding"
+  ],
+  "iorter": [
+    "Skövde",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1892-05-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Mariestads, Skara och Skövde valkrets"
+    },
+    {
+      "start": "1884-05-16 00:00:00",
+      "end": "1887-10-04 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Themptander",
+      "district": null
+    },
+    {
+      "start": "1884-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1883-06-13 00:00:00",
+      "end": "1884-05-16 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Thyselius",
+      "district": null
+    },
+    {
+      "start": "1882-06-16 00:00:00",
+      "end": "1883-06-13 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Posse",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Axel%20Ryding%20%281831%E2%80%931897%29%20KBGF.052666.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6085600",
+      "link": "https://www.wikidata.org/wiki/Q6085600"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6281",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6281"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfCQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1891",
+      "end": "1892"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

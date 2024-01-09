@@ -1,0 +1,51 @@
+{
+  "name": "oskar burman",
+  "swerik-id": "i-PGGMhPVMnCH1MzSykNcAdQ",
+  "DOB": "1836-11-23",
+  "DOD": "1895-07-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "place-of-death": {
+    "place": "Nedertorneå-Haparanda församling",
+    "link": "http://www.wikidata.org/entity/Q10595657"
+  },
+  "alt-names": [
+    "burman",
+    "gulaifr oskar burman"
+  ],
+  "iorter": [
+    "Haparanda"
+  ],
+  "positions": [
+    {
+      "start": "1887-05-02 00:00:00",
+      "end": "1887-06-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Burman%201836%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5590456",
+      "link": "https://www.wikidata.org/wiki/Q5590456"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ-w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ-w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

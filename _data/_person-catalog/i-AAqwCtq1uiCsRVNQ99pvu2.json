@@ -1,0 +1,95 @@
+{
+  "name": "ludvig eklund",
+  "swerik-id": "i-AAqwCtq1uiCsRVNQ99pvu2",
+  "DOB": "1839-01-13",
+  "DOD": "1898-07-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "place-of-death": {
+    "place": "Ronneby församling",
+    "link": "http://www.wikidata.org/entity/Q10656780"
+  },
+  "alt-names": [
+    "eklund",
+    "ludvig august eklund"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1898-01-01 00:00:00",
+      "end": "1898-07-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ludvig%20Eklund%201839%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5630079",
+      "link": "https://www.wikidata.org/wiki/Q5630079"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16853",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16853"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaDg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaDg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:70003",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:70003"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1898",
+      "end": "1898"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

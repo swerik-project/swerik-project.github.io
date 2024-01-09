@@ -1,0 +1,60 @@
+{
+  "name": "ebba hermansson",
+  "swerik-id": "i-HUSmFsL1Y8xYLMbYyPfby2",
+  "DOB": "1996-05-14",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Älvsborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10725745"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ebba charlotte hermansson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-12-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q56669198",
+      "link": "https://www.wikidata.org/wiki/Q56669198"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "055824190225",
+      "link": "https://data.riksdagen.se/personlista/?iid=055824190225&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "109831a1-4305-4376-a3cf-ecc173855d65",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_109831a1-4305-4376-a3cf-ecc173855d65"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2021-12-16"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

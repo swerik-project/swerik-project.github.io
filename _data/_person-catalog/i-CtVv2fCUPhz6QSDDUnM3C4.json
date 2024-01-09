@@ -1,0 +1,58 @@
+{
+  "name": "karl längberg",
+  "swerik-id": "i-CtVv2fCUPhz6QSDDUnM3C4",
+  "DOB": "1985-05-13",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-03-08 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q54006296",
+      "link": "https://www.wikidata.org/wiki/Q54006296"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0316979049321",
+      "link": "https://data.riksdagen.se/personlista/?iid=0316979049321&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ee9a578d-b462-422b-9946-5391bd07f9de",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ee9a578d-b462-422b-9946-5391bd07f9de"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-03-08",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "hjalmar lindgren",
+  "swerik-id": "i-R2Yk3wfYgkMRSRqUYdnaAX",
+  "DOB": "1837-05-17",
+  "DOD": "1919-05-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Växjö församling",
+    "link": "http://www.wikidata.org/entity/Q10718570"
+  },
+  "place-of-death": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "alt-names": [
+    "hjalmar ossian lindgren",
+    "lindgren"
+  ],
+  "iorter": [
+    "Lund"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hjalmar%20Ossian%20Lindgren.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5956013",
+      "link": "https://www.wikidata.org/wiki/Q5956013"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10562",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10562"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRmA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRmA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:3845",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:3845"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1897",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

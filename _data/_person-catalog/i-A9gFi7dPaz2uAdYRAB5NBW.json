@@ -1,0 +1,56 @@
+{
+  "name": "alfred lundgren",
+  "swerik-id": "i-A9gFi7dPaz2uAdYRAB5NBW",
+  "DOB": "1843-01-19",
+  "DOD": "1916-10-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "place-of-death": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "alt-names": [
+    "johan alfred lundgren",
+    "lundgren"
+  ],
+  "iorter": [
+    "Varberg"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Lundgren%20SPA6%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5966505",
+      "link": "https://www.wikidata.org/wiki/Q5966505"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNVOg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNVOg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfmpA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfmpA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

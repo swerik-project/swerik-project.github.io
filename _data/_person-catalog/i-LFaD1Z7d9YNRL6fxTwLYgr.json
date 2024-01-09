@@ -1,0 +1,68 @@
+{
+  "name": "eric johanson",
+  "swerik-id": "i-LFaD1Z7d9YNRL6fxTwLYgr",
+  "DOB": "1905-10-11",
+  "DOD": "1973-07-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västerviks församling",
+    "link": "http://www.wikidata.org/entity/Q10718036"
+  },
+  "place-of-death": {
+    "place": "Västerviks församling",
+    "link": "http://www.wikidata.org/entity/Q10718036"
+  },
+  "alt-names": [
+    "eric johansson",
+    "eric william johanson",
+    "johanson"
+  ],
+  "iorter": [
+    "Västervik"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1973-07-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18243057",
+      "link": "https://www.wikidata.org/wiki/Q18243057"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc5g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc5g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1971-01-11",
+      "end": "1973-07-21"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

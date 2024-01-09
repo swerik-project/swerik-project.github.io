@@ -1,0 +1,85 @@
+{
+  "name": "kristina nordström",
+  "swerik-id": "i-VKZW474BsmEPEmA9PXioqh",
+  "DOB": "1955",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1996-04-15 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1995-10-10 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1995-08-01 00:00:00",
+      "end": "1995-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1995-01-10 00:00:00",
+      "end": "1995-07-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4970171",
+      "link": "https://www.wikidata.org/wiki/Q4970171"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0674177483011",
+      "link": "https://data.riksdagen.se/personlista/?iid=0674177483011&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fe5e7bdd-3a84-4fcb-bf04-cd2317177987",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fe5e7bdd-3a84-4fcb-bf04-cd2317177987"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1996-04-15",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

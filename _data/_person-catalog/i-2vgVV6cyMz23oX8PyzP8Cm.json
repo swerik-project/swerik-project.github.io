@@ -1,0 +1,49 @@
+{
+  "name": "sten heckscher",
+  "swerik-id": "i-2vgVV6cyMz23oX8PyzP8Cm",
+  "DOB": "1942-07-29",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-02-05 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4126210",
+      "link": "https://www.wikidata.org/wiki/Q4126210"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0344762184207",
+      "link": "https://data.riksdagen.se/personlista/?iid=0344762184207&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d1ec7c4f-c800-4731-81b1-25c6eb2e276b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d1ec7c4f-c800-4731-81b1-25c6eb2e276b"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

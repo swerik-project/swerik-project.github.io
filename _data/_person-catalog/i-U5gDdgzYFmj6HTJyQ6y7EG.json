@@ -1,0 +1,62 @@
+{
+  "name": "claes rensfeldt",
+  "swerik-id": "i-U5gDdgzYFmj6HTJyQ6y7EG",
+  "DOB": "1942",
+  "DOD": "1989",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "rensfeldt"
+  ],
+  "iorter": [
+    "Jokkmokk"
+  ],
+  "positions": [
+    {
+      "start": "1986-10-08 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6068225",
+      "link": "https://www.wikidata.org/wiki/Q6068225"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0147222148907",
+      "link": "https://data.riksdagen.se/personlista/?iid=0147222148907&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3388bab9-829b-4d7d-b8ea-e557c36c99e2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3388bab9-829b-4d7d-b8ea-e557c36c99e2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1986-10-08",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

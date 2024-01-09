@@ -1,0 +1,116 @@
+{
+  "name": "julius mankell",
+  "swerik-id": "i-Svtq8XeMeQSg7jx5cENPng",
+  "DOB": "1828-06-08",
+  "DOD": "1897-02-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "mankell"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1883-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/JuliusMankell1.jpeg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1712821",
+      "link": "https://www.wikidata.org/wiki/Q1712821"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9023",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9023"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "I_2wtd5VefAAAAAAAAASWg",
+      "link": "https://portrattarkiv.se/details/I_2wtd5VefAAAAAAAAASWg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:30636",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:30636"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNoA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNoA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1891",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1871",
+      "end": "1872"
+    },
+    {
+      "party": {
+        "name": "Nyliberala partiet",
+        "party-id": "Q10604782"
+      },
+      "start": "1870",
+      "end": "1870"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

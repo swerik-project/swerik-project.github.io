@@ -1,0 +1,51 @@
+{
+  "name": "göran skytte",
+  "swerik-id": "i-HVip16x9Y9uxJShStEXbhi",
+  "DOB": "1850-03-04",
+  "DOD": "1935-01-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstad",
+    "link": "http://www.wikidata.org/entity/Q26937"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl göran skytte",
+    "skytte af sätra"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1907-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Skytte-af-S%C3%A4tra%20SPA%204%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6180483",
+      "link": "https://www.wikidata.org/wiki/Q6180483"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ8Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ8Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

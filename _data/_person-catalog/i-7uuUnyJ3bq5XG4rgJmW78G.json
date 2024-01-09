@@ -1,0 +1,51 @@
+{
+  "name": "folke palander",
+  "swerik-id": "i-7uuUnyJ3bq5XG4rgJmW78G",
+  "DOB": "1835-03-17",
+  "DOD": "1876-10-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "place-of-death": {
+    "place": "Nättraby församling",
+    "link": "http://www.wikidata.org/entity/Q10605422"
+  },
+  "alt-names": [
+    "adolf karl folke adolfsson palander",
+    "palander"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlskrona valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Folke%20Palander%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6032844",
+      "link": "https://www.wikidata.org/wiki/Q6032844"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQRw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQRw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

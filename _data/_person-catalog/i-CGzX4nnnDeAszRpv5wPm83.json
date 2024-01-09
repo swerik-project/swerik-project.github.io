@@ -1,0 +1,52 @@
+{
+  "name": "karl westerström",
+  "swerik-id": "i-CGzX4nnnDeAszRpv5wPm83",
+  "DOB": "1881-05-21",
+  "DOD": "1916-08-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vena församling",
+    "link": "http://www.wikidata.org/entity/Q10713934"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "karl konstanin westerström",
+    "karl konstans westerström",
+    "westerström"
+  ],
+  "iorter": [
+    "Riksten"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1916-08-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Westerstr%C3%B6m%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6237953",
+      "link": "https://www.wikidata.org/wiki/Q6237953"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeHg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeHg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

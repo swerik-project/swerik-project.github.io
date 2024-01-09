@@ -1,0 +1,82 @@
+{
+  "name": "mårten dahn",
+  "swerik-id": "i-UoV3vX6cKBePnhvLmRZwB",
+  "DOB": "1849-01-20",
+  "DOD": "1911-10-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Grevie församling",
+    "link": "http://www.wikidata.org/entity/Q10728290"
+  },
+  "place-of-death": {
+    "place": "Östra Grevie församling",
+    "link": "http://www.wikidata.org/entity/Q10728290"
+  },
+  "alt-names": [
+    "dahn",
+    "mårten mårtensson dahn"
+  ],
+  "iorter": [
+    "Östra Grevie"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Oxie härads valkrets"
+    },
+    {
+      "start": "1881-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skytts och Oxie domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A5rten%20Dahn%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5615889",
+      "link": "https://www.wikidata.org/wiki/Q5615889"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA78YQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA78YQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRRg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRRg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1904",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

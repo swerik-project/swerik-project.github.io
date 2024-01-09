@@ -1,0 +1,51 @@
+{
+  "name": "frans malmberg",
+  "swerik-id": "i-3EUWtiFaSbYYtaTDEAR9RS",
+  "DOB": "1816-02-23",
+  "DOD": "1888-04-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lerdala församling",
+    "link": "http://www.wikidata.org/entity/Q10559571"
+  },
+  "place-of-death": {
+    "place": "Ytterlännäs församling",
+    "link": "http://www.wikidata.org/entity/Q10723853"
+  },
+  "alt-names": [
+    "frans theodor tertullianus malmberg",
+    "malmberg"
+  ],
+  "iorter": [
+    "Väja"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Boteå, Säbrå, Nora och Gudmundrå tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Malmberg%201816%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5973654",
+      "link": "https://www.wikidata.org/wiki/Q5973654"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgffA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgffA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

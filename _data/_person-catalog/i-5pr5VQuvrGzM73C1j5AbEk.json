@@ -1,0 +1,55 @@
+{
+  "name": "albin andersson",
+  "swerik-id": "i-5pr5VQuvrGzM73C1j5AbEk",
+  "DOB": "1873-12-22",
+  "DOD": "1949-07-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Valla församling",
+    "link": "http://www.wikidata.org/entity/Q10712274"
+  },
+  "place-of-death": {
+    "place": "Valla församling",
+    "link": "http://www.wikidata.org/entity/Q10712274"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Myggenäs"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1925-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Albin%20Andersson.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4712369",
+      "link": "https://www.wikidata.org/wiki/Q4712369"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN2pA",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN2pA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR5A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR5A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

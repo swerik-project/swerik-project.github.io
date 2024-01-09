@@ -1,0 +1,69 @@
+{
+  "name": "lars adaktusson",
+  "swerik-id": "i-6umT1k53jwZ9Rr9pvYUNWh",
+  "DOB": "1955-08-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköping",
+    "link": "http://www.wikidata.org/entity/Q25415"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-06-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-05-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Adaktusson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q17080318",
+      "link": "https://www.wikidata.org/wiki/Q17080318"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0201207390210",
+      "link": "https://data.riksdagen.se/personlista/?iid=0201207390210&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "4a2cb0d8-5569-4f1b-bd0f-62c7e812a2fb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_4a2cb0d8-5569-4f1b-bd0f-62c7e812a2fb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2022-06-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

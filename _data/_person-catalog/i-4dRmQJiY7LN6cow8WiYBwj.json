@@ -1,0 +1,51 @@
+{
+  "name": "dan blombäck",
+  "swerik-id": "i-4dRmQJiY7LN6cow8WiYBwj",
+  "DOB": "1910-05-09",
+  "DOD": "1988-12-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "place-of-death": {
+    "place": "Örebro",
+    "link": "http://www.wikidata.org/entity/Q25732"
+  },
+  "alt-names": [
+    "blombäck",
+    "dan bertil blombäck"
+  ],
+  "iorter": [
+    "Kalix-Bredvik"
+  ],
+  "positions": [
+    {
+      "start": "1942-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Blomb%C3%A4ck%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5579524",
+      "link": "https://www.wikidata.org/wiki/Q5579524"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfROQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfROQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

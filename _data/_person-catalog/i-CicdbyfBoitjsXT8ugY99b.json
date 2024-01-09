@@ -1,0 +1,98 @@
+{
+  "name": "isabella lövin",
+  "swerik-id": "i-CicdbyfBoitjsXT8ugY99b",
+  "DOB": "1963-02-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Helsingborg",
+    "link": "http://www.wikidata.org/entity/Q25411"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lövin"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2020-12-17 00:00:00",
+      "end": "2021-02-05 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2021-02-05 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-19 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Isabella%20L%C3%B6vin.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q241208",
+      "link": "https://www.wikidata.org/wiki/Q241208"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0911490574010",
+      "link": "https://data.riksdagen.se/personlista/?iid=0911490574010&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1a383cdc-f329-49f1-a2eb-e327ab542e2f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1a383cdc-f329-49f1-a2eb-e327ab542e2f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2018-09-24",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

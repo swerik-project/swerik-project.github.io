@@ -1,0 +1,69 @@
+{
+  "name": "eric palmqvist",
+  "swerik-id": "i-Y6pV2kmHmseFnW9xv9t8yX",
+  "DOB": "1970-10-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö S:t Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q10576131"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eric mark palmqvist"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q60144183",
+      "link": "https://www.wikidata.org/wiki/Q60144183"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "091303475611",
+      "link": "https://data.riksdagen.se/personlista/?iid=091303475611&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fc3b3864-8e29-4fd4-ae65-fe387f3f6f4b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fc3b3864-8e29-4fd4-ae65-fe387f3f6f4b"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

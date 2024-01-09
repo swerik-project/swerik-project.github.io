@@ -1,0 +1,67 @@
+{
+  "name": "helena vilhelmsson",
+  "swerik-id": "i-LHNecLttGkFNptLa6AG81p",
+  "DOB": "1965-05-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vikers församling",
+    "link": "http://www.wikidata.org/entity/Q10715233"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q57168726",
+      "link": "https://www.wikidata.org/wiki/Q57168726"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0903081277919",
+      "link": "https://data.riksdagen.se/personlista/?iid=0903081277919&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "bcf8f6dc-7be4-46d3-bb3e-df793b2c5256",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_bcf8f6dc-7be4-46d3-bb3e-df793b2c5256"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "martin nyström",
+  "swerik-id": "i-B7AMN8Vydck1XmL2LBZZRk",
+  "DOB": "1845-10-31",
+  "DOD": "1916-07-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svea artilleriregementes församling",
+    "link": "http://www.wikidata.org/entity/Q18333171"
+  },
+  "place-of-death": {
+    "place": "Svea artilleriregementes församling",
+    "link": "http://www.wikidata.org/entity/Q18333171"
+  },
+  "alt-names": [
+    "martin filip nyström",
+    "nyström"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1898-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Nystr%C3%B6m%201845%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6020685",
+      "link": "https://www.wikidata.org/wiki/Q6020685"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAplw",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAplw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNTg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNTg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABlTHw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABlTHw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1898",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

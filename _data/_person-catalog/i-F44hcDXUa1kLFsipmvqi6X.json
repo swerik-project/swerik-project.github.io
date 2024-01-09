@@ -1,0 +1,117 @@
+{
+  "name": "gustaf lagerbring",
+  "swerik-id": "i-F44hcDXUa1kLFsipmvqi6X",
+  "DOB": "1847-10-09",
+  "DOD": "1921-07-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Järlåsa församling",
+    "link": "http://www.wikidata.org/entity/Q10541784"
+  },
+  "place-of-death": {
+    "place": "Alingsås stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q57234599"
+  },
+  "alt-names": [
+    "gustaf otto robert lagerbring",
+    "lagerbring"
+  ],
+  "iorter": [
+    "Göteborg",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1913-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/GustafOttoRobertLagerbring.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5930919",
+      "link": "https://www.wikidata.org/wiki/Q5930919"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10851",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10851"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAADLMw",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAADLMw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45813",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45813"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTmA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTmA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1913"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1900",
+      "end": "1904"
+    },
+    {
+      "party": {
+        "name": "nya centern (partigrupp 1895-1896)",
+        "party-id": "Q10604300"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

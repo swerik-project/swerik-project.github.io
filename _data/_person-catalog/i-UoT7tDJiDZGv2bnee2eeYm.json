@@ -1,0 +1,112 @@
+{
+  "name": "erik åkerlund",
+  "swerik-id": "i-UoT7tDJiDZGv2bnee2eeYm",
+  "DOB": "1853-03-30",
+  "DOD": "1932-03-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kårsta församling",
+    "link": "http://www.wikidata.org/entity/Q10552065"
+  },
+  "place-of-death": {
+    "place": "Söderby-Karls församling",
+    "link": "http://www.wikidata.org/entity/Q10688496"
+  },
+  "alt-names": [
+    "e g h åkerlund",
+    "erik gabriel henrik åkerlund",
+    "åkerlund"
+  ],
+  "iorter": [
+    "Lovisedal",
+    "Norra Järsjö"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns norra valkrets"
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Mellersta Roslags domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20%C3%85kerlund%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255248",
+      "link": "https://www.wikidata.org/wiki/Q6255248"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgepA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgepA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1921",
+      "end": "1924"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1918",
+      "end": "1920"
+    },
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

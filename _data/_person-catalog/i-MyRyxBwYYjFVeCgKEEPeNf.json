@@ -1,0 +1,56 @@
+{
+  "name": "carl fehrman",
+  "swerik-id": "i-MyRyxBwYYjFVeCgKEEPeNf",
+  "DOB": "1840-12-24",
+  "DOD": "1898-06-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Halmstads församling",
+    "link": "http://www.wikidata.org/entity/Q58455502"
+  },
+  "place-of-death": {
+    "place": "Karlsbad",
+    "link": "http://www.wikidata.org/entity/Q542659"
+  },
+  "alt-names": [
+    "c fehrman",
+    "fehrman"
+  ],
+  "iorter": [
+    "Träslöv"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1898-06-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Fehrman%201840%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5727115",
+      "link": "https://www.wikidata.org/wiki/Q5727115"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "IQojCnw0WmAAAAAAAAABjA",
+      "link": "https://portrattarkiv.se/details/IQojCnw0WmAAAAAAAAABjA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfmtg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfmtg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

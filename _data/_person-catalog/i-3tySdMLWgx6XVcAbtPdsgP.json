@@ -1,0 +1,51 @@
+{
+  "name": "sigurd lundin",
+  "swerik-id": "i-3tySdMLWgx6XVcAbtPdsgP",
+  "DOB": "1908-03-24",
+  "DOD": "1984-07-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Los församling",
+    "link": "http://www.wikidata.org/entity/Q10569842"
+  },
+  "place-of-death": {
+    "place": "Los församling",
+    "link": "http://www.wikidata.org/entity/Q10569842"
+  },
+  "alt-names": [
+    "daniel sigurd lundin",
+    "lundin"
+  ],
+  "iorter": [
+    "Los"
+  ],
+  "positions": [
+    {
+      "start": "1963-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigurd%20Lundin%20SPA%20%28cropped%29%203.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5967130",
+      "link": "https://www.wikidata.org/wiki/Q5967130"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO5A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO5A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

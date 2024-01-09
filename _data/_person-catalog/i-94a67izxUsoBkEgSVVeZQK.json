@@ -1,0 +1,50 @@
+{
+  "name": "helmuth wrangel von brehmer",
+  "swerik-id": "i-94a67izxUsoBkEgSVVeZQK",
+  "DOB": "1843-10-03",
+  "DOD": "1917-02-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hyby församling",
+    "link": "http://www.wikidata.org/entity/Q10527914"
+  },
+  "place-of-death": {
+    "place": "Växjö",
+    "link": "http://www.wikidata.org/entity/Q26152"
+  },
+  "alt-names": [
+    "wrangel von brehmer"
+  ],
+  "iorter": [
+    "Toppeladugård"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1889-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Helmuth%20Wrangel%20von%20Brehmer%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6246999",
+      "link": "https://www.wikidata.org/wiki/Q6246999"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSBg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSBg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

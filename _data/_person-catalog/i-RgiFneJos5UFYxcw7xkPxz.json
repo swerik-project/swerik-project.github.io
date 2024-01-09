@@ -1,0 +1,67 @@
+{
+  "name": "erik andersson",
+  "swerik-id": "i-RgiFneJos5UFYxcw7xkPxz",
+  "DOB": "1974-11-02",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Italien",
+    "link": "http://www.wikidata.org/entity/Q38"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-11-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q19724763",
+      "link": "https://www.wikidata.org/wiki/Q19724763"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0480085646428",
+      "link": "https://data.riksdagen.se/personlista/?iid=0480085646428&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "4ddb02e0-2a49-4cea-8a99-2a1fe307ea49",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_4ddb02e0-2a49-4cea-8a99-2a1fe307ea49"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2018-11-11"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

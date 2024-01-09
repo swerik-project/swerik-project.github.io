@@ -1,0 +1,64 @@
+{
+  "name": "inger schörling",
+  "swerik-id": "i-T3gdjsEDM8Rwzy9YJpgufQ",
+  "DOB": "1946-03-07",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kalvträsks församling",
+    "link": "http://www.wikidata.org/entity/Q10542958"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "schörling"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Inger%20Sch%C3%B6rling%2C%20Milj%C3%B6partiet.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4977750",
+      "link": "https://www.wikidata.org/wiki/Q4977750"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0144653147601",
+      "link": "https://data.riksdagen.se/personlista/?iid=0144653147601&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ece40a1d-bfde-4a9e-bda7-f215bd455dc6",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ece40a1d-bfde-4a9e-bda7-f215bd455dc6"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

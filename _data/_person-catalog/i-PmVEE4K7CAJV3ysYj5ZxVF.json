@@ -1,0 +1,48 @@
+{
+  "name": "gustaf larsson",
+  "swerik-id": "i-PmVEE4K7CAJV3ysYj5ZxVF",
+  "DOB": "1896-02-15",
+  "DOD": "1965-12-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Julita församling",
+    "link": "http://www.wikidata.org/entity/Q10541269"
+  },
+  "place-of-death": {
+    "place": "Julita församling",
+    "link": "http://www.wikidata.org/entity/Q10541269"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Julita"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5937501",
+      "link": "https://www.wikidata.org/wiki/Q5937501"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP1g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP1g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

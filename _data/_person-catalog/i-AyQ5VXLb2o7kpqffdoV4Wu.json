@@ -1,0 +1,51 @@
+{
+  "name": "august låftman",
+  "swerik-id": "i-AyQ5VXLb2o7kpqffdoV4Wu",
+  "DOB": "1841-02-13",
+  "DOD": "1917-01-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gåsborns församling",
+    "link": "http://www.wikidata.org/entity/Q10512563"
+  },
+  "place-of-death": {
+    "place": "Åmåls stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58496152"
+  },
+  "alt-names": [
+    "johan jakob august låftman",
+    "låftman"
+  ],
+  "iorter": [
+    "Billingsfors"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20L%C3%A5ftman%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5969231",
+      "link": "https://www.wikidata.org/wiki/Q5969231"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZjQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZjQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

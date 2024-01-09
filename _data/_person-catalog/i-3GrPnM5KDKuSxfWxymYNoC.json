@@ -1,0 +1,80 @@
+{
+  "name": "mikaela valtersson",
+  "swerik-id": "i-3GrPnM5KDKuSxfWxymYNoC",
+  "DOB": "1967-01-06",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Krylbo kyrkobokföringsdistrikt",
+    "link": "http://www.wikidata.org/entity/Q108321296"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mikaela holmström"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2011-09-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mikaela%20Valtersson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4354795",
+      "link": "https://www.wikidata.org/wiki/Q4354795"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0880452278816",
+      "link": "https://data.riksdagen.se/personlista/?iid=0880452278816&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ab12f548-7d75-4f06-9877-fbd42cfcb3a1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ab12f548-7d75-4f06-9877-fbd42cfcb3a1"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2010-10-04",
+      "end": "2011-09-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

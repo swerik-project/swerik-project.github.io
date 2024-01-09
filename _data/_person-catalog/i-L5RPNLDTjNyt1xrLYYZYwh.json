@@ -1,0 +1,63 @@
+{
+  "name": "max montalvo",
+  "swerik-id": "i-L5RPNLDTjNyt1xrLYYZYwh",
+  "DOB": "1948-10-28",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sollentuna församling",
+    "link": "http://www.wikidata.org/entity/Q18560570"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "max ulf lennart montalvo",
+    "montalvo"
+  ],
+  "iorter": [
+    "Bålsta"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5991911",
+      "link": "https://www.wikidata.org/wiki/Q5991911"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0690634259002",
+      "link": "https://data.riksdagen.se/personlista/?iid=0690634259002&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d087caea-406a-4d19-936e-c579a3a71215",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d087caea-406a-4d19-936e-c579a3a71215"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Ny demokrati",
+        "party-id": "Q967278"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "richard hermelin",
+  "swerik-id": "i-EZ3BJWo75cyGmwreR1eJKd",
+  "DOB": "1862-04-02",
+  "DOD": "1946-12-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fors församling",
+    "link": "http://www.wikidata.org/entity/Q10498046"
+  },
+  "place-of-death": {
+    "place": "Getinge församling",
+    "link": "http://www.wikidata.org/entity/Q10504595"
+  },
+  "alt-names": [
+    "carl david richard hermelin",
+    "friherre carl david richard hermelin",
+    "hermelin"
+  ],
+  "iorter": [
+    "Fröllinge"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20David%20Richard%20Hermelin%201927.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5802636",
+      "link": "https://www.wikidata.org/wiki/Q5802636"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnuQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnuQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1921",
+      "end": "1924"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1913",
+      "end": "1919"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

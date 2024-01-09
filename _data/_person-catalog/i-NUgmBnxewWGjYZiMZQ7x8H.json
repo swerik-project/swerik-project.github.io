@@ -1,0 +1,101 @@
+{
+  "name": "johan severin axell",
+  "swerik-id": "i-NUgmBnxewWGjYZiMZQ7x8H",
+  "DOB": "1843-10-22",
+  "DOD": "1892-01-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torps församling",
+    "link": "http://www.wikidata.org/entity/Q10700251"
+  },
+  "place-of-death": {
+    "place": "Wiesbaden",
+    "link": "http://www.wikidata.org/entity/Q1721"
+  },
+  "alt-names": [
+    "axell"
+  ],
+  "iorter": [
+    "Sundsvall"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1882-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundsvalls valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1880-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundsvalls valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundsvalls och Östersunds valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Severin%20Axell.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5562915",
+      "link": "https://www.wikidata.org/wiki/Q5562915"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18947",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18947"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA2h1w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA2h1w"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29778",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29778"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfAg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfAg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1882",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

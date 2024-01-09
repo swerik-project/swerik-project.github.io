@@ -1,0 +1,83 @@
+{
+  "name": "erik åsbrink",
+  "swerik-id": "i-76vYpYSFxb4errTa7fe3WJ",
+  "DOB": "1947-02-01",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1999-06-17 00:00:00",
+      "end": "1999-09-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1999-04-12 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1990-02-27 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "budgetminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Wedding%20Stockholm%202010-Konserthuset-270.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5388933",
+      "link": "https://www.wikidata.org/wiki/Q5388933"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0894934958205",
+      "link": "https://data.riksdagen.se/personlista/?iid=0894934958205&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "40f3f026-ff05-4031-abc3-0c166dadc3b2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_40f3f026-ff05-4031-abc3-0c166dadc3b2"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:50672",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:50672"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1999-06-17",
+      "end": "1999-09-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

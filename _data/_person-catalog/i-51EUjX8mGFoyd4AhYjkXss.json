@@ -1,0 +1,51 @@
+{
+  "name": "ingvar lidskog",
+  "swerik-id": "i-51EUjX8mGFoyd4AhYjkXss",
+  "DOB": "1919-09-12",
+  "DOD": "2010-10-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mörlunda församling",
+    "link": "http://www.wikidata.org/entity/Q10593668"
+  },
+  "place-of-death": {
+    "place": "Nyköpings Alla Helgona församling",
+    "link": "http://www.wikidata.org/entity/Q10604747"
+  },
+  "alt-names": [
+    "carl ingvar gustaf lidskog",
+    "lidskog"
+  ],
+  "iorter": [
+    "Vallentuna"
+  ],
+  "positions": [
+    {
+      "start": "1960-06-02 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ingvar%20Lidskog%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5950466",
+      "link": "https://www.wikidata.org/wiki/Q5950466"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeJw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeJw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

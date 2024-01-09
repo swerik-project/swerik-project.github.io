@@ -1,0 +1,57 @@
+{
+  "name": "axel wästfelt",
+  "swerik-id": "i-F3n4JZh4qoiZP1uf3cHstr",
+  "DOB": "1821-04-07",
+  "DOD": "1901-04-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Horns socken",
+    "link": "http://www.wikidata.org/entity/Q10526396"
+  },
+  "place-of-death": {
+    "place": "Linköping",
+    "link": "http://www.wikidata.org/entity/Q25413"
+  },
+  "alt-names": [
+    "axel georg wästfelt",
+    "wästfelt"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Umeå"
+  ],
+  "positions": [
+    {
+      "start": "1892-02-20 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Härnösands, Umeå och Skellefteå valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20w%C3%A4stfelt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6248294",
+      "link": "https://www.wikidata.org/wiki/Q6248294"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfipA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfipA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:35124",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:35124"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

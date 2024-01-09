@@ -1,0 +1,50 @@
+{
+  "name": "johan jakob magnell",
+  "swerik-id": "i-ArBoKHFxXfA2rh9Sm2XzUy",
+  "DOB": "1817-11-25",
+  "DOD": "1882-03-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Långseruds församling",
+    "link": "http://www.wikidata.org/entity/Q10572644"
+  },
+  "place-of-death": {
+    "place": "Edsleskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10479990"
+  },
+  "alt-names": [
+    "magnell"
+  ],
+  "iorter": [
+    "Kristinehamn"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristinehamns, Askersunds, Nora och Lindesbergs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Magnell%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104864916",
+      "link": "https://www.wikidata.org/wiki/Q104864916"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcJg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcJg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

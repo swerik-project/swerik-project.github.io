@@ -1,0 +1,61 @@
+{
+  "name": "gustaf ryden",
+  "swerik-id": "i-PYZRd6Mt7ggcbtN5k9MCQo",
+  "DOB": "1821-04-30",
+  "DOD": "1882-11-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bergunda församling",
+    "link": "http://www.wikidata.org/entity/Q10428608"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "alt-names": [
+    "lars gustaf ryden",
+    "ryden"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1874-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Ryd%C3%A9n%201821%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6085372",
+      "link": "https://www.wikidata.org/wiki/Q6085372"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAvdw",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAvdw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:80879",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:80879"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbFg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

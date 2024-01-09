@@ -1,0 +1,71 @@
+{
+  "name": "christina tapper östberg",
+  "swerik-id": "i-YMY1gwKfUakvKPP3ogvT7m",
+  "DOB": "1968-05-20",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Edefors församling",
+    "link": "http://www.wikidata.org/entity/Q10479862"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "christina karlsson",
+    "christina thuring",
+    "christina östberg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18246550",
+      "link": "https://www.wikidata.org/wiki/Q18246550"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0325462829512",
+      "link": "https://data.riksdagen.se/personlista/?iid=0325462829512&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "aa5e595b-e755-4a4e-a457-ea289ad1add3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_aa5e595b-e755-4a4e-a457-ea289ad1add3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

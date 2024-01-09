@@ -1,0 +1,84 @@
+{
+  "name": "hjalmar von sydow",
+  "swerik-id": "i-KxDuXDuJXHE2ySSrz8MALN",
+  "DOB": "1862-08-22",
+  "DOD": "1932-03-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Växjö församling",
+    "link": "http://www.wikidata.org/entity/Q10718570"
+  },
+  "place-of-death": {
+    "place": "Norr Mälarstrand 24",
+    "link": "http://www.wikidata.org/entity/Q120175639"
+  },
+  "alt-names": [
+    "adolf hjalmar von sydow",
+    "von sydow"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1932-03-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1916-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hjalmar%20von%20Sydow%201936.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6200366",
+      "link": "https://www.wikidata.org/wiki/Q6200366"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "35039",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=35039"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNpQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67892",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67892"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsdA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsdA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

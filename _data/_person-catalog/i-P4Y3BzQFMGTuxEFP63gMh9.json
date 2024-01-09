@@ -1,0 +1,68 @@
+{
+  "name": "magnus bäckström",
+  "swerik-id": "i-P4Y3BzQFMGTuxEFP63gMh9",
+  "DOB": "1876-10-17",
+  "DOD": "1952-02-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Umeå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10709189"
+  },
+  "place-of-death": {
+    "place": "Umeå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10709189"
+  },
+  "alt-names": [
+    "bäckström",
+    "johan magnus bäckström"
+  ],
+  "iorter": [
+    "Teg"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1946-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20B%C3%A4ckstr%C3%B6m%201876%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5591731",
+      "link": "https://www.wikidata.org/wiki/Q5591731"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb8g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb8g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1946"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,118 @@
+{
+  "name": "åsa domeij",
+  "swerik-id": "i-GLV4P4jtfPZVZ95YSNxfBh",
+  "DOB": "1962-04-29",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Örnsköldsviks församling",
+    "link": "http://www.wikidata.org/entity/Q10727632"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "domeij"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "2004-07-04 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2004-03-15 00:00:00",
+      "end": "2004-04-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2003-06-01 00:00:00",
+      "end": "2003-10-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2002-12-21 00:00:00",
+      "end": "2003-01-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-11-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1990-05-12 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1990-04-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85sa%20Domeij%202009-10-20%20001.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4944988",
+      "link": "https://www.wikidata.org/wiki/Q4944988"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0708340640717",
+      "link": "https://data.riksdagen.se/personlista/?iid=0708340640717&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "80e64711-52b4-4f3d-a112-02c289f8d5bc",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_80e64711-52b4-4f3d-a112-02c289f8d5bc"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2004-07-04",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

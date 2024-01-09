@@ -1,0 +1,114 @@
+{
+  "name": "fredrik von essen",
+  "swerik-id": "i-RQ7DisaShnLmZ3DuVbxYXg",
+  "DOB": "1831-07-30",
+  "DOD": "1921-10-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hömbs församling",
+    "link": "http://www.wikidata.org/entity/Q10532550"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "von essen"
+  ],
+  "iorter": [
+    "Kavlås",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1894-11-06 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1894-11-06 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gillis Bildt",
+      "district": null
+    },
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1894-11-06 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Åkerhielm",
+      "district": null
+    },
+    {
+      "start": "1877-01-01 00:00:00",
+      "end": "1906-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Swedish%20Reichsmarschall%20Fredrik%20von%20Essen.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5499548",
+      "link": "https://www.wikidata.org/wiki/Q5499548"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15498",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15498"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdfw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdfw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:65062",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:65062"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1906"
+    },
+    {
+      "party": {
+        "name": "Skånska partiet",
+        "party-id": "Q10671173"
+      },
+      "start": "1877",
+      "end": "1885"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

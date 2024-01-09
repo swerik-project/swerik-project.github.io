@@ -1,0 +1,62 @@
+{
+  "name": "svante kristiansson",
+  "swerik-id": "i-VbTSrAHKKao6zKEGy8B7an",
+  "DOB": "1907-05-04",
+  "DOD": "1990-08-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rya församling",
+    "link": "http://www.wikidata.org/entity/Q10658171"
+  },
+  "place-of-death": {
+    "place": "Örkelljunga",
+    "link": "http://www.wikidata.org/entity/Q297922"
+  },
+  "alt-names": [
+    "kristiansson",
+    "svante arne kristiansson"
+  ],
+  "iorter": [
+    "Örkelljunga"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1956-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5923374",
+      "link": "https://www.wikidata.org/wiki/Q5923374"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1971-01-11",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

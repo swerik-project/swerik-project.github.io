@@ -1,0 +1,63 @@
+{
+  "name": "lars svensk",
+  "swerik-id": "i-LPu746JyqFfRCJu8F5NVmS",
+  "DOB": "1947-08-31",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderfors församling",
+    "link": "http://www.wikidata.org/entity/Q10688515"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lars olof svensk",
+    "svensk"
+  ],
+  "iorter": [
+    "Söderfors"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198076",
+      "link": "https://www.wikidata.org/wiki/Q6198076"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "094134653807",
+      "link": "https://data.riksdagen.se/personlista/?iid=094134653807&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "86528bcb-78f6-4ad4-a093-1a64b47fa784",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_86528bcb-78f6-4ad4-a093-1a64b47fa784"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

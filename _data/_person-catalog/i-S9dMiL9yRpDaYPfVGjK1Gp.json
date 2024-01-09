@@ -1,0 +1,67 @@
+{
+  "name": "elis håstad",
+  "swerik-id": "i-S9dMiL9yRpDaYPfVGjK1Gp",
+  "DOB": "1900-01-18",
+  "DOD": "1959-05-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Odensala församling",
+    "link": "http://www.wikidata.org/entity/Q10606806"
+  },
+  "place-of-death": {
+    "place": "New York",
+    "link": "http://www.wikidata.org/entity/Q60"
+  },
+  "alt-names": [
+    "elis wilhelm håstad",
+    "håstad"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1941-12-05 00:00:00",
+      "end": "1959-05-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elis%20H%C3%A5stad%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5820402",
+      "link": "https://www.wikidata.org/wiki/Q5820402"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13969",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13969"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN3A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN3A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:345",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:345"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgqjw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgqjw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

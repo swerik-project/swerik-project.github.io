@@ -1,0 +1,59 @@
+{
+  "name": "alfred sandwall",
+  "swerik-id": "i-V4afrF6py8KnkkCZxgu4FB",
+  "DOB": "1839-07-09",
+  "DOD": "1930-12-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Sandsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10602555"
+  },
+  "place-of-death": {
+    "place": "Borås församling",
+    "link": "http://www.wikidata.org/entity/Q57407324"
+  },
+  "alt-names": [
+    "sandwall"
+  ],
+  "iorter": [
+    "Borås"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Borås valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sandwall%201839%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6093477",
+      "link": "https://www.wikidata.org/wiki/Q6093477"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZ0w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ0w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

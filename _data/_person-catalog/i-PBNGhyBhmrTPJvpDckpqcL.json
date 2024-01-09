@@ -1,0 +1,62 @@
+{
+  "name": "august gyldenstolpe",
+  "swerik-id": "i-PBNGhyBhmrTPJvpDckpqcL",
+  "DOB": "1849-07-22",
+  "DOD": "1928-06-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "august louis fersen gyldenstolpe"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1904-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström II",
+      "district": null
+    },
+    {
+      "start": "1904-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ramstedt",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Gyldenstolpe%20%281849%E2%80%931928%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3936996",
+      "link": "https://www.wikidata.org/wiki/Q3936996"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "1ha4xkDj-uAAAAAAAAALlA",
+      "link": "https://portrattarkiv.se/details/1ha4xkDj-uAAAAAAAAALlA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45774",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45774"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

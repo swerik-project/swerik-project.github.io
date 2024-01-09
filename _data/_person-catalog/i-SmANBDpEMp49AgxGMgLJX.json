@@ -1,0 +1,123 @@
+{
+  "name": "ernst beckman",
+  "swerik-id": "i-SmANBDpEMp49AgxGMgLJX",
+  "DOB": "1850-05-10",
+  "DOD": "1924-04-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "place-of-death": {
+    "place": "Santa Barbara",
+    "link": "http://www.wikidata.org/entity/Q159288"
+  },
+  "alt-names": [
+    "beckman",
+    "ernst johan beckman"
+  ],
+  "iorter": [
+    "Djursholm",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1911-01-01 00:00:00",
+      "end": "1913-04-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1910-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Danderyds, Åkers och Värmdö skeppslags valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Roslags domsagas valkrets"
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    },
+    {
+      "start": "1886-03-24 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Beckman.%20Kihlberg%20I.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5568434",
+      "link": "https://www.wikidata.org/wiki/Q5568434"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18391",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18391"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEtQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEtQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:49482",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49482"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1903",
+      "end": "1913"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1893",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Stockholmsbänken",
+        "party-id": "Q49098936"
+      },
+      "start": "1891",
+      "end": "1892"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

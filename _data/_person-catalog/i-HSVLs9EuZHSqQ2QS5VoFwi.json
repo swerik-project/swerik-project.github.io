@@ -1,0 +1,49 @@
+{
+  "name": "helmer persson",
+  "swerik-id": "i-HSVLs9EuZHSqQ2QS5VoFwi",
+  "DOB": "1904-01-04",
+  "DOD": "1991-09-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "place-of-death": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "alt-names": [
+    "oskar helmer persson",
+    "persson"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1949-10-17 00:00:00",
+      "end": "1962-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6042935",
+      "link": "https://www.wikidata.org/wiki/Q6042935"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRXw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRXw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

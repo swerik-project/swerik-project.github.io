@@ -1,0 +1,49 @@
+{
+  "name": "kajsa fredholm",
+  "swerik-id": "i-U8W4uUAKEoMtNdRs3JJRK8",
+  "DOB": "1961-11-11",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Järfälla norra kyrkoboksföringsdistrikt",
+    "link": "http://www.wikidata.org/entity/Q110817631"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031261",
+      "link": "https://www.wikidata.org/wiki/Q114031261"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0627450126815",
+      "link": "https://data.riksdagen.se/personlista/?iid=0627450126815&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c3c2df0f-3fa1-4a0a-8519-0043d858af2e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c3c2df0f-3fa1-4a0a-8519-0043d858af2e"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

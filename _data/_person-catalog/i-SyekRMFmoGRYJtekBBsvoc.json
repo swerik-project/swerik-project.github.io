@@ -1,0 +1,60 @@
+{
+  "name": "johan karlsson",
+  "swerik-id": "i-SyekRMFmoGRYJtekBBsvoc",
+  "DOB": "1874-08-04",
+  "DOD": "1956-04-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Asarums församling",
+    "link": "http://www.wikidata.org/entity/Q10419122"
+  },
+  "place-of-death": {
+    "place": "Nynäshamns församling",
+    "link": "http://www.wikidata.org/entity/Q10604872"
+  },
+  "alt-names": [
+    "karlsson",
+    "sven johan karlsson"
+  ],
+  "iorter": [
+    "Nynäshamn"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1926-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Karlsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5902186",
+      "link": "https://www.wikidata.org/wiki/Q5902186"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeNg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeNg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

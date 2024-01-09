@@ -1,0 +1,65 @@
+{
+  "name": "edvard meyer",
+  "swerik-id": "i-TXCGsP5J8DXNwzQrSLDjG",
+  "DOB": "1825-09-11",
+  "DOD": "1877-05-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlshamn",
+    "link": "http://www.wikidata.org/entity/Q54769"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "edvard ferdinand meyer",
+    "meyer"
+  ],
+  "iorter": [
+    "Karlshamn"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Ferdinand%20Meyer.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5985662",
+      "link": "https://www.wikidata.org/wiki/Q5985662"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "I_2wtd5VefAAAAAAAAAhWA",
+      "link": "https://portrattarkiv.se/details/I_2wtd5VefAAAAAAAAAhWA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQbw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQbw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

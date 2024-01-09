@@ -1,0 +1,60 @@
+{
+  "name": "einar dahl",
+  "swerik-id": "i-2eSXk1Vkv7uy5sKwa29vbf",
+  "DOB": "1904-03-01",
+  "DOD": "1979-01-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "place-of-death": {
+    "place": "Uddevalla",
+    "link": "http://www.wikidata.org/entity/Q27447"
+  },
+  "alt-names": [
+    "dahl",
+    "einar vilhelm robert dahl"
+  ],
+  "iorter": [
+    "Uddevalla"
+  ],
+  "positions": [
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1954-01-01 00:00:00",
+      "end": "1957-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Einar%20Vilhelm%20Robert%20Dahl%20%281904-1979%29%20portrait.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q20727",
+      "link": "https://www.wikidata.org/wiki/Q20727"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSMg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSMg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "albert robson",
+  "swerik-id": "i-4DiKiQ99U3DPAVfKhwbpsu",
+  "DOB": "1821-10-25",
+  "DOD": "1892-02-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "alt-names": [
+    "olof albert robson",
+    "robson"
+  ],
+  "iorter": [
+    "Aspa bruk"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Robson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6075255",
+      "link": "https://www.wikidata.org/wiki/Q6075255"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsHg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsHg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

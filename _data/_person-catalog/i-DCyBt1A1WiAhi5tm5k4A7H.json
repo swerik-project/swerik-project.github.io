@@ -1,0 +1,99 @@
+{
+  "name": "jimmie åkesson",
+  "swerik-id": "i-DCyBt1A1WiAhi5tm5k4A7H",
+  "DOB": "1979-05-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ivetofta församling",
+    "link": "http://www.wikidata.org/entity/Q10538507"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jimmy åkesson",
+    "åkesson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2015-04-01 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Almedalen%207%20July%202016%2068%20%2827907007150%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q518776",
+      "link": "https://www.wikidata.org/wiki/Q518776"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "051207517226",
+      "link": "https://data.riksdagen.se/personlista/?iid=051207517226&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5ecb17ba-ebbe-4958-a142-a5134aff9808",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5ecb17ba-ebbe-4958-a142-a5134aff9808"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

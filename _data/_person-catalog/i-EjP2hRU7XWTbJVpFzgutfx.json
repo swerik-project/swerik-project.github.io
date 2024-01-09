@@ -1,0 +1,51 @@
+{
+  "name": "hjalmar croneborg",
+  "swerik-id": "i-EjP2hRU7XWTbJVpFzgutfx",
+  "DOB": "1830-01-27",
+  "DOD": "1876-02-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Älvsbacka församling",
+    "link": "http://www.wikidata.org/entity/Q10725732"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "croneborg",
+    "henrik hjalmar ulrik croneborg"
+  ],
+  "iorter": [
+    "Sjöberg"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1870-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hjalmar%20Croneborg%201830%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5613442",
+      "link": "https://www.wikidata.org/wiki/Q5613442"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeUA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeUA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

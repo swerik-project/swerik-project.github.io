@@ -1,0 +1,80 @@
+{
+  "name": "kent carlsson",
+  "swerik-id": "i-PdJw8xPqQjV6cBPBbRhsqT",
+  "DOB": "1962-06-18",
+  "DOD": "1993-11-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "carlsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1993-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1989-10-03 00:00:00",
+      "end": "1990-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1989-01-10 00:00:00",
+      "end": "1989-01-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5603264",
+      "link": "https://www.wikidata.org/wiki/Q5603264"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0208480761018",
+      "link": "https://data.riksdagen.se/personlista/?iid=0208480761018&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f5427ce8-9c75-433c-9434-7ddc7eddfea0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f5427ce8-9c75-433c-9434-7ddc7eddfea0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1993-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

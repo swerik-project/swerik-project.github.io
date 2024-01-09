@@ -1,0 +1,56 @@
+{
+  "name": "frans almen",
+  "swerik-id": "i-NYZezSxBgjPTPYNgjDJ97Z",
+  "DOB": "1834-09-13",
+  "DOD": "1890-09-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Myckleby församling",
+    "link": "http://www.wikidata.org/entity/Q10591034"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "almen",
+    "frans edvard almen"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Alm%C3%A9n%20SPA21%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5547315",
+      "link": "https://www.wikidata.org/wiki/Q5547315"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA2LsA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA2LsA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR4g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR4g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

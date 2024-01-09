@@ -1,0 +1,53 @@
+{
+  "name": "khashayar farmanbar",
+  "swerik-id": "i-VUvkjV9kuKJcz4cxGcFQfn",
+  "DOB": "1976-09-21",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Teheran",
+    "link": "http://www.wikidata.org/entity/Q3616"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "khashayar carl farmanbar"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "energiminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Andersson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Khashayar%20Farmanbar%202021-06-02.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q63533075",
+      "link": "https://www.wikidata.org/wiki/Q63533075"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0191486414825",
+      "link": "https://data.riksdagen.se/personlista/?iid=0191486414825&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9ebed08f-e572-4bd5-8d94-e46a41f6724d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9ebed08f-e572-4bd5-8d94-e46a41f6724d"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

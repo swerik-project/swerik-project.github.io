@@ -1,0 +1,158 @@
+{
+  "name": "torsten nilsson",
+  "swerik-id": "i-BSEtbZG4ePv3rfebXQWRkd",
+  "DOB": "1905-04-01",
+  "DOD": "1997-12-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nevishögs församling",
+    "link": "http://www.wikidata.org/entity/Q10600213"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1962-09-19 00:00:00",
+      "end": "1971-06-30 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1962-09-19 00:00:00",
+      "end": "1971-06-30 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1957-03-22 00:00:00",
+      "end": "1962-09-19 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1957-03-22 00:00:00",
+      "end": "1962-09-19 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1951-10-01 00:00:00",
+      "end": "1957-03-22 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1946-10-11 00:00:00",
+      "end": "1951-10-01 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1946-10-06 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1951-10-01 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1951-10-01 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    },
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Torsten%20Nilsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q241035",
+      "link": "https://www.wikidata.org/wiki/Q241035"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNYQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNYQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

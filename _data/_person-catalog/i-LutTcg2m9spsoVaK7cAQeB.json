@@ -1,0 +1,78 @@
+{
+  "name": "lars wegendal",
+  "swerik-id": "i-LutTcg2m9spsoVaK7cAQeB",
+  "DOB": "1949-01-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Wegendal%20%28S%29%20Sverige%2C%20medlem%20av%20Nordiska%20radet%20och%20Nordiska%20kulturfondens%20styrelse.%202009-01-16.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6234203",
+      "link": "https://www.wikidata.org/wiki/Q6234203"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0700714424203",
+      "link": "https://data.riksdagen.se/personlista/?iid=0700714424203&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c325ec-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c325ec-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2006-10-02",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

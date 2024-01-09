@@ -1,0 +1,76 @@
+{
+  "name": "oswald emthen",
+  "swerik-id": "i-FVGR8XZdsZ21ySWBmsNQwi",
+  "DOB": "1853-03-07",
+  "DOD": "1934-04-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ytterenhörna församling",
+    "link": "http://www.wikidata.org/entity/Q10723828"
+  },
+  "place-of-death": {
+    "place": "Södertälje",
+    "link": "http://www.wikidata.org/entity/Q26518"
+  },
+  "alt-names": [
+    "emthen"
+  ],
+  "iorter": [
+    "Höven",
+    "Marsta"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands västra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oswald%20Emth%C3%A9n%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5711007",
+      "link": "https://www.wikidata.org/wiki/Q5711007"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfig",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfig"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1897",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

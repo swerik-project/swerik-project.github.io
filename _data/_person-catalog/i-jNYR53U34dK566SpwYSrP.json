@@ -1,0 +1,66 @@
+{
+  "name": "knut tengdahl",
+  "swerik-id": "i-jNYR53U34dK566SpwYSrP",
+  "DOB": "1867-01-09",
+  "DOD": "1935-11-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Katarina församling",
+    "link": "http://www.wikidata.org/entity/Q3427889"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "knut abel tengdahl",
+    "tengdahl"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Äppelviken"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1925-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Tengdahl%20SPA11%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6205893",
+      "link": "https://www.wikidata.org/wiki/Q6205893"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAADsQ",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAADsQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNrg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNrg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

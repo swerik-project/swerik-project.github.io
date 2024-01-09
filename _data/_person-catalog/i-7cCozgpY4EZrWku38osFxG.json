@@ -1,0 +1,51 @@
+{
+  "name": "manne ståhl",
+  "swerik-id": "i-7cCozgpY4EZrWku38osFxG",
+  "DOB": "1901-01-15",
+  "DOD": "1976-05-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arboga stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10417023"
+  },
+  "place-of-death": {
+    "place": "Kalmar",
+    "link": "http://www.wikidata.org/entity/Q26345"
+  },
+  "alt-names": [
+    "david emanuel ståhl",
+    "ståhl"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Manne%20St%C3%A5hl.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6194224",
+      "link": "https://www.wikidata.org/wiki/Q6194224"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcZA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

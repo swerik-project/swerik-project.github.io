@@ -1,0 +1,43 @@
+{
+  "name": "jonas jansson",
+  "swerik-id": "i-CiCVc1arZNK5WGUQmfSttX",
+  "DOB": "1824-04-21",
+  "DOD": "1899-08-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Väse församling",
+    "link": "http://www.wikidata.org/entity/Q10717797"
+  },
+  "place-of-death": {
+    "place": "Väse församling",
+    "link": "http://www.wikidata.org/entity/Q10717797"
+  },
+  "alt-names": [
+    "jansson"
+  ],
+  "iorter": [
+    "Åsen"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ölme, Visnums och Väse häraders valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104904121",
+      "link": "https://www.wikidata.org/wiki/Q104904121"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

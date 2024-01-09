@@ -1,0 +1,43 @@
+{
+  "name": "johannes örtqvist",
+  "swerik-id": "i-Nfj8aaBEavMevGi2Ki9YJ9",
+  "DOB": "1833-01-26",
+  "DOD": "1888-07-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nyeds församling",
+    "link": "http://www.wikidata.org/entity/Q10604644"
+  },
+  "place-of-death": {
+    "place": "Nyskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10604940"
+  },
+  "alt-names": [
+    "örtqvist"
+  ],
+  "iorter": [
+    "Gräsmark"
+  ],
+  "positions": [
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fryksdals domsagas nedre tingslags valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6257423",
+      "link": "https://www.wikidata.org/wiki/Q6257423"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

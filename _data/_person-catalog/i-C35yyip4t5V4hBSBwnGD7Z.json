@@ -1,0 +1,175 @@
+{
+  "name": "per edvin sköld",
+  "swerik-id": "i-C35yyip4t5V4hBSBwnGD7Z",
+  "DOB": "1891-05-25",
+  "DOD": "1972-09-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svedala församling",
+    "link": "http://www.wikidata.org/entity/Q10684627"
+  },
+  "place-of-death": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "alt-names": [
+    "sköld"
+  ],
+  "iorter": [
+    "Kämpinge",
+    "Oxie",
+    "Toftaröd"
+  ],
+  "positions": [
+    {
+      "start": "1949-10-21 00:00:00",
+      "end": "1955-09-12 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1949-10-21 00:00:00",
+      "end": "1955-09-12 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1948-10-28 00:00:00",
+      "end": "1949-10-21 00:00:00",
+      "role": "samordningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1946-10-11 00:00:00",
+      "end": "1948-10-29 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1946-10-06 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1948-10-29 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1948-10-29 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    },
+    {
+      "start": "1938-12-16 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1938-12-16 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1938-12-16 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1932-09-24 00:00:00",
+      "end": "1936-06-19 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson I",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Edvin%20Sk%C3%B6ld%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6180686",
+      "link": "https://www.wikidata.org/wiki/Q6180686"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6054",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6054"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACruw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACruw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:26953",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:26953"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSOw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSOw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

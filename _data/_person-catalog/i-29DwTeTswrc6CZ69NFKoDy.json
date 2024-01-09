@@ -1,0 +1,51 @@
+{
+  "name": "johannes englander",
+  "swerik-id": "i-29DwTeTswrc6CZ69NFKoDy",
+  "DOB": "1818-07-31",
+  "DOD": "1901-04-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tingsås församling",
+    "link": "http://www.wikidata.org/entity/Q10698282"
+  },
+  "place-of-death": {
+    "place": "Tingsås församling",
+    "link": "http://www.wikidata.org/entity/Q10698282"
+  },
+  "alt-names": [
+    "englander",
+    "johannes magnusson englander"
+  ],
+  "iorter": [
+    "Tingsryd"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Konga härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Englander%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104889010",
+      "link": "https://www.wikidata.org/wiki/Q104889010"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQUA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQUA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

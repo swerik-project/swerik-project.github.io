@@ -1,0 +1,50 @@
+{
+  "name": "anders bengtsson",
+  "swerik-id": "i-DWoRJk5rw6WHBeByBxHKMY",
+  "DOB": "1824-11-22",
+  "DOD": "1891-01-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ny församling",
+    "link": "http://www.wikidata.org/entity/Q10604238"
+  },
+  "place-of-death": {
+    "place": "Arvika Västra församling",
+    "link": "http://www.wikidata.org/entity/Q10418980"
+  },
+  "alt-names": [
+    "bengtsson"
+  ],
+  "iorter": [
+    "Kärrsmossen"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Bengtsson%20K%C3%A4rrsmossen.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5570077",
+      "link": "https://www.wikidata.org/wiki/Q5570077"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgblw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgblw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

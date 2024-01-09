@@ -1,0 +1,58 @@
+{
+  "name": "rosmarie jönsson neckö",
+  "swerik-id": "i-Fo8c69e17JbS2VpbPxTMyr",
+  "DOB": "1952",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1999-04-08 00:00:00",
+      "end": "1999-06-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21561355",
+      "link": "https://www.wikidata.org/wiki/Q21561355"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0568736532719",
+      "link": "https://data.riksdagen.se/personlista/?iid=0568736532719&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "24738571-ab7e-43db-83f1-c5fac4264feb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_24738571-ab7e-43db-83f1-c5fac4264feb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1999-04-08",
+      "end": "1999-06-13"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

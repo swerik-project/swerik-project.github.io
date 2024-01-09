@@ -1,0 +1,44 @@
+{
+  "name": "carl lovisin",
+  "swerik-id": "i-FQNi1j1M668gRqjAAsHwZU",
+  "DOB": "1772",
+  "DOD": "1847",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "arfved lovisin",
+    "carl arfved lovisin"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1843-04-28 00:00:00",
+      "end": "1844-05-18 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gyllenhaal",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20A%20Lovisin.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q22980633",
+      "link": "https://www.wikidata.org/wiki/Q22980633"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

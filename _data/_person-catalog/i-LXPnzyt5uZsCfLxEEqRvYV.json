@@ -1,0 +1,114 @@
+{
+  "name": "björn wiechel",
+  "swerik-id": "i-LXPnzyt5uZsCfLxEEqRvYV",
+  "DOB": "1983-12-13",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sigtuna församling",
+    "link": "http://www.wikidata.org/entity/Q3596010"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-09-25 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2023-03-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2020-08-10 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2019-01-02 00:00:00",
+      "end": "2019-12-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-11-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2017-04-02 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2016-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bj%C3%B6rn%20Wiechel.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q20156222",
+      "link": "https://www.wikidata.org/wiki/Q20156222"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0482689573825",
+      "link": "https://data.riksdagen.se/personlista/?iid=0482689573825&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7ef75999-90a2-41af-a083-6dfd70e8e3e8",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7ef75999-90a2-41af-a083-6dfd70e8e3e8"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2023-03-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

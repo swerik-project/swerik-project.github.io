@@ -1,0 +1,56 @@
+{
+  "name": "josef andren",
+  "swerik-id": "i-Ckf69izyjKSjoYe237pqQQ",
+  "DOB": "1847-09-19",
+  "DOD": "1933-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10713238"
+  },
+  "alt-names": [
+    "andren",
+    "josef henrik andren"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1892-05-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Andr%C3%A9n%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5556691",
+      "link": "https://www.wikidata.org/wiki/Q5556691"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR6Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR6Q"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:49326",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49326"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

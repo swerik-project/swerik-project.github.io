@@ -1,0 +1,47 @@
+{
+  "name": "ivar jansson",
+  "swerik-id": "i-De6ztVBeHosJZpNFbNMrgb",
+  "DOB": "1894-05-26",
+  "DOD": "1972-07-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gällivare församling",
+    "link": "http://www.wikidata.org/entity/Q10512310"
+  },
+  "place-of-death": {
+    "place": "Kalix",
+    "link": "http://www.wikidata.org/entity/Q83681"
+  },
+  "alt-names": [
+    "bror ivar jansson",
+    "jansson"
+  ],
+  "iorter": [
+    "Kalix",
+    "Vassen"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ivar%20Jansson%201894%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5879556",
+      "link": "https://www.wikidata.org/wiki/Q5879556"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

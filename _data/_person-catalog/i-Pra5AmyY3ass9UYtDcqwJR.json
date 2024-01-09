@@ -1,0 +1,86 @@
+{
+  "name": "olof bergqvist",
+  "swerik-id": "i-Pra5AmyY3ass9UYtDcqwJR",
+  "DOB": "1862-09-24",
+  "DOD": "1940-10-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Brunskog-Mangskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10436494"
+  },
+  "place-of-death": {
+    "place": "Luleå domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570636"
+  },
+  "alt-names": [
+    "bergqvist"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1938-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Bergqvist.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5573026",
+      "link": "https://www.wikidata.org/wiki/Q5573026"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18653",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18653"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADLSA",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADLSA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRmQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRmQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1938"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

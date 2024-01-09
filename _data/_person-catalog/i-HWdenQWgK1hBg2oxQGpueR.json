@@ -1,0 +1,51 @@
+{
+  "name": "hjalmar weiland",
+  "swerik-id": "i-HWdenQWgK1hBg2oxQGpueR",
+  "DOB": "1887-07-22",
+  "DOD": "1962-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Höreda församling",
+    "link": "http://www.wikidata.org/entity/Q10532597"
+  },
+  "place-of-death": {
+    "place": "Nässjö",
+    "link": "http://www.wikidata.org/entity/Q654299"
+  },
+  "alt-names": [
+    "karl hjalmar theodor weiland",
+    "weiland"
+  ],
+  "iorter": [
+    "Nässjö"
+  ],
+  "positions": [
+    {
+      "start": "1948-01-01 00:00:00",
+      "end": "1957-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/H%20Weiland%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6338918",
+      "link": "https://www.wikidata.org/wiki/Q6338918"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbgA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbgA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

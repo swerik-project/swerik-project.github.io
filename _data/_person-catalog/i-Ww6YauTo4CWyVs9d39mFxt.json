@@ -1,0 +1,52 @@
+{
+  "name": "uddo jacobson",
+  "swerik-id": "i-Ww6YauTo4CWyVs9d39mFxt",
+  "DOB": "1886-05-31",
+  "DOD": "1957-08-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ramsele församling",
+    "link": "http://www.wikidata.org/entity/Q10649167"
+  },
+  "place-of-death": {
+    "place": "Vilhelmina församling",
+    "link": "http://www.wikidata.org/entity/Q10715396"
+  },
+  "alt-names": [
+    "jacobson",
+    "uddo r jacobson",
+    "uddo rudolv jacobson"
+  ],
+  "iorter": [
+    "Vilhelmina"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1957-08-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Uddo%20Jacobson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5826435",
+      "link": "https://www.wikidata.org/wiki/Q5826435"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfcEA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfcEA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

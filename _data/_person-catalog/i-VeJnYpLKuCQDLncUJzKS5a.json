@@ -1,0 +1,84 @@
+{
+  "name": "anders larsson",
+  "swerik-id": "i-VeJnYpLKuCQDLncUJzKS5a",
+  "DOB": "1839-12-06",
+  "DOD": "1910-03-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Frändefors församling",
+    "link": "http://www.wikidata.org/entity/Q10499621"
+  },
+  "place-of-death": {
+    "place": "Frändefors församling",
+    "link": "http://www.wikidata.org/entity/Q10499621"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Flicksäter"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundals härads valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundals härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Larsson%20SPA%20111%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5936986",
+      "link": "https://www.wikidata.org/wiki/Q5936986"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZrw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZrw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1892",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1891"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1879",
+      "end": "1881"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

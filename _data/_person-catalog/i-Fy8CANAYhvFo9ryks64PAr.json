@@ -1,0 +1,57 @@
+{
+  "name": "eric trolle",
+  "swerik-id": "i-Fy8CANAYhvFo9ryks64PAr",
+  "DOB": "1863-09-23",
+  "DOD": "1934-04-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hyby församling",
+    "link": "http://www.wikidata.org/entity/Q10527914"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eric birger trolle"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1905-11-07 00:00:00",
+      "end": "1909-03-17 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    },
+    {
+      "start": "1905-11-07 00:00:00",
+      "end": "1909-03-17 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Trolle%201936.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6215610",
+      "link": "https://www.wikidata.org/wiki/Q6215610"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAiuQ",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAiuQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

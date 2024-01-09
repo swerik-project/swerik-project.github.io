@@ -1,0 +1,50 @@
+{
+  "name": "nils lindstrand",
+  "swerik-id": "i-Fwns3EoVQhRb1AQ6Hx2wg",
+  "DOB": "1869-06-21",
+  "DOD": "1958-06-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Osby församling",
+    "link": "http://www.wikidata.org/entity/Q10612943"
+  },
+  "place-of-death": {
+    "place": "Valdemarsviks församling",
+    "link": "http://www.wikidata.org/entity/Q10712168"
+  },
+  "alt-names": [
+    "lindstrand"
+  ],
+  "iorter": [
+    "Valdemarsvik"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Lindstrand%201869%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5958273",
+      "link": "https://www.wikidata.org/wiki/Q5958273"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgarg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgarg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

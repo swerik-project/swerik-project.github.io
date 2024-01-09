@@ -1,0 +1,78 @@
+{
+  "name": "anna könig jerlmyr",
+  "swerik-id": "i-WbrCkKzXDH4v9N1NB5PEQS",
+  "DOB": "1978-05-09",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Uppsala",
+    "link": "http://www.wikidata.org/entity/Q25286"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2009-11-24 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2009-04-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Konig%20Jerlmyr%201c561%207024.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4767194",
+      "link": "https://www.wikidata.org/wiki/Q4767194"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0807866053922",
+      "link": "https://data.riksdagen.se/personlista/?iid=0807866053922&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3753bda8-0e55-49f9-9c69-0f0e0aee9091",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3753bda8-0e55-49f9-9c69-0f0e0aee9091"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2010-10-04",
+      "end": "2010-10-19"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

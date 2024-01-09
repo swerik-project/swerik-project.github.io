@@ -1,0 +1,107 @@
+{
+  "name": "ida karkiainen",
+  "swerik-id": "i-LL8Bee3zYHnuxQrwejsiTf",
+  "DOB": "1988-05-10",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Nedertorneå-Haparanda församling",
+    "link": "http://www.wikidata.org/entity/Q10595657"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ida victoria karkiainen"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Andersson",
+      "district": null
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2016-04-05 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2015-08-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Andersson%20Cabinet%2C%20nov%2030%2C%202021%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18451082",
+      "link": "https://www.wikidata.org/wiki/Q18451082"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0509830681123",
+      "link": "https://data.riksdagen.se/personlista/?iid=0509830681123&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7891a68a-bcbd-43a3-bd8b-90bdbb040f45",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7891a68a-bcbd-43a3-bd8b-90bdbb040f45"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

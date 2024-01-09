@@ -1,0 +1,54 @@
+{
+  "name": "olof hammar",
+  "swerik-id": "i-TDRZedtxwSUsCqxKHfb7My",
+  "DOB": "1895-08-29",
+  "DOD": "1966-08-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "place-of-death": {
+    "place": "Folkärna kyrkoboksföringsdistrikt",
+    "link": "http://www.wikidata.org/entity/Q111588647"
+  },
+  "alt-names": [
+    "anders olof hammar",
+    "hammar"
+  ],
+  "iorter": [
+    "Sjövik"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1963-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786592",
+      "link": "https://www.wikidata.org/wiki/Q5786592"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU6A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU6A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:47644",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:47644"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

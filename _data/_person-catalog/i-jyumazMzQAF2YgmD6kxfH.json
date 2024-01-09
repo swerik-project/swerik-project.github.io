@@ -1,0 +1,83 @@
+{
+  "name": "sven bruhn",
+  "swerik-id": "i-jyumazMzQAF2YgmD6kxfH",
+  "DOB": "1837-12-08",
+  "DOD": "1917-02-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vallda församling",
+    "link": "http://www.wikidata.org/entity/Q10712322"
+  },
+  "place-of-death": {
+    "place": "Vallda församling",
+    "link": "http://www.wikidata.org/entity/Q10712322"
+  },
+  "alt-names": [
+    "bruhn",
+    "s b bruhn",
+    "sven birger bruhn"
+  ],
+  "iorter": [
+    "Vallda"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fjäre och Viske häraders valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fjäre och Viske häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Bruhn%201837%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5588155",
+      "link": "https://www.wikidata.org/wiki/Q5588155"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA2Kfg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA2Kfg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnVg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnVg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

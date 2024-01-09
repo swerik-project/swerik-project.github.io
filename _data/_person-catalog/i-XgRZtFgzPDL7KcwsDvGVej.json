@@ -1,0 +1,142 @@
+{
+  "name": "fredrik reinfeldt",
+  "swerik-id": "i-XgRZtFgzPDL7KcwsDvGVej",
+  "DOB": "1965-08-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Österhaninge församling",
+    "link": "http://www.wikidata.org/entity/Q10728033"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "john fredrik reinfeldt",
+    "reinfeldt"
+  ],
+  "iorter": [
+    "Täby"
+  ],
+  "positions": [
+    {
+      "start": "2014-10-04 00:00:00",
+      "end": "2014-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1996-04-01 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1996-02-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nordisk-baltisk%20statsministermote%20under%20Nordiska%20radets%20session%20i%20Helsingfors%20%283%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q52920",
+      "link": "https://www.wikidata.org/wiki/Q52920"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0938901612810",
+      "link": "https://data.riksdagen.se/personlista/?iid=0938901612810&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31d61-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31d61-83e4-11d4-ae60-0050040c9b55"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABM1rA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABM1rA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-10-04",
+      "end": "2014-12-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

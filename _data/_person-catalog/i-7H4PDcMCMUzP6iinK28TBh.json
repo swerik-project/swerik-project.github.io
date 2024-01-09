@@ -1,0 +1,62 @@
+{
+  "name": "jonas andersson",
+  "swerik-id": "i-7H4PDcMCMUzP6iinK28TBh",
+  "DOB": "1972-02-10",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jonas mattias andersson"
+  ],
+  "iorter": [
+    "Skellefteå"
+  ],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q59387749",
+      "link": "https://www.wikidata.org/wiki/Q59387749"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0538494048717",
+      "link": "https://data.riksdagen.se/personlista/?iid=0538494048717&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c5e9daf0-868f-4c8e-9a69-671c7b22855a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c5e9daf0-868f-4c8e-9a69-671c7b22855a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

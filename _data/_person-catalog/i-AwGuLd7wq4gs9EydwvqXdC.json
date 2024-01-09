@@ -1,0 +1,78 @@
+{
+  "name": "gustaf thor",
+  "swerik-id": "i-AwGuLd7wq4gs9EydwvqXdC",
+  "DOB": "1860-11-09",
+  "DOD": "1933-05-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lysviks församling",
+    "link": "http://www.wikidata.org/entity/Q10571755"
+  },
+  "place-of-death": {
+    "place": "Stöde församling",
+    "link": "http://www.wikidata.org/entity/Q10682961"
+  },
+  "alt-names": [
+    "c g thor",
+    "carl gustaf thor",
+    "thor"
+  ],
+  "iorter": [
+    "Nedansjö"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Medelpads västra domsagas valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sköns tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Thor%201860%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6208962",
+      "link": "https://www.wikidata.org/wiki/Q6208962"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfUQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfUQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1909",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

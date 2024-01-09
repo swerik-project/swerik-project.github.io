@@ -1,0 +1,50 @@
+{
+  "name": "jonas jonasson",
+  "swerik-id": "i-1gnfNeDH6dj6iVaqD8XRH",
+  "DOB": "1817-05-10",
+  "DOD": "1895-01-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torsås församling",
+    "link": "http://www.wikidata.org/entity/Q10700457"
+  },
+  "place-of-death": {
+    "place": "Gullabo församling",
+    "link": "http://www.wikidata.org/entity/Q10510630"
+  },
+  "alt-names": [
+    "jonasson"
+  ],
+  "iorter": [
+    "Gullaboås"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Möre domsagas västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Jonasson%201817%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5890326",
+      "link": "https://www.wikidata.org/wiki/Q5890326"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdBw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdBw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

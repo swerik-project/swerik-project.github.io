@@ -1,0 +1,56 @@
+{
+  "name": "yngve hamrin",
+  "swerik-id": "i-EuDLsjc6kknhMzPB1UFjeq",
+  "DOB": "1907-10-16",
+  "DOD": "1969-08-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "alt-names": [
+    "hamrin",
+    "rickard yngve hamrin"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1969-08-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Yngve%20Hamrin%20SPA%2011%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5787447",
+      "link": "https://www.wikidata.org/wiki/Q5787447"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12575",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12575"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbaA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbaA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

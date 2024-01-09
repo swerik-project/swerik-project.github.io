@@ -1,0 +1,67 @@
+{
+  "name": "jörgen grubb",
+  "swerik-id": "i-DwxYm9yDWznJg1azvmMBXP",
+  "DOB": "1962-03-13",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fosie församling",
+    "link": "http://www.wikidata.org/entity/Q10498247"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q71545861",
+      "link": "https://www.wikidata.org/wiki/Q71545861"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0281670919717",
+      "link": "https://data.riksdagen.se/personlista/?iid=0281670919717&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "086bff3d-8adb-47c2-b5dc-86d4a9f1b191",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_086bff3d-8adb-47c2-b5dc-86d4a9f1b191"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

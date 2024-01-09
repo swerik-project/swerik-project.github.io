@@ -1,0 +1,130 @@
+{
+  "name": "hugo hammarskjöld",
+  "swerik-id": "i-DmSPxYoCTsGsu2HBSaHRHb",
+  "DOB": "1845-01-20",
+  "DOD": "1937-06-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tuna församling",
+    "link": "http://www.wikidata.org/entity/Q10706262"
+  },
+  "place-of-death": {
+    "place": "Tuna församling",
+    "link": "http://www.wikidata.org/entity/Q10706262"
+  },
+  "alt-names": [
+    "hammarskjöld",
+    "å h hammarskjöld",
+    "åke hugo hammarskjöld"
+  ],
+  "iorter": [
+    "Tuna"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    },
+    {
+      "start": "1906-05-29 00:00:00",
+      "end": "1909-06-11 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sevede och Tunaläns domsagas valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sevede och Tunaläns domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Swedish%20politician%20Hugo%20Hammarskj%C3%B6ld.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786866",
+      "link": "https://www.wikidata.org/wiki/Q5786866"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12547",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12547"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcmg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcmg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67697",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67697"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1906"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

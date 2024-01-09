@@ -1,0 +1,50 @@
+{
+  "name": "harald elldin",
+  "swerik-id": "i-SZAMvCcNDoedrFh7ZZ99BM",
+  "DOB": "1892-07-18",
+  "DOD": "1968-08-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "place-of-death": {
+    "place": "Nacka församling",
+    "link": "http://www.wikidata.org/entity/Q18292494"
+  },
+  "alt-names": [
+    "elldin"
+  ],
+  "iorter": [
+    "Färnebol"
+  ],
+  "positions": [
+    {
+      "start": "1920-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Harald%20Elldin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5709148",
+      "link": "https://www.wikidata.org/wiki/Q5709148"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbwQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbwQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

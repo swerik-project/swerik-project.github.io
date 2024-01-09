@@ -1,0 +1,127 @@
+{
+  "name": "charles dickson",
+  "swerik-id": "i-9Yj3oznPw2R7BCssHu4Mfe",
+  "DOB": "1814-01-28",
+  "DOD": "1902-04-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10512824"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "dickson"
+  ],
+  "iorter": [
+    "Göteborg",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1886-03-20 00:00:00",
+      "end": "1895-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1886-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Dickson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5621589",
+      "link": "https://www.wikidata.org/wiki/Q5621589"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17512",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17512"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA8CiA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA8CiA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:6468",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:6468"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA8CiQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA8CiQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNheA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNheA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSNA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSNA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1895"
+    },
+    {
+      "party": {
+        "name": "Nya centern (partigrupp 1883-1887)",
+        "party-id": "Q10604299"
+      },
+      "start": "1883",
+      "end": "1886"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1873",
+      "end": "1882"
+    },
+    {
+      "party": {
+        "name": "Första kammarens konservativa grupp",
+        "party-id": "Q10501498"
+      },
+      "start": "1867",
+      "end": "1872"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

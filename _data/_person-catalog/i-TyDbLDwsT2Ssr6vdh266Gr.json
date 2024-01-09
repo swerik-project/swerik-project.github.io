@@ -1,0 +1,51 @@
+{
+  "name": "bernt santesson",
+  "swerik-id": "i-TyDbLDwsT2Ssr6vdh266Gr",
+  "DOB": "1858-04-11",
+  "DOD": "1925-03-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Asarums församling",
+    "link": "http://www.wikidata.org/entity/Q10419122"
+  },
+  "place-of-death": {
+    "place": "Asarums församling",
+    "link": "http://www.wikidata.org/entity/Q10419122"
+  },
+  "alt-names": [
+    "bernt otto ivar santesson",
+    "santesson"
+  ],
+  "iorter": [
+    "Janneberg"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bernt%20Santesson%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117288584",
+      "link": "https://www.wikidata.org/wiki/Q117288584"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQQw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQQw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

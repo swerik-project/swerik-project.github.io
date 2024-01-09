@@ -1,0 +1,78 @@
+{
+  "name": "gustaf svensson",
+  "swerik-id": "i-243rknWDEdgBEAge7sukzd",
+  "DOB": "1840-08-23",
+  "DOD": "1920-07-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vetlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10714734"
+  },
+  "place-of-death": {
+    "place": "Rydaholms församling",
+    "link": "http://www.wikidata.org/entity/Q10658200"
+  },
+  "alt-names": [
+    "gustaf wilhelm svensson",
+    "svensson"
+  ],
+  "iorter": [
+    "Rydaholm"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östbo härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Svensson%20SPA%201840%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198510",
+      "link": "https://www.wikidata.org/wiki/Q6198510"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAAAKEQ",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAAAKEQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABGcpw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABGcpw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbRQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbRQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1885",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

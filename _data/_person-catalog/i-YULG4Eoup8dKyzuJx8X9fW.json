@@ -1,0 +1,77 @@
+{
+  "name": "sven hollertz",
+  "swerik-id": "i-YULG4Eoup8dKyzuJx8X9fW",
+  "DOB": "1890-12-03",
+  "DOD": "1963-03-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ringarums församling",
+    "link": "http://www.wikidata.org/entity/Q10655472"
+  },
+  "place-of-death": {
+    "place": "Ringarums församling",
+    "link": "http://www.wikidata.org/entity/Q10655472"
+  },
+  "alt-names": [
+    "hollertz",
+    "sven peter hollertz"
+  ],
+  "iorter": [
+    "Ringarum"
+  ],
+  "positions": [
+    {
+      "start": "1948-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns med Norrköpings valkrets"
+    },
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Hollertz%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q115933078",
+      "link": "https://www.wikidata.org/wiki/Q115933078"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaig",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaig"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1948",
+      "end": "1948"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1929",
+      "end": "1932"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "edvin karlsson",
+  "swerik-id": "i-LFoUTtLRWHgPFZSyDDGXZY",
+  "DOB": "1883-09-04",
+  "DOD": "1932-04-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Säve församling",
+    "link": "http://www.wikidata.org/entity/Q18333658"
+  },
+  "place-of-death": {
+    "place": "Tuve församling",
+    "link": "http://www.wikidata.org/entity/Q10706708"
+  },
+  "alt-names": [
+    "karl edvin karlsson",
+    "karlsson"
+  ],
+  "iorter": [
+    "Tuve"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvin%20Karlsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5341399",
+      "link": "https://www.wikidata.org/wiki/Q5341399"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

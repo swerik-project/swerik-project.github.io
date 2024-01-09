@@ -1,0 +1,104 @@
+{
+  "name": "per nilsson",
+  "swerik-id": "i-G5pAFA5w4nSfdSXYxcrmWR",
+  "DOB": "1865-06-29",
+  "DOD": "1933-11-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Riseberga församling",
+    "link": "http://www.wikidata.org/entity/Q10655735"
+  },
+  "place-of-death": {
+    "place": "Helsingborgs Maria församling",
+    "link": "http://www.wikidata.org/entity/Q10520535"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Bonarp"
+  ],
+  "positions": [
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1931-12-31 00:00:00",
+      "role": "andre vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1933-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads läns nordvästra valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Åsbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Nilsson%20SPA%201%20%28cropped%29%202.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011618",
+      "link": "https://www.wikidata.org/wiki/Q6011618"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8972",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8972"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpzg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpzg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:27291",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:27291"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1933"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1903",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

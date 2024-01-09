@@ -1,0 +1,53 @@
+{
+  "name": "valter åman",
+  "swerik-id": "i-CuDS8imLC9tVmMZFNCATkP",
+  "DOB": "1905-03-02",
+  "DOD": "1998-02-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Örebro",
+    "link": "http://www.wikidata.org/entity/Q25732"
+  },
+  "alt-names": [
+    "valter oskar åman",
+    "åman"
+  ],
+  "iorter": [
+    "Enskede",
+    "Stockholm",
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1946-01-01 00:00:00",
+      "end": "1961-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Valter%20%C3%85man.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255705",
+      "link": "https://www.wikidata.org/wiki/Q6255705"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN0g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN0g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

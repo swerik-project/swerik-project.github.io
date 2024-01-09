@@ -1,0 +1,132 @@
+{
+  "name": "karin andersson",
+  "swerik-id": "i-8DX2HEsXGBiY7R9ZYRTmeN",
+  "DOB": "1918-10-08",
+  "DOD": "2012-07-20",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Veddige",
+    "link": "http://www.wikidata.org/entity/Q596567"
+  },
+  "place-of-death": {
+    "place": "Varbergs kommun",
+    "link": "http://www.wikidata.org/entity/Q179180"
+  },
+  "alt-names": [
+    "andersson",
+    "karin elisabet andersson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "invandrarminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "invandrarminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin III",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin III",
+      "district": null
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karin%20Andersson%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1727737",
+      "link": "https://www.wikidata.org/wiki/Q1727737"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "28K7pO-SRrAAAAAAAACrOw",
+      "link": "https://portrattarkiv.se/details/28K7pO-SRrAAAAAAAACrOw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1982-10-04",
+      "end": "1985-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

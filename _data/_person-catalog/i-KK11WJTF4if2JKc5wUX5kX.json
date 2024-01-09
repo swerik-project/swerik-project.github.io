@@ -1,0 +1,73 @@
+{
+  "name": "nils sandström",
+  "swerik-id": "i-KK11WJTF4if2JKc5wUX5kX",
+  "DOB": "1874-09-01",
+  "DOD": "1953-12-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falun",
+    "link": "http://www.wikidata.org/entity/Q26509"
+  },
+  "place-of-death": {
+    "place": "Gustav Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10511165"
+  },
+  "alt-names": [
+    "sandström"
+  ],
+  "iorter": [
+    "Härnösand",
+    "Nyland"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Sandstr%C3%B6m%201874%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6093334",
+      "link": "https://www.wikidata.org/wiki/Q6093334"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABckw",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABckw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfpg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfpg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1940"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1929",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

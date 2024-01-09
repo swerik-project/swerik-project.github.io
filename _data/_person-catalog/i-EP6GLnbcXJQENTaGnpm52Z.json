@@ -1,0 +1,76 @@
+{
+  "name": "annika jonsell",
+  "swerik-id": "i-EP6GLnbcXJQENTaGnpm52Z",
+  "DOB": "1969-03-13",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Umeå stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q18334316"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1995-10-10 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1995-01-10 00:00:00",
+      "end": "1995-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns södra valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4957340",
+      "link": "https://www.wikidata.org/wiki/Q4957340"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0724153546015",
+      "link": "https://data.riksdagen.se/personlista/?iid=0724153546015&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8cab40c6-ae79-4f01-b225-0a425b50a776",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8cab40c6-ae79-4f01-b225-0a425b50a776"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1995-10-10",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

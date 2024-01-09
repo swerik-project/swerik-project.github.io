@@ -1,0 +1,58 @@
+{
+  "name": "torgny johansson",
+  "swerik-id": "i-XqueWt23XLsUvF893hRNry",
+  "DOB": "1943",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2009-11-02 00:00:00",
+      "end": "2009-11-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97823701",
+      "link": "https://www.wikidata.org/wiki/Q97823701"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0701022001100",
+      "link": "https://data.riksdagen.se/personlista/?iid=0701022001100&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9db1f239-3bac-4a73-9e64-0dadd75475d9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9db1f239-3bac-4a73-9e64-0dadd75475d9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2009-11-02",
+      "end": "2009-11-27"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

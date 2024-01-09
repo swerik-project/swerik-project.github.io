@@ -1,0 +1,51 @@
+{
+  "name": "axel euren",
+  "swerik-id": "i-TtDNMwJmsoWwQw6nZYWkLc",
+  "DOB": "1862-06-22",
+  "DOD": "1948-08-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljustorps församling",
+    "link": "http://www.wikidata.org/entity/Q10568483"
+  },
+  "place-of-death": {
+    "place": "Ljungarums församling",
+    "link": "http://www.wikidata.org/entity/Q10568302"
+  },
+  "alt-names": [
+    "axel herman euren",
+    "euren"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Eur%C3%A9n%201862%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q109943335",
+      "link": "https://www.wikidata.org/wiki/Q109943335"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAAAC7g",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAAAC7g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

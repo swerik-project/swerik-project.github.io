@@ -1,0 +1,76 @@
+{
+  "name": "camilla mårtensen",
+  "swerik-id": "i-PWqj1GBPCPPwBfVxqPu2j1",
+  "DOB": "1970-05-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2017-07-06 00:00:00",
+      "end": "2017-08-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2017-05-02 00:00:00",
+      "end": "2017-07-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q29059703",
+      "link": "https://www.wikidata.org/wiki/Q29059703"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0397073482210",
+      "link": "https://data.riksdagen.se/personlista/?iid=0397073482210&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "327ef4fd-e9a9-46d3-8e10-3267001f3be6",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_327ef4fd-e9a9-46d3-8e10-3267001f3be6"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2017-07-06",
+      "end": "2017-08-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

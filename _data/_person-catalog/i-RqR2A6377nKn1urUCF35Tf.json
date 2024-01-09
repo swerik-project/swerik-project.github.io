@@ -1,0 +1,117 @@
+{
+  "name": "otto magnusson",
+  "swerik-id": "i-RqR2A6377nKn1urUCF35Tf",
+  "DOB": "1864-10-29",
+  "DOD": "1939-08-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vislanda församling",
+    "link": "http://www.wikidata.org/entity/Q10716128"
+  },
+  "place-of-death": {
+    "place": "Agunnaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10403622"
+  },
+  "alt-names": [
+    "ernst otto magnusson",
+    "magnusson"
+  ],
+  "iorter": [
+    "Tumhult"
+  ],
+  "positions": [
+    {
+      "start": "1935-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "andre vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sunnerbo domsagas valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sunnerbo domsagas östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Magnusson%201864%20SPA%2010%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5971892",
+      "link": "https://www.wikidata.org/wiki/Q5971892"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10179",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10179"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ3Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ3Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1903",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

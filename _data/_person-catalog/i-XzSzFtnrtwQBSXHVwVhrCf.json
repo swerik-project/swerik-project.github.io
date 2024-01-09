@@ -1,0 +1,126 @@
+{
+  "name": "carl lindhagen",
+  "swerik-id": "i-XzSzFtnrtwQBSXHVwVhrCf",
+  "DOB": "1860-12-17",
+  "DOD": "1946-03-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Katarina församling",
+    "link": "http://www.wikidata.org/entity/Q3427889"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "carl albert lindhagen",
+    "lindhagen"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Äppelviken",
+    "Ålsten"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1897-03-16 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Lindhagen.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q55955",
+      "link": "https://www.wikidata.org/wiki/Q55955"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10583",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10583"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAABXQQ",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAABXQQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:42168",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:42168"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN4g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN4g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1924",
+      "end": "1940"
+    },
+    {
+      "party": {
+        "name": "Socialdemokratiska vänstergruppen",
+        "party-id": "Q10672903"
+      },
+      "start": "1923",
+      "end": "1923"
+    },
+    {
+      "party": {
+        "name": "vänstersocialistisk vilde",
+        "party-id": "Q111283538"
+      },
+      "start": "1922",
+      "end": "1922"
+    },
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1908",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1897",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

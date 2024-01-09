@@ -1,0 +1,65 @@
+{
+  "name": "ruben wagnsson",
+  "swerik-id": "i-7h8oALVXjuheXj6Zv4VA5g",
+  "DOB": "1891-09-08",
+  "DOD": "1978-02-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Örebro Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10727452"
+  },
+  "place-of-death": {
+    "place": "Katrineholm",
+    "link": "http://www.wikidata.org/entity/Q54758"
+  },
+  "alt-names": [
+    "wagnsson"
+  ],
+  "iorter": [
+    "Kalmar",
+    "Oskarshamn"
+  ],
+  "positions": [
+    {
+      "start": "1928-01-01 00:00:00",
+      "end": "1947-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1927-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ruben%20Wagnsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6228533",
+      "link": "https://www.wikidata.org/wiki/Q6228533"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcqA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcqA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAByajQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAByajQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

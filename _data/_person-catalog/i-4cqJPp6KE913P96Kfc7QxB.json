@@ -1,0 +1,89 @@
+{
+  "name": "bengt harding olson",
+  "swerik-id": "i-4cqJPp6KE913P96Kfc7QxB",
+  "DOB": "1937-03-21",
+  "DOD": "2018-10-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljungby",
+    "link": "http://www.wikidata.org/entity/Q744491"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "olson"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026206",
+      "link": "https://www.wikidata.org/wiki/Q6026206"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0764840691205",
+      "link": "https://data.riksdagen.se/personlista/?iid=0764840691205&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "6fa12e07-4fd9-4d63-9129-ed1fd5610dc2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_6fa12e07-4fd9-4d63-9129-ed1fd5610dc2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

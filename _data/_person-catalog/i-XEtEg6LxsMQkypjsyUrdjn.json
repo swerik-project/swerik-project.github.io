@@ -1,0 +1,50 @@
+{
+  "name": "karl pettersson",
+  "swerik-id": "i-XEtEg6LxsMQkypjsyUrdjn",
+  "DOB": "1917-10-21",
+  "DOD": "2006-09-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sundsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10683812"
+  },
+  "place-of-death": {
+    "place": "Stuguns församling",
+    "link": "http://www.wikidata.org/entity/Q10682419"
+  },
+  "alt-names": [
+    "pettersson"
+  ],
+  "iorter": [
+    "Stugun"
+  ],
+  "positions": [
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Pettersson%201917%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117286801",
+      "link": "https://www.wikidata.org/wiki/Q117286801"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRWg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRWg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

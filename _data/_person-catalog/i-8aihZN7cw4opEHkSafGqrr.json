@@ -1,0 +1,51 @@
+{
+  "name": "johan andersson",
+  "swerik-id": "i-8aihZN7cw4opEHkSafGqrr",
+  "DOB": "1866-06-29",
+  "DOD": "1924-01-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tierps församling",
+    "link": "http://www.wikidata.org/entity/Q10697799"
+  },
+  "place-of-death": {
+    "place": "Uppsala",
+    "link": "http://www.wikidata.org/entity/Q25286"
+  },
+  "alt-names": [
+    "andersson",
+    "johannes andersson"
+  ],
+  "iorter": [
+    "Raklösen"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554956",
+      "link": "https://www.wikidata.org/wiki/Q5554956"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN6w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN6w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

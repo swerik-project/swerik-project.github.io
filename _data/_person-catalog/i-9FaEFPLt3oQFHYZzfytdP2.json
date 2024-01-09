@@ -1,0 +1,97 @@
+{
+  "name": "erik wijk",
+  "swerik-id": "i-9FaEFPLt3oQFHYZzfytdP2",
+  "DOB": "1836-03-01",
+  "DOD": "1910-03-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "wijk"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1905-01-01 00:00:00",
+      "end": "1910-03-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Wijk%201836%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6240962",
+      "link": "https://www.wikidata.org/wiki/Q6240962"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAABEuA",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAABEuA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkeA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkeA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Friesenska diskussionsklubben",
+        "party-id": "Q10499105"
+      },
+      "start": "1897",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "nya centern (partigrupp 1895-1896)",
+        "party-id": "Q10604300"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

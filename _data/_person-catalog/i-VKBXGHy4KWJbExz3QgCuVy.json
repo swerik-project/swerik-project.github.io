@@ -1,0 +1,117 @@
+{
+  "name": "mona saint cyr",
+  "swerik-id": "i-VKBXGHy4KWJbExz3QgCuVy",
+  "DOB": "1934",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mona st cyr",
+    "saint cyr"
+  ],
+  "iorter": [
+    "Kisa"
+  ],
+  "positions": [
+    {
+      "start": "1992-11-21 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1991-12-11 00:00:00",
+      "end": "1992-10-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-11-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1986-10-08 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4976518",
+      "link": "https://www.wikidata.org/wiki/Q4976518"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0110548017702",
+      "link": "https://data.riksdagen.se/personlista/?iid=0110548017702&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d6e91089-6398-40b0-a5a9-371da9bc9f9a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d6e91089-6398-40b0-a5a9-371da9bc9f9a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1992-11-21",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "margareta nordström",
+  "swerik-id": "i-LLQuN9rFusbbsCKJJKU9pu",
+  "DOB": "1907-08-01",
+  "DOD": "1986-04-18",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Norrköpings Hedvigs församling",
+    "link": "http://www.wikidata.org/entity/Q10602799"
+  },
+  "place-of-death": {
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
+  },
+  "alt-names": [
+    "nordström"
+  ],
+  "iorter": [
+    "Johanneshov"
+  ],
+  "positions": [
+    {
+      "start": "1960-01-01 00:00:00",
+      "end": "1963-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4989373",
+      "link": "https://www.wikidata.org/wiki/Q4989373"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8334",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8334"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNNw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNNw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

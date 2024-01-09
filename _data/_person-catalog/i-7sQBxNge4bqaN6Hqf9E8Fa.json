@@ -1,0 +1,90 @@
+{
+  "name": "john loven",
+  "swerik-id": "i-7sQBxNge4bqaN6Hqf9E8Fa",
+  "DOB": "1840-01-31",
+  "DOD": "1924-12-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "henrik johan loven",
+    "loven"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1904-01-01 00:00:00",
+      "end": "1906-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Lov%C3%A9n.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5964304",
+      "link": "https://www.wikidata.org/wiki/Q5964304"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9705",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9705"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNdQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNdQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1906"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1904",
+      "end": "1904"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1880",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

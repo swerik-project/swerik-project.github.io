@@ -1,0 +1,83 @@
+{
+  "name": "jonas kjellberg",
+  "swerik-id": "i-JFdf8g6NtM4vk7seqg5WCv",
+  "DOB": "1858-01-06",
+  "DOD": "1942-05-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10512824"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "jonas henrik reinhold cson kjellberg",
+    "kjellberg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1911-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Klingberg%20m%C3%A5lning.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5912008",
+      "link": "https://www.wikidata.org/wiki/Q5912008"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11531",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11531"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABm0A",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABm0A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:41637",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:41637"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsdQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsdQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1911",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1910",
+      "end": "1910"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

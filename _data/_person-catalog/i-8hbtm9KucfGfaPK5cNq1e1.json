@@ -1,0 +1,43 @@
+{
+  "name": "anton hjalmarsson",
+  "swerik-id": "i-8hbtm9KucfGfaPK5cNq1e1",
+  "DOB": "1882-02-06",
+  "DOD": "1939-02-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Kärrstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10718300"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "alt-names": [
+    "hjalmarsson"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5807293",
+      "link": "https://www.wikidata.org/wiki/Q5807293"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

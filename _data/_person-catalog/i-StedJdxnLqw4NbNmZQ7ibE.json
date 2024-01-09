@@ -1,0 +1,102 @@
+{
+  "name": "carl persson",
+  "swerik-id": "i-StedJdxnLqw4NbNmZQ7ibE",
+  "DOB": "1844-10-22",
+  "DOD": "1926-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Korsberga församling",
+    "link": "http://www.wikidata.org/entity/Q10548177"
+  },
+  "place-of-death": {
+    "place": "Korsberga församling",
+    "link": "http://www.wikidata.org/entity/Q10548177"
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Stallerhult"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns södra valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vartofta och Frökinds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Persson%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6042697",
+      "link": "https://www.wikidata.org/wiki/Q6042697"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7107",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7107"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAAAzVw",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAAAzVw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge5Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge5Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1892",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1892"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

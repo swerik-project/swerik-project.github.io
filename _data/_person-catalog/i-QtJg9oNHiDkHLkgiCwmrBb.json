@@ -1,0 +1,98 @@
+{
+  "name": "annika åhnberg",
+  "swerik-id": "i-QtJg9oNHiDkHLkgiCwmrBb",
+  "DOB": "1949-11-07",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Ulricehamn",
+    "link": "http://www.wikidata.org/entity/Q27999"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "åhnberg"
+  ],
+  "iorter": [
+    "Södertälje"
+  ],
+  "positions": [
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1992-10-13 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-10-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4991027",
+      "link": "https://www.wikidata.org/wiki/Q4991027"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0853235077516",
+      "link": "https://data.riksdagen.se/personlista/?iid=0853235077516&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ef371dfd-7e52-4f59-bba1-704e0f62b0b2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ef371dfd-7e52-4f59-bba1-704e0f62b0b2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1991-09-30",
+      "end": "1992-10-12"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

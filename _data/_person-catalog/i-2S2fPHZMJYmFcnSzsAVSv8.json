@@ -1,0 +1,51 @@
+{
+  "name": "elof hagberth",
+  "swerik-id": "i-2S2fPHZMJYmFcnSzsAVSv8",
+  "DOB": "1885-05-10",
+  "DOD": "1965-05-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hjärsås församling",
+    "link": "http://www.wikidata.org/entity/Q10524923"
+  },
+  "place-of-death": {
+    "place": "Bosjöklosters församling",
+    "link": "http://www.wikidata.org/entity/Q10433442"
+  },
+  "alt-names": [
+    "hagberth",
+    "nils elof hagberth"
+  ],
+  "iorter": [
+    "Klinta gård"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1938-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elof%20Hagberth%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q113727391",
+      "link": "https://www.wikidata.org/wiki/Q113727391"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRiw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRiw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

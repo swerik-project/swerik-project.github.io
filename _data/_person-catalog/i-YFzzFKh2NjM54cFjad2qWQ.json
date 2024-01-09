@@ -1,0 +1,112 @@
+{
+  "name": "sven adolf hedlund",
+  "swerik-id": "i-YFzzFKh2NjM54cFjad2qWQ",
+  "DOB": "1821-02-24",
+  "DOD": "1900-09-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Färentuna församling",
+    "link": "http://www.wikidata.org/entity/Q10500786"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "hedlund"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1889-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kristianstads läns valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs stads valkrets"
+    },
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1876-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/SA%20Hedlund%20%282%29.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5796181",
+      "link": "https://www.wikidata.org/wiki/Q5796181"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12744",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12744"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfp2A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfp2A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29271",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29271"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1879",
+      "end": "1883"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiets filial",
+        "party-id": "Q10554126"
+      },
+      "start": "1875",
+      "end": "1876"
+    },
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1867",
+      "end": "1869"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

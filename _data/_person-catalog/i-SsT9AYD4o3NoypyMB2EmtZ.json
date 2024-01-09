@@ -1,0 +1,67 @@
+{
+  "name": "olof larsson",
+  "swerik-id": "i-SsT9AYD4o3NoypyMB2EmtZ",
+  "DOB": "1820-09-03",
+  "DOD": "1876-11-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rinkaby församling",
+    "link": "http://www.wikidata.org/entity/Q10655528"
+  },
+  "place-of-death": {
+    "place": "Rinkaby församling",
+    "link": "http://www.wikidata.org/entity/Q10655528"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Nasta"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro och Glanshammars häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Larsson%20SPA111%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938442",
+      "link": "https://www.wikidata.org/wiki/Q5938442"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsBQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsBQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1872",
+      "end": "1872"
+    },
+    {
+      "party": {
+        "name": "Nyliberala partiet",
+        "party-id": "Q10604782"
+      },
+      "start": "1870",
+      "end": "1871"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

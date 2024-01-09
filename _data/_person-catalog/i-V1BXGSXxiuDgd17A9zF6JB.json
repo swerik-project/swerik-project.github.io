@@ -1,0 +1,67 @@
+{
+  "name": "bertha wellin",
+  "swerik-id": "i-V1BXGSXxiuDgd17A9zF6JB",
+  "DOB": "1870-09-11",
+  "DOD": "1951-07-27",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Runstens församling",
+    "link": "http://www.wikidata.org/entity/Q10657838"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "wellin"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bertha%20Wellin%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4895524",
+      "link": "https://www.wikidata.org/wiki/Q4895524"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAjxA",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAjxA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1924",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

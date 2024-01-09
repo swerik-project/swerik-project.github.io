@@ -1,0 +1,125 @@
+{
+  "name": "jan björklund",
+  "swerik-id": "i-AvFShRZVEyBV61S19AKNGK",
+  "DOB": "1962-04-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skene",
+    "link": "http://www.wikidata.org/entity/Q2943707"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jan arne björklund"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-10-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-10-04 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "högskoleminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2007-09-12 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "utbildningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2007-09-12 00:00:00",
+      "role": "skolminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Bj%C3%B6rklund%20in%20Sept%202014.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q911372",
+      "link": "https://www.wikidata.org/wiki/Q911372"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0603490586517",
+      "link": "https://data.riksdagen.se/personlista/?iid=0603490586517&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fb860100-9be3-4365-b84c-24fe53434882",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fb860100-9be3-4365-b84c-24fe53434882"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2018-09-24",
+      "end": "2019-10-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

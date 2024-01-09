@@ -1,0 +1,92 @@
+{
+  "name": "robert almström",
+  "swerik-id": "i-87LPANBiBX7wLgJ4qtMBss",
+  "DOB": "1834-08-19",
+  "DOD": "1911-09-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åmåls stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58496152"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "adolf fredrik robert almström",
+    "almström"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1898-01-01 00:00:00",
+      "end": "1910-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Almstr%C3%B6m%20Svenska%20industriens%20m%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5547719",
+      "link": "https://www.wikidata.org/wiki/Q5547719"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5716",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5716"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA3dow",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA3dow"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:49011",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49011"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOkQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOkQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1910"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1898",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

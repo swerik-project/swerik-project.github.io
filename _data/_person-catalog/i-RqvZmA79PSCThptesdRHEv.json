@@ -1,0 +1,67 @@
+{
+  "name": "hans lindforss",
+  "swerik-id": "i-RqvZmA79PSCThptesdRHEv",
+  "DOB": "1934-04-03",
+  "DOD": "2015-11-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "place-of-death": {
+    "place": "Örnsköldsviks församling",
+    "link": "http://www.wikidata.org/entity/Q10727632"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1991-04-09 00:00:00",
+      "end": "1991-05-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1989-03-20 00:00:00",
+      "end": "1989-04-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21759277",
+      "link": "https://www.wikidata.org/wiki/Q21759277"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0688288022003",
+      "link": "https://data.riksdagen.se/personlista/?iid=0688288022003&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "817bbfdd-7788-4384-a4ea-daef50fe96a5",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_817bbfdd-7788-4384-a4ea-daef50fe96a5"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1991-04-09",
+      "end": "1991-05-08"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

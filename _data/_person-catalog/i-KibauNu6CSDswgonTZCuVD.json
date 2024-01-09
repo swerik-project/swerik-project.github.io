@@ -1,0 +1,60 @@
+{
+  "name": "james dickson",
+  "swerik-id": "i-KibauNu6CSDswgonTZCuVD",
+  "DOB": "1899-03-18",
+  "DOD": "1980-03-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Alingsås församling",
+    "link": "http://www.wikidata.org/entity/Q10405289"
+  },
+  "alt-names": [
+    "dickson"
+  ],
+  "iorter": [
+    "Vikaryd"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Ivan%20Axel%20Dickson%201899-1980.jpg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ume%C3%A5%20stadsarkiv-1963-Widar%20Sellberg-James%20Dicksson.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5621600",
+      "link": "https://www.wikidata.org/wiki/Q5621600"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZVQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZVQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1941",
+      "end": "1968"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

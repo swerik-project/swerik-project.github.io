@@ -1,0 +1,55 @@
+{
+  "name": "julius roman",
+  "swerik-id": "i-LFXEKm9SkU6T51G1BTaRbL",
+  "DOB": "1843-05-23",
+  "DOD": "1921-11-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arvika Västra församling",
+    "link": "http://www.wikidata.org/entity/Q10418980"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "roman"
+  ],
+  "iorter": [
+    "Skanderåsen"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Roman%201843%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6077520",
+      "link": "https://www.wikidata.org/wiki/Q6077520"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAZIw",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAZIw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ_w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ_w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

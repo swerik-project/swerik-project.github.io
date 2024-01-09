@@ -1,0 +1,57 @@
+{
+  "name": "sven lundberg",
+  "swerik-id": "i-LfsYpJSgJGF5mHAZn5MnMz",
+  "DOB": "1889-08-21",
+  "DOD": "1947-03-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Södersjukhuset",
+    "link": "http://www.wikidata.org/entity/Q1509325"
+  },
+  "alt-names": [
+    "lundberg",
+    "sven emil lundberg"
+  ],
+  "iorter": [
+    "Helsingborg",
+    "Hälsingborg"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Lundberg%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5966042",
+      "link": "https://www.wikidata.org/wiki/Q5966042"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9769",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9769"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRoA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRoA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

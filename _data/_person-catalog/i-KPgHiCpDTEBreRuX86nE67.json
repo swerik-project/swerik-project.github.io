@@ -1,0 +1,48 @@
+{
+  "name": "carl lorentzon",
+  "swerik-id": "i-KPgHiCpDTEBreRuX86nE67",
+  "DOB": "1862-09-21",
+  "DOD": "1940-03-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mårdaklevs församling",
+    "link": "http://www.wikidata.org/entity/Q10593426"
+  },
+  "place-of-death": {
+    "place": "Östra Frölunda församling",
+    "link": "http://www.wikidata.org/entity/Q10728271"
+  },
+  "alt-names": [
+    "lorentzon"
+  ],
+  "iorter": [
+    "Ledet"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5963505",
+      "link": "https://www.wikidata.org/wiki/Q5963505"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZbg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZbg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

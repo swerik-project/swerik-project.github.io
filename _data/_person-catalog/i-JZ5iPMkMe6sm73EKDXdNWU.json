@@ -1,0 +1,49 @@
+{
+  "name": "bernt ekwall",
+  "swerik-id": "i-JZ5iPMkMe6sm73EKDXdNWU",
+  "DOB": "1939-10-10",
+  "DOD": "2004-07-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Oscar Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q10612957"
+  },
+  "place-of-death": {
+    "place": "Teleborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10692263"
+  },
+  "alt-names": [
+    "bernt gunnar ekwall",
+    "ekwall"
+  ],
+  "iorter": [
+    "Viskafors"
+  ],
+  "positions": [
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111602939",
+      "link": "https://www.wikidata.org/wiki/Q111602939"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZkA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZkA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "henrik halldin",
+  "swerik-id": "i-JKzGDbrgYSYhFFeKuaVfng",
+  "DOB": "1834-04-13",
+  "DOD": "1927-12-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hidinge församling",
+    "link": "http://www.wikidata.org/entity/Q10523848"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "halldin"
+  ],
+  "iorter": [
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Halldin.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5784455",
+      "link": "https://www.wikidata.org/wiki/Q5784455"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsLQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsLQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "gustaf nilsson",
+  "swerik-id": "i-68jMa5pY6MfnhKzmEFaxtd",
+  "DOB": "1860-04-26",
+  "DOD": "1944-07-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nedre Ulleruds församling",
+    "link": "http://www.wikidata.org/entity/Q10595672"
+  },
+  "place-of-death": {
+    "place": "Söderbärke församling",
+    "link": "http://www.wikidata.org/entity/Q10688505"
+  },
+  "alt-names": [
+    "erik gustaf nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Vibberbo"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Nilsson%201860%20SPA%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010354",
+      "link": "https://www.wikidata.org/wiki/Q6010354"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8949",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8949"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb-w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb-w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

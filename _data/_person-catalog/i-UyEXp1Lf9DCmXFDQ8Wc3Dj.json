@@ -1,0 +1,96 @@
+{
+  "name": "eva lindh",
+  "swerik-id": "i-UyEXp1Lf9DCmXFDQ8Wc3Dj",
+  "DOB": "1971-12-24",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Västra Frölunda församling",
+    "link": "http://www.wikidata.org/entity/Q10718228"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2017-02-27 00:00:00",
+      "end": "2017-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2016-04-18 00:00:00",
+      "end": "2017-01-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2015-09-01 00:00:00",
+      "end": "2015-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Lindh.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q30035702",
+      "link": "https://www.wikidata.org/wiki/Q30035702"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0780214960516",
+      "link": "https://data.riksdagen.se/personlista/?iid=0780214960516&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ee86b181-9f3b-4e03-8ef4-b96b1e79cd25",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ee86b181-9f3b-4e03-8ef4-b96b1e79cd25"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

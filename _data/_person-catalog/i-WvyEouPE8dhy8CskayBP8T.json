@@ -1,0 +1,51 @@
+{
+  "name": "gustaf nordenskjöld",
+  "swerik-id": "i-WvyEouPE8dhy8CskayBP8T",
+  "DOB": "1831-06-09",
+  "DOD": "1902-02-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hässleby församling",
+    "link": "http://www.wikidata.org/entity/Q10531807"
+  },
+  "place-of-death": {
+    "place": "Eksjö",
+    "link": "http://www.wikidata.org/entity/Q1001905"
+  },
+  "alt-names": [
+    "nordenskjöld",
+    "otto gustaf nordenskjöld"
+  ],
+  "iorter": [
+    "Sjögelö"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra och Södra Vedbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Nordenskj%C3%B6ld%201831%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98393527",
+      "link": "https://www.wikidata.org/wiki/Q98393527"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbfw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbfw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

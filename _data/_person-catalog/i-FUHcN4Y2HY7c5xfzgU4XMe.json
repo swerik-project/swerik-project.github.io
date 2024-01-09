@@ -1,0 +1,56 @@
+{
+  "name": "adolf rappe",
+  "swerik-id": "i-FUHcN4Y2HY7c5xfzgU4XMe",
+  "DOB": "1830-11-05",
+  "DOD": "1898-12-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "place-of-death": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "alt-names": [
+    "adolf fredrik zakarias rappe",
+    "rappe"
+  ],
+  "iorter": [
+    "Marielund"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1886-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Fredrik%20Zakarias%20Rappe%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6063599",
+      "link": "https://www.wikidata.org/wiki/Q6063599"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAF6w",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAF6w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQKw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQKw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

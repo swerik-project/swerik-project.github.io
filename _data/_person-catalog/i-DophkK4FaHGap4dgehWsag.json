@@ -1,0 +1,53 @@
+{
+  "name": "axel trolle wachtmeister",
+  "swerik-id": "i-DophkK4FaHGap4dgehWsag",
+  "DOB": "1812-03-13",
+  "DOD": "1907-04-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Kristianstad",
+    "link": "http://www.wikidata.org/entity/Q26937"
+  },
+  "alt-names": [
+    "axel knut trolle wachtmeister",
+    "axel knut trolle wachtmeister af johannishus",
+    "trolle wachtmeister",
+    "wachtmeister af johannishus"
+  ],
+  "iorter": [
+    "Trolle-Ljungby"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Knut%20Trolle-Wachtmeister%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6215672",
+      "link": "https://www.wikidata.org/wiki/Q6215672"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpsg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpsg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

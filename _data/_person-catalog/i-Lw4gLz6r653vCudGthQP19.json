@@ -1,0 +1,74 @@
+{
+  "name": "carl andersson",
+  "swerik-id": "i-Lw4gLz6r653vCudGthQP19",
+  "DOB": "1832-11-06",
+  "DOD": "1918-01-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björnlunda församling",
+    "link": "http://www.wikidata.org/entity/Q10430735"
+  },
+  "place-of-death": {
+    "place": "Björnlunda församling",
+    "link": "http://www.wikidata.org/entity/Q10430735"
+  },
+  "alt-names": [
+    "andersson",
+    "carl gustaf andersson"
+  ],
+  "iorter": [
+    "Björnlunda",
+    "Skeenda"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Rönö, Hölebo och Daga häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gustaf%20Andersson%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554264",
+      "link": "https://www.wikidata.org/wiki/Q5554264"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5BPQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5BPQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPqA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPqA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

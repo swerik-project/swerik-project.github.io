@@ -1,0 +1,51 @@
+{
+  "name": "henning nilsson",
+  "swerik-id": "i-2mWi9vtkPfa94zF2iziK1h",
+  "DOB": "1908-06-15",
+  "DOD": "1994-03-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "place-of-death": {
+    "place": "Solna församling",
+    "link": "http://www.wikidata.org/entity/Q10673304"
+  },
+  "alt-names": [
+    "henning ferdinand nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henning%20Nilsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010461",
+      "link": "https://www.wikidata.org/wiki/Q6010461"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO2A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO2A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "john eriksson",
+  "swerik-id": "i-7CXHDen9y2qKcYDisT3zjQ",
+  "DOB": "1915-09-07",
+  "DOD": "1974-03-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ilsbo församling",
+    "link": "http://www.wikidata.org/entity/Q10534599"
+  },
+  "place-of-death": {
+    "place": "Enånger",
+    "link": "http://www.wikidata.org/entity/Q1018441"
+  },
+  "alt-names": [
+    "eriksson",
+    "john erik eriksson"
+  ],
+  "iorter": [
+    "Bäckmora"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1974-03-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5716662",
+      "link": "https://www.wikidata.org/wiki/Q5716662"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO_Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO_Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1974-01-10",
+      "end": "1974-03-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

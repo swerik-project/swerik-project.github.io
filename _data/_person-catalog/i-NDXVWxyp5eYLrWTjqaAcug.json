@@ -1,0 +1,95 @@
+{
+  "name": "august östergren",
+  "swerik-id": "i-NDXVWxyp5eYLrWTjqaAcug",
+  "DOB": "1832-05-28",
+  "DOD": "1914-10-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svarttorps församling",
+    "link": "http://www.wikidata.org/entity/Q10684545"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "östergren"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1898-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    },
+    {
+      "start": "1889-06-12 00:00:00",
+      "end": "1889-10-12 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gillis Bildt",
+      "district": null
+    },
+    {
+      "start": "1889-06-12 00:00:00",
+      "end": "1896-02-05 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1889-06-12 00:00:00",
+      "end": "1896-02-05 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Åkerhielm",
+      "district": null
+    },
+    {
+      "start": "1874-01-01 00:00:00",
+      "end": "1876-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Justmin%20August%20%C3%96stergren%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6257773",
+      "link": "https://www.wikidata.org/wiki/Q6257773"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNHg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNHg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1890",
+      "end": "1898"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

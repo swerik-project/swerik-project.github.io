@@ -1,0 +1,56 @@
+{
+  "name": "laur franzon",
+  "swerik-id": "i-8rBHrEZkZ7ACGd4xuaStuB",
+  "DOB": "1890-01-31",
+  "DOD": "1968-01-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Borås",
+    "link": "http://www.wikidata.org/entity/Q26040"
+  },
+  "place-of-death": {
+    "place": "Norrtälje",
+    "link": "http://www.wikidata.org/entity/Q3588743"
+  },
+  "alt-names": [
+    "franzon",
+    "fritz laur franzon"
+  ],
+  "iorter": [
+    "Norrtälje"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Laur%20Franzon%20f%C3%B6dd%201890.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5741047",
+      "link": "https://www.wikidata.org/wiki/Q5741047"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgerA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgerA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:65751",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:65751"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

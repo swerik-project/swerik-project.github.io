@@ -1,0 +1,53 @@
+{
+  "name": "arne andersson",
+  "swerik-id": "i-BWRJYa7Tr185rgSmDSjQgU",
+  "DOB": "1926-04-12",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Silvbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10667880"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "andersson",
+    "arne axel amdersson"
+  ],
+  "iorter": [
+    "Gustafs"
+  ],
+  "positions": [
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kopparbergs läns valkrets"
+    },
+    {
+      "start": "1975-11-13 00:00:00",
+      "end": "1975-12-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kopparbergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117314043",
+      "link": "https://www.wikidata.org/wiki/Q117314043"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

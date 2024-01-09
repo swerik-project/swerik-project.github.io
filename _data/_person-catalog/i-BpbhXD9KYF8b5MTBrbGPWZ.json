@@ -1,0 +1,66 @@
+{
+  "name": "carl björling",
+  "swerik-id": "i-BpbhXD9KYF8b5MTBrbGPWZ",
+  "DOB": "1875-11-01",
+  "DOD": "1948-01-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Högeruds församling",
+    "link": "http://www.wikidata.org/entity/Q10532270"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "björling",
+    "carl joel björling"
+  ],
+  "iorter": [
+    "Västra Hungvik"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1948-01-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5597697",
+      "link": "https://www.wikidata.org/wiki/Q5597697"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbuw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbuw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1948"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1925",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

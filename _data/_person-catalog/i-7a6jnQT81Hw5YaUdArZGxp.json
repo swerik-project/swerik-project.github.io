@@ -1,0 +1,48 @@
+{
+  "name": "per adolf larsson",
+  "swerik-id": "i-7a6jnQT81Hw5YaUdArZGxp",
+  "DOB": "1872-01-14",
+  "DOD": "1957-05-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mo församling",
+    "link": "http://www.wikidata.org/entity/Q10587108"
+  },
+  "place-of-death": {
+    "place": "Mo församling",
+    "link": "http://www.wikidata.org/entity/Q10587108"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Öjersbyn"
+  ],
+  "positions": [
+    {
+      "start": "1926-02-01 00:00:00",
+      "end": "1929-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938523",
+      "link": "https://www.wikidata.org/wiki/Q5938523"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZiw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZiw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

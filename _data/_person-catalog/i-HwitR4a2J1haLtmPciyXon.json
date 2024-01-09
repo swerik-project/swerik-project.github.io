@@ -1,0 +1,71 @@
+{
+  "name": "alexis björkman",
+  "swerik-id": "i-HwitR4a2J1haLtmPciyXon",
+  "DOB": "1853-12-15",
+  "DOD": "1930-02-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mortorps församling",
+    "link": "http://www.wikidata.org/entity/Q10589452"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "alexander björkman",
+    "björkman"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Äppelviken"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1926-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Senator%20Alexis%20Bjorkman%20of%20the%20Riksdag%20of%20Sweden%20LCCN2016860836%20%28cropped%29.tiff"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5577778",
+      "link": "https://www.wikidata.org/wiki/Q5577778"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA1huQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA1huQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPcQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPcQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACbnVA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACbnVA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

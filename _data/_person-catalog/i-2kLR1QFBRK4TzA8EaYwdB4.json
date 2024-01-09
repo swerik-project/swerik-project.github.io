@@ -1,0 +1,76 @@
+{
+  "name": "edvard svensson",
+  "swerik-id": "i-2kLR1QFBRK4TzA8EaYwdB4",
+  "DOB": "1838-05-13",
+  "DOD": "1900-12-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona",
+    "link": "http://www.wikidata.org/entity/Q25789"
+  },
+  "place-of-death": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "alt-names": [
+    "edward svensson",
+    "svensson"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlskrona valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Svensson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198406",
+      "link": "https://www.wikidata.org/wiki/Q6198406"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQgA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQgA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1898",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1897"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1889",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

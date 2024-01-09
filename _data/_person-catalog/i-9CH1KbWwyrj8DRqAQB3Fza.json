@@ -1,0 +1,117 @@
+{
+  "name": "gustav fridolin",
+  "swerik-id": "i-9CH1KbWwyrj8DRqAQB3Fza",
+  "DOB": "1983-05-10",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Önnestads församling",
+    "link": "http://www.wikidata.org/entity/Q10727357"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "gustaf fridolin",
+    "per gustav edvard fridolin"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2019-01-22 00:00:00",
+      "end": "2019-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-19 00:00:00",
+      "role": "utbildningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "2013-01-01 00:00:00",
+      "end": "2014-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2012-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Fridolin%202014-10-29%20001.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2029325",
+      "link": "https://www.wikidata.org/wiki/Q2029325"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0238588409223",
+      "link": "https://data.riksdagen.se/personlista/?iid=0238588409223&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "21b3f0eb-2451-4776-aae6-3b8422473f37",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_21b3f0eb-2451-4776-aae6-3b8422473f37"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2019-01-22",
+      "end": "2019-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

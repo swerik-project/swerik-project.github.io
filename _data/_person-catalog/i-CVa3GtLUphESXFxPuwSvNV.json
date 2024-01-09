@@ -1,0 +1,136 @@
+{
+  "name": "karl erik olsson",
+  "swerik-id": "i-CVa3GtLUphESXFxPuwSvNV",
+  "DOB": "1938-02-23",
+  "DOD": "2021-01-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helsingborgs Maria församling",
+    "link": "http://www.wikidata.org/entity/Q10520535"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Sösdala"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1994-10-02 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1989-12-19 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1989-11-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Erik%20Olsson.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027273",
+      "link": "https://www.wikidata.org/wiki/Q6027273"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0483420372909",
+      "link": "https://data.riksdagen.se/personlista/?iid=0483420372909&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "305a4aee-ae9e-464f-9c3a-767c92624bf9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_305a4aee-ae9e-464f-9c3a-767c92624bf9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1994-10-03",
+      "end": "1995-01-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

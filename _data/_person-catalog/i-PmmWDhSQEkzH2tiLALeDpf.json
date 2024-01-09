@@ -1,0 +1,80 @@
+{
+  "name": "jan andersson",
+  "swerik-id": "i-PmmWDhSQEkzH2tiLALeDpf",
+  "DOB": "1947-03-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helsingborgs Gustav Adolfs församling",
+    "link": "http://www.wikidata.org/entity/Q10520534"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Helsingborg"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns norra valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1681577",
+      "link": "https://www.wikidata.org/wiki/Q1681577"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0310304705606",
+      "link": "https://data.riksdagen.se/personlista/?iid=0310304705606&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "317c9643-2bb4-449b-8a5f-c34f44677ad3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_317c9643-2bb4-449b-8a5f-c34f44677ad3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1994-10-03",
+      "end": "1995-01-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

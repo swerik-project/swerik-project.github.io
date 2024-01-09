@@ -1,0 +1,101 @@
+{
+  "name": "anne wibble",
+  "swerik-id": "i-9J1gmLVJSnGBRMzrAVvtvR",
+  "DOB": "1943-10-13",
+  "DOD": "2000-03-14",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "ann wibble",
+    "anne marie ohlin",
+    "anne marie wibble",
+    "wibble"
+  ],
+  "iorter": [
+    "Täby"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-08 00:00:00",
+      "end": "1997-12-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q273408",
+      "link": "https://www.wikidata.org/wiki/Q273408"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0201502585302",
+      "link": "https://data.riksdagen.se/personlista/?iid=0201502585302&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9f1bdb7f-5ff7-420e-bfd9-76527d5ce56c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9f1bdb7f-5ff7-420e-bfd9-76527d5ce56c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-10-08",
+      "end": "1997-12-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

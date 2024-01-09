@@ -1,0 +1,173 @@
+{
+  "name": "mats odell",
+  "swerik-id": "i-QrnhMBZLsGdbeBasmoTLpZ",
+  "DOB": "1947-04-30",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Värnamo församling",
+    "link": "http://www.wikidata.org/entity/Q10717704"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mats christer johannes odell",
+    "odell"
+  ],
+  "iorter": [
+    "Vallentuna"
+  ],
+  "positions": [
+    {
+      "start": "2013-01-02 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-06 00:00:00",
+      "end": "2012-10-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "bostadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "finansmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "kommunminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1994-10-08 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1988-02-01 00:00:00",
+      "end": "1988-03-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mats%20Odell.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q571725",
+      "link": "https://www.wikidata.org/wiki/Q571725"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0700424025906",
+      "link": "https://data.riksdagen.se/personlista/?iid=0700424025906&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31ac9-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31ac9-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2013-01-02",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "anders ådahl",
+  "swerik-id": "i-PYk1FHT5xHTWNczRYuGRJg",
+  "DOB": "1972-03-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Borås Gustav Adolfs församling",
+    "link": "http://www.wikidata.org/entity/Q10433387"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anders nils gunnar ådahl"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20%C3%85dahl%20%28C%29%20i%20Almedalen%202023.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031247",
+      "link": "https://www.wikidata.org/wiki/Q114031247"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0837394708917",
+      "link": "https://data.riksdagen.se/personlista/?iid=0837394708917&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "59b84d84-3bc8-4175-a3b7-16f5ed8f6b25",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_59b84d84-3bc8-4175-a3b7-16f5ed8f6b25"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

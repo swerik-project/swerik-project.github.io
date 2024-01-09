@@ -1,0 +1,60 @@
+{
+  "name": "nils fock",
+  "swerik-id": "i-XpCTpgpNVT4gFc5vhwSnQT",
+  "DOB": "1825-10-30",
+  "DOD": "1905-04-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tibro församling",
+    "link": "http://www.wikidata.org/entity/Q10697641"
+  },
+  "place-of-death": {
+    "place": "Tibro församling",
+    "link": "http://www.wikidata.org/entity/Q10697641"
+  },
+  "alt-names": [
+    "fock",
+    "nils gustaf fock"
+  ],
+  "iorter": [
+    "Ruder"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1900-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Fock%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5734704",
+      "link": "https://www.wikidata.org/wiki/Q5734704"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd-A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd-A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1900"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

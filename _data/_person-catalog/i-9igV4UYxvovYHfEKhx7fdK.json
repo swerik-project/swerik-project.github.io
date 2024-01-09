@@ -1,0 +1,48 @@
+{
+  "name": "alexander reuterskiöld",
+  "swerik-id": "i-9igV4UYxvovYHfEKhx7fdK",
+  "DOB": "1804-12-03",
+  "DOD": "1891-12-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ludvika bruk",
+    "link": "http://www.wikidata.org/entity/Q18292030"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "alexander fabian zefanias reuterskiöld"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1862-03-28 00:00:00",
+      "end": "1867-07-05 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Reuterski%C3%B6ld.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6068934",
+      "link": "https://www.wikidata.org/wiki/Q6068934"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAABM4w",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAABM4w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

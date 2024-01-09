@@ -1,0 +1,108 @@
+{
+  "name": "gustaf adolf björkman",
+  "swerik-id": "i-SHtWSkMn1ftL5KCEMdPSaR",
+  "DOB": "1871-06-17",
+  "DOD": "1941-09-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Norrköpings Hedvigs församling",
+    "link": "http://www.wikidata.org/entity/Q10602799"
+  },
+  "alt-names": [
+    "björkman"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrköpings och Linköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Adolf%20Bj%C3%B6rkman%201871%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5577862",
+      "link": "https://www.wikidata.org/wiki/Q5577862"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAAEEYg",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAAEEYg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:68373",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:68373"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN6xA",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN6xA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaJQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaJQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1940"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1933",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1921",
+      "end": "1932"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

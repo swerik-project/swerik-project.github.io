@@ -1,0 +1,51 @@
+{
+  "name": "karl rydin",
+  "swerik-id": "i-XaBXNZ3wDQHR6znbmJPd6u",
+  "DOB": "1854-11-20",
+  "DOD": "1912-09-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Borås församling",
+    "link": "http://www.wikidata.org/entity/Q57407324"
+  },
+  "place-of-death": {
+    "place": "Nacka församling",
+    "link": "http://www.wikidata.org/entity/Q18292494"
+  },
+  "alt-names": [
+    "karl rudolf rydin",
+    "rydin"
+  ],
+  "iorter": [
+    "Visby"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1912-09-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Rydin%20H8D%201912.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6085588",
+      "link": "https://www.wikidata.org/wiki/Q6085588"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRug",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRug"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

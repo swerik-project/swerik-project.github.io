@@ -1,0 +1,67 @@
+{
+  "name": "amanda palmstierna",
+  "swerik-id": "i-TP1gKqVgWU4EH5fBdPaTQB",
+  "DOB": "1977-02-21",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vänersborgs församling",
+    "link": "http://www.wikidata.org/entity/Q18334839"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2019-10-01 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q71137237",
+      "link": "https://www.wikidata.org/wiki/Q71137237"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0999976269027",
+      "link": "https://data.riksdagen.se/personlista/?iid=0999976269027&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d12313ba-680b-4784-b858-5c9e6db692e7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d12313ba-680b-4784-b858-5c9e6db692e7"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2019-10-01",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

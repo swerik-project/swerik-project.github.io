@@ -1,0 +1,50 @@
+{
+  "name": "adolf von proschwitz",
+  "swerik-id": "i-Fi6exxqsKfo6JqsZqL1DSb",
+  "DOB": "1817-09-18",
+  "DOD": "1905-11-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hede församling",
+    "link": "http://www.wikidata.org/entity/Q18290531"
+  },
+  "place-of-death": {
+    "place": "Svarteborgs församling",
+    "link": "http://www.wikidata.org/entity/Q18333144"
+  },
+  "alt-names": [
+    "von proschwitz"
+  ],
+  "iorter": [
+    "Bräcke"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tunge, Sörbygdens och Sotenäs häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20von%20Proschwitz%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6056980",
+      "link": "https://www.wikidata.org/wiki/Q6056980"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkYQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkYQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

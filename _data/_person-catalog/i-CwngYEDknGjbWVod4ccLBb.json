@@ -1,0 +1,51 @@
+{
+  "name": "johan ericsson",
+  "swerik-id": "i-CwngYEDknGjbWVod4ccLBb",
+  "DOB": "1834-03-10",
+  "DOD": "1894-12-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lommaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10569032"
+  },
+  "place-of-death": {
+    "place": "Linderås församling",
+    "link": "http://www.wikidata.org/entity/Q10562508"
+  },
+  "alt-names": [
+    "ericsson",
+    "johan apollonius ericsson"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra och Södra Vedbo domsagas tingslag"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Apollonius%20Ericsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5715212",
+      "link": "https://www.wikidata.org/wiki/Q5715212"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAA8TA",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAA8TA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,119 @@
+{
+  "name": "christian lundeberg",
+  "swerik-id": "i-LkZi3hQne6xsLtDL597mit",
+  "DOB": "1842-07-14",
+  "DOD": "1911-11-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Valbo församling",
+    "link": "http://www.wikidata.org/entity/Q10712147"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "lundeberg"
+  ],
+  "iorter": [
+    "Forsbacka",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1905-08-02 00:00:00",
+      "end": "1905-11-07 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lundeberg",
+      "district": null
+    },
+    {
+      "start": "1899-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Lundeberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q53286",
+      "link": "https://www.wikidata.org/wiki/Q53286"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9790",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9790"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAADQvg",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAADQvg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:63022",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63022"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOoA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOoA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1910",
+      "end": "1910"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

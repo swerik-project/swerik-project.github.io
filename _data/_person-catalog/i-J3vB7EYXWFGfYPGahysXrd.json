@@ -1,0 +1,67 @@
+{
+  "name": "noria manouchi",
+  "swerik-id": "i-J3vB7EYXWFGfYPGahysXrd",
+  "DOB": "1991-02-07",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Fosie församling",
+    "link": "http://www.wikidata.org/entity/Q10498247"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q70589038",
+      "link": "https://www.wikidata.org/wiki/Q70589038"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0793372891224",
+      "link": "https://data.riksdagen.se/personlista/?iid=0793372891224&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2d211f58-34b9-44c9-b2f0-def45ed3e03c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2d211f58-34b9-44c9-b2f0-def45ed3e03c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

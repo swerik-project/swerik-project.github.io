@@ -1,0 +1,55 @@
+{
+  "name": "adolf tersmeden",
+  "swerik-id": "i-HAFZFbdF4e3ydskQmfFfkc",
+  "DOB": "1836-04-17",
+  "DOD": "1914-05-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Florens",
+    "link": "http://www.wikidata.org/entity/Q16172"
+  },
+  "alt-names": [
+    "tersmeden"
+  ],
+  "iorter": [
+    "Ramnäs"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns södra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Tersmeden.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6206359",
+      "link": "https://www.wikidata.org/wiki/Q6206359"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPHA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPHA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:30155",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:30155"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

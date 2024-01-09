@@ -1,0 +1,53 @@
+{
+  "name": "frithiof schöning",
+  "swerik-id": "i-Xhc5fjdzqZYRf62RK1zz52",
+  "DOB": "1839-09-24",
+  "DOD": "1893-06-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderhamns församling",
+    "link": "http://www.wikidata.org/entity/Q10688543"
+  },
+  "place-of-death": {
+    "place": "Hamburg",
+    "link": "http://www.wikidata.org/entity/Q1055"
+  },
+  "alt-names": [
+    "jf schöning",
+    "johan frithiof göthe schöning",
+    "johan frithiof schöning",
+    "schöning"
+  ],
+  "iorter": [
+    "Söderhamn"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Söderhamns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Frithiof%20G%C3%B6the%20Sch%C3%B6ning.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6170702",
+      "link": "https://www.wikidata.org/wiki/Q6170702"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOUw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOUw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

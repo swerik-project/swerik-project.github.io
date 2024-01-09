@@ -1,0 +1,69 @@
+{
+  "name": "sigurd lindholm",
+  "swerik-id": "i-9EKrgr3Ba4x3Qu2BozYUEA",
+  "DOB": "1904-05-20",
+  "DOD": "1990-09-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sandvikens församling",
+    "link": "http://www.wikidata.org/entity/Q10661257"
+  },
+  "place-of-death": {
+    "place": "Sandviken",
+    "link": "http://www.wikidata.org/entity/Q54756"
+  },
+  "alt-names": [
+    "lindholm",
+    "per sigurd lindholm"
+  ],
+  "iorter": [
+    "Sandviken"
+  ],
+  "positions": [
+    {
+      "start": "1955-09-12 00:00:00",
+      "end": "1965-09-16 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1955-09-12 00:00:00",
+      "end": "1965-09-16 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigurd%20Lindholm%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5956828",
+      "link": "https://www.wikidata.org/wiki/Q5956828"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOkw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOkw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

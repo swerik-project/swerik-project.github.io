@@ -1,0 +1,58 @@
+{
+  "name": "jan orrenius",
+  "swerik-id": "i-JUNzd1nQvupNUE6VssVS9e",
+  "DOB": "1934-11-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-04-09 00:00:00",
+      "end": "2002-06-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21578744",
+      "link": "https://www.wikidata.org/wiki/Q21578744"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0873439293805",
+      "link": "https://data.riksdagen.se/personlista/?iid=0873439293805&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7ef99f0b-4d1a-11d6-ae8d-0040ca16a6a7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7ef99f0b-4d1a-11d6-ae8d-0040ca16a6a7"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2002-04-09",
+      "end": "2002-06-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,127 @@
+{
+  "name": "johan nydahl",
+  "swerik-id": "i-GbhiuQPNmKizBowZVk5os8",
+  "DOB": "1846-06-14",
+  "DOD": "1931-03-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10418312"
+  },
+  "place-of-death": {
+    "place": "Uppsala",
+    "link": "http://www.wikidata.org/entity/Q25286"
+  },
+  "alt-names": [
+    "nydahl"
+  ],
+  "iorter": [
+    "Härnösand",
+    "Högsjö"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands södra valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands södra domsagas valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands södra domsagas valkrets"
+    },
+    {
+      "start": "1884-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Boteå, Säbrå, Nora och Gudmundrå tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Nydahl%201846%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6019416",
+      "link": "https://www.wikidata.org/wiki/Q6019416"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfpA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfpA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1908",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1897",
+      "end": "1900"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1884",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

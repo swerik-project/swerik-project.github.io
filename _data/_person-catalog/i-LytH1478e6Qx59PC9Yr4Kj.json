@@ -1,0 +1,50 @@
+{
+  "name": "erik olsson",
+  "swerik-id": "i-LytH1478e6Qx59PC9Yr4Kj",
+  "DOB": "1906-03-30",
+  "DOD": "1982-08-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Föllinge församling",
+    "link": "http://www.wikidata.org/entity/Q18290013"
+  },
+  "place-of-death": {
+    "place": "Östersund",
+    "link": "http://www.wikidata.org/entity/Q26515"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Krokom"
+  ],
+  "positions": [
+    {
+      "start": "1954-01-12 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Olsson%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026814",
+      "link": "https://www.wikidata.org/wiki/Q6026814"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRHQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRHQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "karin östergren",
+  "swerik-id": "i-HSMHpUXXyiPtGnUcVPDQgp",
+  "DOB": "1924",
+  "DOD": "2010-11-20",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1987-11-10 00:00:00",
+      "end": "1987-12-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4991167",
+      "link": "https://www.wikidata.org/wiki/Q4991167"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1987-11-10",
+      "end": "1987-12-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

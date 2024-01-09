@@ -1,0 +1,71 @@
+{
+  "name": "johan fjällbäck",
+  "swerik-id": "i-JMdXGwxRifxgRJrhkGnaDi",
+  "DOB": "1855-01-03",
+  "DOD": "1933-09-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Smula församling",
+    "link": "http://www.wikidata.org/entity/Q10672409"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "fjällbäck",
+    "j a fjällbäck",
+    "johan alfred johansson fjällbäck"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Alfred%20Fj%C3%A4llb%C3%A4ck%201855%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5732483",
+      "link": "https://www.wikidata.org/wiki/Q5732483"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "14179",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14179"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMgg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMgg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:52688",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:52688"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

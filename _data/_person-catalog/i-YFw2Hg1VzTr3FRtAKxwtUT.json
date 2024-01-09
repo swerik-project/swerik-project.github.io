@@ -1,0 +1,75 @@
+{
+  "name": "gunnar danielson",
+  "swerik-id": "i-YFw2Hg1VzTr3FRtAKxwtUT",
+  "DOB": "1901-08-18",
+  "DOD": "1958-09-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "berndt gunnar emil danielsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Danielson%200182.1.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5616687",
+      "link": "https://www.wikidata.org/wiki/Q5616687"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACd8Qg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACd8Qg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

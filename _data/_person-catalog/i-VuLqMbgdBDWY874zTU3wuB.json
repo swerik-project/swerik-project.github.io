@@ -1,0 +1,76 @@
+{
+  "name": "nils boström",
+  "swerik-id": "i-VuLqMbgdBDWY874zTU3wuB",
+  "DOB": "1844-12-01",
+  "DOD": "1920-04-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Burträsks församling",
+    "link": "http://www.wikidata.org/entity/Q10437982"
+  },
+  "place-of-death": {
+    "place": "Burträsks församling",
+    "link": "http://www.wikidata.org/entity/Q10437982"
+  },
+  "alt-names": [
+    "boström"
+  ],
+  "iorter": [
+    "Bodbyn"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens mellersta domsagas valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens mellersta domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Bostr%C3%B6m%201844%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5598581",
+      "link": "https://www.wikidata.org/wiki/Q5598581"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbyw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbyw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

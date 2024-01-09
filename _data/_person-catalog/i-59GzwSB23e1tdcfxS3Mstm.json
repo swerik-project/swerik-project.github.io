@@ -1,0 +1,49 @@
+{
+  "name": "mona smedman",
+  "swerik-id": "i-59GzwSB23e1tdcfxS3Mstm",
+  "DOB": "1975",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2024-01-01 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q124062059",
+      "link": "https://www.wikidata.org/wiki/Q124062059"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0287315215921",
+      "link": "https://data.riksdagen.se/personlista/?iid=0287315215921&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "45b42cb7-9fbe-4e3c-bc7c-2a2144c13ffb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_45b42cb7-9fbe-4e3c-bc7c-2a2144c13ffb"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

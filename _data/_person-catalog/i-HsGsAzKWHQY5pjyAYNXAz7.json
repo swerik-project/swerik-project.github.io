@@ -1,0 +1,98 @@
+{
+  "name": "maria ferm",
+  "swerik-id": "i-HsGsAzKWHQY5pjyAYNXAz7",
+  "DOB": "1985-08-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Eriksfälts församling",
+    "link": "http://www.wikidata.org/entity/Q10487740"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "maria theresa ferm"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-01-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2016-01-01 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2015-05-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Ferm02.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4947860",
+      "link": "https://www.wikidata.org/wiki/Q4947860"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0462699892622",
+      "link": "https://data.riksdagen.se/personlista/?iid=0462699892622&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f7506cc9-0867-4ec3-a0ba-8a1a127060f8",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f7506cc9-0867-4ec3-a0ba-8a1a127060f8"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2021-11-30",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

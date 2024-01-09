@@ -1,0 +1,44 @@
+{
+  "name": "per welander",
+  "swerik-id": "i-7hJxjV8LT3MEVBaeAoCaWb",
+  "DOB": "1868-05-10",
+  "DOD": "1952-02-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Årsunda",
+    "link": "http://www.wikidata.org/entity/Q2089974"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "per olof welander",
+    "welander"
+  ],
+  "iorter": [
+    "Östersund"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1919-06-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6235028",
+      "link": "https://www.wikidata.org/wiki/Q6235028"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,119 @@
+{
+  "name": "magnus arhusiander",
+  "swerik-id": "i-F7ULzRrCf8CRpTUenaxX9w",
+  "DOB": "1829-01-17",
+  "DOD": "1908-05-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Säters stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q44493178"
+  },
+  "place-of-death": {
+    "place": "Sundsvalls församling",
+    "link": "http://www.wikidata.org/entity/Q10683835"
+  },
+  "alt-names": [
+    "arhusiander"
+  ],
+  "iorter": [
+    "Sundsvall"
+  ],
+  "positions": [
+    {
+      "start": "1895-01-01 00:00:00",
+      "end": "1901-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundsvalls valkrets"
+    },
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1883-01-01 00:00:00",
+      "end": "1892-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sundsvalls valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Arhusiander%20SPA15%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5559022",
+      "link": "https://www.wikidata.org/wiki/Q5559022"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18797",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18797"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA44Mg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA44Mg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfBg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfBg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1901"
+    },
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1897"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1892",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1889",
+      "end": "1892"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens frihandelsparti",
+        "party-id": "Q10411414"
+      },
+      "start": "1887",
+      "end": "1888"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

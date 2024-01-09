@@ -1,0 +1,143 @@
+{
+  "name": "lars engqvist",
+  "swerik-id": "i-ESKbhHz2VETwMj9meYcmxk",
+  "DOB": "1945-08-13",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sala",
+    "link": "http://www.wikidata.org/entity/Q930262"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lars fredrik engqvist"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2004-06-01 00:00:00",
+      "end": "2004-10-01 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1998-11-16 00:00:00",
+      "end": "2004-10-01 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "1998-11-16 00:00:00",
+      "role": "kommunminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-06 00:00:00",
+      "end": "1998-11-16 00:00:00",
+      "role": "bostadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-06 00:00:00",
+      "end": "1998-11-16 00:00:00",
+      "role": "inrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-03-25 00:00:00",
+      "end": "1998-10-06 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-03-25 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "idrottsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-03-25 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "konsumentminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-03-25 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Engqvist%201992.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5854875",
+      "link": "https://www.wikidata.org/wiki/Q5854875"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0763673691509",
+      "link": "https://data.riksdagen.se/personlista/?iid=0763673691509&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c324aa-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c324aa-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2002-09-30",
+      "end": "2002-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

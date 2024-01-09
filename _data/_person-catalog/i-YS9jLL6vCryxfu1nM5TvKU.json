@@ -1,0 +1,79 @@
+{
+  "name": "maj pehrsson",
+  "swerik-id": "i-YS9jLL6vCryxfu1nM5TvKU",
+  "DOB": "1914-05-27",
+  "DOD": "2017-08-27",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hyssna församling",
+    "link": "http://www.wikidata.org/entity/Q10530905"
+  },
+  "place-of-death": {
+    "place": "Marks kommun",
+    "link": "http://www.wikidata.org/entity/Q500153"
+  },
+  "alt-names": [
+    "pehrsson"
+  ],
+  "iorter": [
+    "Hyssna"
+  ],
+  "positions": [
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96982763",
+      "link": "https://www.wikidata.org/wiki/Q96982763"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1979-10-01",
+      "end": "1982-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

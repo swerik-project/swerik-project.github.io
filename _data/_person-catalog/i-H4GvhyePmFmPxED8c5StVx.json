@@ -1,0 +1,55 @@
+{
+  "name": "johannes andersson",
+  "swerik-id": "i-H4GvhyePmFmPxED8c5StVx",
+  "DOB": "1823-01-03",
+  "DOD": "1897-05-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Barkeryds församling",
+    "link": "http://www.wikidata.org/entity/Q10426410"
+  },
+  "place-of-death": {
+    "place": "Barkeryds församling",
+    "link": "http://www.wikidata.org/entity/Q10426410"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Ryssby"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tveta, Vista och Mo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Andersson%201823%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554987",
+      "link": "https://www.wikidata.org/wiki/Q5554987"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA528g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA528g"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbLQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbLQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

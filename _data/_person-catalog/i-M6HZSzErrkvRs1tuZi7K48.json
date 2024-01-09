@@ -1,0 +1,103 @@
+{
+  "name": "louis de geer den äldre",
+  "swerik-id": "i-M6HZSzErrkvRs1tuZi7K48",
+  "DOB": "1818-07-18",
+  "DOD": "1896-09-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Risinge församling",
+    "link": "http://www.wikidata.org/entity/Q10655757"
+  },
+  "place-of-death": {
+    "place": "Kviinge församling",
+    "link": "http://www.wikidata.org/entity/Q10551091"
+  },
+  "alt-names": [
+    "de geer af finspång",
+    "louis de geer",
+    "louis de geer dä",
+    "louis gerhard de geer"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1876-03-20 00:00:00",
+      "end": "1879-06-06 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. III",
+      "district": null
+    },
+    {
+      "start": "1876-03-20 00:00:00",
+      "end": "1880-04-19 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. III",
+      "district": null
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20De%20Geer%201818-1896%20from%20Hildebrand%20Sveriges%20historia.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q52950",
+      "link": "https://www.wikidata.org/wiki/Q52950"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17356",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17356"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAB4u4A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAB4u4A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28612",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28612"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMnQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMnQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centern (partigrupp 1885-1887)",
+        "party-id": "Q10444847"
+      },
+      "start": "1885",
+      "end": "1887"
+    },
+    {
+      "party": {
+        "name": "Skånska partiet",
+        "party-id": "Q10671173"
+      },
+      "start": "1883",
+      "end": "1885"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

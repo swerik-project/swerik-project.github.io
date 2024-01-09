@@ -1,0 +1,77 @@
+{
+  "name": "olof persson",
+  "swerik-id": "i-VHiWwJoKDHQp7mjLCJgsFx",
+  "DOB": "1839-05-17",
+  "DOD": "1914-01-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rya församling",
+    "link": "http://www.wikidata.org/entity/Q10658171"
+  },
+  "place-of-death": {
+    "place": "Ängelholms församling",
+    "link": "http://www.wikidata.org/entity/Q10725863"
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Killebäckstorp",
+    "Örkelljunga"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Åsbo och Bjäre domsagas valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Åsbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Persson%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043528",
+      "link": "https://www.wikidata.org/wiki/Q6043528"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpeQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpeQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

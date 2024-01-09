@@ -1,0 +1,60 @@
+{
+  "name": "oscar schenström",
+  "swerik-id": "i-F9oag7TTVyYhefCPVcBEwu",
+  "DOB": "1813-02-16",
+  "DOD": "1900-02-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Köpings landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58814313"
+  },
+  "place-of-death": {
+    "place": "Köpings stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58814198"
+  },
+  "alt-names": [
+    "carl magnus oscar schenström",
+    "schenström"
+  ],
+  "iorter": [
+    "Köping"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerås och Köpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Schenstr%C3%B6m%201813%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6097093",
+      "link": "https://www.wikidata.org/wiki/Q6097093"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPaA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPaA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1882",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

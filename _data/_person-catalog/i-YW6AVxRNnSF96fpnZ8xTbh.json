@@ -1,0 +1,82 @@
+{
+  "name": "gustaf lönegren",
+  "swerik-id": "i-YW6AVxRNnSF96fpnZ8xTbh",
+  "DOB": "1828-11-25",
+  "DOD": "1907-02-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landskrona församling",
+    "link": "http://www.wikidata.org/entity/Q10553938"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "gustaf walter leopold lönegren",
+    "lönegren"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1888-09-28 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gillis Bildt",
+      "district": null
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20L%C3%B6negren%201828%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5969715",
+      "link": "https://www.wikidata.org/wiki/Q5969715"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10069",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10069"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaxQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaxQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1887",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

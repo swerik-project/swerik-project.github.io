@@ -1,0 +1,66 @@
+{
+  "name": "carl frans lundström",
+  "swerik-id": "i-EzhmCmNyKREE4AaqdncvAo",
+  "DOB": "1823-04-02",
+  "DOD": "1917-08-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "carl franz lundström",
+    "lundström"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Franz%20Lundstr%C3%B6m%20Svenska%20industriens%20m%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1037831",
+      "link": "https://www.wikidata.org/wiki/Q1037831"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9899",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9899"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAACjwg",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAACjwg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:3523",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:3523"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNWg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNWg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

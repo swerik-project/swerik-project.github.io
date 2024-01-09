@@ -1,0 +1,51 @@
+{
+  "name": "jonas domeij",
+  "swerik-id": "i-VC8M4GnTVfdRYSmtWPgcTd",
+  "DOB": "1839-08-16",
+  "DOD": "1916-12-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grundsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10509154"
+  },
+  "place-of-death": {
+    "place": "Örnsköldsvik",
+    "link": "http://www.wikidata.org/entity/Q28327"
+  },
+  "alt-names": [
+    "domeij",
+    "jonas olof domeij"
+  ],
+  "iorter": [
+    "Örnsköldsvik"
+  ],
+  "positions": [
+    {
+      "start": "1891-02-14 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Själevads och Arnäs domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Domeij%201839%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5623312",
+      "link": "https://www.wikidata.org/wiki/Q5623312"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfhA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfhA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

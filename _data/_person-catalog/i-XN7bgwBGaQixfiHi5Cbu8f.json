@@ -1,0 +1,71 @@
+{
+  "name": "cecilia wikström",
+  "swerik-id": "i-XN7bgwBGaQixfiHi5Cbu8f",
+  "DOB": "1965-10-17",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Svanstein",
+    "link": "http://www.wikidata.org/entity/Q2489591"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "wikström"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2009-07-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Cecilia%20Wikstr%C3%B6m%20%28Martin%20Rulsch%29%201.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q460539",
+      "link": "https://www.wikidata.org/wiki/Q460539"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0638431210311",
+      "link": "https://data.riksdagen.se/personlista/?iid=0638431210311&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8b9339bd-4bce-4d6f-8301-96a41a99be16",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8b9339bd-4bce-4d6f-8301-96a41a99be16"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2006-10-02",
+      "end": "2009-07-13"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

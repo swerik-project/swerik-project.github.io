@@ -1,0 +1,61 @@
+{
+  "name": "theodor winborg",
+  "swerik-id": "i-EGwQL87oCFw9QVorsYeDnJ",
+  "DOB": "1832-02-04",
+  "DOD": "1918-10-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ransbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10649641"
+  },
+  "place-of-death": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "alt-names": [
+    "johan theodor winborg",
+    "winborg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Winborg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6243918",
+      "link": "https://www.wikidata.org/wiki/Q6243918"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAABNZQ",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAABNZQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAABNaA",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAABNaA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNHQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNHQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

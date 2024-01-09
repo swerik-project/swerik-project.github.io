@@ -1,0 +1,69 @@
+{
+  "name": "helene björklund",
+  "swerik-id": "i-VKn82G8HqN17j19VTfbE9g",
+  "DOB": "1972-09-29",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sölvesborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10689124"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hel%C3%A9ne%20Bj%C3%B6rklund%20-%20Riksdag.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q57168842",
+      "link": "https://www.wikidata.org/wiki/Q57168842"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0926214745119",
+      "link": "https://data.riksdagen.se/personlista/?iid=0926214745119&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a4581b8d-78fd-41c1-a55d-7fe9ed93c878",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a4581b8d-78fd-41c1-a55d-7fe9ed93c878"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

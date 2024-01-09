@@ -1,0 +1,51 @@
+{
+  "name": "karl wistrand",
+  "swerik-id": "i-WxcGYe8AGVMcCyHJTSEui2",
+  "DOB": "1889-04-09",
+  "DOD": "1974-12-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskoga",
+    "link": "http://www.wikidata.org/entity/Q54732"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "karl knutson wistrand",
+    "wistrand"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1953-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Wistrand%201889%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6340875",
+      "link": "https://www.wikidata.org/wiki/Q6340875"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNxg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNxg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

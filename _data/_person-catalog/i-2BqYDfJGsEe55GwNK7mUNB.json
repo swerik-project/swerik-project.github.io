@@ -1,0 +1,89 @@
+{
+  "name": "william farup",
+  "swerik-id": "i-2BqYDfJGsEe55GwNK7mUNB",
+  "DOB": "1824-03-26",
+  "DOD": "1893-05-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hurum",
+    "link": "http://www.wikidata.org/entity/Q488611"
+  },
+  "place-of-death": {
+    "place": "Ljusnedals bruk",
+    "link": "http://www.wikidata.org/entity/Q10568456"
+  },
+  "alt-names": [
+    "farup"
+  ],
+  "iorter": [
+    "Ljusnedal"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Härjedalens domsagas valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Jämtlands domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Farup%201824%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5725909",
+      "link": "https://www.wikidata.org/wiki/Q5725909"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15152",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15152"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRTw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRTw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1890"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens vänster",
+        "party-id": "Q10411416"
+      },
+      "start": "1886",
+      "end": "1886"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1882",
+      "end": "1885"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

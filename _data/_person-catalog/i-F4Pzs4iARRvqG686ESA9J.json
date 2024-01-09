@@ -1,0 +1,52 @@
+{
+  "name": "anitha bondestam",
+  "swerik-id": "i-F4Pzs4iARRvqG686ESA9J",
+  "DOB": "1941-10-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Gdańsk",
+    "link": "http://www.wikidata.org/entity/Q1792"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anitha ingrid bondestam"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    },
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anitha%20Bondestam%202016.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4987638",
+      "link": "https://www.wikidata.org/wiki/Q4987638"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

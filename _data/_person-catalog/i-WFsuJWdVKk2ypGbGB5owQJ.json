@@ -1,0 +1,51 @@
+{
+  "name": "blenda björck",
+  "swerik-id": "i-WFsuJWdVKk2ypGbGB5owQJ",
+  "DOB": "1885-02-03",
+  "DOD": "1978-04-02",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Slimminge församling",
+    "link": "http://www.wikidata.org/entity/Q10671576"
+  },
+  "place-of-death": {
+    "place": "Tomelilla församling",
+    "link": "http://www.wikidata.org/entity/Q10699619"
+  },
+  "alt-names": [
+    "björck",
+    "blenda vilhelmina björck"
+  ],
+  "iorter": [
+    "Tomelilla"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Blenda%20Bj%C3%B6rck%201885%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4939247",
+      "link": "https://www.wikidata.org/wiki/Q4939247"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpZg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpZg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

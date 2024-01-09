@@ -1,0 +1,56 @@
+{
+  "name": "arvid thorberg",
+  "swerik-id": "i-GaQh19d66D5oDPaFNq5DY1",
+  "DOB": "1877-04-13",
+  "DOD": "1930-04-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kärnbo församling",
+    "link": "http://www.wikidata.org/entity/Q10551864"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "johan arvid justinus thorberg",
+    "thorberg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1930-04-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Arvid-thorberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4802448",
+      "link": "https://www.wikidata.org/wiki/Q4802448"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN2UQ",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN2UQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNaw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNaw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

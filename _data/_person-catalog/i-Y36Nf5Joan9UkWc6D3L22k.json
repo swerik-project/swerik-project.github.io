@@ -1,0 +1,51 @@
+{
+  "name": "enok runefors",
+  "swerik-id": "i-Y36Nf5Joan9UkWc6D3L22k",
+  "DOB": "1878-11-01",
+  "DOD": "1965-04-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Madesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10575132"
+  },
+  "place-of-death": {
+    "place": "Nybro församling",
+    "link": "http://www.wikidata.org/entity/Q10604367"
+  },
+  "alt-names": [
+    "enok amandus runefors",
+    "runefors"
+  ],
+  "iorter": [
+    "Ruskemåla"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Enok%20Runefors%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6083634",
+      "link": "https://www.wikidata.org/wiki/Q6083634"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc7Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc7Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

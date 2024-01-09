@@ -1,0 +1,61 @@
+{
+  "name": "gerhard magnusson",
+  "swerik-id": "i-739L97AwXAPwE1MCBCsyCu",
+  "DOB": "1872-12-15",
+  "DOD": "1940-05-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "gustaf gerhard magnusson",
+    "magnusson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1920-02-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gerhard%20Magnusson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5972007",
+      "link": "https://www.wikidata.org/wiki/Q5972007"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10173",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10173"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcRg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcRg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABqysA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABqysA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

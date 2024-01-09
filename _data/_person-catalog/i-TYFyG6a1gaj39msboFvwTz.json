@@ -1,0 +1,56 @@
+{
+  "name": "axel roos",
+  "swerik-id": "i-TYFyG6a1gaj39msboFvwTz",
+  "DOB": "1886-03-04",
+  "DOD": "1957-08-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "place-of-death": {
+    "place": "Slottsstadens församling",
+    "link": "http://www.wikidata.org/entity/Q10671657"
+  },
+  "alt-names": [
+    "axel bernhard roos",
+    "roos"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Roos%20SPA%2011%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6078273",
+      "link": "https://www.wikidata.org/wiki/Q6078273"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6832",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6832"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRxw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRxw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

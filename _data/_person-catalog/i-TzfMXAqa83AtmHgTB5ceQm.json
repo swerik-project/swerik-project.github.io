@@ -1,0 +1,65 @@
+{
+  "name": "thomas munck af rosenschöld",
+  "swerik-id": "i-TzfMXAqa83AtmHgTB5ceQm",
+  "DOB": "1813-06-28",
+  "DOD": "1893-01-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "place-of-death": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "alt-names": [
+    "munck af rosenschöld"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Af%20Rosensch%C3%B6ld%20Thomas%20Munck%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5996870",
+      "link": "https://www.wikidata.org/wiki/Q5996870"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8527",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8527"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "I_2wtd5VefAAAAAAAAAuFA",
+      "link": "https://portrattarkiv.se/details/I_2wtd5VefAAAAAAAAAuFA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:42746",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:42746"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfplw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfplw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

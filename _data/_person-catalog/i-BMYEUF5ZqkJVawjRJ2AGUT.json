@@ -1,0 +1,62 @@
+{
+  "name": "lennart alsen",
+  "swerik-id": "i-BMYEUF5ZqkJVawjRJ2AGUT",
+  "DOB": "1937-02-06",
+  "DOD": "2013-05-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "alsen"
+  ],
+  "iorter": [
+    "Fågelmara"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5547873",
+      "link": "https://www.wikidata.org/wiki/Q5547873"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0282360034405",
+      "link": "https://data.riksdagen.se/personlista/?iid=0282360034405&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "58e9e7f6-9312-4608-b8fd-14f5ab86089a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_58e9e7f6-9312-4608-b8fd-14f5ab86089a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

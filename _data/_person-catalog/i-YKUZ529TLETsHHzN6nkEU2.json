@@ -1,0 +1,56 @@
+{
+  "name": "wilhelm stråle af ekna",
+  "swerik-id": "i-YKUZ529TLETsHHzN6nkEU2",
+  "DOB": "1816-02-22",
+  "DOD": "1902-03-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "stråle af ekna",
+    "vilhelm stråle af ekna"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Str%C3%A5le%20af%20Ekna%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6192954",
+      "link": "https://www.wikidata.org/wiki/Q6192954"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgetA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgetA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:64579",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:64579"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

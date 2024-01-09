@@ -1,0 +1,90 @@
+{
+  "name": "johan johansson",
+  "swerik-id": "i-EBJajA8LzwBaLyBVQxuFTz",
+  "DOB": "1840-11-01",
+  "DOD": "1905-02-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nora församling",
+    "link": "http://www.wikidata.org/entity/Q10601901"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "johannes johansson",
+    "johansson"
+  ],
+  "iorter": [
+    "Bergshyttan",
+    "Bergsäng",
+    "Noraskog",
+    "Ringshyttan"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1887-06-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nora domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Johansson%201840%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5886593",
+      "link": "https://www.wikidata.org/wiki/Q5886593"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12150",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12150"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsfQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsfQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:52769",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:52769"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1902"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

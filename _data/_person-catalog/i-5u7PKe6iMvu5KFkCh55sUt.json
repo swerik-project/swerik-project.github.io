@@ -1,0 +1,76 @@
+{
+  "name": "johannes nilsson",
+  "swerik-id": "i-5u7PKe6iMvu5KFkCh55sUt",
+  "DOB": "1836-09-18",
+  "DOD": "1914-03-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stenestads församling",
+    "link": "http://www.wikidata.org/entity/Q10678456"
+  },
+  "place-of-death": {
+    "place": "Helsingborgs Maria församling",
+    "link": "http://www.wikidata.org/entity/Q10520535"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Sorröd"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Åsbo domsagas valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Åsbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Nilsson%20SPA%201%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010733",
+      "link": "https://www.wikidata.org/wiki/Q6010733"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpag",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpag"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "peter kullgren",
+  "swerik-id": "i-7FjNhEaszmRyzFCMMdCPPW",
+  "DOB": "1981-05-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Forshaga församling",
+    "link": "http://www.wikidata.org/entity/Q10498112"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "peter kent kullgren"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Peter-kullgren-kd-2022.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5925995",
+      "link": "https://www.wikidata.org/wiki/Q5925995"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0102278739624",
+      "link": "https://data.riksdagen.se/personlista/?iid=0102278739624&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "6564f941-e493-48e5-b4be-3918c5141b96",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_6564f941-e493-48e5-b4be-3918c5141b96"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "68edf87b-745b-4862-bb38-d388733c3c4d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_68edf87b-745b-4862-bb38-d388733c3c4d"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0168348837024",
+      "link": "https://data.riksdagen.se/personlista/?iid=0168348837024&utformat=html"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

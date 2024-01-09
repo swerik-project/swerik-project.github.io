@@ -1,0 +1,57 @@
+{
+  "name": "herman ericsson",
+  "swerik-id": "i-8H3MuQVwfmeFWhiNZz11g8",
+  "DOB": "1891-07-26",
+  "DOD": "1969-09-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Forssa församling",
+    "link": "http://www.wikidata.org/entity/Q10498169"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Pauli församling",
+    "link": "http://www.wikidata.org/entity/Q10576132"
+  },
+  "alt-names": [
+    "carl herman ericsson",
+    "ericsson",
+    "karl herman eriksson"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1946-10-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Ericsson%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5715185",
+      "link": "https://www.wikidata.org/wiki/Q5715185"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAUpQ",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAUpQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgReQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgReQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

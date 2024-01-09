@@ -1,0 +1,53 @@
+{
+  "name": "jennie wernäng",
+  "swerik-id": "i-7JczRrovTGvs7Lvt1ihPfi",
+  "DOB": "1985-04-18",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jennie lisbeth wernäng"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-25 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jennie%20Wern%C3%A4ng%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114867560",
+      "link": "https://www.wikidata.org/wiki/Q114867560"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "098329342620",
+      "link": "https://data.riksdagen.se/personlista/?iid=098329342620&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "42d366d4-89aa-4ccf-8e75-38f7d2d9d5eb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_42d366d4-89aa-4ccf-8e75-38f7d2d9d5eb"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

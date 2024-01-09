@@ -1,0 +1,75 @@
+{
+  "name": "patric reuterswärd",
+  "swerik-id": "i-QNzoVWPUQqT8gHka8vHxei",
+  "DOB": "1820-11-22",
+  "DOD": "1907-08-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Vi församling",
+    "link": "http://www.wikidata.org/entity/Q10602607"
+  },
+  "place-of-death": {
+    "place": "Skinnskattebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10670209"
+  },
+  "alt-names": [
+    "patric oscar reuterswärd",
+    "reuterswärd"
+  ],
+  "iorter": [
+    "Baggå"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kopparbergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Patric%20Oscar%20Reutersw%C3%A4rd%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Patrik%20Reutersw%C3%A4rd%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6069039",
+      "link": "https://www.wikidata.org/wiki/Q6069039"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6640",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6640"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPew",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPew"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

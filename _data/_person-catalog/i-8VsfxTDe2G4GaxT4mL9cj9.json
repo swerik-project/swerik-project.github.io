@@ -1,0 +1,51 @@
+{
+  "name": "gustaf walin",
+  "swerik-id": "i-8VsfxTDe2G4GaxT4mL9cj9",
+  "DOB": "1845-09-04",
+  "DOD": "1924-09-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Årdala församling",
+    "link": "http://www.wikidata.org/entity/Q10726604"
+  },
+  "place-of-death": {
+    "place": "Oskarshamns församling",
+    "link": "http://www.wikidata.org/entity/Q10613018"
+  },
+  "alt-names": [
+    "gustaf alrik walin",
+    "walin"
+  ],
+  "iorter": [
+    "Oskarshamn"
+  ],
+  "positions": [
+    {
+      "start": "1896-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Walin%201845%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6229764",
+      "link": "https://www.wikidata.org/wiki/Q6229764"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcdg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcdg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

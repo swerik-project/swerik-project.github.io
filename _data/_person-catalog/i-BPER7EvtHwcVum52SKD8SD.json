@@ -1,0 +1,42 @@
+{
+  "name": "gerd mahl karlsson",
+  "swerik-id": "i-BPER7EvtHwcVum52SKD8SD",
+  "DOB": "1947-05-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristdala församling",
+    "link": "http://www.wikidata.org/entity/Q10549143"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "gerd mahl nilsson",
+    "gerd rosette elisabet mahl nilsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1984-11-19 00:00:00",
+      "end": "1984-12-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q119009323",
+      "link": "https://www.wikidata.org/wiki/Q119009323"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "denis begic",
+  "swerik-id": "i-CUTJJgAGx5ob6YXU1BcjVG",
+  "DOB": "1970-11-30",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bosnien och Hercegovina",
+    "link": "http://www.wikidata.org/entity/Q225"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Begic%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q71465386",
+      "link": "https://www.wikidata.org/wiki/Q71465386"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0466653728712",
+      "link": "https://data.riksdagen.se/personlista/?iid=0466653728712&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "47705a06-b78d-469f-9ebe-8f7407607be6",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_47705a06-b78d-469f-9ebe-8f7407607be6"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "ingrid segerstedt wiberg",
+  "swerik-id": "i-XuybHHvxaKR66VfzQMSKCq",
+  "DOB": "1911-06-18",
+  "DOD": "2010-05-21",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "place-of-death": {
+    "place": "Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10713238"
+  },
+  "alt-names": [
+    "segerstedt wiberg"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1959-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3379728",
+      "link": "https://www.wikidata.org/wiki/Q3379728"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfklw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfklw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37143",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37143"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

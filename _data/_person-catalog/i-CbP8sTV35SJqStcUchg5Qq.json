@@ -1,0 +1,43 @@
+{
+  "name": "erik huss",
+  "swerik-id": "i-CbP8sTV35SJqStcUchg5Qq",
+  "DOB": "1913-07-23",
+  "DOD": "2010-03-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "erik johan huss"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Huss%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5817889",
+      "link": "https://www.wikidata.org/wiki/Q5817889"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

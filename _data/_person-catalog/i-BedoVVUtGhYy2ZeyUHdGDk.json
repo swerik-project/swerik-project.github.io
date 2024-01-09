@@ -1,0 +1,109 @@
+{
+  "name": "herman lamm",
+  "swerik-id": "i-BedoVVUtGhYy2ZeyUHdGDk",
+  "DOB": "1853-04-20",
+  "DOD": "1928-07-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Judiska församlingen i Stockholm",
+    "link": "http://www.wikidata.org/entity/Q10541068"
+  },
+  "place-of-death": {
+    "place": "Royat",
+    "link": "http://www.wikidata.org/entity/Q650136"
+  },
+  "alt-names": [
+    "herman fredrik lamm",
+    "lamm"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1910-03-04 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Lamm%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5932922",
+      "link": "https://www.wikidata.org/wiki/Q5932922"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10959",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10959"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN2Rw",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN2Rw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:49388",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49388"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNvw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNvw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala riksdagspartiet",
+        "party-id": "Q10560990"
+      },
+      "start": "1924",
+      "end": "1928"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1923"
+    },
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1910",
+      "end": "1910"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

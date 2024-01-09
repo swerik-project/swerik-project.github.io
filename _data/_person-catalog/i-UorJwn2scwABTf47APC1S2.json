@@ -1,0 +1,59 @@
+{
+  "name": "fredrik alexander funck",
+  "swerik-id": "i-UorJwn2scwABTf47APC1S2",
+  "DOB": "1816-12-20",
+  "DOD": "1874-05-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skönberga församling",
+    "link": "http://www.wikidata.org/entity/Q10671252"
+  },
+  "place-of-death": {
+    "place": "Skönberga församling",
+    "link": "http://www.wikidata.org/entity/Q10671252"
+  },
+  "alt-names": [
+    "funck"
+  ],
+  "iorter": [
+    "Bolltorp"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1874-08-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Funck%201904.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5747245",
+      "link": "https://www.wikidata.org/wiki/Q5747245"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaew",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaew"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

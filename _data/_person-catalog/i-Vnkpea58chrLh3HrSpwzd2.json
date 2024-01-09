@@ -1,0 +1,58 @@
+{
+  "name": "christer häll",
+  "swerik-id": "i-Vnkpea58chrLh3HrSpwzd2",
+  "DOB": "1942",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1989-11-01 00:00:00",
+      "end": "1989-12-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1986-10-16 00:00:00",
+      "end": "1986-11-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q118873881",
+      "link": "https://www.wikidata.org/wiki/Q118873881"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0633602773606",
+      "link": "https://data.riksdagen.se/personlista/?iid=0633602773606&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "825ae56d-70e7-4b41-ab7f-5a765aa40255",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_825ae56d-70e7-4b41-ab7f-5a765aa40255"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

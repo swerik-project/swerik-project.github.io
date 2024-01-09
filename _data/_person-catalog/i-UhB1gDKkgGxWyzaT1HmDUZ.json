@@ -1,0 +1,56 @@
+{
+  "name": "karl rosling",
+  "swerik-id": "i-UhB1gDKkgGxWyzaT1HmDUZ",
+  "DOB": "1868-07-16",
+  "DOD": "1920-12-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fröslunda församling",
+    "link": "http://www.wikidata.org/entity/Q10499760"
+  },
+  "place-of-death": {
+    "place": "Katarina församling",
+    "link": "http://www.wikidata.org/entity/Q3427889"
+  },
+  "alt-names": [
+    "karl gustaf rosling",
+    "rosling"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-12-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Rosling%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6080404",
+      "link": "https://www.wikidata.org/wiki/Q6080404"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6949",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6949"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga_w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga_w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

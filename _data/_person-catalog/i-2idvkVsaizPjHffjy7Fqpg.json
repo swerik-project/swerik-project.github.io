@@ -1,0 +1,51 @@
+{
+  "name": "helmer hedström",
+  "swerik-id": "i-2idvkVsaizPjHffjy7Fqpg",
+  "DOB": "1873-05-21",
+  "DOD": "1951-12-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "place-of-death": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "alt-names": [
+    "august helmer hedström",
+    "hedström"
+  ],
+  "iorter": [
+    "Gäddvik"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Helmer%20Hedstr%C3%B6m%201873%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5796542",
+      "link": "https://www.wikidata.org/wiki/Q5796542"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRNA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRNA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

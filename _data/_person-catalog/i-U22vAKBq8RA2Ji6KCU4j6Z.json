@@ -1,0 +1,87 @@
+{
+  "name": "herman kling",
+  "swerik-id": "i-U22vAKBq8RA2Ji6KCU4j6Z",
+  "DOB": "1913-07-12",
+  "DOD": "1985-06-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västanfors församling",
+    "link": "http://www.wikidata.org/entity/Q10717828"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "alt-names": [
+    "erik herman kling",
+    "kling"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1965-11-25 00:00:00",
+      "end": "1969-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1962-01-01 00:00:00",
+      "end": "1964-11-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1959-12-01 00:00:00",
+      "end": "1969-10-14 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1957-02-01 00:00:00",
+      "end": "1959-12-01 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1957-02-01 00:00:00",
+      "end": "1959-12-01 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Justice-Minister-Herman-Kling-cropped.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5913901",
+      "link": "https://www.wikidata.org/wiki/Q5913901"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOaQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOaQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

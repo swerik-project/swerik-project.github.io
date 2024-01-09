@@ -1,0 +1,78 @@
+{
+  "name": "sara gille",
+  "swerik-id": "i-7p7goD9VC5HZh4VdEN1AFo",
+  "DOB": "1981-09-08",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Österhaninge församling",
+    "link": "http://www.wikidata.org/entity/Q10728033"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sara seppälä"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-04-01 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q56925588",
+      "link": "https://www.wikidata.org/wiki/Q56925588"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0338088431726",
+      "link": "https://data.riksdagen.se/personlista/?iid=0338088431726&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "235255cd-cf3b-4b45-906d-5ffe21195683",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_235255cd-cf3b-4b45-906d-5ffe21195683"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2022-09-26",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "adolf wallerius",
+  "swerik-id": "i-XTWxYpC6x2AgbcStGcjNDj",
+  "DOB": "1874-04-12",
+  "DOD": "1937-02-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Hjärtums församling",
+    "link": "http://www.wikidata.org/entity/Q10524967"
+  },
+  "alt-names": [
+    "anders teodor adolf wallerius",
+    "anders theodor adolf wallerius",
+    "wallerius"
+  ],
+  "iorter": [
+    "Hjärtum"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1937-02-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Wallerius%201874%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6230894",
+      "link": "https://www.wikidata.org/wiki/Q6230894"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkpw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkpw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37524",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37524"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1937"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1921",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

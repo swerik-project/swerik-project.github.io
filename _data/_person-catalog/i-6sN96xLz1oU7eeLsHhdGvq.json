@@ -1,0 +1,59 @@
+{
+  "name": "olof olsson",
+  "swerik-id": "i-6sN96xLz1oU7eeLsHhdGvq",
+  "DOB": "1862-09-18",
+  "DOD": "1920-06-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Österfärnebo församling",
+    "link": "http://www.wikidata.org/entity/Q10727848"
+  },
+  "place-of-death": {
+    "place": "Österfärnebo församling",
+    "link": "http://www.wikidata.org/entity/Q10727848"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "See"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-05-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gästriklands valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gästriklands västra tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Olsson%20i%20See%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027685",
+      "link": "https://www.wikidata.org/wiki/Q6027685"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO2Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO2Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

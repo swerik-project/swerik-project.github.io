@@ -1,0 +1,61 @@
+{
+  "name": "carl ljunggren",
+  "swerik-id": "i-KaK1vxNc8mSW6SKdeNBorx",
+  "DOB": "1858-11-04",
+  "DOD": "1927-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "carl johan fredrik ljunggren",
+    "ljunggren"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ljunggren%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5961097",
+      "link": "https://www.wikidata.org/wiki/Q5961097"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9580",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9580"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAADUIQ",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAADUIQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpvQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpvQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

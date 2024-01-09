@@ -1,0 +1,73 @@
+{
+  "name": "joachim tawast beck friis",
+  "swerik-id": "i-5h3aAuqLtZGpXMkJuSPa55",
+  "DOB": "1827-12-29",
+  "DOD": "1888-01-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jäders församling",
+    "link": "http://www.wikidata.org/entity/Q10541615"
+  },
+  "place-of-death": {
+    "place": "Hargs församling",
+    "link": "http://www.wikidata.org/entity/Q10518095"
+  },
+  "alt-names": [
+    "beck friis"
+  ],
+  "iorter": [
+    "Harg"
+  ],
+  "positions": [
+    {
+      "start": "1884-02-21 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Roslags domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Joachim%20Beck-Friis%201827%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5568208",
+      "link": "https://www.wikidata.org/wiki/Q5568208"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAACgBw",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAACgBw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgepw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgepw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1879",
+      "end": "1881"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "anders wallenius",
+  "swerik-id": "i-BWrrLCo5SxLJXHedGLLCjS",
+  "DOB": "1833-10-13",
+  "DOD": "1889-12-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bällefors församling",
+    "link": "http://www.wikidata.org/entity/Q10438486"
+  },
+  "place-of-death": {
+    "place": "Bredsäters församling",
+    "link": "http://www.wikidata.org/entity/Q10435048"
+  },
+  "alt-names": [
+    "anders theodor wallenius",
+    "wallenius"
+  ],
+  "iorter": [
+    "Svaneberg"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1889-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1874-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Wallenius%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6230672",
+      "link": "https://www.wikidata.org/wiki/Q6230672"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAS3A",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAS3A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgecg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgecg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1882",
+      "end": "1884"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

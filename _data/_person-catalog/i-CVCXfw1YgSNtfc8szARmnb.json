@@ -1,0 +1,80 @@
+{
+  "name": "jan hyttring",
+  "swerik-id": "i-CVCXfw1YgSNtfc8szARmnb",
+  "DOB": "1942",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "hyttring"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1983-03-25 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21567861",
+      "link": "https://www.wikidata.org/wiki/Q21567861"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0430662617406",
+      "link": "https://data.riksdagen.se/personlista/?iid=0430662617406&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "89b1a6e6-6993-49f6-9dfa-621e4d2a53e8",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_89b1a6e6-6993-49f6-9dfa-621e4d2a53e8"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

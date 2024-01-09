@@ -1,0 +1,86 @@
+{
+  "name": "henning wachtmeister",
+  "swerik-id": "i-Q6PKVi6NT1Bm4xEx2J5XLC",
+  "DOB": "1869-07-16",
+  "DOD": "1940-06-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gryts församling",
+    "link": "http://www.wikidata.org/entity/Q10509672"
+  },
+  "place-of-death": {
+    "place": "Jakobs församling",
+    "link": "http://www.wikidata.org/entity/Q10539290"
+  },
+  "alt-names": [
+    "ernst henning wachtmeister",
+    "wachtmeister af johannishus"
+  ],
+  "iorter": [
+    "Strömbergs bruk",
+    "Strömsbergs bruk"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Wachtmeister%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6228042",
+      "link": "https://www.wikidata.org/wiki/Q6228042"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABOEsQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABOEsQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1918",
+      "end": "1919"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1909",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "johan björling",
+  "swerik-id": "i-RpQdmfcZBYyiMZdCdTYrto",
+  "DOB": "1877-05-14",
+  "DOD": "1957-03-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Högeruds församling",
+    "link": "http://www.wikidata.org/entity/Q10532270"
+  },
+  "place-of-death": {
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
+  },
+  "alt-names": [
+    "björling"
+  ],
+  "iorter": [
+    "Enskede"
+  ],
+  "positions": [
+    {
+      "start": "1917-01-17 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Bj%C3%B6rling%201877%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111692454",
+      "link": "https://www.wikidata.org/wiki/Q111692454"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEjA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEjA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

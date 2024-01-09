@@ -1,0 +1,55 @@
+{
+  "name": "eric ersson",
+  "swerik-id": "i-Dojdaqz1Xnckajnx4HsfYk",
+  "DOB": "1811-01-15",
+  "DOD": "1872-03-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10417106"
+  },
+  "place-of-death": {
+    "place": "Arbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10417106"
+  },
+  "alt-names": [
+    "ersson"
+  ],
+  "iorter": [
+    "Vallsta"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1868-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Ersson%20Vallsta.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5718524",
+      "link": "https://www.wikidata.org/wiki/Q5718524"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15458",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15458"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOXQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOXQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

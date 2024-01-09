@@ -1,0 +1,50 @@
+{
+  "name": "sven palmgren",
+  "swerik-id": "i-PFAPNmRqeUAaxDzNRTG1x1",
+  "DOB": "1821-08-30",
+  "DOD": "1880-09-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nässjö församling",
+    "link": "http://www.wikidata.org/entity/Q10605365"
+  },
+  "place-of-death": {
+    "place": "Eskilstuna stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10489097"
+  },
+  "alt-names": [
+    "palmgren"
+  ],
+  "iorter": [
+    "Eskilstuna"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1867-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Eskilstuna och Strängnäs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Palmgren%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104839950",
+      "link": "https://www.wikidata.org/wiki/Q104839950"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPlw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPlw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

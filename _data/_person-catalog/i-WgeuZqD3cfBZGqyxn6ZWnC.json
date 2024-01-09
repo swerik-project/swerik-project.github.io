@@ -1,0 +1,46 @@
+{
+  "name": "carl august ehrensvärd",
+  "swerik-id": "i-WgeuZqD3cfBZGqyxn6ZWnC",
+  "DOB": "1858-09-16",
+  "DOD": "1944-02-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tosterups slott",
+    "link": "http://www.wikidata.org/entity/Q2915892"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1907-12-04 00:00:00",
+      "end": "1910-06-26 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/C.A.%20Ehrensv%C3%A4rd.%20Adelskalendern%201939.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4357152",
+      "link": "https://www.wikidata.org/wiki/Q4357152"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16735",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16735"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

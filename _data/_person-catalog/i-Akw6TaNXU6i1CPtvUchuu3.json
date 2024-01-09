@@ -1,0 +1,85 @@
+{
+  "name": "emil gustafson",
+  "swerik-id": "i-Akw6TaNXU6i1CPtvUchuu3",
+  "DOB": "1887-12-20",
+  "DOD": "1976-11-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vimmerby stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10715642"
+  },
+  "place-of-death": {
+    "place": "Vimmerby församling",
+    "link": "http://www.wikidata.org/entity/Q10715633"
+  },
+  "alt-names": [
+    "emil august gustafson",
+    "gustafson"
+  ],
+  "iorter": [
+    "Vimmerby"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1919-08-08 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Gustafson%201887%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5371267",
+      "link": "https://www.wikidata.org/wiki/Q5371267"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdHg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdHg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1933",
+      "end": "1948"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1922",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

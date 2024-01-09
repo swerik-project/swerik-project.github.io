@@ -1,0 +1,71 @@
+{
+  "name": "anders borg",
+  "swerik-id": "i-EemRytGskeDvwKV2im64qt",
+  "DOB": "1968-01-11",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skarpnäcks församling",
+    "link": "http://www.wikidata.org/entity/Q10669803"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anders erik borg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders.borg%200c158%204237.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q182050",
+      "link": "https://www.wikidata.org/wiki/Q182050"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0958072321310",
+      "link": "https://data.riksdagen.se/personlista/?iid=0958072321310&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "34c1367d-9a77-42f8-a015-277786da7a47",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_34c1367d-9a77-42f8-a015-277786da7a47"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1994-10-03",
+      "end": "1994-10-07"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

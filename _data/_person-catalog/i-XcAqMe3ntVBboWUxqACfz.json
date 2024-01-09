@@ -1,0 +1,96 @@
+{
+  "name": "gunnar andren",
+  "swerik-id": "i-XcAqMe3ntVBboWUxqACfz",
+  "DOB": "1946-01-09",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Eksjö",
+    "link": "http://www.wikidata.org/entity/Q1001905"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2012-06-21 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2010-10-06 00:00:00",
+      "end": "2012-03-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Andr%C3%A9n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5556677",
+      "link": "https://www.wikidata.org/wiki/Q5556677"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0526693079901",
+      "link": "https://data.riksdagen.se/personlista/?iid=0526693079901&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7c66a036-5fab-42ba-8f25-b009c02993b8",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7c66a036-5fab-42ba-8f25-b009c02993b8"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2012-06-21",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

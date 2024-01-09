@@ -1,0 +1,73 @@
+{
+  "name": "carl florus toll",
+  "swerik-id": "i-AYS9tHbc9NGtqGUYhiGt8Y",
+  "DOB": "1820-08-29",
+  "DOD": "1896-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Frösåkers gård",
+    "link": "http://www.wikidata.org/entity/Q10499793"
+  },
+  "place-of-death": {
+    "place": "Hedemora församling",
+    "link": "http://www.wikidata.org/entity/Q18290535"
+  },
+  "alt-names": [
+    "toll"
+  ],
+  "iorter": [
+    "Hedemora"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-03-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Falu, Hedemora och Säters valkrets"
+    },
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Falu, Hedemora och Säters valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Toll%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6212615",
+      "link": "https://www.wikidata.org/wiki/Q6212615"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAeOQ",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAeOQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb8Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb8Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1875",
+      "end": "1881"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

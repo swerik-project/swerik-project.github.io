@@ -1,0 +1,64 @@
+{
+  "name": "philip leman",
+  "swerik-id": "i-J1ruGdADTXodS7yVsEBRzn",
+  "DOB": "1837-08-31",
+  "DOD": "1905-10-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Judiska församlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q18451228"
+  },
+  "place-of-death": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "alt-names": [
+    "leman"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1896-01-01 00:00:00",
+      "end": "1905-05-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20Leman%201912.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5945805",
+      "link": "https://www.wikidata.org/wiki/Q5945805"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTiw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTiw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37566",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37566"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1896",
+      "end": "1904"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

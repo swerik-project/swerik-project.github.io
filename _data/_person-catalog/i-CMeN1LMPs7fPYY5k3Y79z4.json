@@ -1,0 +1,81 @@
+{
+  "name": "august sundblad",
+  "swerik-id": "i-CMeN1LMPs7fPYY5k3Y79z4",
+  "DOB": "1851-02-07",
+  "DOD": "1934-08-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Örslösa församling",
+    "link": "http://www.wikidata.org/entity/Q10727691"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "sundblad"
+  ],
+  "iorter": [
+    "Barlingbo"
+  ],
+  "positions": [
+    {
+      "start": "1910-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gotlands läns södra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Sundblad%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6195597",
+      "link": "https://www.wikidata.org/wiki/Q6195597"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABGecg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABGecg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRuw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRuw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

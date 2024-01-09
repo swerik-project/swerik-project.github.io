@@ -1,0 +1,78 @@
+{
+  "name": "patrik jönsson",
+  "swerik-id": "i-5QsM75VvzYYRCpVjV6ax78",
+  "DOB": "1972-10-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hässleholms församling",
+    "link": "http://www.wikidata.org/entity/Q10531820"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-12-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Patrik%20J%C3%B6nsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18243181",
+      "link": "https://www.wikidata.org/wiki/Q18243181"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0183544538819",
+      "link": "https://data.riksdagen.se/personlista/?iid=0183544538819&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0007cc9d-247c-4136-80d1-0bae44bd20ba",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0007cc9d-247c-4136-80d1-0bae44bd20ba"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

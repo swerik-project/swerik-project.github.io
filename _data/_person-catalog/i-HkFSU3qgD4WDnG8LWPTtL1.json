@@ -1,0 +1,50 @@
+{
+  "name": "johan de la gardie",
+  "swerik-id": "i-HkFSU3qgD4WDnG8LWPTtL1",
+  "DOB": "1851-05-17",
+  "DOD": "1895-04-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Sönnarslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10728419"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "de la gardie"
+  ],
+  "iorter": [
+    "Borrestad"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1895-04-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20DeLaGardie%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5618783",
+      "link": "https://www.wikidata.org/wiki/Q5618783"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfphg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfphg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

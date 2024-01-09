@@ -1,0 +1,73 @@
+{
+  "name": "otto redelius",
+  "swerik-id": "i-RsWf3KiYWHHJuK6ijo9Gta",
+  "DOB": "1835-06-16",
+  "DOD": "1920-02-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grebo församling",
+    "link": "http://www.wikidata.org/entity/Q10508518"
+  },
+  "place-of-death": {
+    "place": "Linköpings domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10562793"
+  },
+  "alt-names": [
+    "otto wilhelm redelius",
+    "redelius"
+  ],
+  "iorter": [
+    "Hallingeberg"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Tjusts härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Redelius.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6065563",
+      "link": "https://www.wikidata.org/wiki/Q6065563"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAJBQ",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAJBQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdGQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdGQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

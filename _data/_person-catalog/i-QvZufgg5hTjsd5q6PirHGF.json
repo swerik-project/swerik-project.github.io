@@ -1,0 +1,49 @@
+{
+  "name": "stefan olsson",
+  "swerik-id": "i-QvZufgg5hTjsd5q6PirHGF",
+  "DOB": "1968-08-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sollentuna församling",
+    "link": "http://www.wikidata.org/entity/Q18560570"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027959",
+      "link": "https://www.wikidata.org/wiki/Q6027959"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0222102752213",
+      "link": "https://data.riksdagen.se/personlista/?iid=0222102752213&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7aa3686d-39b7-4b72-9790-1ec8f7541b0d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7aa3686d-39b7-4b72-9790-1ec8f7541b0d"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

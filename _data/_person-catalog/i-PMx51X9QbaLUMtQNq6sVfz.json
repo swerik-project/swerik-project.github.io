@@ -1,0 +1,159 @@
+{
+  "name": "matilda ernkrans",
+  "swerik-id": "i-PMx51X9QbaLUMtQNq6sVfz",
+  "DOB": "1973-03-12",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hallsbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10516418"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Andersson",
+      "district": null
+    },
+    {
+      "start": "2021-07-09 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "högskoleminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven III",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2019-01-19 00:00:00",
+      "role": "minister för högre utbildning och forskning",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2021-07-09 00:00:00",
+      "role": "högskoleminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-01-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2007-08-29 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2006-02-21 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-02-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Matilda%20ernkrans.22g403.1322224.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3373058",
+      "link": "https://www.wikidata.org/wiki/Q3373058"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0983984918111",
+      "link": "https://data.riksdagen.se/personlista/?iid=0983984918111&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8166bd73-bf10-4ef8-8e01-1975ca921c12",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8166bd73-bf10-4ef8-8e01-1975ca921c12"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

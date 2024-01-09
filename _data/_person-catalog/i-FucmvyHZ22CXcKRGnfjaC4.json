@@ -1,0 +1,87 @@
+{
+  "name": "anders åkesson",
+  "swerik-id": "i-FucmvyHZ22CXcKRGnfjaC4",
+  "DOB": "1958-11-28",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åby församling",
+    "link": "http://www.wikidata.org/entity/Q10726180"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Akesson%20anders%2002.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255521",
+      "link": "https://www.wikidata.org/wiki/Q6255521"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0677738818613",
+      "link": "https://data.riksdagen.se/personlista/?iid=0677738818613&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "48144b97-5799-422d-9ede-8b2dd360ca19",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_48144b97-5799-422d-9ede-8b2dd360ca19"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

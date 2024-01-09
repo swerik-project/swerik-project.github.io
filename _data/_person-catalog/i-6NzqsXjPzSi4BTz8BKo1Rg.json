@@ -1,0 +1,78 @@
+{
+  "name": "christer winbäck",
+  "swerik-id": "i-6NzqsXjPzSi4BTz8BKo1Rg",
+  "DOB": "1953",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Locketorps socken",
+    "link": "http://www.wikidata.org/entity/Q10568686"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Christer%20Winb%C3%A4ck%2001.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5109205",
+      "link": "https://www.wikidata.org/wiki/Q5109205"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0455256796113",
+      "link": "https://data.riksdagen.se/personlista/?iid=0455256796113&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "535514f5-7657-4c43-ae6b-eb9e64c8819f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_535514f5-7657-4c43-ae6b-eb9e64c8819f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

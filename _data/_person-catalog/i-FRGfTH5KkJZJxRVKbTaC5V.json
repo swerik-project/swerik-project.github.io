@@ -1,0 +1,86 @@
+{
+  "name": "john örwall",
+  "swerik-id": "i-FRGfTH5KkJZJxRVKbTaC5V",
+  "DOB": "1827-07-10",
+  "DOD": "1897-12-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Drothems församling",
+    "link": "http://www.wikidata.org/entity/Q10476950"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "örwall"
+  ],
+  "iorter": [
+    "Skärblacka"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1891-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Björkekinds, Östkinds, Lösings, Bråbo och Memmings domsagas valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Finspånga läns domsagas valkrets"
+    },
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Finspånga läns domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20%C3%96rwall.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6257444",
+      "link": "https://www.wikidata.org/wiki/Q6257444"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga2g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga2g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1891"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

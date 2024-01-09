@@ -1,0 +1,62 @@
+{
+  "name": "lave beck friis",
+  "swerik-id": "i-WfWPgLhWs26eJLUypACqHM",
+  "DOB": "1857-08-23",
+  "DOD": "1931-06-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jäders församling",
+    "link": "http://www.wikidata.org/entity/Q10541615"
+  },
+  "place-of-death": {
+    "place": "Skövde",
+    "link": "http://www.wikidata.org/entity/Q21166"
+  },
+  "alt-names": [
+    "beck friis",
+    "lave beck frii",
+    "lave robert beck friis"
+  ],
+  "iorter": [
+    "Skövde"
+  ],
+  "positions": [
+    {
+      "start": "1911-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lave%20Beck-Friis%20%281857-1931%29%2C%20anonymous%20engraving.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5568219",
+      "link": "https://www.wikidata.org/wiki/Q5568219"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADtwA",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADtwA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:168",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:168"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgenQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgenQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

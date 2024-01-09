@@ -1,0 +1,51 @@
+{
+  "name": "carl eklundh",
+  "swerik-id": "i-8xJdTZwSqZSytpZc9s1P2M",
+  "DOB": "1862-10-01",
+  "DOD": "1922-02-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Skedvi församling",
+    "link": "http://www.wikidata.org/entity/Q10718349"
+  },
+  "place-of-death": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "alt-names": [
+    "carl birger alfred eklundh",
+    "eklundh"
+  ],
+  "iorter": [
+    "Ulricehamn"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1916-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Eklundh%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q112042467",
+      "link": "https://www.wikidata.org/wiki/Q112042467"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZiQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZiQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

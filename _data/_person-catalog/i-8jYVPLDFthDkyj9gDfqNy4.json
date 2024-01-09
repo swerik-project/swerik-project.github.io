@@ -1,0 +1,94 @@
+{
+  "name": "leif blomberg",
+  "swerik-id": "i-8jYVPLDFthDkyj9gDfqNy4",
+  "DOB": "1941-02-15",
+  "DOD": "1998-03-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Enköping",
+    "link": "http://www.wikidata.org/entity/Q21167"
+  },
+  "place-of-death": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-03-02 00:00:00",
+      "role": "idrottsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-03-02 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-03-02 00:00:00",
+      "role": "konsumentminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-03-02 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "arbetsrättsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "invandrarminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5579495",
+      "link": "https://www.wikidata.org/wiki/Q5579495"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0615371546701",
+      "link": "https://data.riksdagen.se/personlista/?iid=0615371546701&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5f0d5556-b8ad-45c1-8c12-f3342649868f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5f0d5556-b8ad-45c1-8c12-f3342649868f"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

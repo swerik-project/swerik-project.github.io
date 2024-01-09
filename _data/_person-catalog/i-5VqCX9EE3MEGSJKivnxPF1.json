@@ -1,0 +1,58 @@
+{
+  "name": "axel hallberg",
+  "swerik-id": "i-5VqCX9EE3MEGSJKivnxPF1",
+  "DOB": "1999-06-12",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-09-20 00:00:00",
+      "end": "2022-05-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q42393729",
+      "link": "https://www.wikidata.org/wiki/Q42393729"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0556755096938",
+      "link": "https://data.riksdagen.se/personlista/?iid=0556755096938&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "839960b7-7e73-41f6-a590-ff7d7301a868",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_839960b7-7e73-41f6-a590-ff7d7301a868"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2021-09-20",
+      "end": "2022-05-19"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

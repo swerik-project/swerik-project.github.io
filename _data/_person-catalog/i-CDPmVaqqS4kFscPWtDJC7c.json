@@ -1,0 +1,49 @@
+{
+  "name": "karl damström",
+  "swerik-id": "i-CDPmVaqqS4kFscPWtDJC7c",
+  "DOB": "1901-04-20",
+  "DOD": "1977-02-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stora Kopparbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10681037"
+  },
+  "place-of-death": {
+    "place": "Borlänge",
+    "link": "http://www.wikidata.org/entity/Q54341"
+  },
+  "alt-names": [
+    "damström",
+    "karl adolf damström"
+  ],
+  "iorter": [
+    "Domnarvet"
+  ],
+  "positions": [
+    {
+      "start": "1947-05-07 00:00:00",
+      "end": "1967-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kopparbergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5616432",
+      "link": "https://www.wikidata.org/wiki/Q5616432"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUug",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUug"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

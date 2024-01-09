@@ -1,0 +1,84 @@
+{
+  "name": "kurt söderström",
+  "swerik-id": "i-YUDKZcyDKbQ3ef9oSyZaLH",
+  "DOB": "1914-07-11",
+  "DOD": "1986-08-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Hedvigs församling",
+    "link": "http://www.wikidata.org/entity/Q10602799"
+  },
+  "place-of-death": {
+    "place": "Norrköpings Borgs församling",
+    "link": "http://www.wikidata.org/entity/Q10602795"
+  },
+  "alt-names": [
+    "söderström"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1966-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6202348",
+      "link": "https://www.wikidata.org/wiki/Q6202348"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaxA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaxA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1976-10-04",
+      "end": "1979-10-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

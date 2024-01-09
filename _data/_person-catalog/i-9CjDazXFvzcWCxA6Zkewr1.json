@@ -1,0 +1,114 @@
+{
+  "name": "maj lis landberg",
+  "swerik-id": "i-9CjDazXFvzcWCxA6Zkewr1",
+  "DOB": "1922-01-24",
+  "DOD": "1991-06-22",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Norrköpings Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10602802"
+  },
+  "place-of-death": {
+    "place": "Norrköpings Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10602802"
+  },
+  "alt-names": [
+    "landberg"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1966-02-18 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Maj-Lis%20Landberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4960703",
+      "link": "https://www.wikidata.org/wiki/Q4960703"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0153453019693",
+      "link": "https://data.riksdagen.se/personlista/?iid=0153453019693&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8532ccb1-04cd-48aa-b8b5-c269d2198788",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8532ccb1-04cd-48aa-b8b5-c269d2198788"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaaw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaaw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

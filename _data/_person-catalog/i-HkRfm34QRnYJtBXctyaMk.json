@@ -1,0 +1,71 @@
+{
+  "name": "gudmund ernulf",
+  "swerik-id": "i-HkRfm34QRnYJtBXctyaMk",
+  "DOB": "1914-11-22",
+  "DOD": "2010-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10713238"
+  },
+  "place-of-death": {
+    "place": "Borås Gustav Adolfs församling",
+    "link": "http://www.wikidata.org/entity/Q10433387"
+  },
+  "alt-names": [
+    "ernulf",
+    "t gudmund ernulf",
+    "torsten gudmund ernulf"
+  ],
+  "iorter": [
+    "Borås",
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gudmund%20Ernulf%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5718312",
+      "link": "https://www.wikidata.org/wiki/Q5718312"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSHg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSHg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1971-01-11",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "axel hermelin",
+  "swerik-id": "i-JHpaqU2z8URQR83kWF8zv4",
+  "DOB": "1818-01-10",
+  "DOD": "1915-01-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Säby församling",
+    "link": "http://www.wikidata.org/entity/Q10687878"
+  },
+  "place-of-death": {
+    "place": "Säby församling",
+    "link": "http://www.wikidata.org/entity/Q10687878"
+  },
+  "alt-names": [
+    "hermelin",
+    "samuel axel hermelin"
+  ],
+  "iorter": [
+    "Gripenberg"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1868-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Hermelin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5802585",
+      "link": "https://www.wikidata.org/wiki/Q5802585"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAABQUA",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAABQUA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbJw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbJw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

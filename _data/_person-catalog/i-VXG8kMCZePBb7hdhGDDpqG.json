@@ -1,0 +1,60 @@
+{
+  "name": "emanuel birke",
+  "swerik-id": "i-VXG8kMCZePBb7hdhGDDpqG",
+  "DOB": "1893-11-11",
+  "DOD": "1965-06-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Överjärna församling",
+    "link": "http://www.wikidata.org/entity/Q10728600"
+  },
+  "place-of-death": {
+    "place": "Salems församling",
+    "link": "http://www.wikidata.org/entity/Q10660414"
+  },
+  "alt-names": [
+    "birke",
+    "gustaf emanuel birke"
+  ],
+  "iorter": [
+    "Rönninge"
+  ],
+  "positions": [
+    {
+      "start": "1956-01-01 00:00:00",
+      "end": "1962-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    },
+    {
+      "start": "1940-01-18 00:00:00",
+      "end": "1955-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20Birke%201893%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5576607",
+      "link": "https://www.wikidata.org/wiki/Q5576607"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge5A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge5A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

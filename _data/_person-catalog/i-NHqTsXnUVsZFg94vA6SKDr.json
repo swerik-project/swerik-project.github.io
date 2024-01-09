@@ -1,0 +1,90 @@
+{
+  "name": "acko ankarberg johansson",
+  "swerik-id": "i-NHqTsXnUVsZFg94vA6SKDr",
+  "DOB": "1964-10-29",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Öggestorps församling",
+    "link": "http://www.wikidata.org/entity/Q10727134"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anncharlotte acko linnea cecilia ankarberg johansson",
+    "anncharlotte ankarberg johansson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "sjukvårdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2018-10-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Acko%20Ankarberg%20Johansson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4936116",
+      "link": "https://www.wikidata.org/wiki/Q4936116"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0796071663617",
+      "link": "https://data.riksdagen.se/personlista/?iid=0796071663617&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "669a8123-3f21-4920-80f8-e4ec200ae575",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_669a8123-3f21-4920-80f8-e4ec200ae575"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

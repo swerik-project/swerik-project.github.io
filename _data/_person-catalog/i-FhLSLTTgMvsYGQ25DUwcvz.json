@@ -1,0 +1,111 @@
+{
+  "name": "fredrik von otter",
+  "swerik-id": "i-FhLSLTTgMvsYGQ25DUwcvz",
+  "DOB": "1833-04-10",
+  "DOD": "1910-03-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fägre församling",
+    "link": "http://www.wikidata.org/entity/Q10500681"
+  },
+  "place-of-death": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "alt-names": [
+    "fredrik wilhelm von otter",
+    "von otter"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlskrona valkrets"
+    },
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "1874-12-23 00:00:00",
+      "end": "1880-04-19 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carleson",
+      "district": null
+    },
+    {
+      "start": "1874-12-23 00:00:00",
+      "end": "1880-04-19 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. II",
+      "district": null
+    },
+    {
+      "start": "1874-12-23 00:00:00",
+      "end": "1880-04-19 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. III",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20von%20Otter.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q52969",
+      "link": "https://www.wikidata.org/wiki/Q52969"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7856",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7856"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQtg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQtg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:1094",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:1094"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAt0w",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAt0w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

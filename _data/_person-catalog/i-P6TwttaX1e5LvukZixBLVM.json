@@ -1,0 +1,53 @@
+{
+  "name": "einar johansson",
+  "swerik-id": "i-P6TwttaX1e5LvukZixBLVM",
+  "DOB": "1889-04-14",
+  "DOD": "1972-04-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kalmar",
+    "link": "http://www.wikidata.org/entity/Q26345"
+  },
+  "place-of-death": {
+    "place": "Kalmar",
+    "link": "http://www.wikidata.org/entity/Q26345"
+  },
+  "alt-names": [
+    "carl einar konstantin johansson",
+    "carl ejnar konstantin johansson",
+    "johansson",
+    "karl einar konstantin johansson"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Einar%20Johansson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5885884",
+      "link": "https://www.wikidata.org/wiki/Q5885884"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc_A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc_A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,98 @@
+{
+  "name": "swen jönsson",
+  "swerik-id": "i-Pbij6TKUQNgsAiAxKYBqQ9",
+  "DOB": "1877-01-26",
+  "DOD": "1956-04-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ingelstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10535471"
+  },
+  "place-of-death": {
+    "place": "Andrarums församling",
+    "link": "http://www.wikidata.org/entity/Q10411443"
+  },
+  "alt-names": [
+    "jönsson"
+  ],
+  "iorter": [
+    "Fridhill"
+  ],
+  "positions": [
+    {
+      "start": "1931-01-26 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads läns sydöstra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Swen%20J%C3%B6nsson%201877%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5896154",
+      "link": "https://www.wikidata.org/wiki/Q5896154"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Di4a42b6X_AAAAAAAAB-cw",
+      "link": "https://portrattarkiv.se/details/Di4a42b6X_AAAAAAAAB-cw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpwg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpwg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1931",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "frisinnad vilde",
+        "party-id": "Q111478524"
+      },
+      "start": "1924",
+      "end": "1924"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1915",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "tage larfors",
+  "swerik-id": "i-NKzSxxNNCzFqSPzifVCwhC",
+  "DOB": "1913-04-06",
+  "DOD": "1986-03-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stora Malms församling",
+    "link": "http://www.wikidata.org/entity/Q10681060"
+  },
+  "place-of-death": {
+    "place": "Katrineholm",
+    "link": "http://www.wikidata.org/entity/Q54758"
+  },
+  "alt-names": [
+    "ernst wilhelm tage larfors",
+    "larfors"
+  ],
+  "iorter": [
+    "Katrineholm"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1964-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tage%20Larfors%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5935863",
+      "link": "https://www.wikidata.org/wiki/Q5935863"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPrw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPrw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

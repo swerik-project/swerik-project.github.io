@@ -1,0 +1,60 @@
+{
+  "name": "elisabeth falkhaven",
+  "swerik-id": "i-KmY3t8VznGaS11qXwo1gNg",
+  "DOB": "1955-09-12",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Partille",
+    "link": "http://www.wikidata.org/entity/Q2054961"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "siv elisabeth falkhaven"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q57168691",
+      "link": "https://www.wikidata.org/wiki/Q57168691"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0640627133410",
+      "link": "https://data.riksdagen.se/personlista/?iid=0640627133410&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "cb53466b-8349-484e-9a7b-084561cdf8b4",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_cb53466b-8349-484e-9a7b-084561cdf8b4"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

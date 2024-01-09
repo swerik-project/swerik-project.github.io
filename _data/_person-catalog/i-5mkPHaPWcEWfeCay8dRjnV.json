@@ -1,0 +1,52 @@
+{
+  "name": "gustaf tisell",
+  "swerik-id": "i-5mkPHaPWcEWfeCay8dRjnV",
+  "DOB": "1869-07-18",
+  "DOD": "1944-08-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alingsås",
+    "link": "http://www.wikidata.org/entity/Q54743"
+  },
+  "place-of-death": {
+    "place": "Örebro Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10727452"
+  },
+  "alt-names": [
+    "c gustaf tisell",
+    "carl gustaf tisell",
+    "tisell"
+  ],
+  "iorter": [
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1914-05-27 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Tisell%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6211603",
+      "link": "https://www.wikidata.org/wiki/Q6211603"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsJA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsJA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

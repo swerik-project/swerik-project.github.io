@@ -1,0 +1,68 @@
+{
+  "name": "august andreason",
+  "swerik-id": "i-Md4cSDKT7AbTr7UiRi7rkw",
+  "DOB": "1847-08-16",
+  "DOD": "1928-10-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bälinge församling",
+    "link": "http://www.wikidata.org/entity/Q10438463"
+  },
+  "place-of-death": {
+    "place": "Bälinge församling",
+    "link": "http://www.wikidata.org/entity/Q10438463"
+  },
+  "alt-names": [
+    "andreason",
+    "johan august andreason"
+  ],
+  "iorter": [
+    "Nygård"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vättle, Ale och Kullings domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Andreason%201847%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105026351",
+      "link": "https://www.wikidata.org/wiki/Q105026351"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZdQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZdQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1887",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

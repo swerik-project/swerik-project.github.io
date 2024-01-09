@@ -1,0 +1,54 @@
+{
+  "name": "ulla jacobsson",
+  "swerik-id": "i-B3z5KLtSxEyGCKFUSRo6dn",
+  "DOB": "1926-10-05",
+  "DOD": "2013",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jacobsson",
+    "ulla ingeborg jacobsson"
+  ],
+  "iorter": [
+    "Helsingborg",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q52677515",
+      "link": "https://www.wikidata.org/wiki/Q52677515"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

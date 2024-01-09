@@ -1,0 +1,52 @@
+{
+  "name": "karl björkänge",
+  "swerik-id": "i-AM9FiHBfEfHmx9V5MLBTSB",
+  "DOB": "1895-08-30",
+  "DOD": "1966-01-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tumbo församling",
+    "link": "http://www.wikidata.org/entity/Q10706205"
+  },
+  "place-of-death": {
+    "place": "Lista församling",
+    "link": "http://www.wikidata.org/entity/Q10563269"
+  },
+  "alt-names": [
+    "andersson",
+    "karl albert björkänge"
+  ],
+  "iorter": [
+    "Björkäng",
+    "Lindesberg"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Andersson-Bj%C3%B6rk%C3%A4nge%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5578035",
+      "link": "https://www.wikidata.org/wiki/Q5578035"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsYw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsYw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

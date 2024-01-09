@@ -1,0 +1,62 @@
+{
+  "name": "robert jousma",
+  "swerik-id": "i-HWm8P2kEXE7DpXpeRRNztP",
+  "DOB": "1952-09-28",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malsta församling",
+    "link": "http://www.wikidata.org/entity/Q10576205"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jousma"
+  ],
+  "iorter": [
+    "Åkers styckebruk"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5893076",
+      "link": "https://www.wikidata.org/wiki/Q5893076"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0648066719018",
+      "link": "https://data.riksdagen.se/personlista/?iid=0648066719018&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "042102ba-b9c8-4efb-abcb-74c9079330df",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_042102ba-b9c8-4efb-abcb-74c9079330df"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Ny demokrati",
+        "party-id": "Q967278"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

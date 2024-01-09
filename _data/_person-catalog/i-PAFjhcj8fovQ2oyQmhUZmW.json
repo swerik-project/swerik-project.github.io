@@ -1,0 +1,76 @@
+{
+  "name": "carl taube",
+  "swerik-id": "i-PAFjhcj8fovQ2oyQmhUZmW",
+  "DOB": "1843-11-22",
+  "DOD": "1914-09-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Höreda församling",
+    "link": "http://www.wikidata.org/entity/Q10532597"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "carl oscar taube",
+    "taube"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1899-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Taube%2C%20Carl%20i%20Hvar%208%20dag%203%201906.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6204633",
+      "link": "https://www.wikidata.org/wiki/Q6204633"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRiw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRiw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1905",
+      "end": "1909"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1899",
+      "end": "1904"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

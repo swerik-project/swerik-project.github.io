@@ -1,0 +1,71 @@
+{
+  "name": "jesper skalberg karlsson",
+  "swerik-id": "i-5wVnuGs5cNm9JWZrGWeZfP",
+  "DOB": "1993-06-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nynäshamns församling",
+    "link": "http://www.wikidata.org/entity/Q10604872"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jesper jens joakim skalberg karlsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    },
+    {
+      "start": "2015-01-19 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jesper%20Skalberg%20Karlsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18923356",
+      "link": "https://www.wikidata.org/wiki/Q18923356"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0250583732424",
+      "link": "https://data.riksdagen.se/personlista/?iid=0250583732424&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2f1a9d57-c488-4c8f-89cb-c1fb7e735170",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2f1a9d57-c488-4c8f-89cb-c1fb7e735170"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2015-01-19",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

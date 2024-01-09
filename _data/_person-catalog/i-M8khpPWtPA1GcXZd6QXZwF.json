@@ -1,0 +1,59 @@
+{
+  "name": "lars gunnar bodin",
+  "swerik-id": "i-M8khpPWtPA1GcXZd6QXZwF",
+  "DOB": "1872-02-06",
+  "DOD": "1947-08-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lokrume församling",
+    "link": "http://www.wikidata.org/entity/Q10568957"
+  },
+  "place-of-death": {
+    "place": "Lokrume församling",
+    "link": "http://www.wikidata.org/entity/Q10568957"
+  },
+  "alt-names": [
+    "bodin"
+  ],
+  "iorter": [
+    "Grausne"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1943-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    },
+    {
+      "start": "1920-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Bodin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5580347",
+      "link": "https://www.wikidata.org/wiki/Q5580347"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRvg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRvg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

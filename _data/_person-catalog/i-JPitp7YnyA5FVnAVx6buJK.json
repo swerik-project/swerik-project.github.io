@@ -1,0 +1,75 @@
+{
+  "name": "axel bökelund",
+  "swerik-id": "i-JPitp7YnyA5FVnAVx6buJK",
+  "DOB": "1859-02-17",
+  "DOD": "1941-10-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gamleby församling",
+    "link": "http://www.wikidata.org/entity/Q10502501"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "axel casimir bökelund",
+    "axel kasimir bökelund",
+    "bökelund"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    },
+    {
+      "start": "1903-05-02 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20B%C3%B6kelund%201859%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5600385",
+      "link": "https://www.wikidata.org/wiki/Q5600385"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA3bqw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA3bqw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdAQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdAQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1918",
+      "end": "1920"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "carl wallbom",
+  "swerik-id": "i-4DZoxTAPxfGRbaWRrkud9H",
+  "DOB": "1849-05-05",
+  "DOD": "1913-04-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sura församling",
+    "link": "http://www.wikidata.org/entity/Q10684114"
+  },
+  "place-of-death": {
+    "place": "Vallentuna",
+    "link": "http://www.wikidata.org/entity/Q54358"
+  },
+  "alt-names": [
+    "carl fredrik wallbom",
+    "wallbom"
+  ],
+  "iorter": [
+    "Fredriksberg"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns västra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Wallbom%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6230364",
+      "link": "https://www.wikidata.org/wiki/Q6230364"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPFA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPFA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1892",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

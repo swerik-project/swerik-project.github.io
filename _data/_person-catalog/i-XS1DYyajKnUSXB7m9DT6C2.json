@@ -1,0 +1,96 @@
+{
+  "name": "rasmus ling",
+  "swerik-id": "i-XS1DYyajKnUSXB7m9DT6C2",
+  "DOB": "1984-03-23",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östersunds församling",
+    "link": "http://www.wikidata.org/entity/Q10728127"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-05-08 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-11-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "2021-01-01 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2020-05-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmus%20Ling%202023.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18243853",
+      "link": "https://www.wikidata.org/wiki/Q18243853"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0744139167426",
+      "link": "https://data.riksdagen.se/personlista/?iid=0744139167426&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8af2f4df-6c44-4844-89af-c0fd142e4eed",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8af2f4df-6c44-4844-89af-c0fd142e4eed"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2022-09-26",
+      "end": "2022-11-07"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

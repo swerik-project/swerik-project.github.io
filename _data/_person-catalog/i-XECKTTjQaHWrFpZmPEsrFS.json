@@ -1,0 +1,50 @@
+{
+  "name": "axel hugo hansson",
+  "swerik-id": "i-XECKTTjQaHWrFpZmPEsrFS",
+  "DOB": "1879-10-08",
+  "DOD": "1954-05-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q10576131"
+  },
+  "alt-names": [
+    "hansson"
+  ],
+  "iorter": [
+    "Sölvesborg"
+  ],
+  "positions": [
+    {
+      "start": "1917-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Hugo%20Hansson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q115869997",
+      "link": "https://www.wikidata.org/wiki/Q115869997"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQGA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQGA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "astrid lindekvist",
+  "swerik-id": "i-BFoXCgys28ckfAVNL5WTAG",
+  "DOB": "1907-05-26",
+  "DOD": "1990-11-19",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "place-of-death": {
+    "place": "Skellefteå Sankt Olovs församling",
+    "link": "http://www.wikidata.org/entity/Q10669986"
+  },
+  "alt-names": [
+    "astrid elisabet lindekvist",
+    "lindekvist"
+  ],
+  "iorter": [
+    "Skellefteå"
+  ],
+  "positions": [
+    {
+      "start": "1961-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Lindekvist%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4962561",
+      "link": "https://www.wikidata.org/wiki/Q4962561"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfikQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfikQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

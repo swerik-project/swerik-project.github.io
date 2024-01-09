@@ -1,0 +1,69 @@
+{
+  "name": "jonas åkerlund",
+  "swerik-id": "i-AR2qqDPUQpxw9v9Lv1Da3q",
+  "DOB": "1949-01-21",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lingbo församling",
+    "link": "http://www.wikidata.org/entity/Q10562691"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Akerlund%200c224%203152.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255280",
+      "link": "https://www.wikidata.org/wiki/Q6255280"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0879014196003",
+      "link": "https://data.riksdagen.se/personlista/?iid=0879014196003&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3139e412-6409-4376-9e02-674a4e4a2de9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3139e412-6409-4376-9e02-674a4e4a2de9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

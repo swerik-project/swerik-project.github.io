@@ -1,0 +1,57 @@
+{
+  "name": "bror von geijer",
+  "swerik-id": "i-QnzZpk49d9g2M6XVsGFeZi",
+  "DOB": "1816-02-11",
+  "DOD": "1886-05-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helsingborg",
+    "link": "http://www.wikidata.org/entity/Q25411"
+  },
+  "place-of-death": {
+    "place": "Riseberga församling",
+    "link": "http://www.wikidata.org/entity/Q10655735"
+  },
+  "alt-names": [
+    "bror bengt gustaf von geijer",
+    "geijer",
+    "von geijer"
+  ],
+  "iorter": [
+    "Herrevadskloster"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bror%20von%20Geijer.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5754594",
+      "link": "https://www.wikidata.org/wiki/Q5754594"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAATGg",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAATGg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpxQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpxQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

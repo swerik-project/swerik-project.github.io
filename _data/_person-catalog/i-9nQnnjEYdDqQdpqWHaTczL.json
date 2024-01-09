@@ -1,0 +1,87 @@
+{
+  "name": "per lodenius",
+  "swerik-id": "i-9nQnnjEYdDqQdpqWHaTczL",
+  "DOB": "1966-02-28",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrtälje",
+    "link": "http://www.wikidata.org/entity/Q3588743"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Lodenius%202013-10-21%20002.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5962258",
+      "link": "https://www.wikidata.org/wiki/Q5962258"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0363721826713",
+      "link": "https://data.riksdagen.se/personlista/?iid=0363721826713&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "66c12cfb-4888-443a-9e31-f64671296908",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_66c12cfb-4888-443a-9e31-f64671296908"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2021-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

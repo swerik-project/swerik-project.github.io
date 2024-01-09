@@ -1,0 +1,52 @@
+{
+  "name": "gunnar rönnberg",
+  "swerik-id": "i-2TsHqq7PsF14bp7YkTxgw6",
+  "DOB": "1909-01-30",
+  "DOD": "1977-01-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nordmalings församling",
+    "link": "http://www.wikidata.org/entity/Q10602185"
+  },
+  "place-of-death": {
+    "place": "Umeå stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q18334316"
+  },
+  "alt-names": [
+    "rönnberg",
+    "sven gunnar rönnberg"
+  ],
+  "iorter": [
+    "Rundviksverken",
+    "Umeå"
+  ],
+  "positions": [
+    {
+      "start": "1963-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20R%C3%B6nnberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6086765",
+      "link": "https://www.wikidata.org/wiki/Q6086765"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfiqA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfiqA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

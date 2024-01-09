@@ -1,0 +1,108 @@
+{
+  "name": "arne andersson",
+  "swerik-id": "i-KHHwukqC5Q8kiR5DXHY3hJ",
+  "DOB": "1928-04-21",
+  "DOD": "2011-04-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jämjö församling",
+    "link": "http://www.wikidata.org/entity/Q10541668"
+  },
+  "place-of-death": {
+    "place": "Västerviks församling",
+    "link": "http://www.wikidata.org/entity/Q10718036"
+  },
+  "alt-names": [
+    "andersson",
+    "john arne lennart andersson"
+  ],
+  "iorter": [
+    "Gamleby"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21544238",
+      "link": "https://www.wikidata.org/wiki/Q21544238"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0404836900409",
+      "link": "https://data.riksdagen.se/personlista/?iid=0404836900409&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "19df3c41-0bd0-462a-a542-45895d973ae7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_19df3c41-0bd0-462a-a542-45895d973ae7"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,136 @@
+{
+  "name": "oscar nylander",
+  "swerik-id": "i-SbjuQ1LZxro5e1hAw5pNvg",
+  "DOB": "1853-12-04",
+  "DOD": "1920-12-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tranemo församling",
+    "link": "http://www.wikidata.org/entity/Q10701265"
+  },
+  "place-of-death": {
+    "place": "Revesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10651539"
+  },
+  "alt-names": [
+    "nylander",
+    "s  nylander",
+    "sixten oscar nylander"
+  ],
+  "iorter": [
+    "Axelfors"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1909-03-17 00:00:00",
+      "end": "1911-10-07 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    },
+    {
+      "start": "1909-03-17 00:00:00",
+      "end": "1911-10-07 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kinds och Redvägs domsagas valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kinds och Redvägs domsagas valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kinds och Redvägs domsagas valkrets"
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kinds härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Nylander%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6019906",
+      "link": "https://www.wikidata.org/wiki/Q6019906"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNVvA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNVvA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZ-w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ-w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1915",
+      "end": "1920"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

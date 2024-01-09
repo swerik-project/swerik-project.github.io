@@ -1,0 +1,52 @@
+{
+  "name": "carl jacob rossander",
+  "swerik-id": "i-JZ5BTa14FDY9xhd5dNGPEG",
+  "DOB": "1828-07-20",
+  "DOD": "1901-02-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "c j rossander",
+    "herr c j rossander",
+    "rossander"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Jacob%20Rossander.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6080655",
+      "link": "https://www.wikidata.org/wiki/Q6080655"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:2025",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:2025"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

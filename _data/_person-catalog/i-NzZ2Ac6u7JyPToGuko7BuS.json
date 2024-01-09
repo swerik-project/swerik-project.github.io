@@ -1,0 +1,51 @@
+{
+  "name": "karl andersson",
+  "swerik-id": "i-NzZ2Ac6u7JyPToGuko7BuS",
+  "DOB": "1882-09-15",
+  "DOD": "1932-06-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mjölby församling",
+    "link": "http://www.wikidata.org/entity/Q10586847"
+  },
+  "place-of-death": {
+    "place": "Katrineholm",
+    "link": "http://www.wikidata.org/entity/Q54758"
+  },
+  "alt-names": [
+    "andersson",
+    "karl teodor andersson"
+  ],
+  "iorter": [
+    "Katrineholm"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1932-06-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Andersson%201882%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110617328",
+      "link": "https://www.wikidata.org/wiki/Q110617328"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPmg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPmg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

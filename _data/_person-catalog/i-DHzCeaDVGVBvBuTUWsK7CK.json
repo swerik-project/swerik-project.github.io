@@ -1,0 +1,66 @@
+{
+  "name": "robert berg",
+  "swerik-id": "i-DHzCeaDVGVBvBuTUWsK7CK",
+  "DOB": "1877-08-01",
+  "DOD": "1953-02-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "place-of-death": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "alt-names": [
+    "berg",
+    "robert vilhelm ferdinand berg",
+    "robert vilhelm färdinand berg"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1947-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Berg%20SPA2%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5571360",
+      "link": "https://www.wikidata.org/wiki/Q5571360"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAAC0Jw",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAAC0Jw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQkg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQkg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

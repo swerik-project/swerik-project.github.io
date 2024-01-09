@@ -1,0 +1,50 @@
+{
+  "name": "carl johanson",
+  "swerik-id": "i-VjJjJLsLvPRb56Nkzz4Ghv",
+  "DOB": "1851-09-12",
+  "DOD": "1933-09-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tibro församling",
+    "link": "http://www.wikidata.org/entity/Q10697641"
+  },
+  "place-of-death": {
+    "place": "Skara",
+    "link": "http://www.wikidata.org/entity/Q939389"
+  },
+  "alt-names": [
+    "johanson"
+  ],
+  "iorter": [
+    "Gäre"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Johansson%20G%C3%A4re%201851%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6298643",
+      "link": "https://www.wikidata.org/wiki/Q6298643"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdLQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdLQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

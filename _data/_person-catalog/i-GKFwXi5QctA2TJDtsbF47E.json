@@ -1,0 +1,78 @@
+{
+  "name": "kristina nilsson",
+  "swerik-id": "i-GKFwXi5QctA2TJDtsbF47E",
+  "DOB": "1965-04-10",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Grundsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10509154"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Kristina%20Nilsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4958119",
+      "link": "https://www.wikidata.org/wiki/Q4958119"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0779781772919",
+      "link": "https://data.riksdagen.se/personlista/?iid=0779781772919&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a761212d-42d3-4b7d-a535-58fb33d2098d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a761212d-42d3-4b7d-a535-58fb33d2098d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

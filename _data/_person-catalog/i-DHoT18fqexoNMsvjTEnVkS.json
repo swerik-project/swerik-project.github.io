@@ -1,0 +1,55 @@
+{
+  "name": "anders medin",
+  "swerik-id": "i-DHoT18fqexoNMsvjTEnVkS",
+  "DOB": "1803-03-03",
+  "DOD": "1870-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Moheda församling",
+    "link": "http://www.wikidata.org/entity/Q10587481"
+  },
+  "place-of-death": {
+    "place": "Stenbrohults församling",
+    "link": "http://www.wikidata.org/entity/Q10678401"
+  },
+  "alt-names": [
+    "medin"
+  ],
+  "iorter": [
+    "Möckelsnäs"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1870-12-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Medin%201803%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5982893",
+      "link": "https://www.wikidata.org/wiki/Q5982893"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9227",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9227"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQSg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQSg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,136 @@
+{
+  "name": "inger davidson",
+  "swerik-id": "i-h1aVBzexdmWPt4dFvXiYA",
+  "DOB": "1944-12-02",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "davidson",
+    "inger davidsson",
+    "inger margareta davidson"
+  ],
+  "iorter": [
+    "Nacka"
+  ],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1994-10-08 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1991-10-21 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "konsumentminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "samfundsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4944305",
+      "link": "https://www.wikidata.org/wiki/Q4944305"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0820673454606",
+      "link": "https://data.riksdagen.se/personlista/?iid=0820673454606&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31c59-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31c59-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2006-10-02",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

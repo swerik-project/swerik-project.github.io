@@ -1,0 +1,57 @@
+{
+  "name": "anders ericsson",
+  "swerik-id": "i-UaQLwU2GmKxfUY7Hx9Ps5D",
+  "DOB": "1798-03-18",
+  "DOD": "1880-04-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10543859"
+  },
+  "place-of-death": {
+    "place": "Karlskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10543859"
+  },
+  "alt-names": [
+    "anders ersson",
+    "ericsson"
+  ],
+  "iorter": [
+    "Karlskoga",
+    "Östra Kärne"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nora domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Ericsson%20SPA%201798%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5715009",
+      "link": "https://www.wikidata.org/wiki/Q5715009"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15363",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15363"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsFg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

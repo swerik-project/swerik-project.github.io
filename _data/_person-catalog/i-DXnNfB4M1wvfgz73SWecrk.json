@@ -1,0 +1,82 @@
+{
+  "name": "charles lindley",
+  "swerik-id": "i-DXnNfB4M1wvfgz73SWecrk",
+  "DOB": "1865-10-14",
+  "DOD": "1957-10-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "place-of-death": {
+    "place": "Västerleds församling",
+    "link": "http://www.wikidata.org/entity/Q10717966"
+  },
+  "alt-names": [
+    "carl gustaf lindgren",
+    "carl gustaf lindley",
+    "lindley"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Äppelviken"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1937-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1907-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Lindley%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5080263",
+      "link": "https://www.wikidata.org/wiki/Q5080263"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10605",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10605"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAU0A",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAU0A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:52781",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:52781"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNVOQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNVOQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNhg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNhg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

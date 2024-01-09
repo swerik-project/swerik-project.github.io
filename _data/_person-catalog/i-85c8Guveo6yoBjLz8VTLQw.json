@@ -1,0 +1,52 @@
+{
+  "name": "erik vrang",
+  "swerik-id": "i-85c8Guveo6yoBjLz8VTLQw",
+  "DOB": "1870-01-20",
+  "DOD": "1958-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Järnboås församling",
+    "link": "http://www.wikidata.org/entity/Q10541805"
+  },
+  "place-of-death": {
+    "place": "Falköpings församling",
+    "link": "http://www.wikidata.org/entity/Q10493760"
+  },
+  "alt-names": [
+    "erik person vrang",
+    "erik pärson vrang",
+    "vrang"
+  ],
+  "iorter": [
+    "Falköping"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1927-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Vrang%201870%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6227324",
+      "link": "https://www.wikidata.org/wiki/Q6227324"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:36432",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:36432"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

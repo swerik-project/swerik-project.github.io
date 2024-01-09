@@ -1,0 +1,67 @@
+{
+  "name": "per nilsson",
+  "swerik-id": "i-AuCKd7EHzKTWJ9RrDhp6Zh",
+  "DOB": "1845-02-25",
+  "DOD": "1920-04-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ysby församling",
+    "link": "http://www.wikidata.org/entity/Q10723774"
+  },
+  "place-of-death": {
+    "place": "Eldsberga församling",
+    "link": "http://www.wikidata.org/entity/Q10481143"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Tönnersa"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Halmstads och Tönnersjö häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Nilsson%201845%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011649",
+      "link": "https://www.wikidata.org/wiki/Q6011649"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfmgw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfmgw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

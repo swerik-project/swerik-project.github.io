@@ -1,0 +1,44 @@
+{
+  "name": "rune ryden",
+  "swerik-id": "i-8UvUvE6N7DTqSEQmDcqrsb",
+  "DOB": "1924-09-11",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Älmeboda församling",
+    "link": "http://www.wikidata.org/entity/Q10725645"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nils rune gunnar ryden",
+    "ryden"
+  ],
+  "iorter": [
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-01 00:00:00",
+      "end": "1973-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117426463",
+      "link": "https://www.wikidata.org/wiki/Q117426463"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

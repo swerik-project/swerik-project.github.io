@@ -1,0 +1,87 @@
+{
+  "name": "emilia töyrä",
+  "swerik-id": "i-KMQSXW9jTy41k8atxRpg8q",
+  "DOB": "1985-06-10",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kiruna",
+    "link": "http://www.wikidata.org/entity/Q83232"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-08-28 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2019-12-01 00:00:00",
+      "end": "2021-03-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-02-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emilia%20T%C3%B6yr%C3%A4%202022.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18202407",
+      "link": "https://www.wikidata.org/wiki/Q18202407"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0604459858621",
+      "link": "https://data.riksdagen.se/personlista/?iid=0604459858621&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8e282183-f357-460d-80e3-094d61d40889",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8e282183-f357-460d-80e3-094d61d40889"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2021-08-28",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

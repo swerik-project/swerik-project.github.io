@@ -1,0 +1,60 @@
+{
+  "name": "gottfried beijer",
+  "swerik-id": "i-FoWwxKnaSfisnVY2AfH7M5",
+  "DOB": "1838-08-26",
+  "DOD": "1901-12-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "alt-names": [
+    "beijer"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gottfried%20Beijer%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5568976",
+      "link": "https://www.wikidata.org/wiki/Q5568976"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18424",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18424"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAACiOg",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAACiOg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO5w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO5w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,98 @@
+{
+  "name": "elof ljunggren",
+  "swerik-id": "i-7NooNyWKJ33i7YNm5KahRn",
+  "DOB": "1869-10-05",
+  "DOD": "1953-01-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Södra Ljunga församling",
+    "link": "http://www.wikidata.org/entity/Q10688935"
+  },
+  "place-of-death": {
+    "place": "Örebro Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10727452"
+  },
+  "alt-names": [
+    "ljunggren"
+  ],
+  "iorter": [
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1929-04-05 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elof%20Ljunggren%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6150099",
+      "link": "https://www.wikidata.org/wiki/Q6150099"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9584",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9584"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsfg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsfg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1929",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1918"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

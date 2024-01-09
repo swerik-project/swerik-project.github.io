@@ -1,0 +1,123 @@
+{
+  "name": "annika strandhäll",
+  "swerik-id": "i-9VQB2AJUahVE6YUpda5FKN",
+  "DOB": "1975-04-30",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Bergsjöns församling",
+    "link": "http://www.wikidata.org/entity/Q10428524"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Andersson",
+      "district": null
+    },
+    {
+      "start": "2019-10-01 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2017-07-27 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-10-01 00:00:00",
+      "role": "socialförsäkringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-10-01 00:00:00",
+      "role": "socialförsäkringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Annika%20Strandh%C3%A4ll%202014.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4980750",
+      "link": "https://www.wikidata.org/wiki/Q4980750"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0530425150220",
+      "link": "https://data.riksdagen.se/personlista/?iid=0530425150220&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "83b5647b-ccf4-4398-aefb-6d93152f951b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_83b5647b-ccf4-4398-aefb-6d93152f951b"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

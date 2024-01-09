@@ -1,0 +1,50 @@
+{
+  "name": "lennart nilsson",
+  "swerik-id": "i-KnuCtpPGRtWgqXUcSy1G3A",
+  "DOB": null,
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [
+    "Vännäs"
+  ],
+  "positions": [
+    {
+      "start": "1981-05-10 00:00:00",
+      "end": "1981-06-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110057464",
+      "link": "https://www.wikidata.org/wiki/Q110057464"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1981-05-10",
+      "end": "1981-06-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

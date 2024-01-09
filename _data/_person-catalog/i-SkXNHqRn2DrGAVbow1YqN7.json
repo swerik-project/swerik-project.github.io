@@ -1,0 +1,61 @@
+{
+  "name": "otto mannheimer",
+  "swerik-id": "i-SkXNHqRn2DrGAVbow1YqN7",
+  "DOB": "1860-09-12",
+  "DOD": "1924-12-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": "Friggeråkers församling",
+    "link": "http://www.wikidata.org/entity/Q10499113"
+  },
+  "alt-names": [
+    "mannheimer",
+    "otto salomon mannheimer"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Salomon%20Mannheimer%201937.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5975085",
+      "link": "https://www.wikidata.org/wiki/Q5975085"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9071",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9071"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTiQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTiQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37334",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37334"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

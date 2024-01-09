@@ -1,0 +1,53 @@
+{
+  "name": "claes gunther",
+  "swerik-id": "i-TsMqhfCPmjcfSTFKWTpnLg",
+  "DOB": "1799-12-29",
+  "DOD": "1861-07-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Längbro församling",
+    "link": "http://www.wikidata.org/entity/Q10571845"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "clas gunther"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1848-04-10 00:00:00",
+      "end": "1851-09-04 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sparre",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Cla%C3%ABs%20G%C3%BCnther%20001.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5779747",
+      "link": "https://www.wikidata.org/wiki/Q5779747"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13429",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13429"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:66928",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:66928"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

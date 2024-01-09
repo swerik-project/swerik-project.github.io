@@ -1,0 +1,60 @@
+{
+  "name": "fritjof ekman",
+  "swerik-id": "i-2phsMxb358E6BizcJsgiPa",
+  "DOB": "1888-09-23",
+  "DOD": "1952-10-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gryta församling",
+    "link": "http://www.wikidata.org/entity/Q10509643"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "ekman",
+    "johan fritjof ekman"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1935-01-01 00:00:00",
+      "end": "1950-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1932-09-24 00:00:00",
+      "end": "1936-06-19 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tekniska%20museets%20invigning.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5630550",
+      "link": "https://www.wikidata.org/wiki/Q5630550"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsXg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsXg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

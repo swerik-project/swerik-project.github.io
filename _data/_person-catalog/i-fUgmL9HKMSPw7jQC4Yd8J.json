@@ -1,0 +1,51 @@
+{
+  "name": "gottlieb spangenberg",
+  "swerik-id": "i-fUgmL9HKMSPw7jQC4Yd8J",
+  "DOB": "1847-11-20",
+  "DOD": "1930-12-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arboga stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10417023"
+  },
+  "place-of-death": {
+    "place": "Örebro Olaus Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10727451"
+  },
+  "alt-names": [
+    "johan gottlieb spangenberg",
+    "spangenberg"
+  ],
+  "iorter": [
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Spangenberg%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6184739",
+      "link": "https://www.wikidata.org/wiki/Q6184739"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsIA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsIA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

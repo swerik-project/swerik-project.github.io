@@ -1,0 +1,102 @@
+{
+  "name": "håkan winberg",
+  "swerik-id": "i-Li9GYUci4aMEKpg1gPEqQi",
+  "DOB": "1931-07-30",
+  "DOD": "2022-04-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ånge",
+    "link": "http://www.wikidata.org/entity/Q271096"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "winberg"
+  ],
+  "iorter": [
+    "Sundsvall"
+  ],
+  "positions": [
+    {
+      "start": "1981-05-06 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1981-05-05 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6243875",
+      "link": "https://www.wikidata.org/wiki/Q6243875"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ea0d5469-875b-45b6-8dff-c8326bfd6558",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ea0d5469-875b-45b6-8dff-c8326bfd6558"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1981-05-06",
+      "end": "1982-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

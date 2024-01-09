@@ -1,0 +1,109 @@
+{
+  "name": "arthur engberg",
+  "swerik-id": "i-9176GQUFtfs5bLdpQnVS9M",
+  "DOB": "1888-01-01",
+  "DOD": "1944-03-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hassela församling",
+    "link": "http://www.wikidata.org/entity/Q10518427"
+  },
+  "place-of-death": {
+    "place": "Härnösands domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10531743"
+  },
+  "alt-names": [
+    "engberg",
+    "jonas arthur engberg"
+  ],
+  "iorter": [
+    "Härnösand",
+    "Malmö",
+    "Stockholm",
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1944-03-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1939-12-13 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Engberg%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5711655",
+      "link": "https://www.wikidata.org/wiki/Q5711655"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16115",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16115"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAcjQ",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAcjQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29140",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29140"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

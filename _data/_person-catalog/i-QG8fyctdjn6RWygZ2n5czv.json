@@ -1,0 +1,91 @@
+{
+  "name": "charlotte cederschiöld",
+  "swerik-id": "i-QG8fyctdjn6RWygZ2n5czv",
+  "DOB": "1944-09-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "cederschiöld"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1987-04-29 00:00:00",
+      "end": "1987-06-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eu%20cederschiold%20b6dn202%201787.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q206619",
+      "link": "https://www.wikidata.org/wiki/Q206619"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0153923606405",
+      "link": "https://data.riksdagen.se/personlista/?iid=0153923606405&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "98a17ddf-bd57-4b75-a569-5ef712802c87",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_98a17ddf-bd57-4b75-a569-5ef712802c87"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1994-10-03",
+      "end": "1995-01-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

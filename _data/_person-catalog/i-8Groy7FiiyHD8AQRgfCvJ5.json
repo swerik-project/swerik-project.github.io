@@ -1,0 +1,65 @@
+{
+  "name": "hans ericson",
+  "swerik-id": "i-8Groy7FiiyHD8AQRgfCvJ5",
+  "DOB": "1868-02-16",
+  "DOD": "1945-10-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "place-of-death": {
+    "place": "Skeppsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10670076"
+  },
+  "alt-names": [
+    "ericson",
+    "håkan hans kristian ericson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1917-03-30 00:00:00",
+      "end": "1917-10-19 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Swartz",
+      "district": null
+    },
+    {
+      "start": "1911-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Ericson%20kommend%C3%B6rkapt%2C%20sj%C3%B6min%201936.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5714707",
+      "link": "https://www.wikidata.org/wiki/Q5714707"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15347",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15347"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQrg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQrg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

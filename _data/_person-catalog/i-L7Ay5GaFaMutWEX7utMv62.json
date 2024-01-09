@@ -1,0 +1,162 @@
+{
+  "name": "ulrica messing",
+  "swerik-id": "i-L7Ay5GaFaMutWEX7utMv62",
+  "DOB": "1968-01-31",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hällefors",
+    "link": "http://www.wikidata.org/entity/Q305380"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "messing",
+    "ulrica anna ingegerd jansson messing"
+  ],
+  "iorter": [
+    "Söderhamn"
+  ],
+  "positions": [
+    {
+      "start": "2006-10-07 00:00:00",
+      "end": "2007-09-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "2002-10-16 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2000-10-21 00:00:00",
+      "role": "idrottsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2000-10-21 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2000-10-21 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "arbetsrättsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1992-05-01 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-02-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4967115",
+      "link": "https://www.wikidata.org/wiki/Q4967115"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0165732384110",
+      "link": "https://data.riksdagen.se/personlista/?iid=0165732384110&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31ee0-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31ee0-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2006-10-07",
+      "end": "2007-09-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "max kilman",
+  "swerik-id": "i-47gyqoVAzDSt4tB6Ka2r6c",
+  "DOB": "1833-05-05",
+  "DOD": "1909-10-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lycke församling",
+    "link": "http://www.wikidata.org/entity/Q10571209"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "henric maximilian kilman",
+    "kilman"
+  ],
+  "iorter": [
+    "Kastellegården"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Inlands domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Maximilian%20Kilman%20SPA13%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5909044",
+      "link": "https://www.wikidata.org/wiki/Q5909044"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTbw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTbw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1889"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "mikael damsgaard",
+  "swerik-id": "i-3Su8RZSRu3defRTgsQprqZ",
+  "DOB": "1976-09-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västerås Lundby församling",
+    "link": "http://www.wikidata.org/entity/Q10718075"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2019-07-02 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q70407251",
+      "link": "https://www.wikidata.org/wiki/Q70407251"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "066036027425",
+      "link": "https://data.riksdagen.se/personlista/?iid=066036027425&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "cd568a26-75c0-401e-a4de-d43589a8dc21",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_cd568a26-75c0-401e-a4de-d43589a8dc21"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2019-07-02",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

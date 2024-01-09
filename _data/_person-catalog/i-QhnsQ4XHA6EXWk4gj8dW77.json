@@ -1,0 +1,169 @@
+{
+  "name": "nils g åsling",
+  "swerik-id": "i-QhnsQ4XHA6EXWk4gj8dW77",
+  "DOB": "1927-12-15",
+  "DOD": "2017-08-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alsens församling",
+    "link": "http://www.wikidata.org/entity/Q10406785"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "nils åsling",
+    "åsling"
+  ],
+  "iorter": [
+    "Trångsviken"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1984-12-01 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1984-10-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin III",
+      "district": null
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1976-10-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1969-10-09 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85sling%20Nils%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255950",
+      "link": "https://www.wikidata.org/wiki/Q6255950"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0840626810107",
+      "link": "https://data.riksdagen.se/personlista/?iid=0840626810107&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f3843600-0284-44ee-9c7b-076820aaf3ad",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f3843600-0284-44ee-9c7b-076820aaf3ad"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRkQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRkQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

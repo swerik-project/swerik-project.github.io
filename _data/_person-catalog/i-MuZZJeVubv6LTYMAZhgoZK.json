@@ -1,0 +1,92 @@
+{
+  "name": "ragnar törnebladh",
+  "swerik-id": "i-MuZZJeVubv6LTYMAZhgoZK",
+  "DOB": "1833-02-01",
+  "DOD": "1912-06-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hubbo församling",
+    "link": "http://www.wikidata.org/entity/Q10526810"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "henrik ragnar törnebladh",
+    "törnebladh"
+  ],
+  "iorter": [
+    "Kalmar",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ragnar%20T%C3%B6rnebladh%20%281833-1912%29%201913.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6218073",
+      "link": "https://www.wikidata.org/wiki/Q6218073"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAoxA",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAoxA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcog",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcog"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1909"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1890",
+      "end": "1904"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

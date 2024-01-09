@@ -1,0 +1,85 @@
+{
+  "name": "alfred piper",
+  "swerik-id": "i-6UxJRwjtVGxDYPPGkb6AHW",
+  "DOB": "1834-12-25",
+  "DOD": "1910-05-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Sövde församling",
+    "link": "http://www.wikidata.org/entity/Q10689269"
+  },
+  "alt-names": [
+    "eric carl alfred piper",
+    "piper"
+  ],
+  "iorter": [
+    "Sövdeborg"
+  ],
+  "positions": [
+    {
+      "start": "1883-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Carl%20Alfred%20Piper%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6050273",
+      "link": "https://www.wikidata.org/wiki/Q6050273"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRxg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRxg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Skånska partiet",
+        "party-id": "Q10671173"
+      },
+      "start": "1883",
+      "end": "1885"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1879",
+      "end": "1881"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "charlotte branting",
+  "swerik-id": "i-A2jgxgPRi11BxUsPb2uNmM",
+  "DOB": "1943",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "branting",
+    "carin marie charlotte branting"
+  ],
+  "iorter": [
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1991-12-10 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-11-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4987718",
+      "link": "https://www.wikidata.org/wiki/Q4987718"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0139582082909",
+      "link": "https://data.riksdagen.se/personlista/?iid=0139582082909&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "82c04123-e305-41c5-b669-ebb1ad8ff413",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_82c04123-e305-41c5-b669-ebb1ad8ff413"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1991-12-10",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

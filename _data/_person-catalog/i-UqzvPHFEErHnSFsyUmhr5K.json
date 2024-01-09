@@ -1,0 +1,98 @@
+{
+  "name": "karin nordlander",
+  "swerik-id": "i-UqzvPHFEErHnSFsyUmhr5K",
+  "DOB": "1917-11-08",
+  "DOD": "2011-04-19",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Älghults församling",
+    "link": "http://www.wikidata.org/entity/Q10725615"
+  },
+  "place-of-death": {
+    "place": "Skarpnäcks församling",
+    "link": "http://www.wikidata.org/entity/Q10669803"
+  },
+  "alt-names": [
+    "anna karin margareta nordlander",
+    "nordlander"
+  ],
+  "iorter": [
+    "Johanneshov"
+  ],
+  "positions": [
+    {
+      "start": "1983-06-01 00:00:00",
+      "end": "1983-10-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1983-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4970068",
+      "link": "https://www.wikidata.org/wiki/Q4970068"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1983-06-01",
+      "end": "1983-10-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

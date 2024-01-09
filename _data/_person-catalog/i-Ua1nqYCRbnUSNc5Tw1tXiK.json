@@ -1,0 +1,142 @@
+{
+  "name": "eric holmqvist",
+  "swerik-id": "i-Ua1nqYCRbnUSNc5Tw1tXiK",
+  "DOB": "1917-02-02",
+  "DOD": "2009-06-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svalöv",
+    "link": "http://www.wikidata.org/entity/Q202408"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eric bertil holmqvist",
+    "holmqvist"
+  ],
+  "iorter": [
+    "Kallhäll",
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1980-01-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-11-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1973-01-01 00:00:00",
+      "end": "1976-12-31 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1969-01-25 00:00:00",
+      "end": "1973-11-03 00:00:00",
+      "role": "inrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1969-01-25 00:00:00",
+      "end": "1973-11-03 00:00:00",
+      "role": "inrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1961-11-25 00:00:00",
+      "end": "1969-01-24 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Holmqvist%201917%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2345137",
+      "link": "https://www.wikidata.org/wiki/Q2345137"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRlw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRlw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1980-01-01",
+      "end": "1982-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

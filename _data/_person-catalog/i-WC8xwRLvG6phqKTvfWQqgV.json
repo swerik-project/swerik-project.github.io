@@ -1,0 +1,84 @@
+{
+  "name": "henrik stjernspetz",
+  "swerik-id": "i-WC8xwRLvG6phqKTvfWQqgV",
+  "DOB": "1834-06-21",
+  "DOD": "1918-12-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Flisby församling",
+    "link": "http://www.wikidata.org/entity/Q10496829"
+  },
+  "place-of-death": {
+    "place": "Södertälje stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10688814"
+  },
+  "alt-names": [
+    "peter arvid henrik stjernspetz",
+    "stjernspetz"
+  ],
+  "iorter": [
+    "Norra Freberga"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Lindes domsagas valkrets"
+    },
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Stjernspetz%20Henrik%2018340621%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6190719",
+      "link": "https://www.wikidata.org/wiki/Q6190719"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABKYA",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABKYA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28628",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28628"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsOg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsOg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbSg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbSg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "per gustafsson",
+  "swerik-id": "i-PCZa94z8d7wNLWZZ3RTfCp",
+  "DOB": "1880-10-16",
+  "DOD": "1942-04-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Blädinge församling",
+    "link": "http://www.wikidata.org/entity/Q10431628"
+  },
+  "place-of-death": {
+    "place": "Alvesta församling",
+    "link": "http://www.wikidata.org/entity/Q10407152"
+  },
+  "alt-names": [
+    "gustafsson",
+    "per johan gustafsson"
+  ],
+  "iorter": [
+    "Benestad"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1942-04-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Gustafsson%201880%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5777989",
+      "link": "https://www.wikidata.org/wiki/Q5777989"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "1ha4xkDj-uAAAAAAAABMBg",
+      "link": "https://portrattarkiv.se/details/1ha4xkDj-uAAAAAAAABMBg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQwA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQwA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

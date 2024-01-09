@@ -1,0 +1,58 @@
+{
+  "name": "manne olsson",
+  "swerik-id": "i-UTkFEqq8kFk7VxutXv65nG",
+  "DOB": "1908-04-17",
+  "DOD": "1974-04-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Turinge församling",
+    "link": "http://www.wikidata.org/entity/Q10706545"
+  },
+  "place-of-death": {
+    "place": "Turinge församling",
+    "link": "http://www.wikidata.org/entity/Q10706545"
+  },
+  "alt-names": [
+    "olsson",
+    "vilhelm emanuel olsson"
+  ],
+  "iorter": [
+    "Nykvarn"
+  ],
+  "positions": [
+    {
+      "start": "1964-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    },
+    {
+      "start": "1962-01-01 00:00:00",
+      "end": "1962-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027453",
+      "link": "https://www.wikidata.org/wiki/Q6027453"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeGQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeGQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "lucas petersson",
+  "swerik-id": "i-EKaDexh9v9nEiz9rz9MXY2",
+  "DOB": "1870-07-23",
+  "DOD": "1941-09-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Södra Hestra församling",
+    "link": "http://www.wikidata.org/entity/Q10688902"
+  },
+  "place-of-death": {
+    "place": "Södra Hestra församling",
+    "link": "http://www.wikidata.org/entity/Q10688902"
+  },
+  "alt-names": [
+    "martin lucas petersson",
+    "petersson"
+  ],
+  "iorter": [
+    "Broaryd"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Petersson%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6045471",
+      "link": "https://www.wikidata.org/wiki/Q6045471"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbFQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbFQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

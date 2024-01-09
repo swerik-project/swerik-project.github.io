@@ -1,0 +1,66 @@
+{
+  "name": "nils samuel von koch",
+  "swerik-id": "i-MUyEorK3Jrs76puMnBfwJQ",
+  "DOB": "1801-03-10",
+  "DOD": "1881-06-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skee församling",
+    "link": "http://www.wikidata.org/entity/Q10669935"
+  },
+  "place-of-death": {
+    "place": "Augerums församling",
+    "link": "http://www.wikidata.org/entity/Q10422362"
+  },
+  "alt-names": [
+    "nils samuel koch",
+    "von koch"
+  ],
+  "iorter": [
+    "Augerum"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20von%20Koch%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5916602",
+      "link": "https://www.wikidata.org/wiki/Q5916602"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11689",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11689"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAANhZA",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAANhZA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:71969",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:71969"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQzA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQzA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

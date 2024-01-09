@@ -1,0 +1,62 @@
+{
+  "name": "emil key",
+  "swerik-id": "i-XbK9QwjH3ADwitYWM1kkBW",
+  "DOB": "1822-10-07",
+  "DOD": "1892-12-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Eds församling",
+    "link": "http://www.wikidata.org/entity/Q10718219"
+  },
+  "place-of-death": {
+    "place": "Visby domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10716051"
+  },
+  "alt-names": [
+    "carl fredrik edvin emil key",
+    "key"
+  ],
+  "iorter": [
+    "Sundsholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Tjusts härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Key.jpg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Key11.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5907317",
+      "link": "https://www.wikidata.org/wiki/Q5907317"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11454",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11454"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "0piq-fX0h5AAAAAAAAAbUQ",
+      "link": "https://portrattarkiv.se/details/0piq-fX0h5AAAAAAAAAbUQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgckg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgckg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

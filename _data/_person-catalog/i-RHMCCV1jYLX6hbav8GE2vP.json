@@ -1,0 +1,84 @@
+{
+  "name": "birger nilsson",
+  "swerik-id": "i-RHMCCV1jYLX6hbav8GE2vP",
+  "DOB": "1915-06-12",
+  "DOD": "1999-10-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Los församling",
+    "link": "http://www.wikidata.org/entity/Q10569842"
+  },
+  "place-of-death": {
+    "place": "Östersunds församling",
+    "link": "http://www.wikidata.org/entity/Q10728127"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Östersund"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6009843",
+      "link": "https://www.wikidata.org/wiki/Q6009843"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRQw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRQw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1976-10-04",
+      "end": "1979-10-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

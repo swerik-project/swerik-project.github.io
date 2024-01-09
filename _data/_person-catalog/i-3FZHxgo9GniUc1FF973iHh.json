@@ -1,0 +1,76 @@
+{
+  "name": "ragnar barnekow",
+  "swerik-id": "i-3FZHxgo9GniUc1FF973iHh",
+  "DOB": "1877-01-03",
+  "DOD": "1958-03-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Newcastle upon Tyne",
+    "link": "http://www.wikidata.org/entity/Q1425428"
+  },
+  "place-of-death": {
+    "place": "Sörby församling",
+    "link": "http://www.wikidata.org/entity/Q10689191"
+  },
+  "alt-names": [
+    "barnekow"
+  ],
+  "iorter": [
+    "Sörbytorp"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ragnar%20Barnekow%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5566043",
+      "link": "https://www.wikidata.org/wiki/Q5566043"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpxw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpxw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1937",
+      "end": "1944"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1919",
+      "end": "1921"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

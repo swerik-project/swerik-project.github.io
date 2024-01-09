@@ -1,0 +1,60 @@
+{
+  "name": "maria weimer",
+  "swerik-id": "i-HPYYRQv4ch2ZKcsG9Poys5",
+  "DOB": "1979-06-25",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Tyskland",
+    "link": "http://www.wikidata.org/entity/Q183"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "maria eva margareta weimer"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18335061",
+      "link": "https://www.wikidata.org/wiki/Q18335061"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0414687558527",
+      "link": "https://data.riksdagen.se/personlista/?iid=0414687558527&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0f41c116-f393-4036-aa1f-1fa0d264ec0a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0f41c116-f393-4036-aa1f-1fa0d264ec0a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

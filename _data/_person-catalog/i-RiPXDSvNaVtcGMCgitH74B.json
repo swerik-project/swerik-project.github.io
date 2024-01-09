@@ -1,0 +1,60 @@
+{
+  "name": "emanuel svallingson",
+  "swerik-id": "i-RiPXDSvNaVtcGMCgitH74B",
+  "DOB": "1852-02-24",
+  "DOD": "1933-10-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ardre församling",
+    "link": "http://www.wikidata.org/entity/Q10417387"
+  },
+  "place-of-death": {
+    "place": "Klinte församling",
+    "link": "http://www.wikidata.org/entity/Q10546291"
+  },
+  "alt-names": [
+    "mathias emanuel svallingson",
+    "svallingson"
+  ],
+  "iorter": [
+    "Bönders gård"
+  ],
+  "positions": [
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gotlands läns södra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20Svallingson%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6197271",
+      "link": "https://www.wikidata.org/wiki/Q6197271"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRsQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRsQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1906",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

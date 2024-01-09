@@ -1,0 +1,81 @@
+{
+  "name": "christian holm",
+  "swerik-id": "i-TX4XbGiaRx4H4u3YMo1twT",
+  "DOB": "1976-07-22",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Värmlands län",
+    "link": "http://www.wikidata.org/entity/Q106789"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "christian holm barenfeld",
+    "christian otto verner holm barenfeld"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/EPP%20Live%20Chat%20with%20Christian%20Holm%20%281%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5109735",
+      "link": "https://www.wikidata.org/wiki/Q5109735"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0485476395125",
+      "link": "https://data.riksdagen.se/personlista/?iid=0485476395125&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "92407f13-f6be-4686-bd08-f111daaec0f9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_92407f13-f6be-4686-bd08-f111daaec0f9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

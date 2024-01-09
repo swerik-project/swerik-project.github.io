@@ -1,0 +1,108 @@
+{
+  "name": "sylvia pettersson",
+  "swerik-id": "i-45Fzk9eqm5zjxxVtMMhDt7",
+  "DOB": "1934-01-18",
+  "DOD": "2016-08-24",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vallentuna församling",
+    "link": "http://www.wikidata.org/entity/Q7102931"
+  },
+  "place-of-death": {
+    "place": "Vallentuna distrikt",
+    "link": "http://www.wikidata.org/entity/Q21667407"
+  },
+  "alt-names": [
+    "pettersson",
+    "sylvia birgitta elisabet pettersson"
+  ],
+  "iorter": [
+    "Vallentuna"
+  ],
+  "positions": [
+    {
+      "start": "1990-07-01 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1990-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1983-03-01 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1980-04-08 00:00:00",
+      "end": "1980-05-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1979-11-01 00:00:00",
+      "end": "1979-11-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21614203",
+      "link": "https://www.wikidata.org/wiki/Q21614203"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0870568167702",
+      "link": "https://data.riksdagen.se/personlista/?iid=0870568167702&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1292b2aa-0577-4ca7-ac5c-634e84913236",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1292b2aa-0577-4ca7-ac5c-634e84913236"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1990-07-01",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

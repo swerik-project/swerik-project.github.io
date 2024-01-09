@@ -1,0 +1,53 @@
+{
+  "name": "jan fredrik fredricson",
+  "swerik-id": "i-EWYgFejtNgYZQdZwG9wyTh",
+  "DOB": "1816-08-27",
+  "DOD": "1882-09-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Breds församling",
+    "link": "http://www.wikidata.org/entity/Q10435035"
+  },
+  "place-of-death": {
+    "place": "Breds församling",
+    "link": "http://www.wikidata.org/entity/Q10435035"
+  },
+  "alt-names": [
+    "fredricson",
+    "fredriksson",
+    "johan fredrik fredricson",
+    "johan fredrik fredriksson"
+  ],
+  "iorter": [
+    "Eklunda"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns södra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Fredricson%201816%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5741646",
+      "link": "https://www.wikidata.org/wiki/Q5741646"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN_Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN_Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

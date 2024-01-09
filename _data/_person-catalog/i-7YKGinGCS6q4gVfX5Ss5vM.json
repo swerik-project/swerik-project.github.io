@@ -1,0 +1,53 @@
+{
+  "name": "christer olofson",
+  "swerik-id": "i-7YKGinGCS6q4gVfX5Ss5vM",
+  "DOB": "1909-09-08",
+  "DOD": "1996-01-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstad",
+    "link": "http://www.wikidata.org/entity/Q26937"
+  },
+  "place-of-death": {
+    "place": "Kristianstad",
+    "link": "http://www.wikidata.org/entity/Q26937"
+  },
+  "alt-names": [
+    "olof christer olofson",
+    "olofson"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6025555",
+      "link": "https://www.wikidata.org/wiki/Q6025555"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1957",
+      "end": "1958"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

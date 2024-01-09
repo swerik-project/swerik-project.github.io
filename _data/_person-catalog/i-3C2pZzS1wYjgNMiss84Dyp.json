@@ -1,0 +1,52 @@
+{
+  "name": "gustaf broome",
+  "swerik-id": "i-3C2pZzS1wYjgNMiss84Dyp",
+  "DOB": "1853-08-17",
+  "DOD": "1929-05-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vanstads församling",
+    "link": "http://www.wikidata.org/entity/Q10712689"
+  },
+  "place-of-death": {
+    "place": "Vanstads församling",
+    "link": "http://www.wikidata.org/entity/Q10712689"
+  },
+  "alt-names": [
+    "broome",
+    "lars gustaf broome"
+  ],
+  "iorter": [
+    "Bårslöv",
+    "Lidingö"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Luggude domsagas södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Broom%C3%A9%201853%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5587500",
+      "link": "https://www.wikidata.org/wiki/Q5587500"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO4A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO4A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

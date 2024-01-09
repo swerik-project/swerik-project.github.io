@@ -1,0 +1,50 @@
+{
+  "name": "edvin jacobsson",
+  "swerik-id": "i-NBpwJayKpXu4u1Uu87zKT1",
+  "DOB": "1893-11-10",
+  "DOD": "1965-02-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vendels församling",
+    "link": "http://www.wikidata.org/entity/Q10713940"
+  },
+  "place-of-death": {
+    "place": "Tegelsmora",
+    "link": "http://www.wikidata.org/entity/Q3517132"
+  },
+  "alt-names": [
+    "jacobsson"
+  ],
+  "iorter": [
+    "Tobo"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Jacobsson%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5826490",
+      "link": "https://www.wikidata.org/wiki/Q5826490"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOFA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOFA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

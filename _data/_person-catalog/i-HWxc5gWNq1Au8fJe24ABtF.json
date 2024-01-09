@@ -1,0 +1,49 @@
+{
+  "name": "albert karlson",
+  "swerik-id": "i-HWxc5gWNq1Au8fJe24ABtF",
+  "DOB": "1870-07-11",
+  "DOD": "1952-01-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skånings-Åsaka församling",
+    "link": "http://www.wikidata.org/entity/Q10671135"
+  },
+  "place-of-death": {
+    "place": "Skånings-Åsaka församling",
+    "link": "http://www.wikidata.org/entity/Q10671135"
+  },
+  "alt-names": [
+    "johan albert karlson",
+    "karlson"
+  ],
+  "iorter": [
+    "Västtomten"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5900997",
+      "link": "https://www.wikidata.org/wiki/Q5900997"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd-g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd-g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

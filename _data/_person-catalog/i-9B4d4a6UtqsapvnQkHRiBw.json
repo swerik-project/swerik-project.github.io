@@ -1,0 +1,49 @@
+{
+  "name": "erik noren",
+  "swerik-id": "i-9B4d4a6UtqsapvnQkHRiBw",
+  "DOB": "1899-08-01",
+  "DOD": "1960-03-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nora församling",
+    "link": "http://www.wikidata.org/entity/Q10601900"
+  },
+  "place-of-death": {
+    "place": "Härnösand",
+    "link": "http://www.wikidata.org/entity/Q3240427"
+  },
+  "alt-names": [
+    "erik werner noren",
+    "noren"
+  ],
+  "iorter": [
+    "Hornön"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1960-03-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6016502",
+      "link": "https://www.wikidata.org/wiki/Q6016502"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfcg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfcg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

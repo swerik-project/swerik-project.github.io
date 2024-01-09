@@ -1,0 +1,74 @@
+{
+  "name": "elof lindström",
+  "swerik-id": "i-JqQ477oyJRAVfhSn2N97pv",
+  "DOB": "1863-08-25",
+  "DOD": "1924-07-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kvillinge församling",
+    "link": "http://www.wikidata.org/entity/Q10551107"
+  },
+  "place-of-death": {
+    "place": "Danderyds landskommun",
+    "link": "http://www.wikidata.org/entity/Q10466525"
+  },
+  "alt-names": [
+    "lindström",
+    "per elof lindström"
+  ],
+  "iorter": [
+    "Mörby"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1909-06-11 00:00:00",
+      "end": "1911-10-07 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    },
+    {
+      "start": "1909-03-17 00:00:00",
+      "end": "1909-06-11 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elof%20Lindstr%C3%B6m%20H8D%201909.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5958468",
+      "link": "https://www.wikidata.org/wiki/Q5958468"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10688",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10688"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeyw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeyw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

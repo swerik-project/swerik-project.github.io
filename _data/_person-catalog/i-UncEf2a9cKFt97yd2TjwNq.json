@@ -1,0 +1,90 @@
+{
+  "name": "cornelius olsson",
+  "swerik-id": "i-UncEf2a9cKFt97yd2TjwNq",
+  "DOB": "1857-07-10",
+  "DOD": "1937-03-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norums församling",
+    "link": "http://www.wikidata.org/entity/Q10603089"
+  },
+  "place-of-death": {
+    "place": "Ucklums församling",
+    "link": "http://www.wikidata.org/entity/Q10708393"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Berg"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs och Bohus läns södra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Inlands domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelius%20Olsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026716",
+      "link": "https://www.wikidata.org/wiki/Q6026716"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkRQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkRQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAMwg",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAMwg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

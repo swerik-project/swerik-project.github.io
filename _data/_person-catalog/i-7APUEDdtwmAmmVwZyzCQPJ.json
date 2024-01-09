@@ -1,0 +1,60 @@
+{
+  "name": "august gyllensvaan",
+  "swerik-id": "i-7APUEDdtwmAmmVwZyzCQPJ",
+  "DOB": "1821-03-08",
+  "DOD": "1899-10-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gränna landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10509735"
+  },
+  "place-of-death": {
+    "place": "Gränna landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10509735"
+  },
+  "alt-names": [
+    "gyllensvaan",
+    "jon august gyllensvaan"
+  ],
+  "iorter": [
+    "Sund"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1867-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Gyllensvaan%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5779563",
+      "link": "https://www.wikidata.org/wiki/Q5779563"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSGQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSGQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

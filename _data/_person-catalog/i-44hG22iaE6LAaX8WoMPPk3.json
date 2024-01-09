@@ -1,0 +1,78 @@
+{
+  "name": "mats einarsson",
+  "swerik-id": "i-44hG22iaE6LAaX8WoMPPk3",
+  "DOB": "1960",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Fågelviks socken",
+    "link": "http://www.wikidata.org/entity/Q10728279"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2007-09-26 00:00:00",
+      "end": "2008-02-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mats%20Einarsson%202.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5628983",
+      "link": "https://www.wikidata.org/wiki/Q5628983"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0548089226618",
+      "link": "https://data.riksdagen.se/personlista/?iid=0548089226618&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c324ea-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c324ea-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2007-09-26",
+      "end": "2008-02-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

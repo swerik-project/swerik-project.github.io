@@ -1,0 +1,52 @@
+{
+  "name": "robert jansson",
+  "swerik-id": "i-Lyd4uNV4VNB2HmVp3LdFbd",
+  "DOB": "1889-02-27",
+  "DOD": "1958-08-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Råda församling",
+    "link": "http://www.wikidata.org/entity/Q10602540"
+  },
+  "place-of-death": {
+    "place": "Aspeboda församling",
+    "link": "http://www.wikidata.org/entity/Q10419896"
+  },
+  "alt-names": [
+    "jansson",
+    "rob l jansson aspeboda",
+    "robert leander jansson"
+  ],
+  "iorter": [
+    "Aspeboda"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1958-04-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Jansson%201889%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5879846",
+      "link": "https://www.wikidata.org/wiki/Q5879846"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUzA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUzA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

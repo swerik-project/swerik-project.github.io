@@ -1,0 +1,50 @@
+{
+  "name": "einar asp",
+  "swerik-id": "i-GM1k7EHRipg9AKbMRUTHAd",
+  "DOB": "1906-08-27",
+  "DOD": "1984-03-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Segersta församling",
+    "link": "http://www.wikidata.org/entity/Q10665071"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "asp"
+  ],
+  "iorter": [
+    "Kilafors"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Einar%20Asp%201906%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5561242",
+      "link": "https://www.wikidata.org/wiki/Q5561242"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOgQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOgQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

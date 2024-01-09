@@ -1,0 +1,153 @@
+{
+  "name": "ulf lönnqvist",
+  "swerik-id": "i-JgqDoQfn7LrFWFe8vQvbAc",
+  "DOB": "1936-06-26",
+  "DOD": "2022-06-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Skrävlinge församling",
+    "link": "http://www.wikidata.org/entity/Q10718358"
+  },
+  "place-of-death": {
+    "place": "Tyresö distrikt",
+    "link": "http://www.wikidata.org/entity/Q21667397"
+  },
+  "alt-names": [
+    "lönnqvist",
+    "ulf roland lönnqvist"
+  ],
+  "iorter": [
+    "Tyresö"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-07-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "bostadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "bostadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1986-10-10 00:00:00",
+      "end": "1988-10-04 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1986-10-10 00:00:00",
+      "end": "1988-10-04 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1986-10-10 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "idrottsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1986-10-10 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "idrottsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1986-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1983-03-01 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1982-10-08 00:00:00",
+      "end": "1983-02-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5969868",
+      "link": "https://www.wikidata.org/wiki/Q5969868"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0600369882602",
+      "link": "https://data.riksdagen.se/personlista/?iid=0600369882602&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c61fd9a4-c8aa-4ac4-becb-ac217633b88d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c61fd9a4-c8aa-4ac4-becb-ac217633b88d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1992-07-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

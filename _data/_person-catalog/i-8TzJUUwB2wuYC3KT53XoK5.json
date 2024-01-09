@@ -1,0 +1,52 @@
+{
+  "name": "gustaf almquist",
+  "swerik-id": "i-8TzJUUwB2wuYC3KT53XoK5",
+  "DOB": "1841-06-01",
+  "DOD": "1899-12-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "alt-names": [
+    "almqvist",
+    "johan gustaf almquist",
+    "johan gustaf almqvist"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Almquist%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5547542",
+      "link": "https://www.wikidata.org/wiki/Q5547542"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbLA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbLA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

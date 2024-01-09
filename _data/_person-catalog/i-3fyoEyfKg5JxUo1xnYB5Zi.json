@@ -1,0 +1,59 @@
+{
+  "name": "petter näsman",
+  "swerik-id": "i-3fyoEyfKg5JxUo1xnYB5Zi",
+  "DOB": "1833-04-13",
+  "DOD": "1897-07-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Timrå församling",
+    "link": "http://www.wikidata.org/entity/Q10698211"
+  },
+  "place-of-death": {
+    "place": "Timrå församling",
+    "link": "http://www.wikidata.org/entity/Q10698211"
+  },
+  "alt-names": [
+    "näsman"
+  ],
+  "iorter": [
+    "Näs"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Medelpads östra domsagas valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ljustorps, Sköns, Indals och Selångers domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Petter%20N%C3%A4sman%201833%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6021033",
+      "link": "https://www.wikidata.org/wiki/Q6021033"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfag",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfag"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

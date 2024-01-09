@@ -1,0 +1,115 @@
+{
+  "name": "paul hellström",
+  "swerik-id": "i-DQ9MiFCTqXqDgv4LnUitVT",
+  "DOB": "1866-01-08",
+  "DOD": "1927-06-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Umeå stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q18334316"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "hellström",
+    "paulus hellström"
+  ],
+  "iorter": [
+    "Luleå",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1926-06-07 00:00:00",
+      "end": "1927-07-03 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ekman I",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1927-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-03-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns södra valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Luleå och Haparanda valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Hellstr%C3%B6m%20Sveriges%20riksdag%201924.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5799761",
+      "link": "https://www.wikidata.org/wiki/Q5799761"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12844",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12844"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAABIlA",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAABIlA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRog",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRog"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1927"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1915",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

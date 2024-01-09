@@ -1,0 +1,76 @@
+{
+  "name": "johan eric ericsson",
+  "swerik-id": "i-HosDPsxC8xMsApG7PEcMfP",
+  "DOB": "1837-02-22",
+  "DOD": "1910-11-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vendels socken",
+    "link": "http://www.wikidata.org/entity/Q13719518"
+  },
+  "place-of-death": {
+    "place": "Vendels socken",
+    "link": "http://www.wikidata.org/entity/Q13719518"
+  },
+  "alt-names": [
+    "ericsson"
+  ],
+  "iorter": [
+    "Alberga"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norunda och Örbyhus häraders valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norunda och Örbyhus häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Eric%20Ericsson%20SPA%203%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5715235",
+      "link": "https://www.wikidata.org/wiki/Q5715235"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN9Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN9Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1882",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "uno wijkström",
+  "swerik-id": "i-LuZuNJrHK6rwGPctWnWR2r",
+  "DOB": "1872-06-11",
+  "DOD": "1945-07-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Döderhults församling",
+    "link": "http://www.wikidata.org/entity/Q10478658"
+  },
+  "place-of-death": {
+    "place": "Oskarshamns församling",
+    "link": "http://www.wikidata.org/entity/Q10613018"
+  },
+  "alt-names": [
+    "uno andreas wijkström",
+    "wijkström"
+  ],
+  "iorter": [
+    "Marieholm"
+  ],
+  "positions": [
+    {
+      "start": "1928-01-01 00:00:00",
+      "end": "1935-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Uno%20Wijkstr%C3%B6m%201872%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6241097",
+      "link": "https://www.wikidata.org/wiki/Q6241097"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc2w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc2w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1935"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1928",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

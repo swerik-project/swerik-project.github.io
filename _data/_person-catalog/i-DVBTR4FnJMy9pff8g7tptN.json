@@ -1,0 +1,116 @@
+{
+  "name": "carl winberg",
+  "swerik-id": "i-DVBTR4FnJMy9pff8g7tptN",
+  "DOB": "1867-07-06",
+  "DOD": "1954-02-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlstad",
+    "link": "http://www.wikidata.org/entity/Q25457"
+  },
+  "place-of-death": {
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
+  },
+  "alt-names": [
+    "winberg"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Stuvsta"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    },
+    {
+      "start": "1919-08-04 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-03-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Winberg%20SPA10%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5040976",
+      "link": "https://www.wikidata.org/wiki/Q5040976"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN3nA",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN3nA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNPA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNPA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kilbomspartiet",
+        "party-id": "Q111188360"
+      },
+      "start": "1930",
+      "end": "1930"
+    },
+    {
+      "party": {
+        "name": "Kommunistiska partiets riksdagsgrupp",
+        "party-id": "Q111285801"
+      },
+      "start": "1922",
+      "end": "1929"
+    },
+    {
+      "party": {
+        "name": "Socialdemokratiska vänstergruppen",
+        "party-id": "Q10672903"
+      },
+      "start": "1919",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1915",
+      "end": "1916"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

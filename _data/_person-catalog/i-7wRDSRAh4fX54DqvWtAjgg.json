@@ -1,0 +1,57 @@
+{
+  "name": "fredrick richter",
+  "swerik-id": "i-7wRDSRAh4fX54DqvWtAjgg",
+  "DOB": "1819-10-04",
+  "DOD": "1904-05-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "fredrik richter",
+    "jonas fredrick michael richter",
+    "richter"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1883-01-01 00:00:00",
+      "end": "1891-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrick%20Richter%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6071198",
+      "link": "https://www.wikidata.org/wiki/Q6071198"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAQew",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAQew"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQdg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQdg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

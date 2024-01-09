@@ -1,0 +1,50 @@
+{
+  "name": "olof olson",
+  "swerik-id": "i-Xe7y1HUKo3cwvjoGKibVwZ",
+  "DOB": "1838-02-23",
+  "DOD": "1921-03-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Råda församling",
+    "link": "http://www.wikidata.org/entity/Q10602540"
+  },
+  "place-of-death": {
+    "place": "Ransäters församling",
+    "link": "http://www.wikidata.org/entity/Q10649655"
+  },
+  "alt-names": [
+    "olson"
+  ],
+  "iorter": [
+    "Stensdalen"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Mellansysslets domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Olson%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105046298",
+      "link": "https://www.wikidata.org/wiki/Q105046298"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgb_w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgb_w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

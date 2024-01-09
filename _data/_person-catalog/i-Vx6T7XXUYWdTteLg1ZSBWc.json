@@ -1,0 +1,99 @@
+{
+  "name": "johan bergman",
+  "swerik-id": "i-Vx6T7XXUYWdTteLg1ZSBWc",
+  "DOB": "1864-02-06",
+  "DOD": "1951-08-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tydje församling",
+    "link": "http://www.wikidata.org/entity/Q10706973"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "bergman"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1923-01-01 00:00:00",
+      "end": "1941-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Bergman%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5572691",
+      "link": "https://www.wikidata.org/wiki/Q5572691"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18644",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18644"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAANhNg",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAANhNg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:50410",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:50410"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgb1Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgb1Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1941"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1923",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

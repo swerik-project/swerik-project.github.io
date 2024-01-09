@@ -1,0 +1,50 @@
+{
+  "name": "anders jakob landström",
+  "swerik-id": "i-SScdx6kmSkDb5sMoK5F2We",
+  "DOB": "1804-10-16",
+  "DOD": "1875-05-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uddevalla församling",
+    "link": "http://www.wikidata.org/entity/Q10708421"
+  },
+  "place-of-death": {
+    "place": "Vänersborgs församling",
+    "link": "http://www.wikidata.org/entity/Q18334839"
+  },
+  "alt-names": [
+    "landström"
+  ],
+  "iorter": [
+    "Vänersborg"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vänersborgs och Åmåls valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Landstr%C3%B6m%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5934034",
+      "link": "https://www.wikidata.org/wiki/Q5934034"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZgw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZgw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

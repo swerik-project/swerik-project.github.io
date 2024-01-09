@@ -1,0 +1,69 @@
+{
+  "name": "gustav schyllert",
+  "swerik-id": "i-Aczr3QcauMaebRRbhWvMM3",
+  "DOB": "1987-07-24",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "gustav daniel schyllert"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-03-31 00:00:00",
+      "end": "2014-05-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2013-10-14 00:00:00",
+      "end": "2014-03-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104215586",
+      "link": "https://www.wikidata.org/wiki/Q104215586"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0232670694320",
+      "link": "https://data.riksdagen.se/personlista/?iid=0232670694320&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e9a8876a-f564-4e5f-9b52-851fea7e5053",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e9a8876a-f564-4e5f-9b52-851fea7e5053"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-03-31",
+      "end": "2014-05-23"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

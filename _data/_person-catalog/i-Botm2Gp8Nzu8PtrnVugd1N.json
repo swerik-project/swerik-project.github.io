@@ -1,0 +1,76 @@
+{
+  "name": "christina andersson",
+  "swerik-id": "i-Botm2Gp8Nzu8PtrnVugd1N",
+  "DOB": "1948",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2008-11-24 00:00:00",
+      "end": "2009-02-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2007-04-18 00:00:00",
+      "end": "2007-07-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2005-01-31 00:00:00",
+      "end": "2005-03-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97911803",
+      "link": "https://www.wikidata.org/wiki/Q97911803"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0263304349100",
+      "link": "https://data.riksdagen.se/personlista/?iid=0263304349100&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8312e92c-99ff-461a-a815-5d555ca7e180",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8312e92c-99ff-461a-a815-5d555ca7e180"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2008-11-24",
+      "end": "2009-02-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

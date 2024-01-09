@@ -1,0 +1,62 @@
+{
+  "name": "gärda svensson",
+  "swerik-id": "i-Ry79up6brcPYr8wj2XgxHz",
+  "DOB": "1895-08-30",
+  "DOD": "1985-06-15",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sibbarps församling",
+    "link": "http://www.wikidata.org/entity/Q10667210"
+  },
+  "place-of-death": {
+    "place": "Ljungby församling",
+    "link": "http://www.wikidata.org/entity/Q10568320"
+  },
+  "alt-names": [
+    "gärda sofia svensson",
+    "gärda svenson",
+    "svensson"
+  ],
+  "iorter": [
+    "Långås"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1963-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A4rda%20Svensson%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4981510",
+      "link": "https://www.wikidata.org/wiki/Q4981510"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "34883",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34883"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAAAKxA",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAAAKxA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnsQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnsQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

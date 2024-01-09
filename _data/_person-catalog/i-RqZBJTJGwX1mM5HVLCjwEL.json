@@ -1,0 +1,52 @@
+{
+  "name": "julius högstedt",
+  "swerik-id": "i-RqZBJTJGwX1mM5HVLCjwEL",
+  "DOB": "1851-12-25",
+  "DOD": "1922-03-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Högsby församling",
+    "link": "http://www.wikidata.org/entity/Q10532363"
+  },
+  "place-of-death": {
+    "place": "Högsby församling",
+    "link": "http://www.wikidata.org/entity/Q10532363"
+  },
+  "alt-names": [
+    "högstedt",
+    "per august julius högstedt"
+  ],
+  "iorter": [
+    "Hanåsa",
+    "Hanåsen"
+  ],
+  "positions": [
+    {
+      "start": "1896-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Aspelands och Handbörds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Julius%20H%C3%B6gstedt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5820900",
+      "link": "https://www.wikidata.org/wiki/Q5820900"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc3Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc3Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "johan fahlen",
+  "swerik-id": "i-69km2pwLBJWrtyvRcuiS3b",
+  "DOB": "1826-03-27",
+  "DOD": "1907-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Multrå församling",
+    "link": "http://www.wikidata.org/entity/Q10590141"
+  },
+  "place-of-death": {
+    "place": "Multrå församling",
+    "link": "http://www.wikidata.org/entity/Q10590141"
+  },
+  "alt-names": [
+    "fahlen"
+  ],
+  "iorter": [
+    "Multrå"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sollefteå och Ramsele tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Fahl%C3%A9n%201826%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5723194",
+      "link": "https://www.wikidata.org/wiki/Q5723194"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgflQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgflQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

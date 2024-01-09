@@ -1,0 +1,79 @@
+{
+  "name": "gunnar hyltander",
+  "swerik-id": "i-FRxB8oznSTCKcmDJnb8HAC",
+  "DOB": "1915-08-27",
+  "DOD": "1981-06-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Töreboda församling",
+    "link": "http://www.wikidata.org/entity/Q10708194"
+  },
+  "place-of-death": {
+    "place": "Töreboda församling",
+    "link": "http://www.wikidata.org/entity/Q10708194"
+  },
+  "alt-names": [
+    "herr hyltander",
+    "hyltander",
+    "karl gunnar esaias hyltander"
+  ],
+  "iorter": [
+    "Töreboda"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1963-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Hyltander%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5818799",
+      "link": "https://www.wikidata.org/wiki/Q5818799"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdTw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdTw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

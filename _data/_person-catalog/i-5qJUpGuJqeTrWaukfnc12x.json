@@ -1,0 +1,44 @@
+{
+  "name": "gunnar wallmark",
+  "swerik-id": "i-5qJUpGuJqeTrWaukfnc12x",
+  "DOB": "1917-05-22",
+  "DOD": "1998-03-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Gamlestads församling",
+    "link": "http://www.wikidata.org/entity/Q57417269"
+  },
+  "place-of-death": {
+    "place": "Saltsjöbadens församling",
+    "link": "http://www.wikidata.org/entity/Q11057449"
+  },
+  "alt-names": [
+    "gunnar sigfrid wallmark",
+    "wallmark"
+  ],
+  "iorter": [
+    "Södertälje"
+  ],
+  "positions": [
+    {
+      "start": "1963-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6231399",
+      "link": "https://www.wikidata.org/wiki/Q6231399"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

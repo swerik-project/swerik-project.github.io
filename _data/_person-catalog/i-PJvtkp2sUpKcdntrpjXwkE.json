@@ -1,0 +1,62 @@
+{
+  "name": "carl ekström",
+  "swerik-id": "i-PJvtkp2sUpKcdntrpjXwkE",
+  "DOB": "1818-01-11",
+  "DOD": "1903-05-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl henrik rudolf ekström",
+    "carl rudolf ekström",
+    "ekström"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1882-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ekstr%C3%B6m%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5707498",
+      "link": "https://www.wikidata.org/wiki/Q5707498"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABgFg",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABgFg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28634",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28634"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbUA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbUA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

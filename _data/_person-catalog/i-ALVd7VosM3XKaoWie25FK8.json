@@ -1,0 +1,48 @@
+{
+  "name": "fabian wilhelm stael von holstein",
+  "swerik-id": "i-ALVd7VosM3XKaoWie25FK8",
+  "DOB": "1797-12-01",
+  "DOD": "1873-12-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klippans församling",
+    "link": "http://www.wikidata.org/entity/Q10546313"
+  },
+  "place-of-death": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "alt-names": [
+    "stael von holstein"
+  ],
+  "iorter": [
+    "Skyrup"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6186506",
+      "link": "https://www.wikidata.org/wiki/Q6186506"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpRQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpRQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

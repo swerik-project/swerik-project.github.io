@@ -1,0 +1,49 @@
+{
+  "name": "yngve persson",
+  "swerik-id": "i-84CaU2aajmfrYKyB8RF9jC",
+  "DOB": "1905-08-21",
+  "DOD": "1978-07-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Häglinge församling",
+    "link": "http://www.wikidata.org/entity/Q10531313"
+  },
+  "place-of-death": {
+    "place": "Kirsebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10545803"
+  },
+  "alt-names": [
+    "persson",
+    "yngve berner persson"
+  ],
+  "iorter": [
+    "Romna"
+  ],
+  "positions": [
+    {
+      "start": "1952-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117039161",
+      "link": "https://www.wikidata.org/wiki/Q117039161"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRsw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRsw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

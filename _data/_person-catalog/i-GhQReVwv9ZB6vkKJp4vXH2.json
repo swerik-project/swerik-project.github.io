@@ -1,0 +1,51 @@
+{
+  "name": "einar jonsson",
+  "swerik-id": "i-GhQReVwv9ZB6vkKJp4vXH2",
+  "DOB": "1872-10-26",
+  "DOD": "1936-11-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mörbylånga församling",
+    "link": "http://www.wikidata.org/entity/Q10593597"
+  },
+  "place-of-death": {
+    "place": "Mörbylånga församling",
+    "link": "http://www.wikidata.org/entity/Q10593597"
+  },
+  "alt-names": [
+    "jonsson",
+    "karl einar edvin jonsson"
+  ],
+  "iorter": [
+    "Mörbylånga"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Einar%20Jonsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111692389",
+      "link": "https://www.wikidata.org/wiki/Q111692389"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcgw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcgw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

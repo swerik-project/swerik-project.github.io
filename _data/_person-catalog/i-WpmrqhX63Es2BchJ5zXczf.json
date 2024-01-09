@@ -1,0 +1,58 @@
+{
+  "name": "frans severin",
+  "swerik-id": "i-WpmrqhX63Es2BchJ5zXczf",
+  "DOB": "1889-01-02",
+  "DOD": "1972-02-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ystads församling",
+    "link": "http://www.wikidata.org/entity/Q10723793"
+  },
+  "place-of-death": {
+    "place": "Hässelby församling",
+    "link": "http://www.wikidata.org/entity/Q10531790"
+  },
+  "alt-names": [
+    "frans ferdinand severin",
+    "severin"
+  ],
+  "iorter": [
+    "Bromma",
+    "Stockholm",
+    "Ålsten"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Severin%20red.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6173569",
+      "link": "https://www.wikidata.org/wiki/Q6173569"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAUuw",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAUuw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNwQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNwQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

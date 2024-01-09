@@ -1,0 +1,87 @@
+{
+  "name": "sigfrid löfgren",
+  "swerik-id": "i-MKtRRcpTpEb8T45YVQN8TW",
+  "DOB": "1908-04-03",
+  "DOD": "1994-09-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tegelsmora församling",
+    "link": "http://www.wikidata.org/entity/Q10691836"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Pauli församling",
+    "link": "http://www.wikidata.org/entity/Q10576132"
+  },
+  "alt-names": [
+    "löfgren",
+    "nils sigfrid johannes löfgren"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigfrid%20L%C3%B6fgren%201908%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5969487",
+      "link": "https://www.wikidata.org/wiki/Q5969487"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRew",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRew"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "axel reutercrona",
+  "swerik-id": "i-BE5heMiSWyuLnMtuoSP5Up",
+  "DOB": "1819-11-29",
+  "DOD": "1905-05-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Beatebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10427530"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl eric miles gustaf axel reutercrona",
+    "reutercrona"
+  ],
+  "iorter": [
+    "Finspång"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Risinge, Hällestads och Tjällmo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Reutercrona%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q23988424",
+      "link": "https://www.wikidata.org/wiki/Q23988424"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgawg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgawg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

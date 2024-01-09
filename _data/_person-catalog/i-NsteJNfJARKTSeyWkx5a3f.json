@@ -1,0 +1,52 @@
+{
+  "name": "gustaf högstedt",
+  "swerik-id": "i-NsteJNfJARKTSeyWkx5a3f",
+  "DOB": "1848-02-05",
+  "DOD": "1927-10-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ystads församling",
+    "link": "http://www.wikidata.org/entity/Q10723793"
+  },
+  "place-of-death": {
+    "place": "Farhults församling",
+    "link": "http://www.wikidata.org/entity/Q10494071"
+  },
+  "alt-names": [
+    "högstedt",
+    "j gustaf o högstedt",
+    "jonas gustaf oscar högstedt"
+  ],
+  "iorter": [
+    "Helsingborg"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Helsingborgs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20H%C3%B6gstedt.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5820888",
+      "link": "https://www.wikidata.org/wiki/Q5820888"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRWw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRWw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

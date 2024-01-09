@@ -1,0 +1,51 @@
+{
+  "name": "magnus nathanael johansson",
+  "swerik-id": "i-3NbGNP9YEc8pT9LWALZDW6",
+  "DOB": "1860-10-21",
+  "DOD": "1940-05-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Moheda församling",
+    "link": "http://www.wikidata.org/entity/Q10587481"
+  },
+  "place-of-death": {
+    "place": "Tolgs församling",
+    "link": "http://www.wikidata.org/entity/Q10699352"
+  },
+  "alt-names": [
+    "johansson",
+    "mn johansson"
+  ],
+  "iorter": [
+    "Västenhaga"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1914-07-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Johansson%20SPA%201.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q116687586",
+      "link": "https://www.wikidata.org/wiki/Q116687586"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQPg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQPg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

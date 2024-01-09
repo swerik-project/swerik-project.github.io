@@ -1,0 +1,87 @@
+{
+  "name": "mattias jonsson",
+  "swerik-id": "i-8BHpqh3AbjzqTzM3CKEhqa",
+  "DOB": "1974-04-27",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lysekils församling",
+    "link": "http://www.wikidata.org/entity/Q10571689"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/9B0A9303.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5891875",
+      "link": "https://www.wikidata.org/wiki/Q5891875"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0499755198526",
+      "link": "https://data.riksdagen.se/personlista/?iid=0499755198526&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9ae916dd-799d-4d2b-80c4-f00bc5a7344d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9ae916dd-799d-4d2b-80c4-f00bc5a7344d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

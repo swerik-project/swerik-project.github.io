@@ -1,0 +1,52 @@
+{
+  "name": "axel andersson",
+  "swerik-id": "i-4QfyCDnkQC2ymGgn7VCEBm",
+  "DOB": "1882-02-04",
+  "DOD": "1953-09-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åsbräcka församling",
+    "link": "http://www.wikidata.org/entity/Q10726876"
+  },
+  "place-of-death": {
+    "place": "Vänersborg",
+    "link": "http://www.wikidata.org/entity/Q54759"
+  },
+  "alt-names": [
+    "andersson",
+    "andersson härrklättan",
+    "axel konrad andersson"
+  ],
+  "iorter": [
+    "Härrklättan"
+  ],
+  "positions": [
+    {
+      "start": "1913-01-16 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Andersson%201882%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111665128",
+      "link": "https://www.wikidata.org/wiki/Q111665128"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZQw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZQw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

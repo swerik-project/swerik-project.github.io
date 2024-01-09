@@ -1,0 +1,50 @@
+{
+  "name": "hans larsson",
+  "swerik-id": "i-3oxHos89DLWxgit8emnuRm",
+  "DOB": "1828-01-18",
+  "DOD": "1884-12-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10417106"
+  },
+  "place-of-death": {
+    "place": "Arbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10417106"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Flästa"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Hälsinglands domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Larsson%201828%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5937584",
+      "link": "https://www.wikidata.org/wiki/Q5937584"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOeQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOeQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

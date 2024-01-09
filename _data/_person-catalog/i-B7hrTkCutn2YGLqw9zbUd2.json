@@ -1,0 +1,123 @@
+{
+  "name": "bengt sjönell",
+  "swerik-id": "i-B7hrTkCutn2YGLqw9zbUd2",
+  "DOB": "1917-09-12",
+  "DOD": "2004-05-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Umeå stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q18334316"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "per bengt göran sjönell",
+    "sjönell"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1979-10-15 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    },
+    {
+      "start": "1961-01-01 00:00:00",
+      "end": "1961-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bengt%20Sj%C3%B6nell%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6178909",
+      "link": "https://www.wikidata.org/wiki/Q6178909"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0262742649696",
+      "link": "https://data.riksdagen.se/personlista/?iid=0262742649696&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c012fffd-1b8d-467e-b1b1-461649ae5c12",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c012fffd-1b8d-467e-b1b1-461649ae5c12"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNUQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNUQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1979-10-15",
+      "end": "1982-10-04"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1961",
+      "end": "1961"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

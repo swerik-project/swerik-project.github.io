@@ -1,0 +1,80 @@
+{
+  "name": "gustav lorentzon",
+  "swerik-id": "i-7d3TRxM4EXGPcH4Nyst5jR",
+  "DOB": "1913-09-08",
+  "DOD": "1993-02-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hunnebostrands församling",
+    "link": "http://www.wikidata.org/entity/Q10527206"
+  },
+  "place-of-death": {
+    "place": "Hässelby församling",
+    "link": "http://www.wikidata.org/entity/Q10531790"
+  },
+  "alt-names": [
+    "bror gustav linne lorentzon",
+    "lorentzon"
+  ],
+  "iorter": [
+    "Kramfors"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5963514",
+      "link": "https://www.wikidata.org/wiki/Q5963514"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1976-10-04",
+      "end": "1979-10-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

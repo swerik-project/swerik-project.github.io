@@ -1,0 +1,78 @@
+{
+  "name": "dennis dioukarev",
+  "swerik-id": "i-5xq5y8yJUv1khDbYCaXJ7X",
+  "DOB": "1993-03-27",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Angereds församling",
+    "link": "http://www.wikidata.org/entity/Q10411781"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Dennis%20Dioukarev%202019.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18238432",
+      "link": "https://www.wikidata.org/wiki/Q18238432"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0344222203323",
+      "link": "https://data.riksdagen.se/personlista/?iid=0344222203323&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "13a59e93-95fe-45fb-b7b5-a76f8181cb4f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_13a59e93-95fe-45fb-b7b5-a76f8181cb4f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

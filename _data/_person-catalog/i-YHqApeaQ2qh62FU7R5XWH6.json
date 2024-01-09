@@ -1,0 +1,49 @@
+{
+  "name": "margit lundblad",
+  "swerik-id": "i-YHqApeaQ2qh62FU7R5XWH6",
+  "DOB": "1906-10-16",
+  "DOD": "1983-08-27",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Limhamns församling",
+    "link": "http://www.wikidata.org/entity/Q10562025"
+  },
+  "place-of-death": {
+    "place": "Eriksfälts församling",
+    "link": "http://www.wikidata.org/entity/Q10487740"
+  },
+  "alt-names": [
+    "lundblad",
+    "margit alfhilda anette lundblad"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1966-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4964018",
+      "link": "https://www.wikidata.org/wiki/Q4964018"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRYA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRYA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

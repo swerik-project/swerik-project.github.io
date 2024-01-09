@@ -1,0 +1,48 @@
+{
+  "name": "august petersson",
+  "swerik-id": "i-Y9mg3sbUWHY6pDTZUpZ6sa",
+  "DOB": "1829-01-15",
+  "DOD": "1905-03-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mjölby församling",
+    "link": "http://www.wikidata.org/entity/Q10586847"
+  },
+  "place-of-death": {
+    "place": "Rystads församling",
+    "link": "http://www.wikidata.org/entity/Q10658347"
+  },
+  "alt-names": [
+    "petersson"
+  ],
+  "iorter": [
+    "Tuna"
+  ],
+  "positions": [
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo, Bankekinds och Hanekinds domsagas valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6045247",
+      "link": "https://www.wikidata.org/wiki/Q6045247"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgapw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgapw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

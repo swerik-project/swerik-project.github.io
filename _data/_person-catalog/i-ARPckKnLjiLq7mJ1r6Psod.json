@@ -1,0 +1,51 @@
+{
+  "name": "nils andersson",
+  "swerik-id": "i-ARPckKnLjiLq7mJ1r6Psod",
+  "DOB": "1818-08-29",
+  "DOD": "1891-11-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Ämterviks församling",
+    "link": "http://www.wikidata.org/entity/Q10728500"
+  },
+  "place-of-death": {
+    "place": "Östra Ämterviks församling",
+    "link": "http://www.wikidata.org/entity/Q10728500"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Bävik",
+    "Prästbol"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Andersson%20B%C3%A4vik.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555625",
+      "link": "https://www.wikidata.org/wiki/Q5555625"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbpQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

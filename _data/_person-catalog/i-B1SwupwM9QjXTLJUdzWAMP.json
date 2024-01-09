@@ -1,0 +1,68 @@
+{
+  "name": "anders hansson",
+  "swerik-id": "i-B1SwupwM9QjXTLJUdzWAMP",
+  "DOB": "1839-12-23",
+  "DOD": "1914-01-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gustafs församling",
+    "link": "http://www.wikidata.org/entity/Q10511092"
+  },
+  "place-of-death": {
+    "place": "Gustafs församling",
+    "link": "http://www.wikidata.org/entity/Q10511092"
+  },
+  "alt-names": [
+    "hansson"
+  ],
+  "iorter": [
+    "Solberga"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1913-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns västra valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Falu domsagas södra tingslags valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Falu domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Hansson%201839%20SPA9%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5788951",
+      "link": "https://www.wikidata.org/wiki/Q5788951"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU3Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU3Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

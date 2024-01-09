@@ -1,0 +1,87 @@
+{
+  "name": "carl carlsson",
+  "swerik-id": "i-7ncP65s3pARnGfdioAxc1C",
+  "DOB": "1873-09-21",
+  "DOD": "1936-07-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malungs församling",
+    "link": "http://www.wikidata.org/entity/Q10576232"
+  },
+  "place-of-death": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "alt-names": [
+    "c a carlsson",
+    "carl august carlsson",
+    "carlsson",
+    "karl august carlsson"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1920-06-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gästriklands valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Carlsson%201873%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5603039",
+      "link": "https://www.wikidata.org/wiki/Q5603039"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO8Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO8Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1920",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

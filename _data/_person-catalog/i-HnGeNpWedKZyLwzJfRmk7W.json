@@ -1,0 +1,61 @@
+{
+  "name": "axel träff",
+  "swerik-id": "i-HnGeNpWedKZyLwzJfRmk7W",
+  "DOB": "1875-09-21",
+  "DOD": "1953-07-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ekeberga församling",
+    "link": "http://www.wikidata.org/entity/Q10480496"
+  },
+  "place-of-death": {
+    "place": "Mjölby församling",
+    "link": "http://www.wikidata.org/entity/Q10586847"
+  },
+  "alt-names": [
+    "john axel träff",
+    "träff"
+  ],
+  "iorter": [
+    "Mjölby"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Tr%C3%A4ff%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6216064",
+      "link": "https://www.wikidata.org/wiki/Q6216064"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAA2bw",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAA2bw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAknw",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAknw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABh0Cw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABh0Cw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

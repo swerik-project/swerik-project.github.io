@@ -1,0 +1,50 @@
+{
+  "name": "eric ersson",
+  "swerik-id": "i-7guUiEuabcPHVYgvz49roW",
+  "DOB": "1829-01-11",
+  "DOD": "1896-02-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västerlövsta församling",
+    "link": "http://www.wikidata.org/entity/Q10717981"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "ersson"
+  ],
+  "iorter": [
+    "Arnebo"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns östra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Ersson%201829%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5718511",
+      "link": "https://www.wikidata.org/wiki/Q5718511"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPGA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPGA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

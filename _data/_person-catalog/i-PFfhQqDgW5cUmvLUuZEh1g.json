@@ -1,0 +1,51 @@
+{
+  "name": "mathias bengtsson",
+  "swerik-id": "i-PFfhQqDgW5cUmvLUuZEh1g",
+  "DOB": "1998-04-26",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Almby församling",
+    "link": "http://www.wikidata.org/entity/Q10406532"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mathias%20Bengtsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114141183",
+      "link": "https://www.wikidata.org/wiki/Q114141183"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "069534526423",
+      "link": "https://data.riksdagen.se/personlista/?iid=069534526423&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "75d88062-5bda-4ead-9b9e-3f90184afa11",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_75d88062-5bda-4ead-9b9e-3f90184afa11"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

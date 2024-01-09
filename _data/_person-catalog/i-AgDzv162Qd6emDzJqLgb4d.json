@@ -1,0 +1,52 @@
+{
+  "name": "john falk",
+  "swerik-id": "i-AgDzv162Qd6emDzJqLgb4d",
+  "DOB": "1873-10-02",
+  "DOD": "1956-04-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tyska S:ta Gertruds församling",
+    "link": "http://www.wikidata.org/entity/Q10707814"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "falk",
+    "johan ludvig falk",
+    "john ludvig falk"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ume%C3%A5%20stadsarkiv-Falk-John.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5856613",
+      "link": "https://www.wikidata.org/wiki/Q5856613"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcmQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcmQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

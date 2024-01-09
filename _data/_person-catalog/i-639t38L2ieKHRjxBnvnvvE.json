@@ -1,0 +1,48 @@
+{
+  "name": "henric tamm",
+  "swerik-id": "i-639t38L2ieKHRjxBnvnvvE",
+  "DOB": "1869-05-31",
+  "DOD": "1936-05-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Älvkarleö",
+    "link": "http://www.wikidata.org/entity/Q10725715"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "henric sebastian tamm"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1920-10-27 00:00:00",
+      "end": "1921-02-23 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.y.",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henric%20Tamm%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6203666",
+      "link": "https://www.wikidata.org/wiki/Q6203666"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNrNQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNrNQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

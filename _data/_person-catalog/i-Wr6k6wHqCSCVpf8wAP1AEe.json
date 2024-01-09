@@ -1,0 +1,71 @@
+{
+  "name": "ingrid ronne björkqvist",
+  "swerik-id": "i-Wr6k6wHqCSCVpf8wAP1AEe",
+  "DOB": "1934-04-07",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ronne björkqvist"
+  ],
+  "iorter": [
+    "Anderstorp"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4975354",
+      "link": "https://www.wikidata.org/wiki/Q4975354"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0751528529603",
+      "link": "https://data.riksdagen.se/personlista/?iid=0751528529603&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f05c4671-36c0-433b-bae4-fc51cf10178d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f05c4671-36c0-433b-bae4-fc51cf10178d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

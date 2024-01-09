@@ -1,0 +1,71 @@
+{
+  "name": "elisabeth persson",
+  "swerik-id": "i-GGmRxJER6QaBgxG9DmW9Z9",
+  "DOB": "1942",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Bocksjöby"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4972485",
+      "link": "https://www.wikidata.org/wiki/Q4972485"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0215382436506",
+      "link": "https://data.riksdagen.se/personlista/?iid=0215382436506&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ed370cc1-7349-43b7-8b36-d84f940508cd",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ed370cc1-7349-43b7-8b36-d84f940508cd"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

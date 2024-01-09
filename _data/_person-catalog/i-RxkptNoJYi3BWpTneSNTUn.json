@@ -1,0 +1,133 @@
+{
+  "name": "nils carlshamre",
+  "swerik-id": "i-RxkptNoJYi3BWpTneSNTUn",
+  "DOB": "1921-04-28",
+  "DOD": "2005-04-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uddevalla församling",
+    "link": "http://www.wikidata.org/entity/Q10708421"
+  },
+  "place-of-death": {
+    "place": "Kungälvs församling",
+    "link": "http://www.wikidata.org/entity/Q10550417"
+  },
+  "alt-names": [
+    "carlshamre",
+    "nils oskar gerhard carlshamre"
+  ],
+  "iorter": [
+    "Kungälv"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1978-06-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1978-04-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Carlshamre%201921%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5602814",
+      "link": "https://www.wikidata.org/wiki/Q5602814"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "091283181490",
+      "link": "https://data.riksdagen.se/personlista/?iid=091283181490&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f746628d-343e-448e-8642-2dd562cab6f9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f746628d-343e-448e-8642-2dd562cab6f9"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSIw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSIw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

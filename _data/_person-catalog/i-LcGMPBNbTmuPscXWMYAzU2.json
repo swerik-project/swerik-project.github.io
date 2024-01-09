@@ -1,0 +1,51 @@
+{
+  "name": "gerhard nilsson",
+  "swerik-id": "i-LcGMPBNbTmuPscXWMYAzU2",
+  "DOB": "1895-03-06",
+  "DOD": "1958-07-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Oslättfors",
+    "link": "http://www.wikidata.org/entity/Q18331847"
+  },
+  "place-of-death": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "alt-names": [
+    "gustaf gerhard nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1958-07-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gerhard%20Nilsson.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6156904",
+      "link": "https://www.wikidata.org/wiki/Q6156904"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOZA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

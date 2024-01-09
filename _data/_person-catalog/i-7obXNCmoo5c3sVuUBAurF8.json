@@ -1,0 +1,68 @@
+{
+  "name": "thure widlund",
+  "swerik-id": "i-7obXNCmoo5c3sVuUBAurF8",
+  "DOB": "1871-01-30",
+  "DOD": "1932-11-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Törnsfalls församling",
+    "link": "http://www.wikidata.org/entity/Q10708219"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "alt-names": [
+    "karl albert thure widlund",
+    "widlund"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Thure%20Widlund%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6240290",
+      "link": "https://www.wikidata.org/wiki/Q6240290"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbPw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbPw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokratiska vänstergruppen",
+        "party-id": "Q10672903"
+      },
+      "start": "1917",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1912",
+      "end": "1916"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

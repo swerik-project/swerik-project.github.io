@@ -1,0 +1,95 @@
+{
+  "name": "emil hammarlund",
+  "swerik-id": "i-AkkdfpGktUNP8mcA1ApJ7P",
+  "DOB": "1853-02-20",
+  "DOD": "1910-02-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Strövelstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10682269"
+  },
+  "place-of-death": {
+    "place": "Saltsjöbaden",
+    "link": "http://www.wikidata.org/entity/Q990771"
+  },
+  "alt-names": [
+    "hammarlund"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1910-01-01 00:00:00",
+      "end": "1910-02-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Hammarlund.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786752",
+      "link": "https://www.wikidata.org/wiki/Q5786752"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12535",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12535"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAAZdQ",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAAZdQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNqQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNqQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Friesenska diskussionsklubben",
+        "party-id": "Q10499105"
+      },
+      "start": "1897",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

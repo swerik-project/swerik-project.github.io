@@ -1,0 +1,67 @@
+{
+  "name": "sven gunnar persson",
+  "swerik-id": "i-CYXB5gc8UwhvnW3jqhdnoq",
+  "DOB": "1955-03-10",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Vingåkers församling",
+    "link": "http://www.wikidata.org/entity/Q10718416"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2008-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043789",
+      "link": "https://www.wikidata.org/wiki/Q6043789"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0758217192418",
+      "link": "https://data.riksdagen.se/personlista/?iid=0758217192418&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "aedcff2a-c7d1-43c5-8a4c-1d8e2f0fdcd2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_aedcff2a-c7d1-43c5-8a4c-1d8e2f0fdcd2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2006-10-02",
+      "end": "2008-12-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "erik viktor almquist",
+  "swerik-id": "i-CyuvXZeUkrDukkDafko1Nk",
+  "DOB": "1817-03-07",
+  "DOD": "1872-12-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Eds församling",
+    "link": "http://www.wikidata.org/entity/Q10479944"
+  },
+  "place-of-death": {
+    "place": "Umeå stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q18334316"
+  },
+  "alt-names": [
+    "almqvist",
+    "erik almqvist",
+    "erik victor almqvist"
+  ],
+  "iorter": [
+    "Umeå"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Härnösands, Umeå, Luleå och Piteå valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Viktor%20Almquist.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5547532",
+      "link": "https://www.wikidata.org/wiki/Q5547532"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5698",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5698"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA3PiQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA3PiQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb6Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb6Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1870",
+      "end": "1872"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

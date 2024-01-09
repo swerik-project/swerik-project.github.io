@@ -1,0 +1,50 @@
+{
+  "name": "james kennedy",
+  "swerik-id": "i-Wjs7vhiqPDs5DWBCyXkc77",
+  "DOB": "1848-07-27",
+  "DOD": "1916-03-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "kennedy"
+  ],
+  "iorter": [
+    "Råbelöv"
+  ],
+  "positions": [
+    {
+      "start": "1899-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Thomas%20Kennedy%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5906261",
+      "link": "https://www.wikidata.org/wiki/Q5906261"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfppw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfppw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

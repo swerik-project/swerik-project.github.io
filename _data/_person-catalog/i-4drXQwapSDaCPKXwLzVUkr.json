@@ -1,0 +1,83 @@
+{
+  "name": "carl forssell",
+  "swerik-id": "i-4drXQwapSDaCPKXwLzVUkr",
+  "DOB": "1881-10-04",
+  "DOD": "1973-03-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "carl abraham forssell",
+    "forssell"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1930-01-01 00:00:00",
+      "end": "1937-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Abraham%20Forssell.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5737543",
+      "link": "https://www.wikidata.org/wiki/Q5737543"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "IQojCnw0WmAAAAAAAAAiTA",
+      "link": "https://portrattarkiv.se/details/IQojCnw0WmAAAAAAAAAiTA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:65645",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:65645"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMlg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMlg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgqYw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgqYw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1937"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1930",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

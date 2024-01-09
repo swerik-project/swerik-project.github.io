@@ -1,0 +1,68 @@
+{
+  "name": "emanuel björck",
+  "swerik-id": "i-9ASkBXA9k1EGNEuvr3rVgj",
+  "DOB": "1879-07-29",
+  "DOD": "1937-07-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Åsums församling",
+    "link": "http://www.wikidata.org/entity/Q10602670"
+  },
+  "place-of-death": {
+    "place": "Skodsborg",
+    "link": "http://www.wikidata.org/entity/Q7061201"
+  },
+  "alt-names": [
+    "björck",
+    "karl olof emanuel björck"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1937-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20Bj%C3%B6rck%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5577378",
+      "link": "https://www.wikidata.org/wiki/Q5577378"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpig",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpig"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1937"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1934",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

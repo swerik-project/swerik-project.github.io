@@ -1,0 +1,51 @@
+{
+  "name": "john sanden",
+  "swerik-id": "i-4MRF5EdPEcXxqZ8N1n5sCL",
+  "DOB": "1887-07-31",
+  "DOD": "1952-04-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "place-of-death": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "alt-names": [
+    "john erik sanden",
+    "sanden"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1926-01-01 00:00:00",
+      "end": "1947-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Sand%C3%A9n%201887%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6092428",
+      "link": "https://www.wikidata.org/wiki/Q6092428"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcXA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcXA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

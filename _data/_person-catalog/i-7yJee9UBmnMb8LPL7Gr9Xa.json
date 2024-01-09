@@ -1,0 +1,60 @@
+{
+  "name": "emil mörcke",
+  "swerik-id": "i-7yJee9UBmnMb8LPL7Gr9Xa",
+  "DOB": "1861-06-12",
+  "DOD": "1951-10-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Öglunda församling",
+    "link": "http://www.wikidata.org/entity/Q10727140"
+  },
+  "place-of-death": {
+    "place": "Varberg",
+    "link": "http://www.wikidata.org/entity/Q21168"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1914-08-15 00:00:00",
+      "end": "1917-03-30 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hammarskjöld",
+      "district": null
+    },
+    {
+      "start": "1914-02-16 00:00:00",
+      "end": "1914-08-15 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hammarskjöld",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20M%C3%B6rcke.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6001354",
+      "link": "https://www.wikidata.org/wiki/Q6001354"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8694",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8694"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABU3Qw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABU3Qw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

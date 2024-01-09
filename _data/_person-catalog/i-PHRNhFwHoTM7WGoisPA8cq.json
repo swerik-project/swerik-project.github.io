@@ -1,0 +1,57 @@
+{
+  "name": "hugo osvald",
+  "swerik-id": "i-PHRNhFwHoTM7WGoisPA8cq",
+  "DOB": "1892-11-21",
+  "DOD": "1970-11-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Masthuggs församling",
+    "link": "http://www.wikidata.org/entity/Q10578167"
+  },
+  "place-of-death": {
+    "place": "Knivsta församling",
+    "link": "http://www.wikidata.org/entity/Q10546691"
+  },
+  "alt-names": [
+    "karl hugo osvald",
+    "osvald"
+  ],
+  "iorter": [
+    "Knivsta",
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1948-01-01 00:00:00",
+      "end": "1963-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Osvald%201892%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5934313",
+      "link": "https://www.wikidata.org/wiki/Q5934313"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7841",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7841"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQAA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQAA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

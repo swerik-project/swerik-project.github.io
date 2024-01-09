@@ -1,0 +1,100 @@
+{
+  "name": "margareta gunsdotter hayes",
+  "swerik-id": "i-TJXJRG7PGZM8NUN9QQ1EdE",
+  "DOB": "1964-07-18",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hofors församling",
+    "link": "http://www.wikidata.org/entity/Q10525048"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "inger lindberg",
+    "margareta gunsdotter",
+    "margareta larsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2015-10-27 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2015-05-16 00:00:00",
+      "end": "2015-10-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2015-02-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2013-08-26 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2013-05-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Margareta%20Larsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4961125",
+      "link": "https://www.wikidata.org/wiki/Q4961125"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0697941234716",
+      "link": "https://data.riksdagen.se/personlista/?iid=0697941234716&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1f0d91c1-605d-4b20-9825-fb8ee5373dcb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1f0d91c1-605d-4b20-9825-fb8ee5373dcb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2015-05-16",
+      "end": "2015-10-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

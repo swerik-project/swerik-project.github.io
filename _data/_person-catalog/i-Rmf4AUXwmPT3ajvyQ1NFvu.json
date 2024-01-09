@@ -1,0 +1,68 @@
+{
+  "name": "jonas sjölund",
+  "swerik-id": "i-Rmf4AUXwmPT3ajvyQ1NFvu",
+  "DOB": "1830-07-10",
+  "DOD": "1916-01-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tuna församling",
+    "link": "http://www.wikidata.org/entity/Q10706260"
+  },
+  "place-of-death": {
+    "place": "Tuna församling",
+    "link": "http://www.wikidata.org/entity/Q10706260"
+  },
+  "alt-names": [
+    "sjölund"
+  ],
+  "iorter": [
+    "Tuna"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Medelpads västra domsagas valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1880-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Sj%C3%B6lund%201830%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6178858",
+      "link": "https://www.wikidata.org/wiki/Q6178858"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfPA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfPA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

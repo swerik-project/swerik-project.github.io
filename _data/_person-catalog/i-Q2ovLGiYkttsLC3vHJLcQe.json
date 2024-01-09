@@ -1,0 +1,91 @@
+{
+  "name": "petrus ödström",
+  "swerik-id": "i-Q2ovLGiYkttsLC3vHJLcQe",
+  "DOB": "1868-05-14",
+  "DOD": "1929-03-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gällersta församling",
+    "link": "http://www.wikidata.org/entity/Q10512297"
+  },
+  "place-of-death": {
+    "place": "Sophiahemmet",
+    "link": "http://www.wikidata.org/entity/Q10673801"
+  },
+  "alt-names": [
+    "ödström"
+  ],
+  "iorter": [
+    "Asker",
+    "Hasselby"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1929-03-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns södra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1912-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Petrus%20%C3%96dstr%C3%B6m%201868%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6256529",
+      "link": "https://www.wikidata.org/wiki/Q6256529"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsKw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsKw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc4g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc4g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1929"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1918",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "gustaf elofsson",
+  "swerik-id": "i-Qc2sE2YiifAJrwAnDQvtyx",
+  "DOB": "1897-04-05",
+  "DOD": "1971-03-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hallaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10516348"
+  },
+  "place-of-death": {
+    "place": "Vä församling",
+    "link": "http://www.wikidata.org/entity/Q10717095"
+  },
+  "alt-names": [
+    "elofsson",
+    "gustaf sanfrid elofsson"
+  ],
+  "iorter": [
+    "Vä"
+  ],
+  "positions": [
+    {
+      "start": "1940-01-01 00:00:00",
+      "end": "1967-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5620975",
+      "link": "https://www.wikidata.org/wiki/Q5620975"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpwQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpwQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

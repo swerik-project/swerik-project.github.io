@@ -1,0 +1,80 @@
+{
+  "name": "ewa hedkvist petersen",
+  "swerik-id": "i-uX5Zz8LcvPUw4Ta1Mi8zq",
+  "DOB": "1952-01-15",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Arvidsjaur",
+    "link": "http://www.wikidata.org/entity/Q1026498"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "hedkvist petersen"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4972614",
+      "link": "https://www.wikidata.org/wiki/Q4972614"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "033486567915",
+      "link": "https://data.riksdagen.se/personlista/?iid=033486567915&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ceabeb38-0df5-45ea-9431-ed3ca71fd1fd",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ceabeb38-0df5-45ea-9431-ed3ca71fd1fd"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

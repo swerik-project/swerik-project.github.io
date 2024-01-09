@@ -1,0 +1,61 @@
+{
+  "name": "jimmy gibson",
+  "swerik-id": "i-5duDRXLnwY3ksFCLttSvR5",
+  "DOB": "1858-12-26",
+  "DOD": "1932-10-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Ulricehamn",
+    "link": "http://www.wikidata.org/entity/Q27999"
+  },
+  "alt-names": [
+    "gibson",
+    "john james gibson"
+  ],
+  "iorter": [
+    "Jonsered"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sävedals härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Gibson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5864724",
+      "link": "https://www.wikidata.org/wiki/Q5864724"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13053",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13053"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSEw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSEw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:40293",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:40293"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

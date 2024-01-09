@@ -1,0 +1,58 @@
+{
+  "name": "loui bernal",
+  "swerik-id": "i-DAs5BquEp16WYyZHVFqxbu",
+  "DOB": "1961-12-11",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Hedvigs församling",
+    "link": "http://www.wikidata.org/entity/Q10602799"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1990-04-18 00:00:00",
+      "end": "1990-06-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98271301",
+      "link": "https://www.wikidata.org/wiki/Q98271301"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0957300271615",
+      "link": "https://data.riksdagen.se/personlista/?iid=0957300271615&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7637d53c-2b40-45a2-af2c-192913c4798f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7637d53c-2b40-45a2-af2c-192913c4798f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1990-04-18",
+      "end": "1990-06-13"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

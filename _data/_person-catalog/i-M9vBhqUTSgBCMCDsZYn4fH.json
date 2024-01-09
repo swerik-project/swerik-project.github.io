@@ -1,0 +1,60 @@
+{
+  "name": "göran r hedberg",
+  "swerik-id": "i-M9vBhqUTSgBCMCDsZYn4fH",
+  "DOB": "1943-05-14",
+  "DOD": "1995-12-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "S:t Görans församling",
+    "link": "http://www.wikidata.org/entity/Q10659387"
+  },
+  "place-of-death": {
+    "place": "Säbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10687867"
+  },
+  "alt-names": [
+    "göran richard hedberg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-12-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21717748",
+      "link": "https://www.wikidata.org/wiki/Q21717748"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0675602051200",
+      "link": "https://data.riksdagen.se/personlista/?iid=0675602051200&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "07fbf45d-64c1-4965-a763-4c026bc92782",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_07fbf45d-64c1-4965-a763-4c026bc92782"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1994-10-03",
+      "end": "1995-12-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

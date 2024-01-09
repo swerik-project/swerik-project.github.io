@@ -1,0 +1,59 @@
+{
+  "name": "herman carlson",
+  "swerik-id": "i-6cxJS4uq1DWpkPMe1L6f36",
+  "DOB": "1870-01-15",
+  "DOD": "1950-07-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fölene församling",
+    "link": "http://www.wikidata.org/entity/Q18290010"
+  },
+  "place-of-death": {
+    "place": "Herrljunga församling",
+    "link": "http://www.wikidata.org/entity/Q10522718"
+  },
+  "alt-names": [
+    "carlson"
+  ],
+  "iorter": [
+    "Herrljunga"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns mellersta valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vättle, Ale och Kullings domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Carlson%201870%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5602899",
+      "link": "https://www.wikidata.org/wiki/Q5602899"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZww",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZww"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

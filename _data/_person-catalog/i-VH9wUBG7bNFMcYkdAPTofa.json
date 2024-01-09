@@ -1,0 +1,56 @@
+{
+  "name": "helmer falk",
+  "swerik-id": "i-VH9wUBG7bNFMcYkdAPTofa",
+  "DOB": "1829-09-17",
+  "DOD": "1917-10-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Råda församling",
+    "link": "http://www.wikidata.org/entity/Q10602540"
+  },
+  "place-of-death": {
+    "place": "Hakarps församling",
+    "link": "http://www.wikidata.org/entity/Q10516102"
+  },
+  "alt-names": [
+    "c helmer falk",
+    "falk"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1901-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20H%20Falk%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5724137",
+      "link": "https://www.wikidata.org/wiki/Q5724137"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15049",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15049"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbzg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbzg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

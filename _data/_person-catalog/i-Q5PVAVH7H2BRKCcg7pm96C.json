@@ -1,0 +1,78 @@
+{
+  "name": "christina berlin",
+  "swerik-id": "i-Q5PVAVH7H2BRKCcg7pm96C",
+  "DOB": "1946",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "christina elisabet berlin"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2005-11-26 00:00:00",
+      "end": "2005-12-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2004-08-20 00:00:00",
+      "end": "2004-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2003-11-20 00:00:00",
+      "end": "2003-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4938749",
+      "link": "https://www.wikidata.org/wiki/Q4938749"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0668293417401",
+      "link": "https://data.riksdagen.se/personlista/?iid=0668293417401&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3489814f-1e82-4d47-aba8-0cf994c4dc64",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3489814f-1e82-4d47-aba8-0cf994c4dc64"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2005-11-26",
+      "end": "2005-12-28"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

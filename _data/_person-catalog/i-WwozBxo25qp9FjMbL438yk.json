@@ -1,0 +1,50 @@
+{
+  "name": "olof guldbrandsson",
+  "swerik-id": "i-WwozBxo25qp9FjMbL438yk",
+  "DOB": "1850-12-29",
+  "DOD": "1939-05-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Eda församling",
+    "link": "http://www.wikidata.org/entity/Q10479823"
+  },
+  "place-of-death": {
+    "place": "Eda församling",
+    "link": "http://www.wikidata.org/entity/Q10479823"
+  },
+  "alt-names": [
+    "guldbrandsson"
+  ],
+  "iorter": [
+    "Norra Ämterud"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jösse domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Guldbrandsson%201850%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5776203",
+      "link": "https://www.wikidata.org/wiki/Q5776203"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgblQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgblQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

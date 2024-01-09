@@ -1,0 +1,84 @@
+{
+  "name": "richard gustafsson",
+  "swerik-id": "i-3vCZZGnD5Z8hMVsHEQnrmE",
+  "DOB": "1840-08-11",
+  "DOD": "1918-10-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "place-of-death": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "alt-names": [
+    "gustafsson",
+    "richard alfred gustafsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1892-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Gustafsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5778040",
+      "link": "https://www.wikidata.org/wiki/Q5778040"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13314",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13314"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABikg",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABikg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:52300",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:52300"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNAg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNAg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "\"vänstern\"",
+        "party-id": "Q111597190"
+      },
+      "start": "1886",
+      "end": "1886"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

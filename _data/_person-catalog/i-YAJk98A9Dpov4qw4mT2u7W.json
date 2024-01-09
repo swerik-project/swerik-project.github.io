@@ -1,0 +1,56 @@
+{
+  "name": "leonard lindewall",
+  "swerik-id": "i-YAJk98A9Dpov4qw4mT2u7W",
+  "DOB": "1852-01-31",
+  "DOD": "1916-12-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Altuna församling",
+    "link": "http://www.wikidata.org/entity/Q10407034"
+  },
+  "place-of-death": {
+    "place": "Altuna församling",
+    "link": "http://www.wikidata.org/entity/Q10407034"
+  },
+  "alt-names": [
+    "carl leonard emanuel lindewall",
+    "lindewall"
+  ],
+  "iorter": [
+    "Flosta"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns östra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Lindewall%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5955739",
+      "link": "https://www.wikidata.org/wiki/Q5955739"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAADUFw",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAADUFw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPEg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPEg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

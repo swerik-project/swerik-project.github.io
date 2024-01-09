@@ -1,0 +1,50 @@
+{
+  "name": "georg nyblom",
+  "swerik-id": "i-JrEd2KBBm96vKhxHDyPGym",
+  "DOB": "1900-06-07",
+  "DOD": "1939-11-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "place-of-death": {
+    "place": "Tranås",
+    "link": "http://www.wikidata.org/entity/Q988403"
+  },
+  "alt-names": [
+    "nyblom"
+  ],
+  "iorter": [
+    "Hudiksvall"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1939-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Nyblom%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6019306",
+      "link": "https://www.wikidata.org/wiki/Q6019306"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOfw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOfw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

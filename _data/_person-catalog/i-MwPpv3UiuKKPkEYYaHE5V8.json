@@ -1,0 +1,43 @@
+{
+  "name": "carl johan kjellman",
+  "swerik-id": "i-MwPpv3UiuKKPkEYYaHE5V8",
+  "DOB": "1812-04-18",
+  "DOD": "1884-10-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Långaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10572520"
+  },
+  "place-of-death": {
+    "place": "Långaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10572520"
+  },
+  "alt-names": [
+    "kjellman"
+  ],
+  "iorter": [
+    "Södra Strömhult"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västbo härads valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5912269",
+      "link": "https://www.wikidata.org/wiki/Q5912269"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

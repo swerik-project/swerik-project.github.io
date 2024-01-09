@@ -1,0 +1,60 @@
+{
+  "name": "anton nilsson",
+  "swerik-id": "i-Cu3kjdTBuGU9w2XTM1QAdW",
+  "DOB": "1874-03-20",
+  "DOD": "1942-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hemmesdynge församling",
+    "link": "http://www.wikidata.org/entity/Q10521801"
+  },
+  "place-of-death": {
+    "place": "Västra Klagstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10718292"
+  },
+  "alt-names": [
+    "nils anton nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Östrabo"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1918-01-28 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Anton%20Nilsson%201874%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6009700",
+      "link": "https://www.wikidata.org/wiki/Q6009700"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRSg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRSg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

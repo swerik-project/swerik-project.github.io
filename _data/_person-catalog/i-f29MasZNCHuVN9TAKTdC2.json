@@ -1,0 +1,50 @@
+{
+  "name": "magnus ström",
+  "swerik-id": "i-f29MasZNCHuVN9TAKTdC2",
+  "DOB": "1855-07-24",
+  "DOD": "1927-03-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "place-of-death": {
+    "place": "Övertorneå församling",
+    "link": "http://www.wikidata.org/entity/Q10728680"
+  },
+  "alt-names": [
+    "ström"
+  ],
+  "iorter": [
+    "Övertorneå"
+  ],
+  "positions": [
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Torneå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Str%C3%B6m%201855%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6193144",
+      "link": "https://www.wikidata.org/wiki/Q6193144"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRVw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRVw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

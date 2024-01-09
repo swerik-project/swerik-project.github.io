@@ -1,0 +1,43 @@
+{
+  "name": "hjalmar åhman",
+  "swerik-id": "i-UbdkaWThBLeb83tF5THaPC",
+  "DOB": "1892-12-03",
+  "DOD": "1960-05-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fasterna församling",
+    "link": "http://www.wikidata.org/entity/Q10494284"
+  },
+  "place-of-death": {
+    "place": "Fasterna församling",
+    "link": "http://www.wikidata.org/entity/Q10494284"
+  },
+  "alt-names": [
+    "åhman"
+  ],
+  "iorter": [
+    "Storbol"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1960-05-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6254949",
+      "link": "https://www.wikidata.org/wiki/Q6254949"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

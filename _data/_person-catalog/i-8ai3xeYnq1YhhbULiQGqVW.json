@@ -1,0 +1,50 @@
+{
+  "name": "anders hansson",
+  "swerik-id": "i-8ai3xeYnq1YhhbULiQGqVW",
+  "DOB": "1864-04-04",
+  "DOD": "1947-12-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ravlunda församling",
+    "link": "http://www.wikidata.org/entity/Q10649998"
+  },
+  "place-of-death": {
+    "place": "Ravlunda församling",
+    "link": "http://www.wikidata.org/entity/Q10649998"
+  },
+  "alt-names": [
+    "hansson"
+  ],
+  "iorter": [
+    "Ravlunda"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1939-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Hansson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117221066",
+      "link": "https://www.wikidata.org/wiki/Q117221066"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpXw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpXw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

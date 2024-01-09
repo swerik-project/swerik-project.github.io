@@ -1,0 +1,58 @@
+{
+  "name": "anne marie ekström",
+  "swerik-id": "i-UmSX9m2mxvWevquvVduNpz",
+  "DOB": "1947",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4768084",
+      "link": "https://www.wikidata.org/wiki/Q4768084"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0730984957305",
+      "link": "https://data.riksdagen.se/personlista/?iid=0730984957305&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "54867cd2-bc5e-4a68-9243-7da5a0419234",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_54867cd2-bc5e-4a68-9243-7da5a0419234"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2002-09-30",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

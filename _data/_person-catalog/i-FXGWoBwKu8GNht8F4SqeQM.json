@@ -1,0 +1,58 @@
+{
+  "name": "inger gustavsson",
+  "swerik-id": "i-FXGWoBwKu8GNht8F4SqeQM",
+  "DOB": "1940",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1992-11-15 00:00:00",
+      "end": "1992-12-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4951586",
+      "link": "https://www.wikidata.org/wiki/Q4951586"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0123651227008",
+      "link": "https://data.riksdagen.se/personlista/?iid=0123651227008&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e6709fd1-7342-4485-a84a-42ca113d930f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e6709fd1-7342-4485-a84a-42ca113d930f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1992-11-15",
+      "end": "1992-12-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

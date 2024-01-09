@@ -1,0 +1,86 @@
+{
+  "name": "eric olsson",
+  "swerik-id": "i-GPGKuyuyCh2R5ssz7JdRg3",
+  "DOB": "1816-02-05",
+  "DOD": "1905-04-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kumla",
+    "link": "http://www.wikidata.org/entity/Q725826"
+  },
+  "place-of-death": {
+    "place": "Kumla",
+    "link": "http://www.wikidata.org/entity/Q725826"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Sånnersta"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kumla och Sundbo häraders valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kumla och Sundbo häraders valkrets"
+    },
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kumla och Sundbo häraders valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kumla och Sundbo häraders valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kumla och Sundbo häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Olsson%201816%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026789",
+      "link": "https://www.wikidata.org/wiki/Q6026789"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsPg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsPg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

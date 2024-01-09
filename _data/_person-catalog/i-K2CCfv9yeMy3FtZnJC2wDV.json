@@ -1,0 +1,84 @@
+{
+  "name": "adolf janson",
+  "swerik-id": "i-K2CCfv9yeMy3FtZnJC2wDV",
+  "DOB": "1860-08-19",
+  "DOD": "1924-03-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fellingsbro församling",
+    "link": "http://www.wikidata.org/entity/Q10494562"
+  },
+  "place-of-death": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "alt-names": [
+    "adolf fredrik janson",
+    "janson"
+  ],
+  "iorter": [
+    "Bråten",
+    "Kungsör"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-03-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns västra valkrets"
+    },
+    {
+      "start": "1903-03-29 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns västra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Janson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5828321",
+      "link": "https://www.wikidata.org/wiki/Q5828321"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNVAA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNVAA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPYg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPYg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1903",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

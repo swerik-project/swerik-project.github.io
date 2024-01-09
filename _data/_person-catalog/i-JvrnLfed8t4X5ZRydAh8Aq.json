@@ -1,0 +1,62 @@
+{
+  "name": "eva ryden",
+  "swerik-id": "i-JvrnLfed8t4X5ZRydAh8Aq",
+  "DOB": "1948",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ryden"
+  ],
+  "iorter": [
+    "Björketorp"
+  ],
+  "positions": [
+    {
+      "start": "1987-11-01 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21694229",
+      "link": "https://www.wikidata.org/wiki/Q21694229"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0207544889903",
+      "link": "https://data.riksdagen.se/personlista/?iid=0207544889903&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7f7cc82-4467-4072-bdf1-ecd660e5a0fc",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7f7cc82-4467-4072-bdf1-ecd660e5a0fc"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1987-11-01",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

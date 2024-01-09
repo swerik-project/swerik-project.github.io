@@ -1,0 +1,58 @@
+{
+  "name": "emmanuel morfiadakis",
+  "swerik-id": "i-UJzgRSAzJy5gFUvqpeS8af",
+  "DOB": "1937",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1985-10-15 00:00:00",
+      "end": "1985-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q109882267",
+      "link": "https://www.wikidata.org/wiki/Q109882267"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0504070018507",
+      "link": "https://data.riksdagen.se/personlista/?iid=0504070018507&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "dc959d9b-edc2-41c4-a382-7f4c5533ccf7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_dc959d9b-edc2-41c4-a382-7f4c5533ccf7"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1985-10-15",
+      "end": "1985-11-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

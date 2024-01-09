@@ -1,0 +1,88 @@
+{
+  "name": "eva åsbrink",
+  "swerik-id": "i-PsR4X3jWbHud6ENpkwns5v",
+  "DOB": "1912-09-30",
+  "DOD": "2001-12-11",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Helsingfors",
+    "link": "http://www.wikidata.org/entity/Q1757"
+  },
+  "place-of-death": {
+    "place": "Skara domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669757"
+  },
+  "alt-names": [
+    "eva margareta theodora åsbrink",
+    "åsbrink"
+  ],
+  "iorter": [
+    "Skara"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20%C3%85sbrink.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4991077",
+      "link": "https://www.wikidata.org/wiki/Q4991077"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgerg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgerg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45639",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45639"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "xnPIH5lXePAAAAAAAAAO8w",
+      "link": "https://portrattarkiv.se/details/xnPIH5lXePAAAAAAAAAO8w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

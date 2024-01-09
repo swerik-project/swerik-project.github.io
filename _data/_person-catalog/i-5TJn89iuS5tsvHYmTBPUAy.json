@@ -1,0 +1,49 @@
+{
+  "name": "erik nordkvist",
+  "swerik-id": "i-5TJn89iuS5tsvHYmTBPUAy",
+  "DOB": "1889-10-04",
+  "DOD": "1932-12-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "erik bernhard nordkvist",
+    "nordkvist"
+  ],
+  "iorter": [
+    "Skara"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117286191",
+      "link": "https://www.wikidata.org/wiki/Q117286191"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeeA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeeA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

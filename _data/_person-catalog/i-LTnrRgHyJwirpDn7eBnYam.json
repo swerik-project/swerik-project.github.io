@@ -1,0 +1,104 @@
+{
+  "name": "johan thyren",
+  "swerik-id": "i-LTnrRgHyJwirpDn7eBnYam",
+  "DOB": "1861-04-06",
+  "DOD": "1933-05-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lund",
+    "link": "http://www.wikidata.org/entity/Q2167"
+  },
+  "place-of-death": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "alt-names": [
+    "johan carl wilhelm thyren",
+    "thyren"
+  ],
+  "iorter": [
+    "Lund"
+  ],
+  "positions": [
+    {
+      "start": "1926-06-07 00:00:00",
+      "end": "1928-10-02 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ekman I",
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-01-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Lunds valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20C%20W%20Thyr%C3%A9n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6210181",
+      "link": "https://www.wikidata.org/wiki/Q6210181"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOEg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOEg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:9330",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:9330"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACYpbg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACYpbg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1916",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1915",
+      "end": "1915"
+    },
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1909",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

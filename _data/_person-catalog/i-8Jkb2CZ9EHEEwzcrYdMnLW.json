@@ -1,0 +1,50 @@
+{
+  "name": "fredrik åkerblom",
+  "swerik-id": "i-8Jkb2CZ9EHEEwzcrYdMnLW",
+  "DOB": "1839-06-13",
+  "DOD": "1901-09-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "åkerblom"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Akerblom.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255102",
+      "link": "https://www.wikidata.org/wiki/Q6255102"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkSw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkSw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

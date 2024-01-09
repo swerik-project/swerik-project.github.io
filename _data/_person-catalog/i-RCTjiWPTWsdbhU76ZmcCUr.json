@@ -1,0 +1,99 @@
+{
+  "name": "rune backlund",
+  "swerik-id": "i-RCTjiWPTWsdbhU76ZmcCUr",
+  "DOB": "1951-12-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Visingsö församling",
+    "link": "http://www.wikidata.org/entity/Q10716099"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "backlund",
+    "rune david torsten backlund"
+  ],
+  "iorter": [
+    "Visingsö"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5563599",
+      "link": "https://www.wikidata.org/wiki/Q5563599"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0314386385815",
+      "link": "https://data.riksdagen.se/personlista/?iid=0314386385815&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "cdafb6d8-14fb-4b52-83c7-18cc9b7ecc67",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_cdafb6d8-14fb-4b52-83c7-18cc9b7ecc67"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1994-10-03",
+      "end": "1995-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

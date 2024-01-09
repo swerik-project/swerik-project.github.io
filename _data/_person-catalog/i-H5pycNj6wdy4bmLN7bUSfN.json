@@ -1,0 +1,56 @@
+{
+  "name": "lars bratt",
+  "swerik-id": "i-H5pycNj6wdy4bmLN7bUSfN",
+  "DOB": "1824-12-28",
+  "DOD": "1898-05-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Carl Johans församling",
+    "link": "http://www.wikidata.org/entity/Q10512805"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "bratt",
+    "lars gustaf bratt"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1884-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Bratt%201824%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5585291",
+      "link": "https://www.wikidata.org/wiki/Q5585291"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSFQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSFQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:48558",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:48558"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,183 @@
+{
+  "name": "ingemund bengtsson",
+  "swerik-id": "i-PiA69Zron44x5fF1pHdUBo",
+  "DOB": "1919-01-30",
+  "DOD": "2000-04-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Veddige",
+    "link": "http://www.wikidata.org/entity/Q596567"
+  },
+  "place-of-death": {
+    "place": "Varberg",
+    "link": "http://www.wikidata.org/entity/Q21168"
+  },
+  "alt-names": [
+    "bengtsson",
+    "sten bertil ingemund bengtsson"
+  ],
+  "iorter": [
+    "Varberg"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "talman",
+      "source": "speaker",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1974-01-01 00:00:00",
+      "end": "1976-10-08 00:00:00",
+      "role": "arbetsmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1973-11-03 00:00:00",
+      "end": "1973-12-31 00:00:00",
+      "role": "inrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1969-10-14 00:00:00",
+      "end": "1973-11-03 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1969-01-25 00:00:00",
+      "end": "1973-11-02 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1969-01-25 00:00:00",
+      "end": "1973-11-02 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1951-03-27 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ingemund-Bengtsson-former-speaker-S-politician-Vintage-photo-352359622918.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q707581",
+      "link": "https://www.wikidata.org/wiki/Q707581"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "033722755191",
+      "link": "https://data.riksdagen.se/personlista/?iid=033722755191&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "287c5900-cfb3-45c9-8a2c-19f57be0dbe7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_287c5900-cfb3-45c9-8a2c-19f57be0dbe7"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABUCzA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABUCzA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfntw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfntw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "ragnar sveningsson",
+  "swerik-id": "i-PUU7m4zHNmgsoCo9JZxuNX",
+  "DOB": "1906-08-10",
+  "DOD": "1974-02-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tranemo församling",
+    "link": "http://www.wikidata.org/entity/Q10701265"
+  },
+  "place-of-death": {
+    "place": "Tranemo församling",
+    "link": "http://www.wikidata.org/entity/Q10701265"
+  },
+  "alt-names": [
+    "nils ragnar sveningsson",
+    "sveningsson"
+  ],
+  "iorter": [
+    "Hässelås"
+  ],
+  "positions": [
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1956-10-18 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns södra valkrets"
+    },
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ragnar%20Sveningsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6197962",
+      "link": "https://www.wikidata.org/wiki/Q6197962"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZ5w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ5w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

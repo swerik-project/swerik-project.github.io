@@ -1,0 +1,80 @@
+{
+  "name": "göran åstrand",
+  "swerik-id": "i-V3cJeoPL42ScwovV1Zu9Ko",
+  "DOB": "1931",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "åstrand"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1988-04-05 00:00:00",
+      "end": "1988-06-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255984",
+      "link": "https://www.wikidata.org/wiki/Q6255984"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0653617472000",
+      "link": "https://data.riksdagen.se/personlista/?iid=0653617472000&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a4a040d3-3e5f-4662-ac21-3c97a74c6de1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a4a040d3-3e5f-4662-ac21-3c97a74c6de1"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

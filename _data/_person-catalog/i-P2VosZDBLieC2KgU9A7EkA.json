@@ -1,0 +1,52 @@
+{
+  "name": "torsten sandberg",
+  "swerik-id": "i-P2VosZDBLieC2KgU9A7EkA",
+  "DOB": "1940-07-26",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sandberg"
+  ],
+  "iorter": [
+    "Nyköping"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-11 00:00:00",
+      "end": "1978-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98556473",
+      "link": "https://www.wikidata.org/wiki/Q98556473"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1976-10-11",
+      "end": "1978-10-17"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

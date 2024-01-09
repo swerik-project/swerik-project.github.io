@@ -1,0 +1,78 @@
+{
+  "name": "edvard behmer",
+  "swerik-id": "i-Lv2mbFpp5G81TKnVc9w9nC",
+  "DOB": "1839-11-26",
+  "DOD": "1911-09-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Norrtälje församling",
+    "link": "http://www.wikidata.org/entity/Q10602963"
+  },
+  "alt-names": [
+    "behmer",
+    "johan edvard behmer"
+  ],
+  "iorter": [
+    "Norrtälje"
+  ],
+  "positions": [
+    {
+      "start": "1895-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertälje, Norrtälje, Vaxholms, Öregrunds, Östhammars och Sigtuna valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Enköpings, Södertälje, Norrtälje, Vaxholms, Öregrunds, Östhammars och Sigtuna valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertälje, Norrtälje, Vaxholms, Öregrunds, Östhammars och Sigtuna valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Behmer%201839%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5568860",
+      "link": "https://www.wikidata.org/wiki/Q5568860"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeng"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

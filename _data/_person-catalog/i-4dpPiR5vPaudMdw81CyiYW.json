@@ -1,0 +1,55 @@
+{
+  "name": "wilhelm nils andreas lindahl",
+  "swerik-id": "i-4dpPiR5vPaudMdw81CyiYW",
+  "DOB": "1825-09-16",
+  "DOD": "1909-12-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlshamns församling",
+    "link": "http://www.wikidata.org/entity/Q10543836"
+  },
+  "place-of-death": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "alt-names": [
+    "lindahl"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1881-01-01 00:00:00",
+      "end": "1892-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Nils%20Andreas%20Lindahl.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5953262",
+      "link": "https://www.wikidata.org/wiki/Q5953262"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAABAXg",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAABAXg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQag",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQag"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

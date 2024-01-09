@@ -1,0 +1,85 @@
+{
+  "name": "lotta olsson",
+  "swerik-id": "i-5pt7V9L88gFuC3UA5MjoNb",
+  "DOB": "1960-09-16",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Örebro",
+    "link": "http://www.wikidata.org/entity/Q25732"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2013-02-01 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2012-03-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4971184",
+      "link": "https://www.wikidata.org/wiki/Q4971184"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "066769783310",
+      "link": "https://data.riksdagen.se/personlista/?iid=066769783310&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "acbfe365-7ddb-44db-b076-105b2b9b689a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_acbfe365-7ddb-44db-b076-105b2b9b689a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

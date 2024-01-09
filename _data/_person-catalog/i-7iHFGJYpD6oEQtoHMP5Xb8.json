@@ -1,0 +1,58 @@
+{
+  "name": "ronny karlsson",
+  "swerik-id": "i-7iHFGJYpD6oEQtoHMP5Xb8",
+  "DOB": "1943",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1991-11-09 00:00:00",
+      "end": "1991-12-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5902061",
+      "link": "https://www.wikidata.org/wiki/Q5902061"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0410542963401",
+      "link": "https://data.riksdagen.se/personlista/?iid=0410542963401&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "222bc44f-275d-453f-984f-348188b4c870",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_222bc44f-275d-453f-984f-348188b4c870"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1991-11-09",
+      "end": "1991-12-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "gustaf gustafsson",
+  "swerik-id": "i-K2iWUZui69Tfk1JV7Bae8C",
+  "DOB": "1856-01-01",
+  "DOD": "1926-05-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västermo församling",
+    "link": "http://www.wikidata.org/entity/Q10717990"
+  },
+  "place-of-death": {
+    "place": "Eskilstuna",
+    "link": "http://www.wikidata.org/entity/Q26498"
+  },
+  "alt-names": [
+    "gustafsson"
+  ],
+  "iorter": [
+    "Vi"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns norra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Väster- och Öster-Rekarne häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Gustafsson%201856%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5777681",
+      "link": "https://www.wikidata.org/wiki/Q5777681"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPkw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPkw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

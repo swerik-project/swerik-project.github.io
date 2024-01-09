@@ -1,0 +1,64 @@
+{
+  "name": "erik mauritz sundell",
+  "swerik-id": "i-LU2PseUB6cegt9GsZXW6dy",
+  "DOB": "1819-11-25",
+  "DOD": "1896-05-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nora",
+    "link": "http://www.wikidata.org/entity/Q83679"
+  },
+  "place-of-death": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "alt-names": [
+    "sundell"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mauritz%20Sundell%201819%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6195850",
+      "link": "https://www.wikidata.org/wiki/Q6195850"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACTdA",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACTdA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbxg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbxg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

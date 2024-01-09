@@ -1,0 +1,50 @@
+{
+  "name": "axel nilsson",
+  "swerik-id": "i-ViLM27YGJ7AVyK2PGCtxyS",
+  "DOB": "1882-03-10",
+  "DOD": "1961-07-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Trankils församling",
+    "link": "http://www.wikidata.org/entity/Q10701271"
+  },
+  "place-of-death": {
+    "place": "Årjäng",
+    "link": "http://www.wikidata.org/entity/Q271180"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Lennartsfors"
+  ],
+  "positions": [
+    {
+      "start": "1943-07-31 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Nilsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6009745",
+      "link": "https://www.wikidata.org/wiki/Q6009745"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcLg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcLg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

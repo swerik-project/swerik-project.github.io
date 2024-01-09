@@ -1,0 +1,80 @@
+{
+  "name": "axel gustaf adlercreutz",
+  "swerik-id": "i-2bVVLzWvNsURiiwq5jSQS9",
+  "DOB": "1821-03-02",
+  "DOD": "1880-05-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skara landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669760"
+  },
+  "place-of-death": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "alt-names": [
+    "adlercreutz",
+    "axel aldercreutz"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1877-01-01 00:00:00",
+      "end": "1880-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "1868-01-01 00:00:00",
+      "end": "1870-06-03 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Adlercreutz%20%281821-1880%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q791977",
+      "link": "https://www.wikidata.org/wiki/Q791977"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5547",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5547"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4Phg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4Phg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28831",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28831"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABHOZg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABHOZg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO7Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO7Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

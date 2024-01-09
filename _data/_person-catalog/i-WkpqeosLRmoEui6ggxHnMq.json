@@ -1,0 +1,58 @@
+{
+  "name": "mona ritzen",
+  "swerik-id": "i-WkpqeosLRmoEui6ggxHnMq",
+  "DOB": "1951-10-06",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1995-12-18 00:00:00",
+      "end": "1995-12-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96323903",
+      "link": "https://www.wikidata.org/wiki/Q96323903"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0639286102314",
+      "link": "https://data.riksdagen.se/personlista/?iid=0639286102314&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9905533f-8bab-4bfb-a119-bf34eb0d37b7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9905533f-8bab-4bfb-a119-bf34eb0d37b7"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1995-12-18",
+      "end": "1995-12-19"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

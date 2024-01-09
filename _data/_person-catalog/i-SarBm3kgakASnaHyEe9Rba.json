@@ -1,0 +1,63 @@
+{
+  "name": "disa västberg",
+  "swerik-id": "i-SarBm3kgakASnaHyEe9Rba",
+  "DOB": "1891-05-17",
+  "DOD": "1966-08-25",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Njurunda församling",
+    "link": "http://www.wikidata.org/entity/Q10601458"
+  },
+  "place-of-death": {
+    "place": "Högalids församling",
+    "link": "http://www.wikidata.org/entity/Q10532196"
+  },
+  "alt-names": [
+    "disa",
+    "rebecka desideria disa västberg",
+    "rebecka desideria västberg",
+    "västberg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Disa%20V%C3%A4stberg.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4984930",
+      "link": "https://www.wikidata.org/wiki/Q4984930"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "88fEYD5OMjAAAAAAAAAIWg",
+      "link": "https://portrattarkiv.se/details/88fEYD5OMjAAAAAAAAAIWg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45549",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45549"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNbg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNbg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

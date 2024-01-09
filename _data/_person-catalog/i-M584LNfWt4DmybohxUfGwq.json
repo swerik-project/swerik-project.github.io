@@ -1,0 +1,59 @@
+{
+  "name": "sven romanus",
+  "swerik-id": "i-M584LNfWt4DmybohxUfGwq",
+  "DOB": "1906-01-19",
+  "DOD": "2005-04-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "place-of-death": {
+    "place": "Högalids församling",
+    "link": "http://www.wikidata.org/entity/Q10532196"
+  },
+  "alt-names": [
+    "sven einar romanus"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6077653",
+      "link": "https://www.wikidata.org/wiki/Q6077653"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

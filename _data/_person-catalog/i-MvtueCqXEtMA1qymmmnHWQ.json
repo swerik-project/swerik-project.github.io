@@ -1,0 +1,78 @@
+{
+  "name": "lena asplund",
+  "swerik-id": "i-MvtueCqXEtMA1qymmmnHWQ",
+  "DOB": "1956-10-10",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Motala församling",
+    "link": "http://www.wikidata.org/entity/Q10589633"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lena%20Asplund%2001.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4987091",
+      "link": "https://www.wikidata.org/wiki/Q4987091"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "088028607414",
+      "link": "https://data.riksdagen.se/personlista/?iid=088028607414&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "6fd2908a-7d39-426c-abd6-43287e3882f9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_6fd2908a-7d39-426c-abd6-43287e3882f9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

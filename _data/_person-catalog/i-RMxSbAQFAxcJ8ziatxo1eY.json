@@ -1,0 +1,58 @@
+{
+  "name": "karl söderdahl",
+  "swerik-id": "i-RMxSbAQFAxcJ8ziatxo1eY",
+  "DOB": "1882-03-30",
+  "DOD": "1948-05-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Visby domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10716051"
+  },
+  "place-of-death": {
+    "place": "Visby domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10716051"
+  },
+  "alt-names": [
+    "karl fredrik söderdahl",
+    "söderdahl"
+  ],
+  "iorter": [
+    "Visby"
+  ],
+  "positions": [
+    {
+      "start": "1943-11-18 00:00:00",
+      "end": "1948-05-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    },
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1943-11-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6201867",
+      "link": "https://www.wikidata.org/wiki/Q6201867"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRtw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRtw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "herbert hermansson",
+  "swerik-id": "i-UCYvi6iBMAeLh1SyARGC1i",
+  "DOB": "1906-02-06",
+  "DOD": "1984-10-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10430660"
+  },
+  "place-of-death": {
+    "place": "Björlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10430660"
+  },
+  "alt-names": [
+    "herbert eugene hermansson",
+    "hermansson"
+  ],
+  "iorter": [
+    "Kvistljungby"
+  ],
+  "positions": [
+    {
+      "start": "1950-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5734425",
+      "link": "https://www.wikidata.org/wiki/Q5734425"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

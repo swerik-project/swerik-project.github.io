@@ -1,0 +1,51 @@
+{
+  "name": "magnus nilsson",
+  "swerik-id": "i-4e5U4oBYbZ63VNYYZLyLPD",
+  "DOB": "1891-10-01",
+  "DOD": "1960-08-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "johan magnus nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Varuträsk"
+  ],
+  "positions": [
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Nilsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011123",
+      "link": "https://www.wikidata.org/wiki/Q6011123"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfiiw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfiiw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

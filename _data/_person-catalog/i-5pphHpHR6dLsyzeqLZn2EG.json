@@ -1,0 +1,51 @@
+{
+  "name": "erik testrup",
+  "swerik-id": "i-5pphHpHR6dLsyzeqLZn2EG",
+  "DOB": "1878-09-14",
+  "DOD": "1972-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landskrona församling",
+    "link": "http://www.wikidata.org/entity/Q10553938"
+  },
+  "place-of-death": {
+    "place": "Högalids församling",
+    "link": "http://www.wikidata.org/entity/Q10532196"
+  },
+  "alt-names": [
+    "erik mathias hjalmar gustafsson testrup",
+    "testrup"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1929-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mathias%20Hjalmar%20Gustafsson%20Testrup.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6206558",
+      "link": "https://www.wikidata.org/wiki/Q6206558"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNgw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNgw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

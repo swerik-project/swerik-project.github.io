@@ -1,0 +1,55 @@
+{
+  "name": "josua hezekiel kjellgren",
+  "swerik-id": "i-RuUYnTisfnXPDL3JaSvEKP",
+  "DOB": "1838-08-29",
+  "DOD": "1901-02-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Dagsås församling",
+    "link": "http://www.wikidata.org/entity/Q10465963"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "kjellgren"
+  ],
+  "iorter": [
+    "Reijmyre"
+  ],
+  "positions": [
+    {
+      "start": "1899-01-01 00:00:00",
+      "end": "1901-02-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Josua%20H%C3%A5kan%20Kjellgren%20Svenska%20industriens%20m%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5912185",
+      "link": "https://www.wikidata.org/wiki/Q5912185"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11542",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11542"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgacA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgacA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

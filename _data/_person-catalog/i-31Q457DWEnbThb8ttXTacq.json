@@ -1,0 +1,76 @@
+{
+  "name": "nils holmström",
+  "swerik-id": "i-31Q457DWEnbThb8ttXTacq",
+  "DOB": "1884-06-28",
+  "DOD": "1949-05-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bollnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10432594"
+  },
+  "place-of-death": {
+    "place": "Helga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10519481"
+  },
+  "alt-names": [
+    "holmström"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Holmstr%C3%B6m%201884%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5812181",
+      "link": "https://www.wikidata.org/wiki/Q5812181"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOkg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOkg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1948"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1922",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

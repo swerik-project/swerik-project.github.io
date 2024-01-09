@@ -1,0 +1,78 @@
+{
+  "name": "abraham halef",
+  "swerik-id": "i-C42HYWXtX9Sq2Aq83rz3ZE",
+  "DOB": "1992-04-13",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-06-28 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-02-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2020-08-01 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Halef.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97971343",
+      "link": "https://www.wikidata.org/wiki/Q97971343"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0488332307829",
+      "link": "https://data.riksdagen.se/personlista/?iid=0488332307829&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "4f8c750f-e0e5-4011-bfda-31a41f4b5996",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_4f8c750f-e0e5-4011-bfda-31a41f4b5996"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-06-28",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

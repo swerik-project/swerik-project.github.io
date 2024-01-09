@@ -1,0 +1,51 @@
+{
+  "name": "sigurd loven",
+  "swerik-id": "i-Bnz3CtyDuUKaUuyY26aPwP",
+  "DOB": "1849-02-02",
+  "DOD": "1888-04-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholms stad",
+    "link": "http://www.wikidata.org/entity/Q10680648"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "loven",
+    "pehr sigurd loven"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Pehr%20Sigurd%20Lov%C3%A9n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5964342",
+      "link": "https://www.wikidata.org/wiki/Q5964342"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAACFDQ",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAACFDQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

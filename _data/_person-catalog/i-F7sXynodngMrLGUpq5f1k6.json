@@ -1,0 +1,66 @@
+{
+  "name": "georg bissmark",
+  "swerik-id": "i-F7sXynodngMrLGUpq5f1k6",
+  "DOB": "1871-02-07",
+  "DOD": "1941-12-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Halmstad",
+    "link": "http://www.wikidata.org/entity/Q26521"
+  },
+  "place-of-death": {
+    "place": "Halmstad",
+    "link": "http://www.wikidata.org/entity/Q26521"
+  },
+  "alt-names": [
+    "bissmark",
+    "georg fredrik bissmarck",
+    "georg fredrik bissmark"
+  ],
+  "iorter": [
+    "Halmstad"
+  ],
+  "positions": [
+    {
+      "start": "1928-10-02 00:00:00",
+      "end": "1930-06-07 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman II",
+      "district": null
+    },
+    {
+      "start": "1927-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Justmin%20Georg%20Bissmark%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5576869",
+      "link": "https://www.wikidata.org/wiki/Q5576869"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnuA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnuA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37418",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37418"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

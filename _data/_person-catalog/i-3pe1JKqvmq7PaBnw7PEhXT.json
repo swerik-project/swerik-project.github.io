@@ -1,0 +1,52 @@
+{
+  "name": "eric josef ericsson",
+  "swerik-id": "i-3pe1JKqvmq7PaBnw7PEhXT",
+  "DOB": "1877-06-25",
+  "DOD": "1960-04-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skedevi församling",
+    "link": "http://www.wikidata.org/entity/Q10669919"
+  },
+  "place-of-death": {
+    "place": "Linköping",
+    "link": "http://www.wikidata.org/entity/Q25413"
+  },
+  "alt-names": [
+    "eric josef natanael ericsson",
+    "ericsson",
+    "erik josef ericsson"
+  ],
+  "iorter": [
+    "Åtvidaberg"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Josef%20Ericsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16649189",
+      "link": "https://www.wikidata.org/wiki/Q16649189"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgajg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgajg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "olof larsson",
+  "swerik-id": "i-LqAFEW7ec8s3xEM1Kstnpx",
+  "DOB": "1840-12-09",
+  "DOD": "1910-11-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rödöns församling",
+    "link": "http://www.wikidata.org/entity/Q10658964"
+  },
+  "place-of-death": {
+    "place": "Östersund",
+    "link": "http://www.wikidata.org/entity/Q26515"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Häste",
+    "Rödön"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ragunda, Revsunds, Brunflo och Rödöns tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Larsson%20R%C3%B6d%C3%B6n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938418",
+      "link": "https://www.wikidata.org/wiki/Q5938418"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAAngA",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAAngA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRBQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRBQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

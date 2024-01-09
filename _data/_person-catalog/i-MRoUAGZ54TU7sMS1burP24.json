@@ -1,0 +1,70 @@
+{
+  "name": "pontus andersson garpvall",
+  "swerik-id": "i-MRoUAGZ54TU7sMS1burP24",
+  "DOB": "1992-09-02",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kvistofta församling",
+    "link": "http://www.wikidata.org/entity/Q18291538"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lars pontus andersson",
+    "pontus andersson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2021-12-17 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q19976333",
+      "link": "https://www.wikidata.org/wiki/Q19976333"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0926002991620",
+      "link": "https://data.riksdagen.se/personlista/?iid=0926002991620&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "cec98313-41c4-4274-993a-939aa4859766",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_cec98313-41c4-4274-993a-939aa4859766"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2021-12-17",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

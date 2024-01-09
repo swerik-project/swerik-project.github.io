@@ -1,0 +1,62 @@
+{
+  "name": "gustaf nilsson",
+  "swerik-id": "i-YSiiSuJqBLt4dhLxm7iu93",
+  "DOB": "1900-09-23",
+  "DOD": "1977-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristinehamns församling",
+    "link": "http://www.wikidata.org/entity/Q10549260"
+  },
+  "place-of-death": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "alt-names": [
+    "gustaf valdemar nilsson",
+    "gustaf waldemar nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Karlstad",
+    "Kristinehamn"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1957-12-31 00:00:00",
+      "role": "talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1957-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Nilsson%20SPA10.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010330",
+      "link": "https://www.wikidata.org/wiki/Q6010330"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcSw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcSw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

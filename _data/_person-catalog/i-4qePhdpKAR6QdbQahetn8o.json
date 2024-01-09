@@ -1,0 +1,87 @@
+{
+  "name": "theodor carlheim gyllensköld",
+  "swerik-id": "i-4qePhdpKAR6QdbQahetn8o",
+  "DOB": "1835-02-26",
+  "DOD": "1909-07-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Våxtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10718954"
+  },
+  "place-of-death": {
+    "place": "Våxtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10718954"
+  },
+  "alt-names": [
+    "adolf theodor carlheim gyllensköld",
+    "carlheim gyllensköld"
+  ],
+  "iorter": [
+    "Vallen"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1881-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Carlheim-Gyllensk%C3%B6ld%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5602664",
+      "link": "https://www.wikidata.org/wiki/Q5602664"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16412",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16412"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfntA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfntA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:63484",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63484"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1903",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1900",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

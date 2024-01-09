@@ -1,0 +1,162 @@
+{
+  "name": "theodor odelberg",
+  "swerik-id": "i-2b1P9oc6jJ6GnNxViy4qgD",
+  "DOB": "1847-12-21",
+  "DOD": "1938-02-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Brännkyrka församling",
+    "link": "http://www.wikidata.org/entity/Q10436974"
+  },
+  "place-of-death": {
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
+  },
+  "alt-names": [
+    "albrecht theodor odelberg",
+    "odelberg"
+  ],
+  "iorter": [
+    "Enskede"
+  ],
+  "positions": [
+    {
+      "start": "1916-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1905-04-14 00:00:00",
+      "end": "1905-08-02 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ramstedt",
+      "district": null
+    },
+    {
+      "start": "1902-07-05 00:00:00",
+      "end": "1905-04-13 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström II",
+      "district": null
+    },
+    {
+      "start": "1900-03-31 00:00:00",
+      "end": "1900-09-12 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1900-03-31 00:00:00",
+      "end": "1905-08-02 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1900-03-31 00:00:00",
+      "end": "1905-08-02 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström II",
+      "district": null
+    },
+    {
+      "start": "1900-03-31 00:00:00",
+      "end": "1905-08-02 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ramstedt",
+      "district": null
+    },
+    {
+      "start": "1900-03-31 00:00:00",
+      "end": "1905-08-02 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen von Otter",
+      "district": null
+    },
+    {
+      "start": "1892-10-17 00:00:00",
+      "end": "1910-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20Theodor%20Odelberg%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6022267",
+      "link": "https://www.wikidata.org/wiki/Q6022267"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7614",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7614"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAA1OQ",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAA1OQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1892",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

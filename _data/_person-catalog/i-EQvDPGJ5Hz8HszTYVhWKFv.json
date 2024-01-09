@@ -1,0 +1,43 @@
+{
+  "name": "lars larsson",
+  "swerik-id": "i-EQvDPGJ5Hz8HszTYVhWKFv",
+  "DOB": "1842-04-13",
+  "DOD": "1922-03-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nordmarks församling",
+    "link": "http://www.wikidata.org/entity/Q10602200"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Bredsjö"
+  ],
+  "positions": [
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5937992",
+      "link": "https://www.wikidata.org/wiki/Q5937992"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "karl johan karlsson",
+  "swerik-id": "i-Fwtr41iSkotzGb54DXogUy",
+  "DOB": "1887-01-10",
+  "DOD": "1959-05-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Idenors församling",
+    "link": "http://www.wikidata.org/entity/Q10533556"
+  },
+  "place-of-death": {
+    "place": "Sandvikens församling",
+    "link": "http://www.wikidata.org/entity/Q10661257"
+  },
+  "alt-names": [
+    "karlsson"
+  ],
+  "iorter": [
+    "Sandviken"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gästriklands valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5901692",
+      "link": "https://www.wikidata.org/wiki/Q5901692"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOdw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOdw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

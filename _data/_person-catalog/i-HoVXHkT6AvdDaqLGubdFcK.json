@@ -1,0 +1,51 @@
+{
+  "name": "gustaf fahlander",
+  "swerik-id": "i-HoVXHkT6AvdDaqLGubdFcK",
+  "DOB": "1892-05-01",
+  "DOD": "1973-02-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljusdals församling",
+    "link": "http://www.wikidata.org/entity/Q10568421"
+  },
+  "place-of-death": {
+    "place": "Eskilstuna Klosters församling",
+    "link": "http://www.wikidata.org/entity/Q10489083"
+  },
+  "alt-names": [
+    "fahlander",
+    "gustaf ragnar fahlander"
+  ],
+  "iorter": [
+    "Eskilstuna"
+  ],
+  "positions": [
+    {
+      "start": "1942-06-17 00:00:00",
+      "end": "1963-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Fahlander%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5723076",
+      "link": "https://www.wikidata.org/wiki/Q5723076"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP0w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP0w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

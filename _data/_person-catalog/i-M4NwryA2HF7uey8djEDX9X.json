@@ -1,0 +1,51 @@
+{
+  "name": "helmer holmberg",
+  "swerik-id": "i-M4NwryA2HF7uey8djEDX9X",
+  "DOB": "1901-10-10",
+  "DOD": "1979-07-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Brunflo församling",
+    "link": "http://www.wikidata.org/entity/Q10436351"
+  },
+  "place-of-death": {
+    "place": "Norra Vi församling",
+    "link": "http://www.wikidata.org/entity/Q10602607"
+  },
+  "alt-names": [
+    "holmberg",
+    "jonas helmer holmberg"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1966-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Helmer%20Holmberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5810894",
+      "link": "https://www.wikidata.org/wiki/Q5810894"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRhg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRhg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

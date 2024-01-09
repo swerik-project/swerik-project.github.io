@@ -1,0 +1,51 @@
+{
+  "name": "christian sjögreen",
+  "swerik-id": "i-XMH1uy2UiPxnFUVo56mQbp",
+  "DOB": "1830-07-25",
+  "DOD": "1882-11-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hults församling",
+    "link": "http://www.wikidata.org/entity/Q10526992"
+  },
+  "place-of-death": {
+    "place": "Linköping",
+    "link": "http://www.wikidata.org/entity/Q25413"
+  },
+  "alt-names": [
+    "christian wilhelm sjögree",
+    "sjögreen"
+  ],
+  "iorter": [
+    "Mariannelund"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra och Södra Vedbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Sj%C3%B6green%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6178395",
+      "link": "https://www.wikidata.org/wiki/Q6178395"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAA89w",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAA89w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

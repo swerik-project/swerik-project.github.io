@@ -1,0 +1,114 @@
+{
+  "name": "krister wickman",
+  "swerik-id": "i-PrkaUkuoauE9i2124cj3AX",
+  "DOB": "1924-04-13",
+  "DOD": "1993-09-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "hans krister wickman",
+    "wickman"
+  ],
+  "iorter": [
+    "Solna"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1971-06-30 00:00:00",
+      "end": "1973-11-03 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1973-11-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1971-06-30 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1971-06-30 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1967-02-28 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "biträdande finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1967-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Palme%20Almedalen%201968%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3376192",
+      "link": "https://www.wikidata.org/wiki/Q3376192"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQcg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQcg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

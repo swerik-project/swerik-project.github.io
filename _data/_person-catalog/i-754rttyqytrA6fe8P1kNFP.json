@@ -1,0 +1,52 @@
+{
+  "name": "lennart bengtsson",
+  "swerik-id": "i-754rttyqytrA6fe8P1kNFP",
+  "DOB": "1927-11-11",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bengtsson"
+  ],
+  "iorter": [
+    "Hamneda"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-11 00:00:00",
+      "end": "1978-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110089098",
+      "link": "https://www.wikidata.org/wiki/Q110089098"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1976-10-11",
+      "end": "1978-10-17"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "hugo hamilton",
+  "swerik-id": "i-4YBBuP4A6MDDtod8QvVH1Y",
+  "DOB": "1821-04-20",
+  "DOD": "1892-11-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Husaby församling",
+    "link": "http://www.wikidata.org/entity/Q627556"
+  },
+  "place-of-death": {
+    "place": "Husaby församling",
+    "link": "http://www.wikidata.org/entity/Q627556"
+  },
+  "alt-names": [
+    "hamilton",
+    "hugo bengt archibald hamilton"
+  ],
+  "iorter": [
+    "Blomberg"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Hamilton%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786130",
+      "link": "https://www.wikidata.org/wiki/Q5786130"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdYQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdYQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67668",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67668"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Skånska partiet",
+        "party-id": "Q10671173"
+      },
+      "start": "1875",
+      "end": "1875"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

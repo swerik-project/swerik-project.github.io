@@ -1,0 +1,81 @@
+{
+  "name": "kerstin andersson",
+  "swerik-id": "i-464zNZPAemsK22JgKUPHEW",
+  "DOB": "1924-07-01",
+  "DOD": "2009-05-24",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Torrlösa församling",
+    "link": "http://www.wikidata.org/entity/Q10700305"
+  },
+  "place-of-death": {
+    "place": "Hjärtums församling",
+    "link": "http://www.wikidata.org/entity/Q10524967"
+  },
+  "alt-names": [
+    "andersson",
+    "kerstin gudrun andersson"
+  ],
+  "iorter": [
+    "Hjärtum",
+    "Trollhättan"
+  ],
+  "positions": [
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16165766",
+      "link": "https://www.wikidata.org/wiki/Q16165766"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1982-10-04",
+      "end": "1985-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

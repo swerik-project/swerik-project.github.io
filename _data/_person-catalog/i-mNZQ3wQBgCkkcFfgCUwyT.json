@@ -1,0 +1,46 @@
+{
+  "name": "ebbe ohlsson",
+  "swerik-id": "i-mNZQ3wQBgCkkcFfgCUwyT",
+  "DOB": "1903-12-16",
+  "DOD": "1995-05-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Blädinge socken",
+    "link": "http://www.wikidata.org/entity/Q10431632"
+  },
+  "place-of-death": {
+    "place": "Alvesta",
+    "link": "http://www.wikidata.org/entity/Q2604885"
+  },
+  "alt-names": [
+    "ohlsson",
+    "olof ebbe magnus ohlsson"
+  ],
+  "iorter": [
+    "Blädinge"
+  ],
+  "positions": [
+    {
+      "start": "1951-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ebbe%20Ohlsson%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6023561",
+      "link": "https://www.wikidata.org/wiki/Q6023561"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "jonas nikolaus svedberg",
+  "swerik-id": "i-HRHmpWFqQQ3m7SzQAG7rH2",
+  "DOB": "1881-05-13",
+  "DOD": "1954-02-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mo församling",
+    "link": "http://www.wikidata.org/entity/Q10587110"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "svedberg"
+  ],
+  "iorter": [
+    "Mo"
+  ],
+  "positions": [
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hälsinglands södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Svedberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6197680",
+      "link": "https://www.wikidata.org/wiki/Q6197680"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOWQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOWQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

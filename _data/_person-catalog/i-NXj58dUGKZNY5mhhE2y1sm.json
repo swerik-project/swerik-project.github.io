@@ -1,0 +1,87 @@
+{
+  "name": "göran lindell",
+  "swerik-id": "i-NXj58dUGKZNY5mhhE2y1sm",
+  "DOB": "1954-02-09",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2019-12-13 00:00:00",
+      "end": "2020-08-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2015-09-11 00:00:00",
+      "end": "2016-03-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2011-09-30 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6ran%20Lindell.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5954984",
+      "link": "https://www.wikidata.org/wiki/Q5954984"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0397377293714",
+      "link": "https://data.riksdagen.se/personlista/?iid=0397377293714&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3dfc42c7-c0ee-4587-b983-c65151706797",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3dfc42c7-c0ee-4587-b983-c65151706797"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2019-12-13",
+      "end": "2020-08-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

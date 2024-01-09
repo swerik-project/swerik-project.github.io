@@ -1,0 +1,121 @@
+{
+  "name": "britt bohlin",
+  "swerik-id": "i-7fFgo4WQw2AZD5MU9tkws7",
+  "DOB": "1956-02-10",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Dalskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10466263"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bohlin",
+    "britt bohlin olsson",
+    "britt eva irene bohlin",
+    "britt johannesson"
+  ],
+  "iorter": [
+    "Mellerud"
+  ],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2008-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1982-10-05 00:00:00",
+      "end": "1982-11-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Britt%20Bohlin%202014.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4939797",
+      "link": "https://www.wikidata.org/wiki/Q4939797"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0512357753412",
+      "link": "https://data.riksdagen.se/personlista/?iid=0512357753412&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31b20-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31b20-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2006-10-02",
+      "end": "2008-05-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

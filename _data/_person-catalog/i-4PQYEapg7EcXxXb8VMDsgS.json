@@ -1,0 +1,52 @@
+{
+  "name": "erik lindström",
+  "swerik-id": "i-4PQYEapg7EcXxXb8VMDsgS",
+  "DOB": "1858-01-23",
+  "DOD": "1944-02-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Linköping",
+    "link": "http://www.wikidata.org/entity/Q25413"
+  },
+  "place-of-death": {
+    "place": "Bollnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10432594"
+  },
+  "alt-names": [
+    "carl erik rikard lindström",
+    "lindström"
+  ],
+  "iorter": [
+    "Bollnäs",
+    "Bollnäs ("
+  ],
+  "positions": [
+    {
+      "start": "1918-11-07 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Lindstr%C3%B6m%201858%20SPA3.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5958475",
+      "link": "https://www.wikidata.org/wiki/Q5958475"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOcg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOcg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

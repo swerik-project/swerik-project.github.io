@@ -1,0 +1,59 @@
+{
+  "name": "birgit rodhe",
+  "swerik-id": "i-7ds99BkmLPWLP4KGmbRfzB",
+  "DOB": "1915-08-18",
+  "DOD": "1998-11-19",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Lunds Allhelgonaförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570808"
+  },
+  "alt-names": [
+    "birgit grabe",
+    "birgit karin rodhe"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "skolminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Birgit%20Rodhe%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4975172",
+      "link": "https://www.wikidata.org/wiki/Q4975172"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAXbQ",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAXbQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:31545",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:31545"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:43722",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:43722"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

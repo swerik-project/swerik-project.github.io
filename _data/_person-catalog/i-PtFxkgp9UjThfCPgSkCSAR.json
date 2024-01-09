@@ -1,0 +1,50 @@
+{
+  "name": "axel bågenholm",
+  "swerik-id": "i-PtFxkgp9UjThfCPgSkCSAR",
+  "DOB": "1827-04-29",
+  "DOD": "1885-11-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "place-of-death": {
+    "place": "Skagershults församling",
+    "link": "http://www.wikidata.org/entity/Q10669615"
+  },
+  "alt-names": [
+    "bågenholm"
+  ],
+  "iorter": [
+    "Hasselfors"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Edsbergs, Grimstens och Hardemo häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20B%C3%A5genholm%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5591891",
+      "link": "https://www.wikidata.org/wiki/Q5591891"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsGw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsGw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

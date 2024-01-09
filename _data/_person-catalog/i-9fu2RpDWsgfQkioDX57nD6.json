@@ -1,0 +1,60 @@
+{
+  "name": "ingrid hammarberg",
+  "swerik-id": "i-9fu2RpDWsgfQkioDX57nD6",
+  "DOB": "1942",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ingrid maria hammarberg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2005-07-04 00:00:00",
+      "end": "2005-08-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4952392",
+      "link": "https://www.wikidata.org/wiki/Q4952392"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0488772415405",
+      "link": "https://data.riksdagen.se/personlista/?iid=0488772415405&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "14b66d9e-b4e4-49b4-b944-51c010384adc",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_14b66d9e-b4e4-49b4-b944-51c010384adc"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2005-07-04",
+      "end": "2005-08-17"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "adolph peyron",
+  "swerik-id": "i-PodqitSZdwBWKh12A7q1kG",
+  "DOB": "1823-10-03",
+  "DOD": "1907-05-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "peyron"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Peyron%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6047693",
+      "link": "https://www.wikidata.org/wiki/Q6047693"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAABFBQ",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAABFBQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNJw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNJw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

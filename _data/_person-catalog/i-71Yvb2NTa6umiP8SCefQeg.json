@@ -1,0 +1,49 @@
+{
+  "name": "jan nygren",
+  "swerik-id": "i-71Yvb2NTa6umiP8SCefQeg",
+  "DOB": "1950-04-15",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Trollhättan",
+    "link": "http://www.wikidata.org/entity/Q54339"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "samordningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6019543",
+      "link": "https://www.wikidata.org/wiki/Q6019543"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0894545562818",
+      "link": "https://data.riksdagen.se/personlista/?iid=0894545562818&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5952bebf-364b-45f2-a187-6ea3472e313d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5952bebf-364b-45f2-a187-6ea3472e313d"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

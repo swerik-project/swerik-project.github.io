@@ -1,0 +1,71 @@
+{
+  "name": "jens orback",
+  "swerik-id": "i-UEQA68w6PM78ttj4KfvgwE",
+  "DOB": "1959-04-21",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jens olov heinrich orback"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2004-10-21 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "demokratiminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2004-10-21 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2004-10-21 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jens%20Orback.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6029071",
+      "link": "https://www.wikidata.org/wiki/Q6029071"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0416079977115",
+      "link": "https://data.riksdagen.se/personlista/?iid=0416079977115&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9fc34dde-20c1-4039-89bf-bd6bb1beeb93",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9fc34dde-20c1-4039-89bf-bd6bb1beeb93"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

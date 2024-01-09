@@ -1,0 +1,69 @@
+{
+  "name": "malin danielsson",
+  "swerik-id": "i-L1n9B3HMMa1BFpMjixTVue",
+  "DOB": "1978-07-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Martin Luthers församling",
+    "link": "http://www.wikidata.org/entity/Q10577840"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2020-02-01 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Malin%20Danielsson%20Liberalerna.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q64404514",
+      "link": "https://www.wikidata.org/wiki/Q64404514"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0603366539729",
+      "link": "https://data.riksdagen.se/personlista/?iid=0603366539729&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b25b78e6-540a-4b6d-8a54-e365587df379",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b25b78e6-540a-4b6d-8a54-e365587df379"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2020-02-01",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,118 @@
+{
+  "name": "sigfrid wieselgren",
+  "swerik-id": "i-3vmL5fhhYQEqZsPyUJFmjy",
+  "DOB": "1843-11-26",
+  "DOD": "1910-10-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västerstads församling",
+    "link": "http://www.wikidata.org/entity/Q10718016"
+  },
+  "place-of-death": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "alt-names": [
+    "pehr sigfrid wieselgren",
+    "per sigfrid wieselgren",
+    "wieselgren"
+  ],
+  "iorter": [
+    "Göteborg",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1910-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigfrid%20Wieselgren%201913.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6240664",
+      "link": "https://www.wikidata.org/wiki/Q6240664"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAABB4A",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAABB4A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:70501",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:70501"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAABB6Q",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAABB6Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkmw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkmw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1908",
+      "end": "1910"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1904"
+    },
+    {
+      "party": {
+        "name": "Nya centern (partigrupp 1883-1887)",
+        "party-id": "Q10604299"
+      },
+      "start": "1883",
+      "end": "1887"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1876",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

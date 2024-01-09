@@ -1,0 +1,50 @@
+{
+  "name": "anna ronnebäck",
+  "swerik-id": "i-N5YkLzCrZQG9BDuRnb7biZ",
+  "DOB": "1906-07-19",
+  "DOD": "1989-12-29",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hammerdals församling",
+    "link": "http://www.wikidata.org/entity/Q10516926"
+  },
+  "place-of-death": {
+    "place": "Sölvesborg",
+    "link": "http://www.wikidata.org/entity/Q898727"
+  },
+  "alt-names": [
+    "anna elvira ronnebäck",
+    "anna lindqvist pettersson",
+    "rönnebäck"
+  ],
+  "iorter": [
+    "Östersund"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111493181",
+      "link": "https://www.wikidata.org/wiki/Q111493181"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRUQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRUQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "henry johansson",
+  "swerik-id": "i-StcdoMF83DoLAmRXc6CbB4",
+  "DOB": "1889-03-09",
+  "DOD": "1958-04-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "henry bernhard johansson",
+    "johansson"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1943-01-01 00:00:00",
+      "end": "1950-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Johansson%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5886293",
+      "link": "https://www.wikidata.org/wiki/Q5886293"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSpA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSpA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

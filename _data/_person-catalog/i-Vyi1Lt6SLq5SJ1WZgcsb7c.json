@@ -1,0 +1,80 @@
+{
+  "name": "claes herman rundgren",
+  "swerik-id": "i-Vyi1Lt6SLq5SJ1WZgcsb7c",
+  "DOB": "1819-08-12",
+  "DOD": "1906-09-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "alt-names": [
+    "rundgren"
+  ],
+  "iorter": [
+    "Karlstad",
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1882-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlstads och Filipstads valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Claes%20Herman%20Rundgren.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6083461",
+      "link": "https://www.wikidata.org/wiki/Q6083461"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7028",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7028"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAApXA",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAApXA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29082",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29082"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABe2lw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABe2lw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcUg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcUg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

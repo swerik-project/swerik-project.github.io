@@ -1,0 +1,75 @@
+{
+  "name": "erik norman",
+  "swerik-id": "i-STsgP27gjX3897RMwy4k8a",
+  "DOB": "1842-01-11",
+  "DOD": "1917-09-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mora församling",
+    "link": "http://www.wikidata.org/entity/Q10588907"
+  },
+  "place-of-death": {
+    "place": "Mora församling",
+    "link": "http://www.wikidata.org/entity/Q10588907"
+  },
+  "alt-names": [
+    "norman"
+  ],
+  "iorter": [
+    "Östnor"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ovansiljans domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Norman%201842%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6017135",
+      "link": "https://www.wikidata.org/wiki/Q6017135"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbwg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbwg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1902"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

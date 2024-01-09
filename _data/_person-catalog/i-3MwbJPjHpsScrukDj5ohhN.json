@@ -1,0 +1,64 @@
+{
+  "name": "jan o karlsson",
+  "swerik-id": "i-3MwbJPjHpsScrukDj5ohhN",
+  "DOB": "1939-06-01",
+  "DOD": "2016-09-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "jan olov karlsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2003-09-11 00:00:00",
+      "end": "2003-10-10 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2002-01-07 00:00:00",
+      "end": "2003-10-09 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2002-01-07 00:00:00",
+      "end": "2003-10-10 00:00:00",
+      "role": "migrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1232072",
+      "link": "https://www.wikidata.org/wiki/Q1232072"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0553241385804",
+      "link": "https://data.riksdagen.se/personlista/?iid=0553241385804&utformat=html"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

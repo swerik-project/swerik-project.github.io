@@ -1,0 +1,46 @@
+{
+  "name": "björn kjellin",
+  "swerik-id": "i-99KJS3F82n3svGRv82RqRZ",
+  "DOB": "1910-07-05",
+  "DOD": "1986-08-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Marstrands församling",
+    "link": "http://www.wikidata.org/entity/Q10577777"
+  },
+  "place-of-death": {
+    "place": "Vislanda församling",
+    "link": "http://www.wikidata.org/entity/Q10716128"
+  },
+  "alt-names": [
+    "björn torsten martin kjellin"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1957-10-31 00:00:00",
+      "end": "1958-08-29 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5912234",
+      "link": "https://www.wikidata.org/wiki/Q5912234"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:71862",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:71862"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,92 @@
+{
+  "name": "martin skoglund",
+  "swerik-id": "i-TgGh4sLEipttrpG4XAgn6h",
+  "DOB": "1892-09-02",
+  "DOD": "1976-12-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Risinge församling",
+    "link": "http://www.wikidata.org/entity/Q10655757"
+  },
+  "place-of-death": {
+    "place": "Norrköping",
+    "link": "http://www.wikidata.org/entity/Q25724"
+  },
+  "alt-names": [
+    "doverstorparen",
+    "john martin skoglund",
+    "skoglund"
+  ],
+  "iorter": [
+    "Doverstorp"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1949-12-31 00:00:00",
+      "role": "andre vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Skoglund%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6180020",
+      "link": "https://www.wikidata.org/wiki/Q6180020"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6024",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6024"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga8A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga8A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1960"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1929",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

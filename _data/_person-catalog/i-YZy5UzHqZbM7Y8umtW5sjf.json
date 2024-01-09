@@ -1,0 +1,51 @@
+{
+  "name": "birgitta sjöqvist",
+  "swerik-id": "i-YZy5UzHqZbM7Y8umtW5sjf",
+  "DOB": "1916-12-17",
+  "DOD": "2017-10-22",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Säters stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q44493178"
+  },
+  "place-of-death": {
+    "place": "Sunne distrikt",
+    "link": "http://www.wikidata.org/entity/Q21704843"
+  },
+  "alt-names": [
+    "birgitta kristina sjöqvist",
+    "sjöqvist"
+  ],
+  "iorter": [
+    "Sunne"
+  ],
+  "positions": [
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Birgitta%20Sj%C3%B6qvist-R%C3%B6jerstedt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117288697",
+      "link": "https://www.wikidata.org/wiki/Q117288697"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgb-Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgb-Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}
