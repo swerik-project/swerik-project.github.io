@@ -1,0 +1,13 @@
+components:
+    - title: Corpus of Parliamentarty Records
+      description: "Corpus of Parliamentarty Records from 1867 -- now. The records have been digitalized and parsed into a Parlaclarin-like XML structure."
+      link: /infrastructure/parliamentary-records/
+    - title: Corpus of Motions Submitted to Parliament
+      description: "A corpus of Motions Submitted to Parliament."
+      link: /infrastructure/motions/
+    - title: Catalog of People
+      description: "The catalog includes individuals who hold or have held roles such as Members of Parliament, Ministers, Speakers."
+      link: /infrastructure/person-catalog/
+    - title: Catalog of Political Parties
+      description: "The catalog includes parties with representation in the parliament over time."
+      link: /infrastructure/party-catalog/
