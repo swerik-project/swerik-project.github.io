@@ -1,0 +1,48 @@
+{
+  "name": "wilhelm dyrssen",
+  "swerik-id": "i-6gHW3sRTLihmBZzcGdCAcH",
+  "DOB": "1858-03-26",
+  "DOD": "1929-07-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klagstorps herrgård",
+    "link": "http://www.wikidata.org/entity/Q1614108"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "vilhelm dyrssen"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1906-05-29 00:00:00",
+      "end": "1907-12-04 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/W.%20Dyrssen%201913.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5626314",
+      "link": "https://www.wikidata.org/wiki/Q5626314"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17770",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17770"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

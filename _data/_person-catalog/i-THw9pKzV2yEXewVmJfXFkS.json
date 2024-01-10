@@ -1,0 +1,80 @@
+{
+  "name": "nils andersson",
+  "swerik-id": "i-THw9pKzV2yEXewVmJfXFkS",
+  "DOB": "1847-03-01",
+  "DOD": "1923-05-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Vemmerlöv",
+    "link": "http://www.wikidata.org/entity/Q10718407"
+  },
+  "place-of-death": {
+    "place": "Trelleborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10701736"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Pettersborg"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skytts härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Andersson%201847%20SPA5%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555629",
+      "link": "https://www.wikidata.org/wiki/Q5555629"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5GSg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5GSg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgOtw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgOtw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1908",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1907",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

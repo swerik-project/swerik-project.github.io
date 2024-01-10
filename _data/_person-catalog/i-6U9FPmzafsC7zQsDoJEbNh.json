@@ -1,0 +1,69 @@
+{
+  "name": "carl falk",
+  "swerik-id": "i-6U9FPmzafsC7zQsDoJEbNh",
+  "DOB": "1835-07-10",
+  "DOD": "1906-11-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Säby församling",
+    "link": "http://www.wikidata.org/entity/Q10687878"
+  },
+  "place-of-death": {
+    "place": "Nacka församling",
+    "link": "http://www.wikidata.org/entity/Q18292494"
+  },
+  "alt-names": [
+    "carl b n falk",
+    "carl bernhard napoleon falk",
+    "falk"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Falk%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5724038",
+      "link": "https://www.wikidata.org/wiki/Q5724038"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbXg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbXg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

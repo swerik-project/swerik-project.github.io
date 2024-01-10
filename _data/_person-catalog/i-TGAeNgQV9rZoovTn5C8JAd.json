@@ -1,0 +1,110 @@
+{
+  "name": "lena adelsohn liljeroth",
+  "swerik-id": "i-TGAeNgQV9rZoovTn5C8JAd",
+  "DOB": "1955-11-24",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Spånga-Kista församling",
+    "link": "http://www.wikidata.org/entity/Q10676706"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "adelsohn liljeroth",
+    "lena adelson liljeroth",
+    "lena elisabeth adelsohn liljeroth",
+    "lena liljeroth"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-10-24 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "samfundsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-24 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "idrottsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-24 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "kulturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Modegalan2011%201c554%205259.Lena%20Adelsohn%20Liljeroth.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q297821",
+      "link": "https://www.wikidata.org/wiki/Q297821"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0427127522211",
+      "link": "https://data.riksdagen.se/personlista/?iid=0427127522211&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "709cb0ba-8fba-46fb-abe9-fe31a3d9fb8c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_709cb0ba-8fba-46fb-abe9-fe31a3d9fb8c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2010-10-04",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

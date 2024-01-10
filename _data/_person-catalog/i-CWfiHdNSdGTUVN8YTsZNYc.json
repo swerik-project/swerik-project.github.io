@@ -1,0 +1,76 @@
+{
+  "name": "camilla dahlin andersson",
+  "swerik-id": "i-CWfiHdNSdGTUVN8YTsZNYc",
+  "DOB": "1967",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-02-28 00:00:00",
+      "end": "2002-03-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2002-01-26 00:00:00",
+      "end": "2002-02-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1998-10-13 00:00:00",
+      "end": "1998-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4944024",
+      "link": "https://www.wikidata.org/wiki/Q4944024"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0837512963116",
+      "link": "https://data.riksdagen.se/personlista/?iid=0837512963116&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b9dca2a1-fbcb-47ac-9d97-cabd7b16cb18",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b9dca2a1-fbcb-47ac-9d97-cabd7b16cb18"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2002-02-28",
+      "end": "2002-03-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

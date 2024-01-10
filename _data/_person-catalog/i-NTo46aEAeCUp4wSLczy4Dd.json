@@ -1,0 +1,50 @@
+{
+  "name": "johannes hedström",
+  "swerik-id": "i-NTo46aEAeCUp4wSLczy4Dd",
+  "DOB": "1877-08-28",
+  "DOD": "1946-11-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Råda församling",
+    "link": "http://www.wikidata.org/entity/Q10602540"
+  },
+  "place-of-death": {
+    "place": "Karlstad",
+    "link": "http://www.wikidata.org/entity/Q25457"
+  },
+  "alt-names": [
+    "hedström"
+  ],
+  "iorter": [
+    "Västra Skymnäs"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Hedstr%C3%B6m%201877%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110436560",
+      "link": "https://www.wikidata.org/wiki/Q110436560"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgblg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgblg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

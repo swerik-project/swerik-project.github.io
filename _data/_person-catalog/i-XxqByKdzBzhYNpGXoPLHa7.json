@@ -1,0 +1,43 @@
+{
+  "name": "jonas larsson",
+  "swerik-id": "i-XxqByKdzBzhYNpGXoPLHa7",
+  "DOB": "1830-07-03",
+  "DOD": "1894-12-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nordmarks församling",
+    "link": "http://www.wikidata.org/entity/Q10602200"
+  },
+  "place-of-death": {
+    "place": "Nordmarks församling",
+    "link": "http://www.wikidata.org/entity/Q10602200"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Nordmarkshyttan"
+  ],
+  "positions": [
+    {
+      "start": "1884-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Färnebo härads valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5937861",
+      "link": "https://www.wikidata.org/wiki/Q5937861"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

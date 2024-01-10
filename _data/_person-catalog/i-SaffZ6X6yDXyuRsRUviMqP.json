@@ -1,0 +1,51 @@
+{
+  "name": "wilhelm johansson",
+  "swerik-id": "i-SaffZ6X6yDXyuRsRUviMqP",
+  "DOB": "1843-06-05",
+  "DOD": "1926-10-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grava församling",
+    "link": "http://www.wikidata.org/entity/Q10508455"
+  },
+  "place-of-death": {
+    "place": "Eskilstuna",
+    "link": "http://www.wikidata.org/entity/Q26498"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Oja",
+    "Öja"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Väster- och Öster-Rekarne häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Johansson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5888142",
+      "link": "https://www.wikidata.org/wiki/Q5888142"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPng"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

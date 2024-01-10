@@ -1,0 +1,51 @@
+{
+  "name": "eric karlsson",
+  "swerik-id": "i-EfAtGibJYJ8Q9qCEgFEimc",
+  "DOB": "1908-06-02",
+  "DOD": "1975-04-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ronneby församling",
+    "link": "http://www.wikidata.org/entity/Q10656780"
+  },
+  "place-of-death": {
+    "place": "Olofström",
+    "link": "http://www.wikidata.org/entity/Q995431"
+  },
+  "alt-names": [
+    "bror eric karlsson",
+    "karlsson"
+  ],
+  "iorter": [
+    "Olofström"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bror%20Eric%20Karlsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5901293",
+      "link": "https://www.wikidata.org/wiki/Q5901293"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQZQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQZQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

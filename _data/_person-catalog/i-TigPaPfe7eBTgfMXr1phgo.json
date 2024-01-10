@@ -1,0 +1,80 @@
+{
+  "name": "mats green",
+  "swerik-id": "i-TigPaPfe7eBTgfMXr1phgo",
+  "DOB": "1979-04-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Huskvarna församling",
+    "link": "http://www.wikidata.org/entity/Q10527412"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mats anders green"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mats%20Green%20Moderaterna.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18239250",
+      "link": "https://www.wikidata.org/wiki/Q18239250"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0538387395826",
+      "link": "https://data.riksdagen.se/personlista/?iid=0538387395826&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d5c26045-6fd1-4c05-8f97-7195e1e324ff",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d5c26045-6fd1-4c05-8f97-7195e1e324ff"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

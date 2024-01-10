@@ -1,0 +1,61 @@
+{
+  "name": "johan erickzon",
+  "swerik-id": "i-KoM8aJCiyvtVtpuxtUvJ9b",
+  "DOB": "1816-06-30",
+  "DOD": "1899-03-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Östra Eneby församling",
+    "link": "http://www.wikidata.org/entity/Q10602834"
+  },
+  "place-of-death": {
+    "place": "Hults församling",
+    "link": "http://www.wikidata.org/entity/Q10526992"
+  },
+  "alt-names": [
+    "erickzon",
+    "johan eriksson"
+  ],
+  "iorter": [
+    "Bjärsby",
+    "Skälsnäs"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra och Södra Vedbo domsagas valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra och Södra Vedbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Erickzon%201816%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5714526",
+      "link": "https://www.wikidata.org/wiki/Q5714526"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbJQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbJQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "oscar franzen",
+  "swerik-id": "i-4rzDXeYCJpsUdVQdWbchAU",
+  "DOB": "1913-11-21",
+  "DOD": "1995-11-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Motala församling",
+    "link": "http://www.wikidata.org/entity/Q10589633"
+  },
+  "place-of-death": {
+    "place": "Motala församling",
+    "link": "http://www.wikidata.org/entity/Q10589633"
+  },
+  "alt-names": [
+    "f oscar franzen",
+    "franz oscar franzen",
+    "franzen"
+  ],
+  "iorter": [
+    "Motala"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5740956",
+      "link": "https://www.wikidata.org/wiki/Q5740956"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaYQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaYQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

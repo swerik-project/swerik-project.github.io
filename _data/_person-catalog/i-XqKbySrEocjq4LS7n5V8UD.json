@@ -1,0 +1,73 @@
+{
+  "name": "torsten lundell",
+  "swerik-id": "i-XqKbySrEocjq4LS7n5V8UD",
+  "DOB": "1889-05-19",
+  "DOD": "1970-12-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "place-of-death": {
+    "place": "Dörby församling",
+    "link": "http://www.wikidata.org/entity/Q10478702"
+  },
+  "alt-names": [
+    "lundell",
+    "torsten waldemar lundell"
+  ],
+  "iorter": [
+    "Ebbetorp"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Torstan%20Lundell%20SPA5%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5966411",
+      "link": "https://www.wikidata.org/wiki/Q5966411"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdEA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdEA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:27302",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:27302"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1944"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "carl bergström",
+  "swerik-id": "i-CymhXqr3fYxLD4TqyabRPP",
+  "DOB": "1843-07-04",
+  "DOD": "1922-09-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ullångers församling",
+    "link": "http://www.wikidata.org/entity/Q10708795"
+  },
+  "place-of-death": {
+    "place": "Ullångers församling",
+    "link": "http://www.wikidata.org/entity/Q10708795"
+  },
+  "alt-names": [
+    "bergström"
+  ],
+  "iorter": [
+    "Skidsta"
+  ],
+  "positions": [
+    {
+      "start": "1898-04-27 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nätra och Nordingrå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Bergstr%C3%B6m%201843%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5573288",
+      "link": "https://www.wikidata.org/wiki/Q5573288"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfVA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfVA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

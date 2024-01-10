@@ -1,0 +1,56 @@
+{
+  "name": "eilif sylwan",
+  "swerik-id": "i-UXeBANYbkPP6cUhTQjZXBP",
+  "DOB": "1884-05-25",
+  "DOD": "1972-02-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads garnisonsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58517420"
+  },
+  "place-of-death": {
+    "place": "Lunds Allhelgonaförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570808"
+  },
+  "alt-names": [
+    "eilif christian sylwan",
+    "sylwan"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eilif%20Sylwan%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6200560",
+      "link": "https://www.wikidata.org/wiki/Q6200560"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSMA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSMA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:62060",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:62060"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

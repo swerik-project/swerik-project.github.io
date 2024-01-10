@@ -1,0 +1,51 @@
+{
+  "name": "axel hedborg",
+  "swerik-id": "i-M5aMXV2yx6yh9KuYz7Z45q",
+  "DOB": "1861-06-09",
+  "DOD": "1929-09-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nora stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10601918"
+  },
+  "place-of-death": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "alt-names": [
+    "hedborg",
+    "sven axel adrian hedborg"
+  ],
+  "iorter": [
+    "Skellefteå"
+  ],
+  "positions": [
+    {
+      "start": "1904-01-01 00:00:00",
+      "end": "1906-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Hedborg%20SPA%207%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5795357",
+      "link": "https://www.wikidata.org/wiki/Q5795357"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbuw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbuw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

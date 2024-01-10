@@ -1,0 +1,53 @@
+{
+  "name": "edvin gilje",
+  "swerik-id": "i-Doq5FwKCoek9xba14pYK5P",
+  "DOB": "1889-09-02",
+  "DOD": "1945-06-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tidersrums församling",
+    "link": "http://www.wikidata.org/entity/Q10697701"
+  },
+  "place-of-death": {
+    "place": "Tjärstads församling",
+    "link": "http://www.wikidata.org/entity/Q10699047"
+  },
+  "alt-names": [
+    "edvin johansson",
+    "gustav edvin napoleon gilje",
+    "gustav edvin napoleon johansson",
+    "johansson"
+  ],
+  "iorter": [
+    "Rimforsa"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvin%20Gilje.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16649279",
+      "link": "https://www.wikidata.org/wiki/Q16649279"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaXQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaXQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

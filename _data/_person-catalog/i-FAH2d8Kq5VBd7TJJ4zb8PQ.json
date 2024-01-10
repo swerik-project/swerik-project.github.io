@@ -1,0 +1,67 @@
+{
+  "name": "knut petersson",
+  "swerik-id": "i-FAH2d8Kq5VBd7TJJ4zb8PQ",
+  "DOB": "1892-12-12",
+  "DOD": "1985-08-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderåkra församling",
+    "link": "http://www.wikidata.org/entity/Q10688847"
+  },
+  "place-of-death": {
+    "place": "Hemsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10521838"
+  },
+  "alt-names": [
+    "knut z petersson",
+    "knut zakarias petersson",
+    "petersson"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1935-01-01 00:00:00",
+      "end": "1945-05-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Petersson%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6045449",
+      "link": "https://www.wikidata.org/wiki/Q6045449"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7149",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7149"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA64_g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA64_g"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37606",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37606"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkog",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkog"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "judith olsson",
+  "swerik-id": "i-7x3nPBLpeHFQLKxv7KF7Sf",
+  "DOB": "1891-03-03",
+  "DOD": "1956-11-06",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sköns församling",
+    "link": "http://www.wikidata.org/entity/Q10671268"
+  },
+  "place-of-death": {
+    "place": "Ullångers församling",
+    "link": "http://www.wikidata.org/entity/Q10708795"
+  },
+  "alt-names": [
+    "anna sofia judith olsson",
+    "olsson"
+  ],
+  "iorter": [
+    "Ullånger"
+  ],
+  "positions": [
+    {
+      "start": "1941-10-20 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Olsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q112573502",
+      "link": "https://www.wikidata.org/wiki/Q112573502"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfOg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfOg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

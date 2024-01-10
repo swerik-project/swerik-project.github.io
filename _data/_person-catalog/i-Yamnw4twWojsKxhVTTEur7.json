@@ -1,0 +1,51 @@
+{
+  "name": "gustav holmberg",
+  "swerik-id": "i-Yamnw4twWojsKxhVTTEur7",
+  "DOB": "1877-04-04",
+  "DOD": "1951-11-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Linköpings S:t Lars församling",
+    "link": "http://www.wikidata.org/entity/Q10562781"
+  },
+  "place-of-death": {
+    "place": "Linköpings S:t Lars församling",
+    "link": "http://www.wikidata.org/entity/Q10562781"
+  },
+  "alt-names": [
+    "gustav anton holmberg",
+    "holmberg"
+  ],
+  "iorter": [
+    "Linköping"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Holmberg%201877%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5810880",
+      "link": "https://www.wikidata.org/wiki/Q5810880"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaWw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaWw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

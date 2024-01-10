@@ -1,0 +1,56 @@
+{
+  "name": "karl franzen",
+  "swerik-id": "i-AqE93YNX5ebVmFiTaUg1Pq",
+  "DOB": "1883-12-02",
+  "DOD": "1941-02-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "place-of-death": {
+    "place": "Halmstads församling",
+    "link": "http://www.wikidata.org/entity/Q58455502"
+  },
+  "alt-names": [
+    "franzen",
+    "karl gustaf algot franzen"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1925-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Franz%C3%A9n%201883%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5740906",
+      "link": "https://www.wikidata.org/wiki/Q5740906"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbmw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbmw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:47601",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:47601"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

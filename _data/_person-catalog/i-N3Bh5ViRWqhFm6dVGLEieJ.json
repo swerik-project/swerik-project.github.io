@@ -1,0 +1,86 @@
+{
+  "name": "axel ljungman",
+  "swerik-id": "i-N3Bh5ViRWqhFm6dVGLEieJ",
+  "DOB": "1841-09-01",
+  "DOD": "1901-10-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljungs församling",
+    "link": "http://www.wikidata.org/entity/Q10568360"
+  },
+  "place-of-death": {
+    "place": "Göteborgs stad",
+    "link": "http://www.wikidata.org/entity/Q10512911"
+  },
+  "alt-names": [
+    "axel vilhelm ljungman",
+    "ljungman"
+  ],
+  "iorter": [
+    "Tjörn"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Orusts och Tjörns domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axelljungman.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5961317",
+      "link": "https://www.wikidata.org/wiki/Q5961317"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9608",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9608"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTlQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTlQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45822",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45822"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1889",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1888"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1882",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

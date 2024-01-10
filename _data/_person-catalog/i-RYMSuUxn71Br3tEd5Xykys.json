@@ -1,0 +1,68 @@
+{
+  "name": "jacob nilsson",
+  "swerik-id": "i-RYMSuUxn71Br3tEd5Xykys",
+  "DOB": "1834-08-11",
+  "DOD": "1912-08-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jämshögs församling",
+    "link": "http://www.wikidata.org/entity/Q10541678"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "nils jacob nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Grova"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönåkers härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Nilsson%20SPA%2013%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010583",
+      "link": "https://www.wikidata.org/wiki/Q6010583"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPoA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPoA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

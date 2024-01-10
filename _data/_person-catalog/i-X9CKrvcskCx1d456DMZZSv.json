@@ -1,0 +1,97 @@
+{
+  "name": "carl öberg",
+  "swerik-id": "i-X9CKrvcskCx1d456DMZZSv",
+  "DOB": "1859-04-25",
+  "DOD": "1929-03-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Själevads församling",
+    "link": "http://www.wikidata.org/entity/Q10669329"
+  },
+  "place-of-death": {
+    "place": "Själevads församling",
+    "link": "http://www.wikidata.org/entity/Q10669329"
+  },
+  "alt-names": [
+    "carl jonas",
+    "carl jonas öberg",
+    "jonas öberg",
+    "karl jonas öberg",
+    "öberg"
+  ],
+  "iorter": [
+    "Domsjö"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1929-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands norra valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Själevads och Arnäs domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Jonas%20%C3%96berg%20SPA2%20%28cropped%29%202.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6256173",
+      "link": "https://www.wikidata.org/wiki/Q6256173"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfrQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfrQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1928"
+    },
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1905"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

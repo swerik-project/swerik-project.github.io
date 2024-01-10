@@ -1,0 +1,51 @@
+{
+  "name": "alexander åkerhielm",
+  "swerik-id": "i-CaReJU7GckAgFwH9eRz9J",
+  "DOB": "1830-07-07",
+  "DOD": "1898-03-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Riseberga församling",
+    "link": "http://www.wikidata.org/entity/Q10655735"
+  },
+  "place-of-death": {
+    "place": "Landskrona församling",
+    "link": "http://www.wikidata.org/entity/Q10553938"
+  },
+  "alt-names": [
+    "bror christian alexander bonde åkerhielm",
+    "åkerhielm af margretelund"
+  ],
+  "iorter": [
+    "Landskrona"
+  ],
+  "positions": [
+    {
+      "start": "1874-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Landskrona valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20%C3%85kerhielm%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104889258",
+      "link": "https://www.wikidata.org/wiki/Q104889258"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSBw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSBw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

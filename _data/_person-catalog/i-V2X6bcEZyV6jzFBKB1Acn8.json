@@ -1,0 +1,84 @@
+{
+  "name": "janne ekman",
+  "swerik-id": "i-V2X6bcEZyV6jzFBKB1Acn8",
+  "DOB": "1815-10-25",
+  "DOD": "1908-01-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "ekman",
+    "johan jacob ekman"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1882-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Janne%20Ekman.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5630602",
+      "link": "https://www.wikidata.org/wiki/Q5630602"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15872",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15872"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABcLA",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABcLA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:66721",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:66721"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZTg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZTg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Skånska partiet",
+        "party-id": "Q10671173"
+      },
+      "start": "1873",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "lars anderson",
+  "swerik-id": "i-PAHJzN9wsrWwnypt4CGE6R",
+  "DOB": "1831-06-08",
+  "DOD": "1913-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ölme församling",
+    "link": "http://www.wikidata.org/entity/Q10727296"
+  },
+  "place-of-death": {
+    "place": "Ölme församling",
+    "link": "http://www.wikidata.org/entity/Q10727296"
+  },
+  "alt-names": [
+    "anderson",
+    "andersson",
+    "lars andersson"
+  ],
+  "iorter": [
+    "Landa",
+    "Ölme"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ölme, Visnums och Väse häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Andersson%20Landa%28Wall%3F%29.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555287",
+      "link": "https://www.wikidata.org/wiki/Q5555287"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbnQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbnQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

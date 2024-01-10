@@ -1,0 +1,51 @@
+{
+  "name": "cecilia rönn",
+  "swerik-id": "i-3wnNuoLdB9222NoKzF35Rf",
+  "DOB": "1980-05-06",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Värö församling",
+    "link": "http://www.wikidata.org/entity/Q10717761"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "cecilia viola rönn"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031236",
+      "link": "https://www.wikidata.org/wiki/Q114031236"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0926477102420",
+      "link": "https://data.riksdagen.se/personlista/?iid=0926477102420&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5a57c315-9b8d-4ef6-bd2b-c26e53a6d3b7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5a57c315-9b8d-4ef6-bd2b-c26e53a6d3b7"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

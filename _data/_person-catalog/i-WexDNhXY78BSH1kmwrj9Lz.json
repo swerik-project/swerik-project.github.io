@@ -1,0 +1,77 @@
+{
+  "name": "emil gezelius",
+  "swerik-id": "i-WexDNhXY78BSH1kmwrj9Lz",
+  "DOB": "1864-06-09",
+  "DOD": "1947-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kungsåra församling",
+    "link": "http://www.wikidata.org/entity/Q10550405"
+  },
+  "place-of-death": {
+    "place": "Hosjö församling",
+    "link": "http://www.wikidata.org/entity/Q10526491"
+  },
+  "alt-names": [
+    "gezelius",
+    "l e gezelius",
+    "lars emil gezelius"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1919-06-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Gezelius%201864%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5757573",
+      "link": "https://www.wikidata.org/wiki/Q5757573"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU0g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU0g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1919"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1908",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

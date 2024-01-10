@@ -1,0 +1,51 @@
+{
+  "name": "karl gustaf sandström",
+  "swerik-id": "i-7KHaiMF9jshPwF6pyRxEbH",
+  "DOB": "1895-09-23",
+  "DOD": "1983-09-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "karl gustaf armand sandström",
+    "sandström"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1940-10-23 00:00:00",
+      "end": "1945-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Gustaf%20Sandstr%C3%B6m%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6093290",
+      "link": "https://www.wikidata.org/wiki/Q6093290"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNrQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNrQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

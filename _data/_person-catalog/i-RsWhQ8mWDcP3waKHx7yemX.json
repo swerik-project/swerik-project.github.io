@@ -1,0 +1,96 @@
+{
+  "name": "elsemarie bjellqvist",
+  "swerik-id": "i-RsWhQ8mWDcP3waKHx7yemX",
+  "DOB": "1944-01-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2022-06-07 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2022-02-01 00:00:00",
+      "end": "2022-06-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-01-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2019-07-15 00:00:00",
+      "end": "2019-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elsemarie%20Bjellqvist%202022.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96323930",
+      "link": "https://www.wikidata.org/wiki/Q96323930"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0395762282903",
+      "link": "https://data.riksdagen.se/personlista/?iid=0395762282903&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "57918418-7b85-433d-a5c1-f19dec68f655",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_57918418-7b85-433d-a5c1-f19dec68f655"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

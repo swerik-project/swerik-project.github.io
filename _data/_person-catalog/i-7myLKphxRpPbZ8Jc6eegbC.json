@@ -1,0 +1,63 @@
+{
+  "name": "kaj nilsson",
+  "swerik-id": "i-7myLKphxRpPbZ8Jc6eegbC",
+  "DOB": "1928-05-19",
+  "DOD": "2008-11-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helsingborgs Gustav Adolfs församling",
+    "link": "http://www.wikidata.org/entity/Q10520534"
+  },
+  "place-of-death": {
+    "place": "Ängelholms församling",
+    "link": "http://www.wikidata.org/entity/Q10725863"
+  },
+  "alt-names": [
+    "kaj ingmar nilsson",
+    "nilsson"
+  ],
+  "iorter": [
+    "Ängelholm"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010812",
+      "link": "https://www.wikidata.org/wiki/Q6010812"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0744066990009",
+      "link": "https://data.riksdagen.se/personlista/?iid=0744066990009&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "69e6d7b6-b682-486e-b941-20f8f279f0bc",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_69e6d7b6-b682-486e-b941-20f8f279f0bc"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

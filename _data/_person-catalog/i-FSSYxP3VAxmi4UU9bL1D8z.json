@@ -1,0 +1,89 @@
+{
+  "name": "sture thun",
+  "swerik-id": "i-FSSYxP3VAxmi4UU9bL1D8z",
+  "DOB": "1929-03-18",
+  "DOD": "2020-12-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Veta församling",
+    "link": "http://www.wikidata.org/entity/Q10714683"
+  },
+  "place-of-death": {
+    "place": "Mjölby distrikt",
+    "link": "http://www.wikidata.org/entity/Q21580240"
+  },
+  "alt-names": [
+    "thun"
+  ],
+  "iorter": [
+    "Mjölby"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21567754",
+      "link": "https://www.wikidata.org/wiki/Q21567754"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0127096240702",
+      "link": "https://data.riksdagen.se/personlista/?iid=0127096240702&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "366bb944-025a-4a8c-ac56-0c53796fea00",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_366bb944-025a-4a8c-ac56-0c53796fea00"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

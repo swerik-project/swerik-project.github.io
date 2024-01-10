@@ -1,0 +1,61 @@
+{
+  "name": "adam reuterskiöld",
+  "swerik-id": "i-8VMVm6rDXcdZ4KeTzeZfrG",
+  "DOB": "1819-06-08",
+  "DOD": "1880-02-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fasterna församling",
+    "link": "http://www.wikidata.org/entity/Q10494284"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "adam didrik reuterskiöld",
+    "reuterskiöld"
+  ],
+  "iorter": [
+    "Ulvåsa"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1880-02-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Reuterskj%C3%B6ld%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6068925",
+      "link": "https://www.wikidata.org/wiki/Q6068925"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAHmA",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAHmA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAMhg",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAMhg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgayw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgayw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

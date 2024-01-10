@@ -1,0 +1,51 @@
+{
+  "name": "nils anderson",
+  "swerik-id": "i-HbEYktmpx71DfmfVouRDm7",
+  "DOB": "1849-07-22",
+  "DOD": "1936-10-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rångedala församling",
+    "link": "http://www.wikidata.org/entity/Q10658735"
+  },
+  "place-of-death": {
+    "place": "Örby-Skene församling",
+    "link": "http://www.wikidata.org/entity/Q10727428"
+  },
+  "alt-names": [
+    "anderson",
+    "nils august anderson"
+  ],
+  "iorter": [
+    "Lydde"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Marks härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Anderson%201849%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105046520",
+      "link": "https://www.wikidata.org/wiki/Q105046520"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZQQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZQQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

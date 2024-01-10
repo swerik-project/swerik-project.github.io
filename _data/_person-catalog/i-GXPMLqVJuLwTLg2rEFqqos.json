@@ -1,0 +1,67 @@
+{
+  "name": "jöns åkesson",
+  "swerik-id": "i-GXPMLqVJuLwTLg2rEFqqos",
+  "DOB": "1852-02-20",
+  "DOD": "1918-09-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stångby församling",
+    "link": "http://www.wikidata.org/entity/Q10682934"
+  },
+  "place-of-death": {
+    "place": "Stångby församling",
+    "link": "http://www.wikidata.org/entity/Q10682934"
+  },
+  "alt-names": [
+    "åkesson"
+  ],
+  "iorter": [
+    "Stångby"
+  ],
+  "positions": [
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Torna härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6ns%20%C3%85kesson%201852%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255608",
+      "link": "https://www.wikidata.org/wiki/Q6255608"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSAA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSAA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1908",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1906",
+      "end": "1907"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

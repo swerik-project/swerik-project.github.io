@@ -1,0 +1,75 @@
+{
+  "name": "nils von steyern",
+  "swerik-id": "i-FjD659tSC5Hi56fXrfmgbW",
+  "DOB": "1839-12-29",
+  "DOD": "1899-05-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landeryds kyrkby",
+    "link": "http://www.wikidata.org/entity/Q18291638"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "nils henrik vult von steyern"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1880-04-19 00:00:00",
+      "end": "1888-02-06 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Posse",
+      "district": null
+    },
+    {
+      "start": "1880-04-19 00:00:00",
+      "end": "1888-02-06 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Themptander",
+      "district": null
+    },
+    {
+      "start": "1880-04-19 00:00:00",
+      "end": "1888-02-06 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Thyselius",
+      "district": null
+    },
+    {
+      "start": "1878-07-04 00:00:00",
+      "end": "1880-04-19 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. III",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20von%20Steyern%201836%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6190185",
+      "link": "https://www.wikidata.org/wiki/Q6190185"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:66713",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:66713"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

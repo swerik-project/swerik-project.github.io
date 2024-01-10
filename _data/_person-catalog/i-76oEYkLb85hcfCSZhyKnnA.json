@@ -1,0 +1,70 @@
+{
+  "name": "per henning sjöblom",
+  "swerik-id": "i-76oEYkLb85hcfCSZhyKnnA",
+  "DOB": "1875-07-07",
+  "DOD": "1966-03-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderby-Karls församling",
+    "link": "http://www.wikidata.org/entity/Q10688496"
+  },
+  "place-of-death": {
+    "place": "Skarpnäcks församling",
+    "link": "http://www.wikidata.org/entity/Q10669803"
+  },
+  "alt-names": [
+    "sjöblom"
+  ],
+  "iorter": [
+    "Didriksdal",
+    "Gribby",
+    "Norrtälje"
+  ],
+  "positions": [
+    {
+      "start": "1926-03-23 00:00:00",
+      "end": "1929-04-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1926-08-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Henning%20Sj%C3%B6blom%201875%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6178244",
+      "link": "https://www.wikidata.org/wiki/Q6178244"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeWA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeWA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "johan gustaf granlund",
+  "swerik-id": "i-3WPAoJ5CXMR9smqz76LSLc",
+  "DOB": "1822-10-08",
+  "DOD": "1886-12-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gränna",
+    "link": "http://www.wikidata.org/entity/Q194353"
+  },
+  "place-of-death": {
+    "place": "Gränna",
+    "link": "http://www.wikidata.org/entity/Q194353"
+  },
+  "alt-names": [
+    "granlund"
+  ],
+  "iorter": [
+    "Gränna"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1886-12-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vadstena, Skänninge, Söderköpings, Motala och Gränna valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vadstena, Söderköpings, Skänninge och Gränna valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Gustaf%20Granlund%201822%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5768483",
+      "link": "https://www.wikidata.org/wiki/Q5768483"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbSA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbSA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

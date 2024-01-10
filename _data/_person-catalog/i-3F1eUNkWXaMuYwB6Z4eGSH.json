@@ -1,0 +1,53 @@
+{
+  "name": "hjalmar gustafson",
+  "swerik-id": "i-3F1eUNkWXaMuYwB6Z4eGSH",
+  "DOB": "1893-05-20",
+  "DOD": "1980-10-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Dädesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10478554"
+  },
+  "place-of-death": {
+    "place": "Dädesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10478554"
+  },
+  "alt-names": [
+    "carl hjalmar gustafson",
+    "gustafson",
+    "k hjalmar gustafson",
+    "karl hjalmar gustafson"
+  ],
+  "iorter": [
+    "Dädesjö"
+  ],
+  "positions": [
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1959-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hjalmar%20Gustafson%20SPA12%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5868653",
+      "link": "https://www.wikidata.org/wiki/Q5868653"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQzg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQzg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

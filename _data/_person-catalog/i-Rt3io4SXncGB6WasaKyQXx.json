@@ -1,0 +1,51 @@
+{
+  "name": "gustaf peyron den äldre",
+  "swerik-id": "i-Rt3io4SXncGB6WasaKyQXx",
+  "DOB": "1783-07-17",
+  "DOD": "1852-02-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sankt Petersburg",
+    "link": "http://www.wikidata.org/entity/Q656"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "gustaf abraham peyron",
+    "gustaf peyron"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1844-05-18 00:00:00",
+      "end": "1848-04-10 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Mauritz Posse II",
+      "district": null
+    },
+    {
+      "start": "1844-05-18 00:00:00",
+      "end": "1848-04-10 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Nordenfalk",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6047700",
+      "link": "https://www.wikidata.org/wiki/Q6047700"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

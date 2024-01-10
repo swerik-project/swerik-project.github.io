@@ -1,0 +1,71 @@
+{
+  "name": "peter althin",
+  "swerik-id": "i-JUDfhnxTxyfMtZUBuv5NAa",
+  "DOB": "1941-11-06",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lund",
+    "link": "http://www.wikidata.org/entity/Q2167"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "carl peter althin"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2007-11-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/P%20Althin.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5548100",
+      "link": "https://www.wikidata.org/wiki/Q5548100"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0390912778804",
+      "link": "https://data.riksdagen.se/personlista/?iid=0390912778804&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ae3e970b-b95d-11d5-af14-0050040caabf",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ae3e970b-b95d-11d5-af14-0050040caabf"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2006-10-02",
+      "end": "2007-11-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

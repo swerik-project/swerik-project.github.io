@@ -1,0 +1,51 @@
+{
+  "name": "etty eriksson",
+  "swerik-id": "i-Ne213pHtAfpu4FeoLZ9c8T",
+  "DOB": "1897-03-08",
+  "DOD": "1990-08-18",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Nässjö",
+    "link": "http://www.wikidata.org/entity/Q654299"
+  },
+  "place-of-death": {
+    "place": "Ängelholm",
+    "link": "http://www.wikidata.org/entity/Q54755"
+  },
+  "alt-names": [
+    "eriksson",
+    "etty daily junis aurora eriksson"
+  ],
+  "iorter": [
+    "Ängelholm"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Etty%20Eriksson%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4947009",
+      "link": "https://www.wikidata.org/wiki/Q4947009"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpOA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpOA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

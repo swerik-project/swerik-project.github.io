@@ -1,0 +1,51 @@
+{
+  "name": "wilhelm croneborg",
+  "swerik-id": "i-SzgTuuF6xsP3YYFjuHyjQ1",
+  "DOB": "1826-03-08",
+  "DOD": "1909-05-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Wien",
+    "link": "http://www.wikidata.org/entity/Q1741"
+  },
+  "place-of-death": {
+    "place": "Skövde stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58674640"
+  },
+  "alt-names": [
+    "croneborg",
+    "johan ulrik wilhelm croneborg"
+  ],
+  "iorter": [
+    "Älvsbacka"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Ulrik%20Wilhelm%20Croneborg%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5613446",
+      "link": "https://www.wikidata.org/wiki/Q5613446"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbzA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbzA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

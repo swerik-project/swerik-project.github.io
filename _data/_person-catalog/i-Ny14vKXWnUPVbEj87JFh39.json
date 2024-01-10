@@ -1,0 +1,79 @@
+{
+  "name": "richard berg",
+  "swerik-id": "i-Ny14vKXWnUPVbEj87JFh39",
+  "DOB": "1843-08-02",
+  "DOD": "1924-01-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skallsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10669651"
+  },
+  "place-of-death": {
+    "place": "Djursholm",
+    "link": "http://www.wikidata.org/entity/Q990076"
+  },
+  "alt-names": [
+    "berg",
+    "richard vilhelm timoleon berg",
+    "richard wilhelm timoleon berg"
+  ],
+  "iorter": [
+    "Eksjö"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Eksjö, Vimmerby och Västerviks valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Berg%201843%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5571357",
+      "link": "https://www.wikidata.org/wiki/Q5571357"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18557",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18557"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbgg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbgg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:49822",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49822"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1893",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1891",
+      "end": "1892"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "herman nordström",
+  "swerik-id": "i-3R7qLxY2CURc4oEqo2xMKC",
+  "DOB": "1882-08-11",
+  "DOD": "1967-01-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fryksände församling",
+    "link": "http://www.wikidata.org/entity/Q18289947"
+  },
+  "place-of-death": {
+    "place": "Fryksände församling",
+    "link": "http://www.wikidata.org/entity/Q18289947"
+  },
+  "alt-names": [
+    "herman engelbert nordström",
+    "nordström"
+  ],
+  "iorter": [
+    "Mölnerud",
+    "Torsby"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Nordstr%C3%B6m%201882%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6016133",
+      "link": "https://www.wikidata.org/wiki/Q6016133"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcKQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcKQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

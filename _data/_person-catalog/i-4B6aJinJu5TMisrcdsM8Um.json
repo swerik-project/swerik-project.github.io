@@ -1,0 +1,112 @@
+{
+  "name": "sven bengtsson",
+  "swerik-id": "i-4B6aJinJu5TMisrcdsM8Um",
+  "DOB": "1866-12-09",
+  "DOD": "1936-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Knislinge församling",
+    "link": "http://www.wikidata.org/entity/Q10546671"
+  },
+  "place-of-death": {
+    "place": "Knislinge församling",
+    "link": "http://www.wikidata.org/entity/Q10546671"
+  },
+  "alt-names": [
+    "bengtsson"
+  ],
+  "iorter": [
+    "Norup"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "andre vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads läns nordvästra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Bengtsson%201866%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5570408",
+      "link": "https://www.wikidata.org/wiki/Q5570408"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfp0w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfp0w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACbehA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACbehA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACbfQw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACbfQw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,162 @@
+{
+  "name": "bengt lindqvist",
+  "swerik-id": "i-TgNr7w5KMUTB7gX5TMgE3U",
+  "DOB": "1936-06-03",
+  "DOD": "2016-12-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helsingborg",
+    "link": "http://www.wikidata.org/entity/Q25411"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bengt olof lennart lindqvist",
+    "lindqvist"
+  ],
+  "iorter": [
+    "Tyresö"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1993-10-06 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "http://www.wikidata.org/.well-known/genid/f0d5203116b836e4c66d3d0240b36f32"
+    },
+    {
+      "start": "1993-05-01 00:00:00",
+      "end": "1993-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1993-03-15 00:00:00",
+      "end": "1993-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1992-11-01 00:00:00",
+      "end": "1992-11-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1990-02-27 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "sjukvårdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1986-03-12 00:00:00",
+      "end": "1990-02-27 00:00:00",
+      "role": "sjukvårdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1985-10-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1986-03-12 00:00:00",
+      "role": "sjukvårdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme II",
+      "district": null
+    },
+    {
+      "start": "1983-01-13 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1982-10-11 00:00:00",
+      "end": "1983-01-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5957403",
+      "link": "https://www.wikidata.org/wiki/Q5957403"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0457849683602",
+      "link": "https://data.riksdagen.se/personlista/?iid=0457849683602&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "30cad83c-3860-4335-b462-2469ee1f2ac4",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_30cad83c-3860-4335-b462-2469ee1f2ac4"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1994-10-03",
+      "end": "1995-12-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

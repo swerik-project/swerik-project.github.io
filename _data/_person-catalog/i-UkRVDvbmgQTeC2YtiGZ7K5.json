@@ -1,0 +1,92 @@
+{
+  "name": "chris heister",
+  "swerik-id": "i-UkRVDvbmgQTeC2YtiGZ7K5",
+  "DOB": "1950-09-17",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Östhammars kommun",
+    "link": "http://www.wikidata.org/entity/Q59093"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "gun christina heister",
+    "heister"
+  ],
+  "iorter": [
+    "Danderyd"
+  ],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-11-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Heister%2004.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4953330",
+      "link": "https://www.wikidata.org/wiki/Q4953330"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0478345475910",
+      "link": "https://data.riksdagen.se/personlista/?iid=0478345475910&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c31d49-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c31d49-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2002-09-30",
+      "end": "2002-11-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

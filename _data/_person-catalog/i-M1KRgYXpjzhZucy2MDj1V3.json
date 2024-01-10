@@ -1,0 +1,64 @@
+{
+  "name": "per andersson",
+  "swerik-id": "i-M1KRgYXpjzhZucy2MDj1V3",
+  "DOB": "1876-02-14",
+  "DOD": "1944-02-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10417106"
+  },
+  "place-of-death": {
+    "place": "Gävle",
+    "link": "http://www.wikidata.org/entity/Q25748"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Koldemo"
+  ],
+  "positions": [
+    {
+      "start": "1929-02-04 00:00:00",
+      "end": "1944-02-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1922-02-04 00:00:00",
+      "end": "1928-02-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Andersson%201876%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555799",
+      "link": "https://www.wikidata.org/wiki/Q5555799"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN3ig",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN3ig"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO4A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO4A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

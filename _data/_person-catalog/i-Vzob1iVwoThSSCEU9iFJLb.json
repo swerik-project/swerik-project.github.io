@@ -1,0 +1,127 @@
+{
+  "name": "carl herslow",
+  "swerik-id": "i-Vzob1iVwoThSSCEU9iFJLb",
+  "DOB": "1836-04-03",
+  "DOD": "1933-09-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "alt-names": [
+    "carl christian peter herslow",
+    "herslow"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "1877-01-01 00:00:00",
+      "end": "1886-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herslow%2C%20Carl%20i%20VJ%2014%201916.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5803390",
+      "link": "https://www.wikidata.org/wiki/Q5803390"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12934",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12934"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAABSCQ",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAABSCQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAABaAA",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAABaAA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAACz0A",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAACz0A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAADJJw",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAADJJw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRqQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRqQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1889",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens frihandelsparti",
+        "party-id": "Q10411414"
+      },
+      "start": "1888",
+      "end": "1888"
+    },
+    {
+      "party": {
+        "name": "Center-högern",
+        "party-id": "Q10444837"
+      },
+      "start": "1883",
+      "end": "1886"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1877",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

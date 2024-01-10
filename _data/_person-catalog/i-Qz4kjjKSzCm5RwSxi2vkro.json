@@ -1,0 +1,93 @@
+{
+  "name": "gunnar helen",
+  "swerik-id": "i-Qz4kjjKSzCm5RwSxi2vkro",
+  "DOB": "1918-06-05",
+  "DOD": "2002-12-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Vingåkers församling",
+    "link": "http://www.wikidata.org/entity/Q10718416"
+  },
+  "place-of-death": {
+    "place": "Nacka",
+    "link": "http://www.wikidata.org/entity/Q13383459"
+  },
+  "alt-names": [
+    "helen",
+    "nils gunnar helen"
+  ],
+  "iorter": [
+    "Saltsjö-Duvnäs",
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1970-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1966-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Hel%C3%A9n%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q376484",
+      "link": "https://www.wikidata.org/wiki/Q376484"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge8g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge8g"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:68300",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:68300"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "gösta netzen",
+  "swerik-id": "i-NU6x9tMTEWYvgbt2N6RDK",
+  "DOB": "1908-01-30",
+  "DOD": "1984-06-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Valbo församling",
+    "link": "http://www.wikidata.org/entity/Q10712147"
+  },
+  "place-of-death": {
+    "place": "Högestads församling",
+    "link": "http://www.wikidata.org/entity/Q10532278"
+  },
+  "alt-names": [
+    "klas gösta netzen",
+    "netzen"
+  ],
+  "iorter": [
+    "Malmö",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1957-10-31 00:00:00",
+      "end": "1961-11-24 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1961-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/K%20G%C3%B6sta%20Netz%C3%A9n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6005925",
+      "link": "https://www.wikidata.org/wiki/Q6005925"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8860",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8860"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRqw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRqw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:36130",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:36130"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

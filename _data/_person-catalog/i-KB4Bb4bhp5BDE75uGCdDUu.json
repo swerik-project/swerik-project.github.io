@@ -1,0 +1,49 @@
+{
+  "name": "lars fagerström",
+  "swerik-id": "i-KB4Bb4bhp5BDE75uGCdDUu",
+  "DOB": "1910-09-21",
+  "DOD": "1989-10-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Långsele församling",
+    "link": "http://www.wikidata.org/entity/Q10572640"
+  },
+  "place-of-death": {
+    "place": "Överluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10728626"
+  },
+  "alt-names": [
+    "fagerström",
+    "lars elis fagerström"
+  ],
+  "iorter": [
+    "Boden"
+  ],
+  "positions": [
+    {
+      "start": "1960-01-01 00:00:00",
+      "end": "1961-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5856420",
+      "link": "https://www.wikidata.org/wiki/Q5856420"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZQA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZQA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

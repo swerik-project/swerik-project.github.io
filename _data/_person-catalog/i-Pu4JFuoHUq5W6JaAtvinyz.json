@@ -1,0 +1,87 @@
+{
+  "name": "annicka engblom",
+  "swerik-id": "i-Pu4JFuoHUq5W6JaAtvinyz",
+  "DOB": "1967-06-15",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Västerås Badelunda församling",
+    "link": "http://www.wikidata.org/entity/Q10718069"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Annicka%20Engblom%2C%202014.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4769201",
+      "link": "https://www.wikidata.org/wiki/Q4769201"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0590042760718",
+      "link": "https://data.riksdagen.se/personlista/?iid=0590042760718&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "23c1d1cc-f2a2-47f1-b144-0d52a464791a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_23c1d1cc-f2a2-47f1-b144-0d52a464791a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

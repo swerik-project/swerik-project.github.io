@@ -1,0 +1,68 @@
+{
+  "name": "olof andersson",
+  "swerik-id": "i-VK83vrubL6BoM3coLhjSL1",
+  "DOB": "1839-03-08",
+  "DOD": "1912-12-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hjärnarps församling",
+    "link": "http://www.wikidata.org/entity/Q10524906"
+  },
+  "place-of-death": {
+    "place": "Hjärnarps församling",
+    "link": "http://www.wikidata.org/entity/Q10524906"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Lyckorna"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Åsbo och Bjäre domsagas valkrets"
+    },
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Åsbo och Bjäre domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Andersson%20Lyckorna.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555684",
+      "link": "https://www.wikidata.org/wiki/Q5555684"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpaw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpaw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

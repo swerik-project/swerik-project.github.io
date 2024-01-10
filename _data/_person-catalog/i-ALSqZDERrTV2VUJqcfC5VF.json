@@ -1,0 +1,52 @@
+{
+  "name": "sara leghissa",
+  "swerik-id": "i-ALSqZDERrTV2VUJqcfC5VF",
+  "DOB": "1970-11-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Överluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10728626"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sara viktoria leghissa",
+    "zara leghissa"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031273",
+      "link": "https://www.wikidata.org/wiki/Q114031273"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0442073683012",
+      "link": "https://data.riksdagen.se/personlista/?iid=0442073683012&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "099eed69-c31e-4301-9fc8-9bd5b2c1396c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_099eed69-c31e-4301-9fc8-9bd5b2c1396c"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

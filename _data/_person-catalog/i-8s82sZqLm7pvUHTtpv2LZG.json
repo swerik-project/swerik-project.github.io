@@ -1,0 +1,52 @@
+{
+  "name": "herman wikblad",
+  "swerik-id": "i-8s82sZqLm7pvUHTtpv2LZG",
+  "DOB": "1841-07-07",
+  "DOD": "1904-08-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Katarina församling",
+    "link": "http://www.wikidata.org/entity/Q3427889"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "sven herman wikblad"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1891-07-10 00:00:00",
+      "end": "1900-09-12 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1889-10-12 00:00:00",
+      "end": "1891-07-10 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Åkerhielm",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Wikblad%20SPA6%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6241170",
+      "link": "https://www.wikidata.org/wiki/Q6241170"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

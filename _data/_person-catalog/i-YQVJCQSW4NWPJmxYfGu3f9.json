@@ -1,0 +1,78 @@
+{
+  "name": "knut bohnstedt",
+  "swerik-id": "i-YQVJCQSW4NWPJmxYfGu3f9",
+  "DOB": "1841-10-15",
+  "DOD": "1916-07-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skinnskattebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10670209"
+  },
+  "place-of-death": {
+    "place": "Stora Mellösa församling",
+    "link": "http://www.wikidata.org/entity/Q10681071"
+  },
+  "alt-names": [
+    "bohnstedt",
+    "knut eugene bohnsted"
+  ],
+  "iorter": [
+    "Hjälmarsnäs"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Eug%C3%A8ne%20Bohnstedt.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5580827",
+      "link": "https://www.wikidata.org/wiki/Q5580827"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "lzSYNK3ifoMAAAAAAAbcnw",
+      "link": "https://portrattarkiv.se/details/lzSYNK3ifoMAAAAAAAbcnw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA27AA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA27AA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsZA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

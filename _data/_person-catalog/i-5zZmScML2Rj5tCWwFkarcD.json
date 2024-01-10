@@ -1,0 +1,51 @@
+{
+  "name": "åsa regner",
+  "swerik-id": "i-5zZmScML2Rj5tCWwFkarcD",
+  "DOB": "1964-08-26",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2018-03-08 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85sa%20Regn%C3%A9r.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18177071",
+      "link": "https://www.wikidata.org/wiki/Q18177071"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "010611244716",
+      "link": "https://data.riksdagen.se/personlista/?iid=010611244716&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0797cbaa-fcd9-4286-9f92-250daf7debfe",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0797cbaa-fcd9-4286-9f92-250daf7debfe"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

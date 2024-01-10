@@ -1,0 +1,56 @@
+{
+  "name": "aron siöcrona",
+  "swerik-id": "i-7GcdbGVshxVxi1UJpygr3c",
+  "DOB": "1825-10-28",
+  "DOD": "1898-10-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helsingborgs landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58513600"
+  },
+  "place-of-death": {
+    "place": "Eneborg",
+    "link": "http://www.wikidata.org/entity/Q1341075"
+  },
+  "alt-names": [
+    "hans aron sjöcrona",
+    "sjöcrona"
+  ],
+  "iorter": [
+    "Helsingborg"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Aron%20Si%C3%B6crona%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6177454",
+      "link": "https://www.wikidata.org/wiki/Q6177454"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACfhg",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACfhg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSFQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSFQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

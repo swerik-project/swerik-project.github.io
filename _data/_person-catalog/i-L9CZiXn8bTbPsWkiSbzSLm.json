@@ -1,0 +1,76 @@
+{
+  "name": "mattias ottosson",
+  "swerik-id": "i-L9CZiXn8bTbPsWkiSbzSLm",
+  "DOB": "1971-06-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Köpings församling",
+    "link": "http://www.wikidata.org/entity/Q10552182"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16633339",
+      "link": "https://www.wikidata.org/wiki/Q16633339"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0860364634014",
+      "link": "https://data.riksdagen.se/personlista/?iid=0860364634014&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "df8c5ae3-43e8-4d8a-bf64-67b9a78fef66",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_df8c5ae3-43e8-4d8a-bf64-67b9a78fef66"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

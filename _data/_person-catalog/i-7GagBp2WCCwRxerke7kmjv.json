@@ -1,0 +1,83 @@
+{
+  "name": "moritz rubenson",
+  "swerik-id": "i-7GagBp2WCCwRxerke7kmjv",
+  "DOB": "1834-06-19",
+  "DOD": "1906-08-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Judiska församlingen i Stockholm",
+    "link": "http://www.wikidata.org/entity/Q10541068"
+  },
+  "place-of-death": {
+    "place": "Ronneby",
+    "link": "http://www.wikidata.org/entity/Q823785"
+  },
+  "alt-names": [
+    "rubenson",
+    "salomon moritz rubenson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Moritz%20rubenson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6082184",
+      "link": "https://www.wikidata.org/wiki/Q6082184"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6968",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6968"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAnhQ",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAnhQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29564",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29564"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNOQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNOQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Center-högern",
+        "party-id": "Q10444837"
+      },
+      "start": "1883",
+      "end": "1884"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1873",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

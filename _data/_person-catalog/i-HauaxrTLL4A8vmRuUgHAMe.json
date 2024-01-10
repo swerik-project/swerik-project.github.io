@@ -1,0 +1,61 @@
+{
+  "name": "august kumlin",
+  "swerik-id": "i-HauaxrTLL4A8vmRuUgHAMe",
+  "DOB": "1833-03-03",
+  "DOD": "1895-06-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Turinge församling",
+    "link": "http://www.wikidata.org/entity/Q10706545"
+  },
+  "place-of-death": {
+    "place": "Strängnäs landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10682097"
+  },
+  "alt-names": [
+    "carl august kumlin",
+    "karl august kumlin",
+    "kumlin"
+  ],
+  "iorter": [
+    "Malmby"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1895-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkers och Selebo häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Kumlin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5926194",
+      "link": "https://www.wikidata.org/wiki/Q5926194"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPpQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

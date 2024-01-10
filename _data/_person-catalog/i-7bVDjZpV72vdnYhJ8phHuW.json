@@ -1,0 +1,78 @@
+{
+  "name": "louise meijer",
+  "swerik-id": "i-7bVDjZpV72vdnYhJ8phHuW",
+  "DOB": "1990-08-14",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "louise elsa christine meijer"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2021-05-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2020-12-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q57168719",
+      "link": "https://www.wikidata.org/wiki/Q57168719"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0616721755222",
+      "link": "https://data.riksdagen.se/personlista/?iid=0616721755222&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "88e092fa-1769-43c7-bfef-9d260811c982",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_88e092fa-1769-43c7-bfef-9d260811c982"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2021-05-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

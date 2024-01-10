@@ -1,0 +1,88 @@
+{
+  "name": "albert forslund",
+  "swerik-id": "i-4WY5rtjroqEtDfCMpBFokU",
+  "DOB": "1881-04-11",
+  "DOD": "1954-05-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ovansjö församling",
+    "link": "http://www.wikidata.org/entity/Q10613557"
+  },
+  "place-of-death": {
+    "place": "Spånga-Kista församling",
+    "link": "http://www.wikidata.org/entity/Q10676706"
+  },
+  "alt-names": [
+    "forslund",
+    "johannes albert forslund"
+  ],
+  "iorter": [
+    "Spånga"
+  ],
+  "positions": [
+    {
+      "start": "1938-12-16 00:00:00",
+      "end": "1939-12-13 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1938-12-16 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1938-12-16 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1951-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Forslund%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4710223",
+      "link": "https://www.wikidata.org/wiki/Q4710223"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "14362",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14362"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgevA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgevA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:65636",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:65636"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

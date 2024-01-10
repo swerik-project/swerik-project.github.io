@@ -1,0 +1,55 @@
+{
+  "name": "johannes ericson",
+  "swerik-id": "i-RFgs3yufqs3zY2mfSfqZVn",
+  "DOB": "1850-04-11",
+  "DOD": "1894-09-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landa församling",
+    "link": "http://www.wikidata.org/entity/Q3217034"
+  },
+  "place-of-death": {
+    "place": "Chicago",
+    "link": "http://www.wikidata.org/entity/Q1297"
+  },
+  "alt-names": [
+    "ericsson"
+  ],
+  "iorter": [
+    "Borekulla"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Ericson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5714759",
+      "link": "https://www.wikidata.org/wiki/Q5714759"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAAAPHA",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAAAPHA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfmxQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfmxQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

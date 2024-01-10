@@ -1,0 +1,57 @@
+{
+  "name": "eduard ljungberg",
+  "swerik-id": "i-RSPNozM9XXJf6YSf7tHhCx",
+  "DOB": "1820-11-30",
+  "DOD": "1910-02-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl eduard ljungberg",
+    "karl eduard ljungberg",
+    "ljungberg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1895-01-01 00:00:00",
+      "end": "1903-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20Ljungberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5960854",
+      "link": "https://www.wikidata.org/wiki/Q5960854"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10787",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10787"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZ3w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ3w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

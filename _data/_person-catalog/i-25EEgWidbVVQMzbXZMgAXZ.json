@@ -1,0 +1,73 @@
+{
+  "name": "anders lind",
+  "swerik-id": "i-25EEgWidbVVQMzbXZMgAXZ",
+  "DOB": "1828-04-19",
+  "DOD": "1888-05-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tanums församling",
+    "link": "http://www.wikidata.org/entity/Q10690712"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "anders petter lind",
+    "lind"
+  ],
+  "iorter": [
+    "Kustorp"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1888-05-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrvikens domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Lind%201828%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5952764",
+      "link": "https://www.wikidata.org/wiki/Q5952764"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10394",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10394"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTfg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTfg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1888"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1876",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

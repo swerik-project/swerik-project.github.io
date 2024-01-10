@@ -1,0 +1,65 @@
+{
+  "name": "harald ström",
+  "swerik-id": "i-2gFz918CyUZkTuGwyS9VJt",
+  "DOB": "1836-10-03",
+  "DOD": "1912-07-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "alt-names": [
+    "olof harald ström",
+    "ström"
+  ],
+  "iorter": [
+    "Nederkalix"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalix domsagas valkrets"
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalix domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Harald%20Str%C3%B6m%201836%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6193087",
+      "link": "https://www.wikidata.org/wiki/Q6193087"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABTVg",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABTVg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRMQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRMQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

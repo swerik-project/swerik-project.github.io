@@ -1,0 +1,50 @@
+{
+  "name": "bengt olof thylen",
+  "swerik-id": "i-3DJzbhf3kpR3QgMGxxJp5p",
+  "DOB": "1927-02-15",
+  "DOD": "2003-08-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Oscar Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q10612957"
+  },
+  "place-of-death": {
+    "place": "Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10713238"
+  },
+  "alt-names": [
+    "thylen"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bengt-Olof%20Thyl%C3%A9n%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6210134",
+      "link": "https://www.wikidata.org/wiki/Q6210134"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkbQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkbQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

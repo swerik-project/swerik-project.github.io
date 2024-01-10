@@ -1,0 +1,60 @@
+{
+  "name": "johan peter bager",
+  "swerik-id": "i-GfysFhkQarNccZNb2V5fjT",
+  "DOB": "1818-07-11",
+  "DOD": "1888-08-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "place-of-death": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "alt-names": [
+    "bager"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1876-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Bager%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5563944",
+      "link": "https://www.wikidata.org/wiki/Q5563944"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18983",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18983"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA2OpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA2OpQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgOwQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgOwQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "josef smedberg",
+  "swerik-id": "i-B1TD61aoCX1X8inXyshE45",
+  "DOB": "1819-12-10",
+  "DOD": "1890-05-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Humla församling",
+    "link": "http://www.wikidata.org/entity/Q10527090"
+  },
+  "place-of-death": {
+    "place": "Humla församling",
+    "link": "http://www.wikidata.org/entity/Q10527090"
+  },
+  "alt-names": [
+    "smedberg"
+  ],
+  "iorter": [
+    "Vedåkra",
+    "Väddåkra"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Redvägs härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Smedberg%20Ved%C3%A5kra.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6181305",
+      "link": "https://www.wikidata.org/wiki/Q6181305"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZpw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZpw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1876",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

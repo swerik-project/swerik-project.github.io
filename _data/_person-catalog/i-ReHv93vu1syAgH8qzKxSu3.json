@@ -1,0 +1,67 @@
+{
+  "name": "gustav nilsson",
+  "swerik-id": "i-ReHv93vu1syAgH8qzKxSu3",
+  "DOB": "1949-03-30",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jämjö församling",
+    "link": "http://www.wikidata.org/entity/Q10541668"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2009-08-16 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6010368",
+      "link": "https://www.wikidata.org/wiki/Q6010368"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0568055205114",
+      "link": "https://data.riksdagen.se/personlista/?iid=0568055205114&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "26b9592e-40f3-4899-804c-f2d2c974b7db",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_26b9592e-40f3-4899-804c-f2d2c974b7db"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

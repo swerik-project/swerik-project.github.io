@@ -1,0 +1,52 @@
+{
+  "name": "johan amilon",
+  "swerik-id": "i-Rhdqesan8FWyp9RChACHAZ",
+  "DOB": "1852-01-01",
+  "DOD": "1907-03-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Höörs församling",
+    "link": "http://www.wikidata.org/entity/Q18290868"
+  },
+  "place-of-death": {
+    "place": "Tryde församling",
+    "link": "http://www.wikidata.org/entity/Q10705433"
+  },
+  "alt-names": [
+    "amilon",
+    "johan andersson amilon",
+    "johannes amilon"
+  ],
+  "iorter": [
+    "Everöd"
+  ],
+  "positions": [
+    {
+      "start": "1901-01-01 00:00:00",
+      "end": "1907-03-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Amilon%20%281852-1907%29%2C%20svensk%20riksdagsman%2C%20riksdagens%20f%C3%B6rsta%20kammare%201901-1907.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5548860",
+      "link": "https://www.wikidata.org/wiki/Q5548860"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpLw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpLw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

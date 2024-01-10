@@ -1,0 +1,68 @@
+{
+  "name": "viktor ramstedt",
+  "swerik-id": "i-Veqc7tYrA9AQF4BnfFcFk4",
+  "DOB": "1854-11-21",
+  "DOD": "1919-05-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "ramstedt",
+    "reinhold viktor ramstedt"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Reinhold%20Ramstedt%201854%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6062836",
+      "link": "https://www.wikidata.org/wiki/Q6062836"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNLA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNLA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "nya centern (partigrupp 1895-1896)",
+        "party-id": "Q10604300"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

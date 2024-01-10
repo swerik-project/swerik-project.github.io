@@ -1,0 +1,25 @@
+<hr>
+
+<ul>
+{% for p in d.names %}
+  <li>
+    <a href="/person-catalog/{{ p.swerik_id }}" target="_blank">
+      {{ p.name | titlecase }}
+    </a>
+    (born {{ p.born }})
+  </li>
+{% endfor %}
+</ul>
+
+<br/><br/><br/>
+
+
+<p style="text-align:center;">• • •</p>
+<br/>
+<p style="text-align:center;">
+    <small>
+        Last updated on {{ d.last-updated }} from the
+        <a href="https://github.com/welfare-state-analytics/riksdagen-corpu" target="_blank">Riksdagen Corpus</a>
+        {{ d.data-version }}.
+    </small>
+</p>

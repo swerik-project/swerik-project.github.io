@@ -1,0 +1,50 @@
+{
+  "name": "johan johansson",
+  "swerik-id": "i-2a9yXCcfoERLmntQKS8293",
+  "DOB": "1853-02-15",
+  "DOD": "1929-03-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Piteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10632414"
+  },
+  "place-of-death": {
+    "place": "Piteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10632414"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Öjebyn"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Piteå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Johansson%20SPA%201%201%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5886609",
+      "link": "https://www.wikidata.org/wiki/Q5886609"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfREw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfREw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,109 @@
+{
+  "name": "per olof strindberg",
+  "swerik-id": "i-CQwK55qAkVUZt7PtiHxAxd",
+  "DOB": "1920-04-30",
+  "DOD": "1995-05-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Örnsköldsviks församling",
+    "link": "http://www.wikidata.org/entity/Q10727632"
+  },
+  "place-of-death": {
+    "place": "Linköpings Berga församling",
+    "link": "http://www.wikidata.org/entity/Q10562766"
+  },
+  "alt-names": [
+    "p o strindberg",
+    "per olof johan strindberg",
+    "strindberg"
+  ],
+  "iorter": [
+    "Linköping"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6192550",
+      "link": "https://www.wikidata.org/wiki/Q6192550"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "050953706196",
+      "link": "https://data.riksdagen.se/personlista/?iid=050953706196&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9b5fbdbc-3ac5-435f-b79a-a0db752ac6ab",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9b5fbdbc-3ac5-435f-b79a-a0db752ac6ab"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

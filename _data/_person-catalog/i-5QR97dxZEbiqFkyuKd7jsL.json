@@ -1,0 +1,50 @@
+{
+  "name": "carl gustaf engström",
+  "swerik-id": "i-5QR97dxZEbiqFkyuKd7jsL",
+  "DOB": "1838-09-30",
+  "DOD": "1895-05-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": "Hyssna församling",
+    "link": "http://www.wikidata.org/entity/Q10530905"
+  },
+  "alt-names": [
+    "engström"
+  ],
+  "iorter": [
+    "Sandvad"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gustaf%20Engstr%C3%B6m%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5712915",
+      "link": "https://www.wikidata.org/wiki/Q5712915"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZZw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZZw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

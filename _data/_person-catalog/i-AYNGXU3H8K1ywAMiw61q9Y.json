@@ -1,0 +1,50 @@
+{
+  "name": "per nilsson",
+  "swerik-id": "i-AYNGXU3H8K1ywAMiw61q9Y",
+  "DOB": "1821-03-30",
+  "DOD": "1882-09-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Strövelstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10682269"
+  },
+  "place-of-death": {
+    "place": "Strövelstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10682269"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Kärra"
+  ],
+  "positions": [
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Nilsson%20i%20K%C3%A4rra%201821%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011634",
+      "link": "https://www.wikidata.org/wiki/Q6011634"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpQg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpQg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

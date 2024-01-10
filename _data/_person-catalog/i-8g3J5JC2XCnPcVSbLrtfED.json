@@ -1,0 +1,99 @@
+{
+  "name": "august bokström",
+  "swerik-id": "i-8g3J5JC2XCnPcVSbLrtfED",
+  "DOB": "1841-01-16",
+  "DOD": "1905-02-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Visby domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10716051"
+  },
+  "place-of-death": {
+    "place": "Visby domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10716051"
+  },
+  "alt-names": [
+    "bokström",
+    "carl august bokström"
+  ],
+  "iorter": [
+    "Visby"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1895-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Visby och Borgholms valkrets"
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Visby valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Bokstr%C3%B6m%201841%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5581049",
+      "link": "https://www.wikidata.org/wiki/Q5581049"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17897",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17897"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRzg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRzg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1895"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1885-1887)",
+        "party-id": "Q10444847"
+      },
+      "start": "1887",
+      "end": "1887"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1879",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

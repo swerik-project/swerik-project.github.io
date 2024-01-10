@@ -1,0 +1,60 @@
+{
+  "name": "aaron norrman",
+  "swerik-id": "i-G9cByTDJLkqh3qYPdKEbAV",
+  "DOB": "1846-08-06",
+  "DOD": "1898-04-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Holsljunga församling",
+    "link": "http://www.wikidata.org/entity/Q10525514"
+  },
+  "place-of-death": {
+    "place": "Veddige församling",
+    "link": "http://www.wikidata.org/entity/Q10713567"
+  },
+  "alt-names": [
+    "aron norrman",
+    "norrman"
+  ],
+  "iorter": [
+    "Veddige"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1898-04-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fjäre och Viske häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Aron%20Norrman%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q58070354",
+      "link": "https://www.wikidata.org/wiki/Q58070354"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfm7w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfm7w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1897"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

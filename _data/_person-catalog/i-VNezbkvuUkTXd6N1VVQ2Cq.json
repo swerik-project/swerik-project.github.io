@@ -1,0 +1,52 @@
+{
+  "name": "ernst eskhult",
+  "swerik-id": "i-VNezbkvuUkTXd6N1VVQ2Cq",
+  "DOB": "1880-10-20",
+  "DOD": "1955-07-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lannaskede församling",
+    "link": "http://www.wikidata.org/entity/Q10554072"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "alt-names": [
+    "ernst wilhelm eskhult",
+    "ernst wilhelm svensson",
+    "svensson"
+  ],
+  "iorter": [
+    "Eskhult"
+  ],
+  "positions": [
+    {
+      "start": "1919-11-15 00:00:00",
+      "end": "1943-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Wilhelm%20Eskhult.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5394979",
+      "link": "https://www.wikidata.org/wiki/Q5394979"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgebg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgebg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

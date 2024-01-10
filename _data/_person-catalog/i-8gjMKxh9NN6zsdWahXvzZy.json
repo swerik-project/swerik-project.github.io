@@ -1,0 +1,51 @@
+{
+  "name": "nils brännström",
+  "swerik-id": "i-8gjMKxh9NN6zsdWahXvzZy",
+  "DOB": "1877-12-01",
+  "DOD": "1965-07-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Burträsks församling",
+    "link": "http://www.wikidata.org/entity/Q10437982"
+  },
+  "place-of-death": {
+    "place": "Burträsk",
+    "link": "http://www.wikidata.org/entity/Q1017138"
+  },
+  "alt-names": [
+    "brännström",
+    "nils anton brännström"
+  ],
+  "iorter": [
+    "Burträsk"
+  ],
+  "positions": [
+    {
+      "start": "1935-02-14 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Br%C3%A4nnstr%C3%B6m%201877%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5589026",
+      "link": "https://www.wikidata.org/wiki/Q5589026"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb4g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb4g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

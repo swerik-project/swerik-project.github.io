@@ -1,0 +1,73 @@
+{
+  "name": "edvard montgomery",
+  "swerik-id": "i-B699wHiwRp6br9TjezHPAV",
+  "DOB": "1852-05-12",
+  "DOD": "1911-11-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Boo församling",
+    "link": "http://www.wikidata.org/entity/Q11056762"
+  },
+  "place-of-death": {
+    "place": "Rottneros",
+    "link": "http://www.wikidata.org/entity/Q2804789"
+  },
+  "alt-names": [
+    "hampus edvard montgomery",
+    "montgomery"
+  ],
+  "iorter": [
+    "Rottneros"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hampus%20Montgomery%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5992208",
+      "link": "https://www.wikidata.org/wiki/Q5992208"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9473",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9473"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcPg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcPg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1903",
+      "end": "1904"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

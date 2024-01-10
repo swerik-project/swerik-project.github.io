@@ -1,0 +1,78 @@
+{
+  "name": "jacob johnson",
+  "swerik-id": "i-CNBy5dFgNNyEozHVpAj93c",
+  "DOB": "1948-08-27",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2012-04-10 00:00:00",
+      "end": "2014-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2012-01-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Johnson%202.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5888881",
+      "link": "https://www.wikidata.org/wiki/Q5888881"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "039984931601",
+      "link": "https://data.riksdagen.se/personlista/?iid=039984931601&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "56bbe3fb-67c8-4d56-ac2f-9ffe6058225a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_56bbe3fb-67c8-4d56-ac2f-9ffe6058225a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2012-04-10",
+      "end": "2014-06-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

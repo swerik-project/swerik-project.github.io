@@ -1,0 +1,56 @@
+{
+  "name": "leonard wistelius",
+  "swerik-id": "i-TCwnE27NUm8kYmKSTCsdvV",
+  "DOB": "1815-11-02",
+  "DOD": "1890-05-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Örebro",
+    "link": "http://www.wikidata.org/entity/Q25732"
+  },
+  "place-of-death": {
+    "place": "Örebro Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10727452"
+  },
+  "alt-names": [
+    "per leonard wistelius",
+    "wistelius"
+  ],
+  "iorter": [
+    "Örebro"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Wistelius%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6245172",
+      "link": "https://www.wikidata.org/wiki/Q6245172"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAA6GQ",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAA6GQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsDQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsDQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

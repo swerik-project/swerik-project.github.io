@@ -1,0 +1,78 @@
+{
+  "name": "uno hedström",
+  "swerik-id": "i-89BRXSiQXJAAKc8D16uNvG",
+  "DOB": "1915-04-05",
+  "DOD": "1978-01-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Edefors församling",
+    "link": "http://www.wikidata.org/entity/Q10479862"
+  },
+  "place-of-death": {
+    "place": "Edefors församling",
+    "link": "http://www.wikidata.org/entity/Q10479862"
+  },
+  "alt-names": [
+    "hedström",
+    "tuve uno vilhelm eugen hedström"
+  ],
+  "iorter": [
+    "Harads"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1956-10-16 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Uno%20Hedstr%C3%B6m%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5796614",
+      "link": "https://www.wikidata.org/wiki/Q5796614"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfReA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfReA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "inga lill sjöblom",
+  "swerik-id": "i-JohWyHK5wjKsQnLvxsZ3Ln",
+  "DOB": "1959-09-14",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vaksala församling",
+    "link": "http://www.wikidata.org/entity/Q10712060"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2020-08-24 00:00:00",
+      "end": "2020-12-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2019-10-21 00:00:00",
+      "end": "2020-05-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96324321",
+      "link": "https://www.wikidata.org/wiki/Q96324321"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0970709885516",
+      "link": "https://data.riksdagen.se/personlista/?iid=0970709885516&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "464de516-7b8b-4ddf-828e-9f373fd52d8e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_464de516-7b8b-4ddf-828e-9f373fd52d8e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2020-08-24",
+      "end": "2020-12-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

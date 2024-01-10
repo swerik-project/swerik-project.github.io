@@ -1,0 +1,51 @@
+{
+  "name": "fredrik appelberg",
+  "swerik-id": "i-GzcgHC81WecVydysZueFQ2",
+  "DOB": "1838-11-19",
+  "DOD": "1921-09-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrtälje församling",
+    "link": "http://www.wikidata.org/entity/Q10602963"
+  },
+  "place-of-death": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "alt-names": [
+    "appelberg",
+    "oskar fredrik appelberg"
+  ],
+  "iorter": [
+    "Kalix"
+  ],
+  "positions": [
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalix domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Appelberg%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5558249",
+      "link": "https://www.wikidata.org/wiki/Q5558249"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRFg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

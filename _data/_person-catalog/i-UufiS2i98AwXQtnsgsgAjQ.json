@@ -1,0 +1,76 @@
+{
+  "name": "jonas andersson",
+  "swerik-id": "i-UufiS2i98AwXQtnsgsgAjQ",
+  "DOB": "1832-07-16",
+  "DOD": "1903-09-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Algutsboda församling",
+    "link": "http://www.wikidata.org/entity/Q10405166"
+  },
+  "place-of-death": {
+    "place": "Borås församling",
+    "link": "http://www.wikidata.org/entity/Q57407324"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Hoberg"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vättle, Ale och Kullings domsagas valkrets"
+    },
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vättle, Ale och Kullings domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Andersson%201832%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555055",
+      "link": "https://www.wikidata.org/wiki/Q5555055"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZXQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZXQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1875",
+      "end": "1875"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

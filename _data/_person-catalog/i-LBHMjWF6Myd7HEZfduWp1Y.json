@@ -1,0 +1,69 @@
+{
+  "name": "bengt ahlquist",
+  "swerik-id": "i-LBHMjWF6Myd7HEZfduWp1Y",
+  "DOB": "1943",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bengt alvar ingemar ahlquist"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-02-07 00:00:00",
+      "end": "1994-03-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1993-03-08 00:00:00",
+      "end": "1993-04-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5544145",
+      "link": "https://www.wikidata.org/wiki/Q5544145"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0315172621102",
+      "link": "https://data.riksdagen.se/personlista/?iid=0315172621102&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2f0a4a14-fa52-4095-8317-85966d78daf2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2f0a4a14-fa52-4095-8317-85966d78daf2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-02-07",
+      "end": "1994-03-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

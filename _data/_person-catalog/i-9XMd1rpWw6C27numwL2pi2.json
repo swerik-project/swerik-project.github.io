@@ -1,0 +1,97 @@
+{
+  "name": "john almkvist",
+  "swerik-id": "i-9XMd1rpWw6C27numwL2pi2",
+  "DOB": "1875-11-24",
+  "DOD": "1946-05-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Härnösands domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10531743"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "almkvist",
+    "nils johan fredrik almkvist"
+  ],
+  "iorter": [
+    "Skellefteå",
+    "Äppelviken"
+  ],
+  "positions": [
+    {
+      "start": "1926-06-07 00:00:00",
+      "end": "1928-10-02 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ekman I",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    },
+    {
+      "start": "1919-08-04 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Almkvist%20SPA6%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5547436",
+      "link": "https://www.wikidata.org/wiki/Q5547436"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "28K7pO-SRrAAAAAAAAC1Ow",
+      "link": "https://portrattarkiv.se/details/28K7pO-SRrAAAAAAAAC1Ow"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:48988",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:48988"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfcDw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfcDw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1930"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1919",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

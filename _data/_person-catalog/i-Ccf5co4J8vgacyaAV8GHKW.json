@@ -1,0 +1,49 @@
+{
+  "name": "kaj lokander",
+  "swerik-id": "i-Ccf5co4J8vgacyaAV8GHKW",
+  "DOB": "1913-07-23",
+  "DOD": "1987-11-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristinehamn",
+    "link": "http://www.wikidata.org/entity/Q215832"
+  },
+  "place-of-death": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "alt-names": [
+    "kaj tore lokander",
+    "lokander"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1966-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5962568",
+      "link": "https://www.wikidata.org/wiki/Q5962568"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgb_g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgb_g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

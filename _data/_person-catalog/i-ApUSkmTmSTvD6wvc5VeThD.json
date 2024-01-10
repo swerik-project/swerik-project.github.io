@@ -1,0 +1,65 @@
+{
+  "name": "lars olsson smith",
+  "swerik-id": "i-ApUSkmTmSTvD6wvc5VeThD",
+  "DOB": "1836-10-12",
+  "DOD": "1913-12-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kiaby församling",
+    "link": "http://www.wikidata.org/entity/Q10545265"
+  },
+  "place-of-death": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "alt-names": [
+    "smith"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1891-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Smith%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6181976",
+      "link": "https://www.wikidata.org/wiki/Q6181976"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6071",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6071"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACtLw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACtLw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:71117",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:71117"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQVg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQVg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "harald spens",
+  "swerik-id": "i-W8sBcvRsddpMCiVmEeekWs",
+  "DOB": "1827-08-03",
+  "DOD": "1914-07-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grensholm",
+    "link": "http://www.wikidata.org/entity/Q10508688"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "gustaf harald spens",
+    "spens"
+  ],
+  "iorter": [
+    "Grensholmen"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Harald%20Spens%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6185487",
+      "link": "https://www.wikidata.org/wiki/Q6185487"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga4w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga4w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

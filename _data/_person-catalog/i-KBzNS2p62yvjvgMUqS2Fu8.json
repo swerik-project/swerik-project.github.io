@@ -1,0 +1,44 @@
+{
+  "name": "axel e svensson",
+  "swerik-id": "i-KBzNS2p62yvjvgMUqS2Fu8",
+  "DOB": "1899-01-21",
+  "DOD": "1991-07-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Skrävlinge församling",
+    "link": "http://www.wikidata.org/entity/Q10718358"
+  },
+  "place-of-death": {
+    "place": "Hörby",
+    "link": "http://www.wikidata.org/entity/Q1644288"
+  },
+  "alt-names": [
+    "axel einar svensson",
+    "svensson"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1965-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198282",
+      "link": "https://www.wikidata.org/wiki/Q6198282"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "olivia nordgren",
+  "swerik-id": "i-P4bPUPyGmqoAqg292wWb7Z",
+  "DOB": "1880-02-27",
+  "DOD": "1969-06-07",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Gislövs församling",
+    "link": "http://www.wikidata.org/entity/Q10505074"
+  },
+  "place-of-death": {
+    "place": "Trelleborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10701736"
+  },
+  "alt-names": [
+    "nordgren",
+    "oliva lovisa larsdotter"
+  ],
+  "iorter": [
+    "Trelleborg"
+  ],
+  "positions": [
+    {
+      "start": "1925-06-02 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olivia%20Nordgren.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4970006",
+      "link": "https://www.wikidata.org/wiki/Q4970006"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8288",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8288"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgR2w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgR2w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

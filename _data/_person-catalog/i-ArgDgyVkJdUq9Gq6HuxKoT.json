@@ -1,0 +1,67 @@
+{
+  "name": "bertil mogård",
+  "swerik-id": "i-ArgDgyVkJdUq9Gq6HuxKoT",
+  "DOB": "1892-08-18",
+  "DOD": "1970-05-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "johan adolf bertil mogård",
+    "mogård"
+  ],
+  "iorter": [
+    "Karlskoga",
+    "Stockholm",
+    "Vällingby"
+  ],
+  "positions": [
+    {
+      "start": "1948-11-02 00:00:00",
+      "end": "1961-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bertil%20Mog%C3%A5rd%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5990557",
+      "link": "https://www.wikidata.org/wiki/Q5990557"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9403",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9403"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfseQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfseQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,129 @@
+{
+  "name": "ulf kristersson",
+  "swerik-id": "i-bRyJHEKb5DCkicXkuZwMY",
+  "DOB": "1963-12-29",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "kristersson",
+    "ulf hjalmar ed kristersson",
+    "ulf hjalmar kristersson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2014-10-04 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "socialförsäkringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2000-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1991-10-05 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ulf%20Kristersson%20January%202023.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1780398",
+      "link": "https://www.wikidata.org/wiki/Q1780398"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0222691314314",
+      "link": "https://data.riksdagen.se/personlista/?iid=0222691314314&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e7e4132a-b4df-11d5-8079-0040ca16072a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e7e4132a-b4df-11d5-8079-0040ca16072a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

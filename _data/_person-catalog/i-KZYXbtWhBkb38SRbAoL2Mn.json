@@ -1,0 +1,63 @@
+{
+  "name": "axel adelswärd",
+  "swerik-id": "i-KZYXbtWhBkb38SRbAoL2Mn",
+  "DOB": "1828-02-11",
+  "DOD": "1900-01-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Åtvids församling",
+    "link": "http://www.wikidata.org/entity/Q10727009"
+  },
+  "alt-names": [
+    "adelswärd",
+    "axel adelsvärd",
+    "axel reinhold august adelsvärd",
+    "axel reinhold august adelswärd"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1871-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Adelsw%C3%A4rd%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5542625",
+      "link": "https://www.wikidata.org/wiki/Q5542625"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA3rLg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA3rLg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:48612",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:48612"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaGQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaGQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

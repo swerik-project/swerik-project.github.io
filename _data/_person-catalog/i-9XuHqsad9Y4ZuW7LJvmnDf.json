@@ -1,0 +1,50 @@
+{
+  "name": "gustaf carl witt",
+  "swerik-id": "i-9XuHqsad9Y4ZuW7LJvmnDf",
+  "DOB": "1814-04-05",
+  "DOD": "1899-03-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "place-of-death": {
+    "place": "Gränna stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10509739"
+  },
+  "alt-names": [
+    "witt"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlskrona valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Witt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6245347",
+      "link": "https://www.wikidata.org/wiki/Q6245347"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQtw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQtw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

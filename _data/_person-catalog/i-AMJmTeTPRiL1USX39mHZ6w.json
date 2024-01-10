@@ -1,0 +1,51 @@
+{
+  "name": "paul bergstrand",
+  "swerik-id": "i-AMJmTeTPRiL1USX39mHZ6w",
+  "DOB": "1887-10-11",
+  "DOD": "1952-11-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedemora",
+    "link": "http://www.wikidata.org/entity/Q1001183"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "bergstrand",
+    "paul johannes bergstrand"
+  ],
+  "iorter": [
+    "Kolmårdssanatoriet"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1952-11-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Bergstrand%20SPA5%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5596960",
+      "link": "https://www.wikidata.org/wiki/Q5596960"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaLA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaLA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

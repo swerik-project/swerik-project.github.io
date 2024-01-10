@@ -1,0 +1,51 @@
+{
+  "name": "lars engsund",
+  "swerik-id": "i-LrkXNcFBVfXiSbvUKrLKgH",
+  "DOB": "1968-07-02",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Augerums församling",
+    "link": "http://www.wikidata.org/entity/Q10422362"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lars christer engsund"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031225",
+      "link": "https://www.wikidata.org/wiki/Q114031225"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0764422217512",
+      "link": "https://data.riksdagen.se/personlista/?iid=0764422217512&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0e002235-3df2-4fab-806a-88218d9d9337",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0e002235-3df2-4fab-806a-88218d9d9337"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

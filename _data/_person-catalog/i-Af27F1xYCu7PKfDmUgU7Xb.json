@@ -1,0 +1,78 @@
+{
+  "name": "bengt börjesson",
+  "swerik-id": "i-Af27F1xYCu7PKfDmUgU7Xb",
+  "DOB": "1920-05-01",
+  "DOD": "1977-08-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Enslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10484431"
+  },
+  "place-of-death": {
+    "place": "Falköpings församling",
+    "link": "http://www.wikidata.org/entity/Q10493760"
+  },
+  "alt-names": [
+    "bengt johan börjesson",
+    "börjesson"
+  ],
+  "iorter": [
+    "Falköping"
+  ],
+  "positions": [
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1961-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bengt%20B%C3%B6rjesson%20f%C3%B6dd%201920.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4887786",
+      "link": "https://www.wikidata.org/wiki/Q4887786"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdQw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdQw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1976-10-04",
+      "end": "1977-08"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

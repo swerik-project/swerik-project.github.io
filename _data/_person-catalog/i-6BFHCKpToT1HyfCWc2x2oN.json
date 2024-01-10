@@ -1,0 +1,61 @@
+{
+  "name": "carl vilhelm carlsson",
+  "swerik-id": "i-6BFHCKpToT1HyfCWc2x2oN",
+  "DOB": "1876-11-02",
+  "DOD": "1928-11-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljushults församling",
+    "link": "http://www.wikidata.org/entity/Q10568436"
+  },
+  "place-of-death": {
+    "place": "Fässbergs församling",
+    "link": "http://www.wikidata.org/entity/Q5511485"
+  },
+  "alt-names": [
+    "carlson"
+  ],
+  "iorter": [
+    "Alfhöjd",
+    "Karlshamn",
+    "Mölndal"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Vilhelm%20Carlson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q99292766",
+      "link": "https://www.wikidata.org/wiki/Q99292766"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQTQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQTQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

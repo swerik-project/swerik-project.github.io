@@ -1,0 +1,61 @@
+{
+  "name": "john löfroth",
+  "swerik-id": "i-75ttWzF69yPdYNh4nr1qe5",
+  "DOB": "1896-06-14",
+  "DOD": "1966-10-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Luleå domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570636"
+  },
+  "place-of-death": {
+    "place": "Luleå domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570636"
+  },
+  "alt-names": [
+    "john gotthard löfroth",
+    "löfroth"
+  ],
+  "iorter": [
+    "Kiruna",
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1961-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1958-04-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20L%C3%B6froth%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6151403",
+      "link": "https://www.wikidata.org/wiki/Q6151403"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRbA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRbA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

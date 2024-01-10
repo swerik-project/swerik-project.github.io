@@ -1,0 +1,51 @@
+{
+  "name": "august tamm",
+  "swerik-id": "i-2hfMSTsSUKSgHWaXH2bxMc",
+  "DOB": "1840-06-08",
+  "DOD": "1905-01-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Funbo församling",
+    "link": "http://www.wikidata.org/entity/Q10500089"
+  },
+  "place-of-death": {
+    "place": "Fogelstad",
+    "link": "http://www.wikidata.org/entity/Q10497280"
+  },
+  "alt-names": [
+    "carl august tamm",
+    "tamm"
+  ],
+  "iorter": [
+    "Fogelstad"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1905-01-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Tamm%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6203631",
+      "link": "https://www.wikidata.org/wiki/Q6203631"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP3A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP3A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

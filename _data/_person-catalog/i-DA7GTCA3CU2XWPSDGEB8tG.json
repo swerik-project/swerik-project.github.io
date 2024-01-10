@@ -1,0 +1,72 @@
+{
+  "name": "sten stendahl",
+  "swerik-id": "i-DA7GTCA3CU2XWPSDGEB8tG",
+  "DOB": "1876-11-20",
+  "DOD": "1954-08-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Askome församling",
+    "link": "http://www.wikidata.org/entity/Q10419830"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "stendahl"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1937-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sten%20Stendahl%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6188957",
+      "link": "https://www.wikidata.org/wiki/Q6188957"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABFUQ",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABFUQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNcg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNcg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1937"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1919",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

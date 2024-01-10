@@ -1,0 +1,70 @@
+{
+  "name": "bernhard näsgård",
+  "swerik-id": "i-TaW174KWoVEkH4KpnMRVNc",
+  "DOB": "1891-04-16",
+  "DOD": "1957-07-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Österfärnebo församling",
+    "link": "http://www.wikidata.org/entity/Q10727848"
+  },
+  "place-of-death": {
+    "place": "Solna församling",
+    "link": "http://www.wikidata.org/entity/Q10673304"
+  },
+  "alt-names": [
+    "näsgård"
+  ],
+  "iorter": [
+    "Äppelviken",
+    "Österfärnebo"
+  ],
+  "positions": [
+    {
+      "start": "1957-02-01 00:00:00",
+      "end": "1957-07-08 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1957-07-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bernhard%20N%C3%A4sg%C3%A5rd%201891%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6020901",
+      "link": "https://www.wikidata.org/wiki/Q6020901"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8518",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8518"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOoQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOoQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "wbbNj8LLWMAAAAAAAABd3Q",
+      "link": "https://portrattarkiv.se/details/wbbNj8LLWMAAAAAAAABd3Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

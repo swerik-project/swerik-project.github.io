@@ -1,0 +1,117 @@
+{
+  "name": "gösta tamm",
+  "swerik-id": "i-9xnJYWRw1BWmFV8LVCC5EH",
+  "DOB": "1866-04-15",
+  "DOD": "1931-07-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Films församling",
+    "link": "http://www.wikidata.org/entity/Q10495202"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "gustaf tamm",
+    "tamm"
+  ],
+  "iorter": [
+    "Malstanäs"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns södra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1905-11-07 00:00:00",
+      "end": "1906-05-29 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff I",
+      "district": null
+    },
+    {
+      "start": "1905-11-07 00:00:00",
+      "end": "1906-05-29 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff I",
+      "district": null
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Villåttinge härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20%28G%C3%B6sta%29%20Tamm%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6203659",
+      "link": "https://www.wikidata.org/wiki/Q6203659"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAA4g",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAA4g"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQBQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQBQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1915",
+      "end": "1916"
+    },
+    {
+      "party": {
+        "name": "Frisinnade försvarsvänner",
+        "party-id": "Q10499214"
+      },
+      "start": "1914",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1914"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

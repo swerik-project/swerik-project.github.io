@@ -1,0 +1,90 @@
+{
+  "name": "bengt hurtig",
+  "swerik-id": "i-PTwgnmFQaFTXvr8SByLQzu",
+  "DOB": "1939-07-07",
+  "DOD": "2010-07-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ludvika församling",
+    "link": "http://www.wikidata.org/entity/Q10570482"
+  },
+  "place-of-death": {
+    "place": "Piteå församling",
+    "link": "http://www.wikidata.org/entity/Q10632411"
+  },
+  "alt-names": [
+    "bengt valter hurtig",
+    "hurtig"
+  ],
+  "iorter": [
+    "Piteå"
+  ],
+  "positions": [
+    {
+      "start": "1995-10-10 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1989-10-01 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5817672",
+      "link": "https://www.wikidata.org/wiki/Q5817672"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0936271144504",
+      "link": "https://data.riksdagen.se/personlista/?iid=0936271144504&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "255b2663-7060-4304-b515-8a9f8b6fa303",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_255b2663-7060-4304-b515-8a9f8b6fa303"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1995-10-10",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "elin lundgren",
+  "swerik-id": "i-MRoARQLVygJYbBWvcAjNcB",
+  "DOB": "1978-09-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Söderhamn",
+    "link": "http://www.wikidata.org/entity/Q746839"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elin%20Lundgren.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4989123",
+      "link": "https://www.wikidata.org/wiki/Q4989123"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "089246126523",
+      "link": "https://data.riksdagen.se/personlista/?iid=089246126523&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a6beb479-16a2-443e-b0ea-e9c14639064c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a6beb479-16a2-443e-b0ea-e9c14639064c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

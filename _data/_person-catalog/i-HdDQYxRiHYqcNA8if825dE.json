@@ -1,0 +1,51 @@
+{
+  "name": "david boman",
+  "swerik-id": "i-HdDQYxRiHYqcNA8if825dE",
+  "DOB": "1888-02-02",
+  "DOD": "1956-12-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mörlunda församling",
+    "link": "http://www.wikidata.org/entity/Q10593668"
+  },
+  "place-of-death": {
+    "place": "Ekerö församling",
+    "link": "http://www.wikidata.org/entity/Q10480598"
+  },
+  "alt-names": [
+    "boman",
+    "karl david ansgarius boman"
+  ],
+  "iorter": [
+    "Stafsund"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Boman%201888%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5231532",
+      "link": "https://www.wikidata.org/wiki/Q5231532"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeCA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeCA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

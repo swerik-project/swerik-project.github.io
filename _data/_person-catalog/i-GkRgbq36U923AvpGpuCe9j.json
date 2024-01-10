@@ -1,0 +1,90 @@
+{
+  "name": "anders henrikson",
+  "swerik-id": "i-GkRgbq36U923AvpGpuCe9j",
+  "DOB": "1869-11-16",
+  "DOD": "1933-11-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Årstads församling",
+    "link": "http://www.wikidata.org/entity/Q10726744"
+  },
+  "place-of-death": {
+    "place": "Årstads församling",
+    "link": "http://www.wikidata.org/entity/Q10726744"
+  },
+  "alt-names": [
+    "henrikson"
+  ],
+  "iorter": [
+    "Heberg"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1929-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Årstads och Faurås häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Henrikson%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5873444",
+      "link": "https://www.wikidata.org/wiki/Q5873444"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAABLVQ",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAABLVQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnmA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnmA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1922",
+      "end": "1929"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

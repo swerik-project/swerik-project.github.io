@@ -1,0 +1,68 @@
+{
+  "name": "anders svensson",
+  "swerik-id": "i-PJU54SPshkkjQaYdL3wbfN",
+  "DOB": "1833-04-13",
+  "DOD": "1902-06-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lösens församling",
+    "link": "http://www.wikidata.org/entity/Q10572902"
+  },
+  "place-of-death": {
+    "place": "Lösens församling",
+    "link": "http://www.wikidata.org/entity/Q10572902"
+  },
+  "alt-names": [
+    "anders swensson",
+    "swensson"
+  ],
+  "iorter": [
+    "Lösen"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1889-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Svensson%20L%C3%B6sen.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198243",
+      "link": "https://www.wikidata.org/wiki/Q6198243"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQLA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQLA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1889"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1873",
+      "end": "1877"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

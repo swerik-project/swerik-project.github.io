@@ -1,0 +1,58 @@
+{
+  "name": "daniel lönn",
+  "swerik-id": "i-DuCgc7X8a4wHuXxQm37d7Z",
+  "DOB": "2001-08-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-01-18 00:00:00",
+      "end": "2023-03-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q116256367",
+      "link": "https://www.wikidata.org/wiki/Q116256367"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0998575875190",
+      "link": "https://data.riksdagen.se/personlista/?iid=0998575875190&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "6e97eb35-d3aa-4dcb-a974-4f22934629cb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_6e97eb35-d3aa-4dcb-a974-4f22934629cb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2023-01-18",
+      "end": "2023-03-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

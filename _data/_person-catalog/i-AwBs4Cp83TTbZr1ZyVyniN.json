@@ -1,0 +1,117 @@
+{
+  "name": "olof olsson",
+  "swerik-id": "i-AwBs4Cp83TTbZr1ZyVyniN",
+  "DOB": "1872-06-18",
+  "DOD": "1939-12-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Smedstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10671963"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "hedna olle",
+    "olsson",
+    "olsson med håret"
+  ],
+  "iorter": [
+    "Göteborg",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1939-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1924-10-18 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting III",
+      "district": null
+    },
+    {
+      "start": "1924-10-18 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sandler",
+      "district": null
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1919-11-28 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1919-11-28 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Edén",
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1939-12-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Olsson%201929.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027656",
+      "link": "https://www.wikidata.org/wiki/Q6027656"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7790",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7790"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAX2A",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAX2A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgR0w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgR0w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

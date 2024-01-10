@@ -1,0 +1,51 @@
+{
+  "name": "jakob fogelin",
+  "swerik-id": "i-vv3qi37uGEV4YUv1xZ3Zk",
+  "DOB": "1820-07-28",
+  "DOD": "1899-03-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mariestads församling",
+    "link": "http://www.wikidata.org/entity/Q10577363"
+  },
+  "place-of-death": {
+    "place": "Breviks församling",
+    "link": "http://www.wikidata.org/entity/Q10435183"
+  },
+  "alt-names": [
+    "carl jacob fogelin",
+    "fogelin"
+  ],
+  "iorter": [
+    "Hintzegården"
+  ],
+  "positions": [
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1886-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Fogelin%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5734900",
+      "link": "https://www.wikidata.org/wiki/Q5734900"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd-Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd-Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

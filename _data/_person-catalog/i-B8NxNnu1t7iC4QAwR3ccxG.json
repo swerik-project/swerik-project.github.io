@@ -1,0 +1,55 @@
+{
+  "name": "johan severin almer",
+  "swerik-id": "i-B8NxNnu1t7iC4QAwR3ccxG",
+  "DOB": "1861-05-13",
+  "DOD": "1927-05-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grimetons församling",
+    "link": "http://www.wikidata.org/entity/Q10508810"
+  },
+  "place-of-death": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "alt-names": [
+    "almer"
+  ],
+  "iorter": [
+    "Varberg"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%20S%20Almer%20SPA10.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5547336",
+      "link": "https://www.wikidata.org/wiki/Q5547336"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAo5Q",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAo5Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnfg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnfg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

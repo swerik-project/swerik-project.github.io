@@ -1,0 +1,116 @@
+{
+  "name": "gunnar wennerberg",
+  "swerik-id": "i-U1NfXLExmstEEYumsy2WHu",
+  "DOB": "1817-10-02",
+  "DOD": "1901-08-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lidköpings församling",
+    "link": "http://www.wikidata.org/entity/Q10561393"
+  },
+  "place-of-death": {
+    "place": "Läckö slott",
+    "link": "http://www.wikidata.org/entity/Q935973"
+  },
+  "alt-names": [
+    "gunnar wennerberg den yngre",
+    "gunnar wennerberg dy",
+    "wennerberg"
+  ],
+  "iorter": [
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1891-11-06 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Boström I",
+      "district": null
+    },
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1891-11-06 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Gillis Bildt",
+      "district": null
+    },
+    {
+      "start": "1888-02-06 00:00:00",
+      "end": "1891-11-06 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Åkerhielm",
+      "district": null
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1901-08-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1870-06-03 00:00:00",
+      "end": "1875-05-11 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Adlercreutz",
+      "district": null
+    },
+    {
+      "start": "1870-06-03 00:00:00",
+      "end": "1875-05-11 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carleson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Wennerberg%20-%201878.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1388588",
+      "link": "https://www.wikidata.org/wiki/Q1388588"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABmAg",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABmAg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28039",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28039"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQrA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQrA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1901"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

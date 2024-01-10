@@ -1,0 +1,72 @@
+{
+  "name": "mauritz västberg",
+  "swerik-id": "i-VAMU813hn5oo8CeeRvxacA",
+  "DOB": "1886-09-17",
+  "DOD": "1982-11-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sandvikens församling",
+    "link": "http://www.wikidata.org/entity/Q10661257"
+  },
+  "place-of-death": {
+    "place": "Högalids församling",
+    "link": "http://www.wikidata.org/entity/Q10532196"
+  },
+  "alt-names": [
+    "johan mauritz västberg",
+    "moje",
+    "västberg"
+  ],
+  "iorter": [
+    "Sundsvall",
+    "Åkeshov"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mauritz%20V%C3%A4stberg.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6227721",
+      "link": "https://www.wikidata.org/wiki/Q6227721"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "88fEYD5OMjAAAAAAAAAIWA",
+      "link": "https://portrattarkiv.se/details/88fEYD5OMjAAAAAAAAAIWA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:64082",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:64082"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfkg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfkg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,143 @@
+{
+  "name": "jakob forssmed",
+  "swerik-id": "i-TodycJLEopZCV6uNkQANDV",
+  "DOB": "1974-12-28",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Huskvarna församling",
+    "link": "http://www.wikidata.org/entity/Q10527412"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jakob petter forssmed"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2020-02-21 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2020-01-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2017-02-13 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2016-03-05 00:00:00",
+      "end": "2017-01-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2016-01-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2004-04-26 00:00:00",
+      "end": "2004-05-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2003-04-15 00:00:00",
+      "end": "2003-06-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Forssmed.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5737841",
+      "link": "https://www.wikidata.org/wiki/Q5737841"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0982795248728",
+      "link": "https://data.riksdagen.se/personlista/?iid=0982795248728&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0ab695ba-6994-11d7-ae76-0004755038ce",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0ab695ba-6994-11d7-ae76-0004755038ce"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

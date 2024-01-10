@@ -1,0 +1,89 @@
+{
+  "name": "barbro sandberg",
+  "swerik-id": "i-8upA7fUmJDG9eshM6xjAMc",
+  "DOB": "1935-09-08",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sandberg"
+  ],
+  "iorter": [
+    "Enköping"
+  ],
+  "positions": [
+    {
+      "start": "1991-10-01 00:00:00",
+      "end": "1992-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1982-11-22 00:00:00",
+      "end": "1982-12-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4976788",
+      "link": "https://www.wikidata.org/wiki/Q4976788"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0311009915309",
+      "link": "https://data.riksdagen.se/personlista/?iid=0311009915309&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "038e1436-c698-420d-b61b-363ace845f90",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_038e1436-c698-420d-b61b-363ace845f90"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1991-10-01",
+      "end": "1992-01-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

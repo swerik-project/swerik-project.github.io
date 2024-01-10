@@ -1,0 +1,76 @@
+{
+  "name": "edvard fleetwood",
+  "swerik-id": "i-TVhe1CTwJ8r6t8pEqUNsdT",
+  "DOB": "1862-05-08",
+  "DOD": "1924-05-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Höreda församling",
+    "link": "http://www.wikidata.org/entity/Q10532597"
+  },
+  "place-of-death": {
+    "place": "Odensvi församling",
+    "link": "http://www.wikidata.org/entity/Q10606825"
+  },
+  "alt-names": [
+    "fleetwood"
+  ],
+  "iorter": [
+    "Odensviholm"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Tjusts härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Fleetwood%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5732911",
+      "link": "https://www.wikidata.org/wiki/Q5732911"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdBQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdBQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1919",
+      "end": "1919"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

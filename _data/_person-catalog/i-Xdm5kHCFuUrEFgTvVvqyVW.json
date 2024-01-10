@@ -1,0 +1,60 @@
+{
+  "name": "peter lundgren",
+  "swerik-id": "i-Xdm5kHCFuUrEFgTvVvqyVW",
+  "DOB": "1963-02-02",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bjuvs församling",
+    "link": "http://www.wikidata.org/entity/Q10430442"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Lundgren%20%28politiker%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16633235",
+      "link": "https://www.wikidata.org/wiki/Q16633235"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0911280492610",
+      "link": "https://data.riksdagen.se/personlista/?iid=0911280492610&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "785c3ee8-ecaa-4016-9e1b-b14374964ccb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_785c3ee8-ecaa-4016-9e1b-b14374964ccb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2014-09-29",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

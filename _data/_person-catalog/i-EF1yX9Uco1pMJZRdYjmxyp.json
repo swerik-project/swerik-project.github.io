@@ -1,0 +1,72 @@
+{
+  "name": "lars pålsson",
+  "swerik-id": "i-EF1yX9Uco1pMJZRdYjmxyp",
+  "DOB": "1833-05-09",
+  "DOD": "1901-01-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hemmesdynge församling",
+    "link": "http://www.wikidata.org/entity/Q10521801"
+  },
+  "place-of-death": {
+    "place": "Hemmesdynge församling",
+    "link": "http://www.wikidata.org/entity/Q10521801"
+  },
+  "alt-names": [
+    "pålsson"
+  ],
+  "iorter": [
+    "Hemmesdynge"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vemmenhögs härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20P%C3%A5lsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6058758",
+      "link": "https://www.wikidata.org/wiki/Q6058758"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAABNwg",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAABNwg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRtQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRtQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1890"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1887",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

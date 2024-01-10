@@ -1,0 +1,56 @@
+{
+  "name": "oscar larsson",
+  "swerik-id": "i-QJ5CoYquRwCRBFACN6heBR",
+  "DOB": "1880-11-10",
+  "DOD": "1979-11-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Carl Johans församling",
+    "link": "http://www.wikidata.org/entity/Q10512805"
+  },
+  "place-of-death": {
+    "place": "Tegneby församling",
+    "link": "http://www.wikidata.org/entity/Q10691869"
+  },
+  "alt-names": [
+    "larsson",
+    "oscar edvin larsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-04-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20larsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938450",
+      "link": "https://www.wikidata.org/wiki/Q5938450"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNTA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNTA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:72645",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:72645"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

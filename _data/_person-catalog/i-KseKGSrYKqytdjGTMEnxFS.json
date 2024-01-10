@@ -1,0 +1,63 @@
+{
+  "name": "bo g jenevall",
+  "swerik-id": "i-KseKGSrYKqytdjGTMEnxFS",
+  "DOB": "1933-11-25",
+  "DOD": "2015-03-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "place-of-death": {
+    "place": "Hägerstens församling",
+    "link": "http://www.wikidata.org/entity/Q10531256"
+  },
+  "alt-names": [
+    "bo gunnar jenevall",
+    "jenevall"
+  ],
+  "iorter": [
+    "Älvängen"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5881540",
+      "link": "https://www.wikidata.org/wiki/Q5881540"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "075608413801",
+      "link": "https://data.riksdagen.se/personlista/?iid=075608413801&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d580453d-2452-494c-8efd-03cf62600281",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d580453d-2452-494c-8efd-03cf62600281"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Ny demokrati",
+        "party-id": "Q967278"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

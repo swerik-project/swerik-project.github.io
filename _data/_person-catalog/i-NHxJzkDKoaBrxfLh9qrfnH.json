@@ -1,0 +1,78 @@
+{
+  "name": "pyry niemi",
+  "swerik-id": "i-NHxJzkDKoaBrxfLh9qrfnH",
+  "DOB": "1965-01-07",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sandviken",
+    "link": "http://www.wikidata.org/entity/Q54756"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Pyry%20Niemi.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6007973",
+      "link": "https://www.wikidata.org/wiki/Q6007973"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0752691002718",
+      "link": "https://data.riksdagen.se/personlista/?iid=0752691002718&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f0303245-c279-46dc-bffb-549d300db73a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f0303245-c279-46dc-bffb-549d300db73a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

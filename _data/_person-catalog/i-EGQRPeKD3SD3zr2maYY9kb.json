@@ -1,0 +1,43 @@
+{
+  "name": "carl ingvar wåhlin",
+  "swerik-id": "i-EGQRPeKD3SD3zr2maYY9kb",
+  "DOB": "1841-10-11",
+  "DOD": "1894-10-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlshamn",
+    "link": "http://www.wikidata.org/entity/Q54769"
+  },
+  "place-of-death": {
+    "place": "Solna församling",
+    "link": "http://www.wikidata.org/entity/Q10673304"
+  },
+  "alt-names": [
+    "wåhlin"
+  ],
+  "iorter": [
+    "Arboga"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Arboga och Sala valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6248361",
+      "link": "https://www.wikidata.org/wiki/Q6248361"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

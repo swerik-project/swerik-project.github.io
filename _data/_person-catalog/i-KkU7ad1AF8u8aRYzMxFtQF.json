@@ -1,0 +1,54 @@
+{
+  "name": "åke wiberg",
+  "swerik-id": "i-KkU7ad1AF8u8aRYzMxFtQF",
+  "DOB": "1902-03-30",
+  "DOD": "1963-11-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": "Stora Kils församling",
+    "link": "http://www.wikidata.org/entity/Q10681034"
+  },
+  "alt-names": [
+    "john åke truls wiberg",
+    "wiberg"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1949-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6239641",
+      "link": "https://www.wikidata.org/wiki/Q6239641"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSLA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSLA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:46858",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:46858"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

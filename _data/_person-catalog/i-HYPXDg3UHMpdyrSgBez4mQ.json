@@ -1,0 +1,60 @@
+{
+  "name": "axel darvik",
+  "swerik-id": "i-HYPXDg3UHMpdyrSgBez4mQ",
+  "DOB": "1982",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frihamnsdagarna%202022%20Foto%20Tommy%20Winterski%C3%B6ld%20Vestlie%20%2852361937939%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4830255",
+      "link": "https://www.wikidata.org/wiki/Q4830255"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0691468495629",
+      "link": "https://data.riksdagen.se/personlista/?iid=0691468495629&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ac6b34a6-570e-429f-b056-daedb4b814e7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ac6b34a6-570e-429f-b056-daedb4b814e7"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2002-09-30",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

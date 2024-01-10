@@ -1,0 +1,86 @@
+{
+  "name": "frans hansson",
+  "swerik-id": "i-KZuPNNVtba2gDJwzWp8LeR",
+  "DOB": "1890-10-20",
+  "DOD": "1965-12-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Öckerö församling",
+    "link": "http://www.wikidata.org/entity/Q10727064"
+  },
+  "place-of-death": {
+    "place": "Masthuggs församling",
+    "link": "http://www.wikidata.org/entity/Q10578167"
+  },
+  "alt-names": [
+    "frans einar hansson",
+    "hansson"
+  ],
+  "iorter": [
+    "Hönö"
+  ],
+  "positions": [
+    {
+      "start": "1942-01-01 00:00:00",
+      "end": "1943-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs och Bohus läns landstingsområdes valkrets"
+    },
+    {
+      "start": "1937-03-05 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs och Bohus läns landstingsområdes valkrets"
+    },
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hansson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5789087",
+      "link": "https://www.wikidata.org/wiki/Q5789087"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSpg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSpg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1942",
+      "end": "1943"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

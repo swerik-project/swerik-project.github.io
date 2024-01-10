@@ -1,0 +1,49 @@
+{
+  "name": "einar osterman",
+  "swerik-id": "i-RMrBpsGEVHWEpQv78gCgAT",
+  "DOB": "1902-06-20",
+  "DOD": "1964-03-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Masthuggs församling",
+    "link": "http://www.wikidata.org/entity/Q10578167"
+  },
+  "place-of-death": {
+    "place": "Sundsvalls församling",
+    "link": "http://www.wikidata.org/entity/Q10683835"
+  },
+  "alt-names": [
+    "einar gustaf edvard osterman",
+    "osterman"
+  ],
+  "iorter": [
+    "Sundsvall"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6030511",
+      "link": "https://www.wikidata.org/wiki/Q6030511"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfaw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfaw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

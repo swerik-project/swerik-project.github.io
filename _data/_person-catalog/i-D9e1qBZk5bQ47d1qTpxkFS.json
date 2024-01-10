@@ -1,0 +1,76 @@
+{
+  "name": "erland von hofsten",
+  "swerik-id": "i-D9e1qBZk5bQ47d1qTpxkFS",
+  "DOB": "1870-05-02",
+  "DOD": "1956-08-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mariestads församling",
+    "link": "http://www.wikidata.org/entity/Q10577363"
+  },
+  "place-of-death": {
+    "place": "Töreboda",
+    "link": "http://www.wikidata.org/entity/Q1485924"
+  },
+  "alt-names": [
+    "carl adolf erland von hofsten",
+    "von hofsten"
+  ],
+  "iorter": [
+    "Borrud",
+    "Lidköping"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5809244",
+      "link": "https://www.wikidata.org/wiki/Q5809244"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdgA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdgA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1919",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1917"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

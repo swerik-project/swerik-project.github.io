@@ -1,0 +1,85 @@
+{
+  "name": "marie louise rönnmark",
+  "swerik-id": "i-Xve78QBoJcDPDiH8icRzhE",
+  "DOB": "1954",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2017-10-19 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2017-09-13 00:00:00",
+      "end": "2017-10-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2016-10-01 00:00:00",
+      "end": "2017-04-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2002-04-02 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21585331",
+      "link": "https://www.wikidata.org/wiki/Q21585331"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0771287795114",
+      "link": "https://data.riksdagen.se/personlista/?iid=0771287795114&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7ef99f19-4d1a-11d6-ae8d-0040ca16a6a7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7ef99f19-4d1a-11d6-ae8d-0040ca16a6a7"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2017-10-19",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

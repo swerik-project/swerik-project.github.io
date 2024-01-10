@@ -1,0 +1,84 @@
+{
+  "name": "fredrik afzelius",
+  "swerik-id": "i-H89jnC5kpgnhkgix1qJ97f",
+  "DOB": "1812-12-07",
+  "DOD": "1896-03-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Films församling",
+    "link": "http://www.wikidata.org/entity/Q10495202"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "afzelius",
+    "fredrik georg afzelius"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Georg%20Afzelius%20sj9PGLAlnmUAAAAAAA3qvw%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3087232",
+      "link": "https://www.wikidata.org/wiki/Q3087232"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5582",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5582"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4GOA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4GOA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:146",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:146"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN-A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN-A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1873",
+      "end": "1875"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

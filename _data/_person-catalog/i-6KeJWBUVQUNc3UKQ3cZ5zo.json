@@ -1,0 +1,52 @@
+{
+  "name": "olof wiklund",
+  "swerik-id": "i-6KeJWBUVQUNc3UKQ3cZ5zo",
+  "DOB": "1902-04-12",
+  "DOD": "1986-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Piteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10632414"
+  },
+  "place-of-death": {
+    "place": "Boden",
+    "link": "http://www.wikidata.org/entity/Q586179"
+  },
+  "alt-names": [
+    "olof valfrid wiklund",
+    "wiklund"
+  ],
+  "iorter": [
+    "Ulvsunda",
+    "Öjebyn"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1962-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Valfrid%20Wiklund%201902%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6241396",
+      "link": "https://www.wikidata.org/wiki/Q6241396"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRcA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRcA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

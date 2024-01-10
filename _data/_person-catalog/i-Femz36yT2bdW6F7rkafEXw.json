@@ -1,0 +1,59 @@
+{
+  "name": "olof östling",
+  "swerik-id": "i-Femz36yT2bdW6F7rkafEXw",
+  "DOB": "1825-04-02",
+  "DOD": "1888-12-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Valbo församling",
+    "link": "http://www.wikidata.org/entity/Q10712147"
+  },
+  "place-of-death": {
+    "place": "Valbo församling",
+    "link": "http://www.wikidata.org/entity/Q10712147"
+  },
+  "alt-names": [
+    "östling"
+  ],
+  "iorter": [
+    "Valbo"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hille och Valbo tingslag"
+    },
+    {
+      "start": "1869-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ockelbo och Hamrånge tingslag"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20%C3%96stling%201822%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6258086",
+      "link": "https://www.wikidata.org/wiki/Q6258086"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOTw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOTw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

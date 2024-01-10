@@ -1,0 +1,39 @@
+{
+  "name": "reidunn lauren",
+  "swerik-id": "i-6LsHqox8MeZANsGwVPy5Sr",
+  "DOB": "1931-08-11",
+  "DOD": "2022-08-15",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Östersund",
+    "link": "http://www.wikidata.org/entity/Q26515"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1991-10-04 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "biträdande justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carl Bildt",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4961261",
+      "link": "https://www.wikidata.org/wiki/Q4961261"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

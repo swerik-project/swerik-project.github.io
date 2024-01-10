@@ -1,0 +1,56 @@
+{
+  "name": "samuel von troil",
+  "swerik-id": "i-9fibvuHttW7hnzuhVZKV7i",
+  "DOB": "1804-05-05",
+  "DOD": "1880-11-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "alt-names": [
+    "samuel gustaf von troil",
+    "von troil"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Gustaf%20von%20Troil.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6215514",
+      "link": "https://www.wikidata.org/wiki/Q6215514"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAjAw",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAjAw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSHw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSHw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

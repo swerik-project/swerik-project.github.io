@@ -1,0 +1,43 @@
+{
+  "name": "nels nelsson",
+  "swerik-id": "i-WLoFxaLkejd7AC3MveQKJM",
+  "DOB": "1881-12-11",
+  "DOD": "1962-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ysane församling",
+    "link": "http://www.wikidata.org/entity/Q10723770"
+  },
+  "place-of-death": {
+    "place": "Ysane församling",
+    "link": "http://www.wikidata.org/entity/Q10723770"
+  },
+  "alt-names": [
+    "nelsson"
+  ],
+  "iorter": [
+    "Ekengård"
+  ],
+  "positions": [
+    {
+      "start": "1940-11-16 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6156371",
+      "link": "https://www.wikidata.org/wiki/Q6156371"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

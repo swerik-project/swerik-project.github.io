@@ -1,0 +1,55 @@
+{
+  "name": "britta holmström",
+  "swerik-id": "i-YTXBfJjB5F6hG8mLPo69DV",
+  "DOB": "1911-04-08",
+  "DOD": "1992-10-04",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vallsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10712386"
+  },
+  "place-of-death": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "alt-names": [
+    "holmström"
+  ],
+  "iorter": [
+    "Linköping"
+  ],
+  "positions": [
+    {
+      "start": "1952-12-03 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Britta%20Holmstr%C3%B6m%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4954629",
+      "link": "https://www.wikidata.org/wiki/Q4954629"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaXA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaXA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:41095",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:41095"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

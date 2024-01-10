@@ -1,0 +1,79 @@
+{
+  "name": "olof jonsson",
+  "swerik-id": "i-WFAgacpHQWjHhsNNuUmKTE",
+  "DOB": "1839-11-17",
+  "DOD": "1930-08-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10417106"
+  },
+  "place-of-death": {
+    "place": "Arbrå församling",
+    "link": "http://www.wikidata.org/entity/Q10417106"
+  },
+  "alt-names": [
+    "jonsson"
+  ],
+  "iorter": [
+    "Hov",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1904-01-01 00:00:00",
+      "end": "1916-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Hälsinglands domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Jonsson%20i%20Hof%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5891896",
+      "link": "https://www.wikidata.org/wiki/Q5891896"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12203",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12203"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Di4a42b6X_AAAAAAAACtrw",
+      "link": "https://portrattarkiv.se/details/Di4a42b6X_AAAAAAAACtrw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOmw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOmw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

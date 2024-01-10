@@ -1,0 +1,82 @@
+{
+  "name": "gustav mosesson",
+  "swerik-id": "i-NHCP9E67fqZbogaGJzcjhQ",
+  "DOB": "1877-11-06",
+  "DOD": "1965-06-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kvistbro församling",
+    "link": "http://www.wikidata.org/entity/Q10551192"
+  },
+  "place-of-death": {
+    "place": "Lidingö församling",
+    "link": "http://www.wikidata.org/entity/Q11057477"
+  },
+  "alt-names": [
+    "gustav adolf mosesson",
+    "mosesson"
+  ],
+  "iorter": [
+    "Lidingö"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1951-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1933-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Mosesson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5994972",
+      "link": "https://www.wikidata.org/wiki/Q5994972"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9521",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9521"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge7w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge7w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1937",
+      "end": "1951"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1925",
+      "end": "1933"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

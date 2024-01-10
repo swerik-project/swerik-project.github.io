@@ -1,0 +1,59 @@
+{
+  "name": "axel lilljequist",
+  "swerik-id": "i-Ge2wFYqok1JgSLNhDh5TR9",
+  "DOB": "1836-10-17",
+  "DOD": "1907-07-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Carl Johans församling",
+    "link": "http://www.wikidata.org/entity/Q10512805"
+  },
+  "place-of-death": {
+    "place": "Fiskebäckskils församling",
+    "link": "http://www.wikidata.org/entity/Q10495774"
+  },
+  "alt-names": [
+    "liljequist"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Lilljequist%201836%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5952356",
+      "link": "https://www.wikidata.org/wiki/Q5952356"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTjA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTjA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1889",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

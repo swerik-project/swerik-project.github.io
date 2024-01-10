@@ -1,0 +1,76 @@
+{
+  "name": "nils åkesson",
+  "swerik-id": "i-W9tvTbGHVRAn6eSbXUt5fB",
+  "DOB": "1864-04-09",
+  "DOD": "1953-11-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tirups församling",
+    "link": "http://www.wikidata.org/entity/Q10698639"
+  },
+  "place-of-death": {
+    "place": "Rebbelberga församling",
+    "link": "http://www.wikidata.org/entity/Q10650061"
+  },
+  "alt-names": [
+    "åkesson"
+  ],
+  "iorter": [
+    "Rebbelberga"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Åsbo och Bjäre domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20%C3%85kesson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255630",
+      "link": "https://www.wikidata.org/wiki/Q6255630"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpug",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpug"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1919"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

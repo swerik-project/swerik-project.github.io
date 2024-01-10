@@ -1,0 +1,99 @@
+{
+  "name": "lars ahlmark",
+  "swerik-id": "i-J66uUcstry6kTEhq3eK6EY",
+  "DOB": "1935-03-15",
+  "DOD": "2008-11-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västanfors församling",
+    "link": "http://www.wikidata.org/entity/Q10717828"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ahlmark",
+    "lars folke ahlmark"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1976-10-11 00:00:00",
+      "end": "1978-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5544137",
+      "link": "https://www.wikidata.org/wiki/Q5544137"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0539819850007",
+      "link": "https://data.riksdagen.se/personlista/?iid=0539819850007&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e4536a28-be36-40ec-8c05-7924e0e7a55d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e4536a28-be36-40ec-8c05-7924e0e7a55d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

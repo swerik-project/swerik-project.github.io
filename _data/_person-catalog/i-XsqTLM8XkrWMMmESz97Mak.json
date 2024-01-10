@@ -1,0 +1,51 @@
+{
+  "name": "jon jonsson",
+  "swerik-id": "i-XsqTLM8XkrWMMmESz97Mak",
+  "DOB": "1867-01-18",
+  "DOD": "1939-08-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Delsbo församling",
+    "link": "http://www.wikidata.org/entity/Q10468281"
+  },
+  "place-of-death": {
+    "place": "Delsbo församling",
+    "link": "http://www.wikidata.org/entity/Q10468281"
+  },
+  "alt-names": [
+    "jonas jonsson",
+    "jonsson"
+  ],
+  "iorter": [
+    "Källeräng"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hälsinglands norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Jonsson%20SPA%201867%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5891726",
+      "link": "https://www.wikidata.org/wiki/Q5891726"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOdg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOdg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "ann sofie alm",
+  "swerik-id": "i-6ruCvq43bT8LMJiVTZpVMm",
+  "DOB": "1971-10-12",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Altuna församling",
+    "link": "http://www.wikidata.org/entity/Q10407034"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q59269310",
+      "link": "https://www.wikidata.org/wiki/Q59269310"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "028954589415",
+      "link": "https://data.riksdagen.se/personlista/?iid=028954589415&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f91f6a86-591c-449c-b3dd-1fdaa86338cd",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f91f6a86-591c-449c-b3dd-1fdaa86338cd"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

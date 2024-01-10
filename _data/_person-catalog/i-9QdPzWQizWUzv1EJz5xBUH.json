@@ -1,0 +1,51 @@
+{
+  "name": "frans schartau",
+  "swerik-id": "i-9QdPzWQizWUzv1EJz5xBUH",
+  "DOB": "1828-06-26",
+  "DOD": "1881-07-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sjösås församling",
+    "link": "http://www.wikidata.org/entity/Q10669543"
+  },
+  "place-of-death": {
+    "place": "Skultuna församling",
+    "link": "http://www.wikidata.org/entity/Q10670714"
+  },
+  "alt-names": [
+    "frans henrik johan schartau",
+    "schartau"
+  ],
+  "iorter": [
+    "Forsby"
+  ],
+  "positions": [
+    {
+      "start": "1871-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Schartau%201828%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6096470",
+      "link": "https://www.wikidata.org/wiki/Q6096470"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPNQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPNQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

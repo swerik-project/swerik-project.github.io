@@ -1,0 +1,70 @@
+{
+  "name": "anders peter westerberg",
+  "swerik-id": "i-FzRpmh8WLxVNu3HvPuDgvJ",
+  "DOB": "1828-11-30",
+  "DOD": "1909-06-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hjo stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58656816"
+  },
+  "place-of-death": {
+    "place": "Falköpings församling",
+    "link": "http://www.wikidata.org/entity/Q10493760"
+  },
+  "alt-names": [
+    "westerberg"
+  ],
+  "iorter": [
+    "Falköping"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Westerberg%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6237483",
+      "link": "https://www.wikidata.org/wiki/Q6237483"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAs0A",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAs0A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28930",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28930"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAszw",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAszw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABUkKw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABUkKw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeTA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeTA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

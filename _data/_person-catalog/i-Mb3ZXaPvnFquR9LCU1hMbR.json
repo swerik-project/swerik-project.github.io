@@ -1,0 +1,49 @@
+{
+  "name": "dan hovskär",
+  "swerik-id": "i-Mb3ZXaPvnFquR9LCU1hMbR",
+  "DOB": "1970-03-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114772325",
+      "link": "https://www.wikidata.org/wiki/Q114772325"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0635943298419",
+      "link": "https://data.riksdagen.se/personlista/?iid=0635943298419&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7673ff22-b111-483a-99cc-ca77f8cdda38",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7673ff22-b111-483a-99cc-ca77f8cdda38"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

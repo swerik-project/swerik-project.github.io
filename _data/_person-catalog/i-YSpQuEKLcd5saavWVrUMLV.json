@@ -1,0 +1,61 @@
+{
+  "name": "einar thulin",
+  "swerik-id": "i-YSpQuEKLcd5saavWVrUMLV",
+  "DOB": "1883-02-27",
+  "DOD": "1941-09-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "einar json thulin",
+    "johan einar ossian jönsson thulin",
+    "thulin"
+  ],
+  "iorter": [
+    "Stocksund"
+  ],
+  "positions": [
+    {
+      "start": "1940-01-01 00:00:00",
+      "end": "1941-09-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Einar%20Thulin%201883%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6209652",
+      "link": "https://www.wikidata.org/wiki/Q6209652"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga1A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga1A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

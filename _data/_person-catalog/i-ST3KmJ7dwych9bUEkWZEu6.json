@@ -1,0 +1,98 @@
+{
+  "name": "åsa romson",
+  "swerik-id": "i-ST3KmJ7dwych9bUEkWZEu6",
+  "DOB": "1972-03-22",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Salems församling",
+    "link": "http://www.wikidata.org/entity/Q10660414"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "åsa elisabeth romson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2016-06-07 00:00:00",
+      "end": "2017-07-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2016-05-25 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2013-05-18 00:00:00",
+      "end": "2014-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2012-11-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85sa%20Romson%202014.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q271230",
+      "link": "https://www.wikidata.org/wiki/Q271230"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0951854268017",
+      "link": "https://data.riksdagen.se/personlista/?iid=0951854268017&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "898afd1c-84a1-46f5-ab95-a84648831d0c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_898afd1c-84a1-46f5-ab95-a84648831d0c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2016-06-07",
+      "end": "2017-07-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,82 @@
+{
+  "name": "lotta edholm",
+  "swerik-id": "i-L9ZSh2ArmookNvPoaXVgbB",
+  "DOB": "1965-02-08",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Västerås domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10718088"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "edholm"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "skolminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1992-07-01 00:00:00",
+      "end": "1994-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "http://www.wikidata.org/.well-known/genid/7cf1ccf3337567d7c27362f1bbb0c1d4"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/All%20You%20Need%20is%20Love%20-%20Stockholm%20Pride%202014%20-%2016.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4945706",
+      "link": "https://www.wikidata.org/wiki/Q4945706"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "023001325318",
+      "link": "https://data.riksdagen.se/personlista/?iid=023001325318&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c759972c-f921-491a-b36d-d9de5858353a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c759972c-f921-491a-b36d-d9de5858353a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-10-03",
+      "end": "1994-10-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

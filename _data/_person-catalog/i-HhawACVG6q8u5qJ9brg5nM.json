@@ -1,0 +1,84 @@
+{
+  "name": "jöns andersson",
+  "swerik-id": "i-HhawACVG6q8u5qJ9brg5nM",
+  "DOB": "1838-02-04",
+  "DOD": "1927-03-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Asmundtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10419868"
+  },
+  "place-of-death": {
+    "place": "Asmundtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10419868"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Örstorp"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Harjagers och Rönnebergs häraders valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Harjagers och Rönnebergs häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6ns%20Andersson%201838%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555091",
+      "link": "https://www.wikidata.org/wiki/Q5555091"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgOvw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgOvw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1905",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "carl jacobson",
+  "swerik-id": "i-RL2hcNdhzHREop8X3xbMjU",
+  "DOB": "1878-05-09",
+  "DOD": "1938-08-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bolstads församling",
+    "link": "http://www.wikidata.org/entity/Q10432676"
+  },
+  "place-of-death": {
+    "place": "Bolstads församling",
+    "link": "http://www.wikidata.org/entity/Q10432676"
+  },
+  "alt-names": [
+    "carl jacobsson",
+    "jacobson"
+  ],
+  "iorter": [
+    "Rödjan"
+  ],
+  "positions": [
+    {
+      "start": "1938-01-01 00:00:00",
+      "end": "1938-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Jacobsson%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117221443",
+      "link": "https://www.wikidata.org/wiki/Q117221443"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZgg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZgg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

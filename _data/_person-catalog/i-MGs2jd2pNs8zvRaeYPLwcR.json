@@ -1,0 +1,71 @@
+{
+  "name": "inge garstedt",
+  "swerik-id": "i-MGs2jd2pNs8zvRaeYPLwcR",
+  "DOB": "1947-04-24",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "inge margareta garstedt"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "1991-10-15 00:00:00",
+      "end": "1991-11-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Inge%20Garstedt%201988.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3798648",
+      "link": "https://www.wikidata.org/wiki/Q3798648"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0706974423606",
+      "link": "https://data.riksdagen.se/personlista/?iid=0706974423606&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2e06480b-3b26-43e5-9126-a622377300eb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2e06480b-3b26-43e5-9126-a622377300eb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2006-10-02",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

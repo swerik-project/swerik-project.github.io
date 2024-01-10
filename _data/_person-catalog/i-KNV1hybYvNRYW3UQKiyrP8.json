@@ -1,0 +1,50 @@
+{
+  "name": "jan andersson",
+  "swerik-id": "i-KNV1hybYvNRYW3UQKiyrP8",
+  "DOB": "1819-03-25",
+  "DOD": "1903-05-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Garpenbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10503161"
+  },
+  "place-of-death": {
+    "place": "Hedemora",
+    "link": "http://www.wikidata.org/entity/Q1001183"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Jönvik"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hedemora domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Andersson.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554851",
+      "link": "https://www.wikidata.org/wiki/Q5554851"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUqQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUqQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

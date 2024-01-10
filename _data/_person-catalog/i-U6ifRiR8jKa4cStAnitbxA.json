@@ -1,0 +1,56 @@
+{
+  "name": "birger andersson",
+  "swerik-id": "i-U6ifRiR8jKa4cStAnitbxA",
+  "DOB": "1901-06-10",
+  "DOD": "1985-03-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tidaholms församling",
+    "link": "http://www.wikidata.org/entity/Q10697668"
+  },
+  "place-of-death": {
+    "place": "Tidaholms församling",
+    "link": "http://www.wikidata.org/entity/Q10697668"
+  },
+  "alt-names": [
+    "andersson",
+    "axel gustav birger andersson"
+  ],
+  "iorter": [
+    "Tidaholm"
+  ],
+  "positions": [
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Birger%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554162",
+      "link": "https://www.wikidata.org/wiki/Q5554162"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5mCw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5mCw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdhg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdhg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

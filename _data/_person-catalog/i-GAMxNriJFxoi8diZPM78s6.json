@@ -1,0 +1,60 @@
+{
+  "name": "paulina brandberg",
+  "swerik-id": "i-GAMxNriJFxoi8diZPM78s6",
+  "DOB": "1983",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Lund",
+    "link": "http://www.wikidata.org/entity/Q2167"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "biträdande arbetsmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Paulina%20Brandberg%20in%202022.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110656367",
+      "link": "https://www.wikidata.org/wiki/Q110656367"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "099099202224",
+      "link": "https://data.riksdagen.se/personlista/?iid=099099202224&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1be10c09-868c-4198-93bf-676b10f5b41a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1be10c09-868c-4198-93bf-676b10f5b41a"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

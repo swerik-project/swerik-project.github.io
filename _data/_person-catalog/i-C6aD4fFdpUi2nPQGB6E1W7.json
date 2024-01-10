@@ -1,0 +1,81 @@
+{
+  "name": "henrik cavalli",
+  "swerik-id": "i-C6aD4fFdpUi2nPQGB6E1W7",
+  "DOB": "1852-05-31",
+  "DOD": "1918-04-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Agunnaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10403622"
+  },
+  "place-of-death": {
+    "place": "Jakobs församling",
+    "link": "http://www.wikidata.org/entity/Q10539290"
+  },
+  "alt-names": [
+    "cavalli",
+    "per axel henrik cavalli"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/H.%20Cavalli%201913.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5605172",
+      "link": "https://www.wikidata.org/wiki/Q5605172"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16504",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16504"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO9g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO9g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1890",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "bino drummond",
+  "swerik-id": "i-vzV7JRMGMp9GTwq8PaW2Q",
+  "DOB": "1982-06-22",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fairfax",
+    "link": "http://www.wikidata.org/entity/Q501785"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bino christopher james drummond"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2013-01-01 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-08-16 00:00:00",
+      "end": "2012-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-04-19 00:00:00",
+      "end": "2012-08-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-03-19 00:00:00",
+      "end": "2012-04-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bino%20Drummond.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5624774",
+      "link": "https://www.wikidata.org/wiki/Q5624774"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0560258077929",
+      "link": "https://data.riksdagen.se/personlista/?iid=0560258077929&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "886569d7-8f62-4723-8bdf-52a2e27d08f1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_886569d7-8f62-4723-8bdf-52a2e27d08f1"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2013-01-01",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

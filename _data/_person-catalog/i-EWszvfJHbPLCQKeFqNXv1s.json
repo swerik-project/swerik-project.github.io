@@ -1,0 +1,112 @@
+{
+  "name": "bo von stockenström",
+  "swerik-id": "i-EWszvfJHbPLCQKeFqNXv1s",
+  "DOB": "1887-01-26",
+  "DOD": "1962-03-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svea artilleriregementes församling",
+    "link": "http://www.wikidata.org/entity/Q18333171"
+  },
+  "place-of-death": {
+    "place": "Gryts församling",
+    "link": "http://www.wikidata.org/entity/Q10509673"
+  },
+  "alt-names": [
+    "bo henrik von stockenström",
+    "von stockenström"
+  ],
+  "iorter": [
+    "Ånhammar"
+  ],
+  "positions": [
+    {
+      "start": "1930-06-07 00:00:00",
+      "end": "1932-09-24 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ekman II",
+      "district": null
+    },
+    {
+      "start": "1927-07-12 00:00:00",
+      "end": "1928-10-02 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ekman I",
+      "district": null
+    },
+    {
+      "start": "1923-01-01 00:00:00",
+      "end": "1942-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bo%20Stockenstr%C3%B6m%20SPA%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6190872",
+      "link": "https://www.wikidata.org/wiki/Q6190872"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "20296",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=20296"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABLgw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABLgw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQAQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQAQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1942"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1926",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "frisinnad vilde",
+        "party-id": "Q111478524"
+      },
+      "start": "1924",
+      "end": "1925"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1923",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "anders huss",
+  "swerik-id": "i-VEyMAa72WxGJubTqM1ugZG",
+  "DOB": "1841-10-08",
+  "DOD": "1903-07-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grundsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10509154"
+  },
+  "place-of-death": {
+    "place": "Sollefteå församling",
+    "link": "http://www.wikidata.org/entity/Q10673246"
+  },
+  "alt-names": [
+    "huss"
+  ],
+  "iorter": [
+    "Sollefteå"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands mellersta domsagas valkrets"
+    },
+    {
+      "start": "1883-05-02 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Sollefteå och Ramsele tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Huss%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5817882",
+      "link": "https://www.wikidata.org/wiki/Q5817882"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfaQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfaQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1888"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1883",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

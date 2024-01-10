@@ -1,0 +1,51 @@
+{
+  "name": "karl viklund",
+  "swerik-id": "i-CQhB6x9PhEPY4XxhzGDRx9",
+  "DOB": "1898-04-02",
+  "DOD": "1984-05-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ullångers församling",
+    "link": "http://www.wikidata.org/entity/Q10708795"
+  },
+  "place-of-death": {
+    "place": "Luleå domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570636"
+  },
+  "alt-names": [
+    "karl gustav viklund",
+    "viklund"
+  ],
+  "iorter": [
+    "Hortlax"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1946-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Viklund%201898%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6225117",
+      "link": "https://www.wikidata.org/wiki/Q6225117"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRbw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRbw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

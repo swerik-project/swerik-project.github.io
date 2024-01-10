@@ -1,0 +1,52 @@
+{
+  "name": "viktor lundqvist",
+  "swerik-id": "i-6QDkBniWn1m3pQEsyzfMZn",
+  "DOB": "1827-06-23",
+  "DOD": "1899-04-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skara landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669760"
+  },
+  "place-of-death": {
+    "place": "Skälvums församling",
+    "link": "http://www.wikidata.org/entity/Q10670930"
+  },
+  "alt-names": [
+    "herr j v lundqvist",
+    "lundqvist"
+  ],
+  "iorter": [
+    "Kållängen",
+    "Skälvum"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kinnefjärdings, Kinne och Kållands domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Victor%20Lundqvist%20Kongg%C3%A5rden%20Sj%C3%A4lvum.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5967563",
+      "link": "https://www.wikidata.org/wiki/Q5967563"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeZA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

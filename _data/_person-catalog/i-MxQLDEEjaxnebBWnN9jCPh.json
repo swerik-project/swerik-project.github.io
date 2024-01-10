@@ -1,0 +1,118 @@
+{
+  "name": "assar åkerman",
+  "swerik-id": "i-MxQLDEEjaxnebBWnN9jCPh",
+  "DOB": "1860-10-28",
+  "DOD": "1936-10-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gärdslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10512381"
+  },
+  "place-of-death": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "alt-names": [
+    "åkerman"
+  ],
+  "iorter": [
+    "Halmstad",
+    "Strömstad"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1920-06-30 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs och Bohus läns norra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Strömstads, Lysekils, Marstrands, Kungälvs och Åmåls valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Assar%20%C3%85kerman%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255333",
+      "link": "https://www.wikidata.org/wiki/Q6255333"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP8Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP8Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "xnPIH5lXePAAAAAAAAAJtw",
+      "link": "https://portrattarkiv.se/details/xnPIH5lXePAAAAAAAAAJtw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1919",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "lib vilde",
+        "party-id": "Q111476658"
+      },
+      "start": "1909",
+      "end": "1914"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

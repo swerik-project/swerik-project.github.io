@@ -1,0 +1,60 @@
+{
+  "name": "lars thomsson",
+  "swerik-id": "i-DWgcUDJTHbEcGKZqHxJj8C",
+  "DOB": "1964-04-24",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vänge församling",
+    "link": "http://www.wikidata.org/entity/Q10717378"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Thomsson%20%2848918104402%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q70731884",
+      "link": "https://www.wikidata.org/wiki/Q70731884"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0853831481615",
+      "link": "https://data.riksdagen.se/personlista/?iid=0853831481615&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e40dbf5a-203b-4744-84b0-a40ac2a763cb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e40dbf5a-203b-4744-84b0-a40ac2a763cb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

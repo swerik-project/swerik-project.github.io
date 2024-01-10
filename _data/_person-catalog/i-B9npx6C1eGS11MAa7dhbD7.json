@@ -1,0 +1,58 @@
+{
+  "name": "stefan caplan",
+  "swerik-id": "i-B9npx6C1eGS11MAa7dhbD7",
+  "DOB": "1965",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5602080",
+      "link": "https://www.wikidata.org/wiki/Q5602080"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0409551181119",
+      "link": "https://data.riksdagen.se/personlista/?iid=0409551181119&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0ba172f7-afca-43de-8f4b-96fe6c81775a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0ba172f7-afca-43de-8f4b-96fe6c81775a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

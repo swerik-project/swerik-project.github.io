@@ -1,0 +1,51 @@
+{
+  "name": "emanuel holmner",
+  "swerik-id": "i-RuLAKaNZniaCKYRcn51B2H",
+  "DOB": "1872-03-27",
+  "DOD": "1943-09-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stensele församling",
+    "link": "http://www.wikidata.org/entity/Q10679261"
+  },
+  "place-of-death": {
+    "place": "Stensele församling",
+    "link": "http://www.wikidata.org/entity/Q10679261"
+  },
+  "alt-names": [
+    "fredrik emanuel holmner",
+    "holmner"
+  ],
+  "iorter": [
+    "Gunnarn"
+  ],
+  "positions": [
+    {
+      "start": "1919-08-04 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20Holmner%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5811722",
+      "link": "https://www.wikidata.org/wiki/Q5811722"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb5A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb5A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

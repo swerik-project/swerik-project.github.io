@@ -1,0 +1,51 @@
+{
+  "name": "jon siljeström",
+  "swerik-id": "i-9TrnWeXFDK3Uh1XKbxtcmy",
+  "DOB": "1841-06-23",
+  "DOD": "1919-11-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kalmar domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10542836"
+  },
+  "place-of-death": {
+    "place": "Alingsås stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q57234599"
+  },
+  "alt-names": [
+    "jon gustaf siljeström",
+    "siljeström"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Siljestr%C3%B6m%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6175991",
+      "link": "https://www.wikidata.org/wiki/Q6175991"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkQw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkQw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

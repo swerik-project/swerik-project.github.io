@@ -1,0 +1,116 @@
+{
+  "name": "åsa lindhagen",
+  "swerik-id": "i-9CuY4EZ971YdyxJ8sudKc",
+  "DOB": "1980-05-15",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Norrtälje församling",
+    "link": "http://www.wikidata.org/entity/Q10602963"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "åsa maria lindhagen"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2021-07-09 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "biträdande finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven III",
+      "district": null
+    },
+    {
+      "start": "2021-02-05 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "finansmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2021-02-05 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "finansmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven III",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2021-02-05 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2021-07-09 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85saLindhagen.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q23916255",
+      "link": "https://www.wikidata.org/wiki/Q23916255"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "062367962120",
+      "link": "https://data.riksdagen.se/personlista/?iid=062367962120&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "de8826b0-fcf9-4305-86e3-c2680dfed224",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_de8826b0-fcf9-4305-86e3-c2680dfed224"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

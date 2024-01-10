@@ -1,0 +1,53 @@
+{
+  "name": "max elger",
+  "swerik-id": "i-E4AiRv2UMsiA9KQkJbXB8E",
+  "DOB": "1973-11-24",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "max christian elger"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "finansmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Andersson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Elger%202021.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q19976668",
+      "link": "https://www.wikidata.org/wiki/Q19976668"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0596495003124",
+      "link": "https://data.riksdagen.se/personlista/?iid=0596495003124&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7bea2d2e-2c18-4114-a4b3-477169b6837d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7bea2d2e-2c18-4114-a4b3-477169b6837d"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

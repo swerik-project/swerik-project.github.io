@@ -1,0 +1,60 @@
+{
+  "name": "leonard fahlander",
+  "swerik-id": "i-Vob6hqQX7xJmVsZEt2LqUi",
+  "DOB": "1819-04-23",
+  "DOD": "1881-04-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrbärke församling",
+    "link": "http://www.wikidata.org/entity/Q10602755"
+  },
+  "place-of-death": {
+    "place": "Bygdeå församling",
+    "link": "http://www.wikidata.org/entity/Q10438161"
+  },
+  "alt-names": [
+    "fahlander",
+    "leonard josef fahlander"
+  ],
+  "iorter": [
+    "Bäck"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens mellersta domsagas valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens mellersta domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Fahlander%201819%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5723085",
+      "link": "https://www.wikidata.org/wiki/Q5723085"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb1A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb1A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "joseph stephens",
+  "swerik-id": "i-PNvieUM2GWTgmE61U6djzk",
+  "DOB": "1841-07-13",
+  "DOD": "1934-02-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Skatelövs församling",
+    "link": "http://www.wikidata.org/entity/Q3486197"
+  },
+  "alt-names": [
+    "joseph samuel frithiof stephens",
+    "stephens"
+  ],
+  "iorter": [
+    "Huseby"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6189565",
+      "link": "https://www.wikidata.org/wiki/Q6189565"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:1379",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:1379"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

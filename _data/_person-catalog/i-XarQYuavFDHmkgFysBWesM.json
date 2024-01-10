@@ -1,0 +1,50 @@
+{
+  "name": "carl oskar troilius",
+  "swerik-id": "i-XarQYuavFDHmkgFysBWesM",
+  "DOB": "1813-01-26",
+  "DOD": "1899-12-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nora församling",
+    "link": "http://www.wikidata.org/entity/Q10601901"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "troilius"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Oscar%20Troilius.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6215529",
+      "link": "https://www.wikidata.org/wiki/Q6215529"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsUA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsUA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

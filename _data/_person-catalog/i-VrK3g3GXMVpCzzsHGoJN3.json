@@ -1,0 +1,50 @@
+{
+  "name": "carl gustaf hult",
+  "swerik-id": "i-VrK3g3GXMVpCzzsHGoJN3",
+  "DOB": "1841-05-01",
+  "DOD": "1912-02-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Målilla med Gårdveda församling",
+    "link": "http://www.wikidata.org/entity/Q10593318"
+  },
+  "place-of-death": {
+    "place": "Högsby församling",
+    "link": "http://www.wikidata.org/entity/Q10532363"
+  },
+  "alt-names": [
+    "hult"
+  ],
+  "iorter": [
+    "Staby"
+  ],
+  "positions": [
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gustaf%20Hult%201841%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5816360",
+      "link": "https://www.wikidata.org/wiki/Q5816360"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc-g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc-g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "stig genitz",
+  "swerik-id": "i-S2dKqrkJdxmobNqc5MbWaR",
+  "DOB": "1926-10-21",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Önums församling",
+    "link": "http://www.wikidata.org/entity/Q10727379"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1981-02-23 00:00:00",
+      "end": "1981-04-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
+      "start": "1979-03-05 00:00:00",
+      "end": "1979-04-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98271535",
+      "link": "https://www.wikidata.org/wiki/Q98271535"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1979-03-05",
+      "end": "1979-04-07"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

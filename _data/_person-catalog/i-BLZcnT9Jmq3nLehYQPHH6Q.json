@@ -1,0 +1,50 @@
+{
+  "name": "birgit hansson",
+  "swerik-id": "i-BLZcnT9Jmq3nLehYQPHH6Q",
+  "DOB": "1946-12-27",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "birgit valborg kristina hansson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1986-04-01 00:00:00",
+      "end": "1986-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4952585",
+      "link": "https://www.wikidata.org/wiki/Q4952585"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1986-04-01",
+      "end": "1986-04-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

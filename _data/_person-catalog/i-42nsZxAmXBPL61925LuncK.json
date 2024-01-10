@@ -1,0 +1,56 @@
+{
+  "name": "bleckert stenbäck",
+  "swerik-id": "i-42nsZxAmXBPL61925LuncK",
+  "DOB": "1836-08-06",
+  "DOD": "1904-12-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fors församling",
+    "link": "http://www.wikidata.org/entity/Q10498046"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "carl bleckert stenbäck",
+    "stenbäck"
+  ],
+  "iorter": [
+    "Kullinge"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo och Skinnskattebergs domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bleckert%20Stenb%C3%A4ck%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6188899",
+      "link": "https://www.wikidata.org/wiki/Q6188899"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABEGg",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABEGg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPEw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPEw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

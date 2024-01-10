@@ -1,0 +1,55 @@
+{
+  "name": "axel dickson",
+  "swerik-id": "i-TUcdPVCwA1wo5kK1FA9kqs",
+  "DOB": "1826-12-14",
+  "DOD": "1899-01-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": "Gåsinge församling",
+    "link": "http://www.wikidata.org/entity/Q10512578"
+  },
+  "alt-names": [
+    "dickson"
+  ],
+  "iorter": [
+    "Kyleberg"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1870-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Dickson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5621587",
+      "link": "https://www.wikidata.org/wiki/Q5621587"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaFg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:64412",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:64412"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "ola persson",
+  "swerik-id": "i-SsTURovZCn2oxRREqzvGkT",
+  "DOB": "1891-12-17",
+  "DOD": "1973-04-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Segersta församling",
+    "link": "http://www.wikidata.org/entity/Q10665071"
+  },
+  "place-of-death": {
+    "place": "Segersta församling",
+    "link": "http://www.wikidata.org/entity/Q10665071"
+  },
+  "alt-names": [
+    "olof ferdinand persson",
+    "persson"
+  ],
+  "iorter": [
+    "Landafors"
+  ],
+  "positions": [
+    {
+      "start": "1951-01-01 00:00:00",
+      "end": "1954-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1950-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Persson%201891%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043480",
+      "link": "https://www.wikidata.org/wiki/Q6043480"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO3g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO3g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

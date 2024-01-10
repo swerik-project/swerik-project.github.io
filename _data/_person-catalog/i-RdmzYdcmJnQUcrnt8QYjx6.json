@@ -1,0 +1,52 @@
+{
+  "name": "lars dalgren",
+  "swerik-id": "i-RdmzYdcmJnQUcrnt8QYjx6",
+  "DOB": "1887-04-14",
+  "DOD": "1942-10-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åmåls stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58496152"
+  },
+  "place-of-death": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "alt-names": [
+    "dalgren",
+    "lars einar dalgren",
+    "lars ejnar dalgren"
+  ],
+  "iorter": [
+    "Västervik"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Dalgren%201887%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5616069",
+      "link": "https://www.wikidata.org/wiki/Q5616069"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcxw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcxw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

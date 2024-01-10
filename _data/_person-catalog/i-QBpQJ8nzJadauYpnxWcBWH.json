@@ -1,0 +1,68 @@
+{
+  "name": "ruth gustafson",
+  "swerik-id": "i-QBpQJ8nzJadauYpnxWcBWH",
+  "DOB": "1881-07-08",
+  "DOD": "1960-04-05",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "place-of-death": {
+    "place": "Katarina församling",
+    "link": "http://www.wikidata.org/entity/Q3427889"
+  },
+  "alt-names": [
+    "gustafson",
+    "ruth pettersson",
+    "ruth valborg maria gustafson",
+    "ruth valborg maria pettersson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ruth%20Gustafson%20SBL.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4951481",
+      "link": "https://www.wikidata.org/wiki/Q4951481"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13309",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13309"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAU5Q",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAU5Q"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:40466",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:40466"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNmA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNmA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

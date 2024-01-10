@@ -1,0 +1,71 @@
+{
+  "name": "peeter luksep",
+  "swerik-id": "i-Xq3Hwkp78vmDSRimdWMTjs",
+  "DOB": "1955-01-29",
+  "DOD": "2015-09-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "luksep"
+  ],
+  "iorter": [
+    "Farsta"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1991-10-05 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5965375",
+      "link": "https://www.wikidata.org/wiki/Q5965375"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0351867771418",
+      "link": "https://data.riksdagen.se/personlista/?iid=0351867771418&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "53baa875-c07d-4978-a010-745c42b1a7f3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_53baa875-c07d-4978-a010-745c42b1a7f3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1994-10-03",
+      "end": "1994-10-07"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,92 @@
+{
+  "name": "sven nilsson",
+  "swerik-id": "i-BqxiGcrvRSyw7vSVD9ghzT",
+  "DOB": "1831-11-04",
+  "DOD": "1891-11-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Everöds församling",
+    "link": "http://www.wikidata.org/entity/Q10492818"
+  },
+  "place-of-death": {
+    "place": "Everöds församling",
+    "link": "http://www.wikidata.org/entity/Q10492818"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Efveröd",
+    "Everöd"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1891-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gärds och Albo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Nilsson%20Ever%C3%B6d.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011953",
+      "link": "https://www.wikidata.org/wiki/Q6011953"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8100",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8100"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAB4iMw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAB4iMw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpsQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpsQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "wbbNj8LLWMAAAAAAAAAkIA",
+      "link": "https://portrattarkiv.se/details/wbbNj8LLWMAAAAAAAAAkIA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1891"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1870",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "tekla torbrink",
+  "swerik-id": "i-AuM8Jq8UoCNghqcoEjsqU9",
+  "DOB": "1901-08-23",
+  "DOD": "1994-11-20",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hälleberga församling",
+    "link": "http://www.wikidata.org/entity/Q10531363"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "tekla j l torbrink",
+    "tekla jenny linnea torbrink",
+    "tekla lindkvist torbrink",
+    "torbrink"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tekla%20Torbrink%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4983117",
+      "link": "https://www.wikidata.org/wiki/Q4983117"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdDQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdDQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "niclas torgen",
+  "swerik-id": "i-PrnEx12Ds6eU2exFNwa6GJ",
+  "DOB": "1871-02-19",
+  "DOD": "1930-05-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hammerdal",
+    "link": "http://www.wikidata.org/entity/Q1519013"
+  },
+  "place-of-death": {
+    "place": "Östersund",
+    "link": "http://www.wikidata.org/entity/Q26515"
+  },
+  "alt-names": [
+    "g niclas torgen",
+    "gudmund nicolaus torgen",
+    "torgen"
+  ],
+  "iorter": [
+    "Högfors"
+  ],
+  "positions": [
+    {
+      "start": "1919-08-04 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands läns norra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaus%20Torg%C3%A9n%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6213484",
+      "link": "https://www.wikidata.org/wiki/Q6213484"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRFQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRFQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

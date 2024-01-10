@@ -1,0 +1,55 @@
+{
+  "name": "christian von sydow",
+  "swerik-id": "i-FWDfd5GmfMC3Hg2HeccBUS",
+  "DOB": "1899-06-05",
+  "DOD": "1980-10-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Kungsängens församling",
+    "link": "http://www.wikidata.org/entity/Q10550390"
+  },
+  "alt-names": [
+    "von sydow"
+  ],
+  "iorter": [
+    "Stavsjöbruk"
+  ],
+  "positions": [
+    {
+      "start": "1961-01-01 00:00:00",
+      "end": "1965-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Chr%20von%20Sydow%2C%20Holmens%20bruk%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6200331",
+      "link": "https://www.wikidata.org/wiki/Q6200331"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga7g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga7g"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:26976",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:26976"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

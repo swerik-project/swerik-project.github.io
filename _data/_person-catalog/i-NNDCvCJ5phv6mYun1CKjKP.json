@@ -1,0 +1,59 @@
+{
+  "name": "gunnar löwegren",
+  "swerik-id": "i-NNDCvCJ5phv6mYun1CKjKP",
+  "DOB": "1881-09-24",
+  "DOD": "1958-08-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "place-of-death": {
+    "place": "Västerleds församling",
+    "link": "http://www.wikidata.org/entity/Q10717966"
+  },
+  "alt-names": [
+    "anders gunnar hilding löwegren",
+    "löwegren"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö stads valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5970114",
+      "link": "https://www.wikidata.org/wiki/Q5970114"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10086",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10086"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRgA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRgA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:50348",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:50348"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

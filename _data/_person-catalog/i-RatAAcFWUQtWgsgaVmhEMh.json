@@ -1,0 +1,49 @@
+{
+  "name": "gunnar brånstad",
+  "swerik-id": "i-RatAAcFWUQtWgsgaVmhEMh",
+  "DOB": "1907-11-07",
+  "DOD": "1979-01-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kumla församling",
+    "link": "http://www.wikidata.org/entity/Q10550065"
+  },
+  "place-of-death": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "alt-names": [
+    "brånstad",
+    "johan olof gunnar brånstad"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1955-11-08 00:00:00",
+      "end": "1955-12-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18237937",
+      "link": "https://www.wikidata.org/wiki/Q18237937"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA13fg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA13fg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

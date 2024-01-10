@@ -1,0 +1,50 @@
+{
+  "name": "nils hansson",
+  "swerik-id": "i-7UsBEyMpFeJWgxAYKRQiVz",
+  "DOB": "1823-04-30",
+  "DOD": "1874-04-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Broby församling",
+    "link": "http://www.wikidata.org/entity/Q10718211"
+  },
+  "place-of-death": {
+    "place": "Västra Broby församling",
+    "link": "http://www.wikidata.org/entity/Q10718211"
+  },
+  "alt-names": [
+    "hansson"
+  ],
+  "iorter": [
+    "Ormastorp"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1874-04-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Åsbo och Bjäre domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Hansson%20SPA%201%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105098800",
+      "link": "https://www.wikidata.org/wiki/Q105098800"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpPg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpPg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

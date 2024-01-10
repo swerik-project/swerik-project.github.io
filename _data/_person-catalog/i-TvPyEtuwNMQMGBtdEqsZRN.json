@@ -1,0 +1,96 @@
+{
+  "name": "meeri wasberg",
+  "swerik-id": "i-TvPyEtuwNMQMGBtdEqsZRN",
+  "DOB": "1973",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Haninge kommun",
+    "link": "http://www.wikidata.org/entity/Q113692"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2012-08-17 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2011-03-01 00:00:00",
+      "end": "2011-08-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2009-11-28 00:00:00",
+      "end": "2010-03-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2009-10-26 00:00:00",
+      "end": "2009-11-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Meeri%20Wasberg%2001.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4990215",
+      "link": "https://www.wikidata.org/wiki/Q4990215"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0741225202024",
+      "link": "https://data.riksdagen.se/personlista/?iid=0741225202024&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "28edf947-f4cb-4d15-bb43-25ffbe03c58e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_28edf947-f4cb-4d15-bb43-25ffbe03c58e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2012-08-17",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

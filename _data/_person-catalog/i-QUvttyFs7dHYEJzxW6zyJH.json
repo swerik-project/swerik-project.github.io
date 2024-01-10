@@ -1,0 +1,60 @@
+{
+  "name": "fridolf jansson",
+  "swerik-id": "i-QUvttyFs7dHYEJzxW6zyJH",
+  "DOB": "1904-05-25",
+  "DOD": "1991-06-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alvesta församling",
+    "link": "http://www.wikidata.org/entity/Q10407152"
+  },
+  "place-of-death": {
+    "place": "Alvesta",
+    "link": "http://www.wikidata.org/entity/Q2604885"
+  },
+  "alt-names": [
+    "bengt fridolf jansson",
+    "jansson"
+  ],
+  "iorter": [
+    "Benestad"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1951-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fridolf%20Jansson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5503582",
+      "link": "https://www.wikidata.org/wiki/Q5503582"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQjw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQjw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

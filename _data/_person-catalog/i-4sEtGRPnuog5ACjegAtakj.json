@@ -1,0 +1,89 @@
+{
+  "name": "mattias karlsson",
+  "swerik-id": "i-4sEtGRPnuog5ACjegAtakj",
+  "DOB": "1977-08-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skogslyckans församling",
+    "link": "http://www.wikidata.org/entity/Q10670378"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [
+    "Norrhult"
+  ],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mattias%20Karlsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5901848",
+      "link": "https://www.wikidata.org/wiki/Q5901848"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0831636664429",
+      "link": "https://data.riksdagen.se/personlista/?iid=0831636664429&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "727e2213-ac97-4ceb-bfab-f228debd8074",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_727e2213-ac97-4ceb-bfab-f228debd8074"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

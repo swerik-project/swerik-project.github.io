@@ -1,0 +1,70 @@
+{
+  "name": "carl lundström",
+  "swerik-id": "i-XbCfjEe1cVnqY8xTgupHmE",
+  "DOB": "1828-11-18",
+  "DOD": "1902-04-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "alt-names": [
+    "carl herman lundström",
+    "lundström"
+  ],
+  "iorter": [
+    "Filipstad"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1902-04-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1883-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlstads och Filipstads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Lundstr%C3%B6m%201828%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5967755",
+      "link": "https://www.wikidata.org/wiki/Q5967755"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAACjvA",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAACjvA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAACjvQ",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAACjvQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcSg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcSg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

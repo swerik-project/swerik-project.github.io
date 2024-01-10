@@ -1,0 +1,52 @@
+{
+  "name": "axel tengvall",
+  "swerik-id": "i-WCbuc7xC49DdiKnEE1RiMN",
+  "DOB": "1857-05-07",
+  "DOD": "1934-03-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Selångers församling",
+    "link": "http://www.wikidata.org/entity/Q2268842"
+  },
+  "place-of-death": {
+    "place": "Asarums församling",
+    "link": "http://www.wikidata.org/entity/Q10419122"
+  },
+  "alt-names": [
+    "axel o tengvall",
+    "axel otto tengvall",
+    "tengvall"
+  ],
+  "iorter": [
+    "Stilleryd"
+  ],
+  "positions": [
+    {
+      "start": "1917-12-18 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Tengvall%20SPA11%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q115869391",
+      "link": "https://www.wikidata.org/wiki/Q115869391"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQZg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQZg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

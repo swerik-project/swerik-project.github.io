@@ -1,0 +1,56 @@
+{
+  "name": "emil olovson",
+  "swerik-id": "i-FsVJ5uJg34mMgm9najd3TF",
+  "DOB": "1883-10-30",
+  "DOD": "1951-10-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10430776"
+  },
+  "place-of-death": {
+    "place": "Västerås domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10718088"
+  },
+  "alt-names": [
+    "olovson",
+    "oskar emil olovson"
+  ],
+  "iorter": [
+    "Västerås"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Olovson%201883%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6025864",
+      "link": "https://www.wikidata.org/wiki/Q6025864"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7755",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7755"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPfQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPfQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

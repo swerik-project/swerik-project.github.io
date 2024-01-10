@@ -1,0 +1,104 @@
+{
+  "name": "karl schlyter",
+  "swerik-id": "i-NdmzAJFCHr1sfnsvdVwR4y",
+  "DOB": "1879-12-21",
+  "DOD": "1959-12-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "place-of-death": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "alt-names": [
+    "karl johan daniel schlyter",
+    "schlyter"
+  ],
+  "iorter": [
+    "Göteborg",
+    "Malmö",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1932-09-24 00:00:00",
+      "end": "1936-06-19 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson I",
+      "district": null
+    },
+    {
+      "start": "1926-01-01 00:00:00",
+      "end": "1949-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1925-05-08 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sandler",
+      "district": null
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Schlyter%2C%20Karl%20-%20portr%C3%A4tt%20-%20AF%20-%20f%C3%A4rgjusterat%20-%20litet.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6168210",
+      "link": "https://www.wikidata.org/wiki/Q6168210"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6387",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6387"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABjNg",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABjNg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:44041",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:44041"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcYw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcYw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

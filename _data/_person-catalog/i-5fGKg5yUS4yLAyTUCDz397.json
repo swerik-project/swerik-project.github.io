@@ -1,0 +1,87 @@
+{
+  "name": "otto höglund",
+  "swerik-id": "i-5fGKg5yUS4yLAyTUCDz397",
+  "DOB": "1846-09-23",
+  "DOD": "1933-02-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "höglund",
+    "otto magnus höglund"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20H%C3%B6glund%20H8D%201911.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2039857",
+      "link": "https://www.wikidata.org/wiki/Q2039857"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "14015",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14015"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNLw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNLw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABlclA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABlclA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "bo södersten",
+  "swerik-id": "i-6TjCaZscDfHaRCMjT3p2wD",
+  "DOB": "1931-06-05",
+  "DOD": "2017-09-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grängesberg",
+    "link": "http://www.wikidata.org/entity/Q1323619"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "södersten"
+  ],
+  "iorter": [
+    "Falun",
+    "Lund"
+  ],
+  "positions": [
+    {
+      "start": "1986-06-08 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1985-12-19 00:00:00",
+      "end": "1986-05-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1985-11-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1983-05-06 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1983-04-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6202236",
+      "link": "https://www.wikidata.org/wiki/Q6202236"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0168437688801",
+      "link": "https://data.riksdagen.se/personlista/?iid=0168437688801&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "01603240-31fc-4706-8529-b7a49a04917d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_01603240-31fc-4706-8529-b7a49a04917d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1986-06-08",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

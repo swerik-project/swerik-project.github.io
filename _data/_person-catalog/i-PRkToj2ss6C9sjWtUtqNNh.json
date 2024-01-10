@@ -1,0 +1,115 @@
+{
+  "name": "fritiof domö",
+  "swerik-id": "i-PRkToj2ss6C9sjWtUtqNNh",
+  "DOB": "1889-08-30",
+  "DOD": "1961-11-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hakarps församling",
+    "link": "http://www.wikidata.org/entity/Q10516102"
+  },
+  "place-of-death": {
+    "place": "Eggby församling",
+    "link": "http://www.wikidata.org/entity/Q10480248"
+  },
+  "alt-names": [
+    "domö",
+    "gustafson",
+    "johan fritiof domö",
+    "johan fritiof gustafson",
+    "johan gustafson"
+  ],
+  "iorter": [
+    "Domö",
+    "Eggby",
+    "Järpås",
+    "Mariestad"
+  ],
+  "positions": [
+    {
+      "start": "1944-09-30 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1945-12-31 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1941-03-07 00:00:00",
+      "end": "1944-09-30 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1941-12-31 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1928-01-01 00:00:00",
+      "end": "1959-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fritiof%20Dom%C3%B6%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5623378",
+      "link": "https://www.wikidata.org/wiki/Q5623378"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA8DYg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA8DYg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdkg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdkg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1959"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1928",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

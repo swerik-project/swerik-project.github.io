@@ -1,0 +1,86 @@
+{
+  "name": "hans jönsson",
+  "swerik-id": "i-MUnHEWorrq7nm6q1ZrGuCt",
+  "DOB": "1915-10-08",
+  "DOD": "2003-09-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lund",
+    "link": "http://www.wikidata.org/entity/Q2167"
+  },
+  "place-of-death": {
+    "place": "Burlövs församling",
+    "link": "http://www.wikidata.org/entity/Q10437862"
+  },
+  "alt-names": [
+    "jönsson"
+  ],
+  "iorter": [
+    "Arlöv"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1978-04-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20J%C3%B6nsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5895894",
+      "link": "https://www.wikidata.org/wiki/Q5895894"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRVg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRVg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1976-10-04",
+      "end": "1978-04-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

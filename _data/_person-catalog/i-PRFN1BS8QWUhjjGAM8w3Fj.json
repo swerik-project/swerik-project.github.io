@@ -1,0 +1,107 @@
+{
+  "name": "maud olofsson",
+  "swerik-id": "i-PRFN1BS8QWUhjjGAM8w3Fj",
+  "DOB": "1955-08-09",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Arnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10418312"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "maud elisabeth olofsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2011-09-30 00:00:00",
+      "end": "2011-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2010-10-06 00:00:00",
+      "end": "2011-09-29 00:00:00",
+      "role": "näringsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2011-09-29 00:00:00",
+      "role": "energiminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Maud%20Olofsson2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q253640",
+      "link": "https://www.wikidata.org/wiki/Q253640"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0356767744510",
+      "link": "https://data.riksdagen.se/personlista/?iid=0356767744510&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "055b6e82-a39b-4037-99bd-be4c3b1f6b09",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_055b6e82-a39b-4037-99bd-be4c3b1f6b09"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2011-09-30",
+      "end": "2011-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

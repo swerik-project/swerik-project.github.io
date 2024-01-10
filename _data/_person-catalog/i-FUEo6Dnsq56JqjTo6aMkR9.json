@@ -1,0 +1,60 @@
+{
+  "name": "august rappe",
+  "swerik-id": "i-FUEo6Dnsq56JqjTo6aMkR9",
+  "DOB": "1850-02-17",
+  "DOD": "1921-03-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ålems församling",
+    "link": "http://www.wikidata.org/entity/Q10726460"
+  },
+  "place-of-death": {
+    "place": "Jäts församling",
+    "link": "http://www.wikidata.org/entity/Q10542018"
+  },
+  "alt-names": [
+    "august vilhelm rappe",
+    "rappe"
+  ],
+  "iorter": [
+    "Jätsberg"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1901-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Rappe%201850%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6063614",
+      "link": "https://www.wikidata.org/wiki/Q6063614"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQRg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQRg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

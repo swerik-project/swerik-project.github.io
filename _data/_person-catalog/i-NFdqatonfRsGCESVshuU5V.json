@@ -1,0 +1,55 @@
+{
+  "name": "johan erik nyström",
+  "swerik-id": "i-NFdqatonfRsGCESVshuU5V",
+  "DOB": "1822-03-01",
+  "DOD": "1889-02-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "nyström"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1889-02-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Erik%20Nystr%C3%B6m.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6020654",
+      "link": "https://www.wikidata.org/wiki/Q6020654"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRVg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRVg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAACcZ2Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAACcZ2Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

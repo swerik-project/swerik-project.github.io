@@ -1,0 +1,70 @@
+{
+  "name": "gustaf hazen",
+  "swerik-id": "i-L2Qzee4DnAx8NzP6BEnAFg",
+  "DOB": "1849-08-10",
+  "DOD": "1930-10-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tjureda församling",
+    "link": "http://www.wikidata.org/entity/Q10698946"
+  },
+  "place-of-death": {
+    "place": "Värnamo församling",
+    "link": "http://www.wikidata.org/entity/Q10717704"
+  },
+  "alt-names": [
+    "hazen",
+    "j g hazen",
+    "johannes gustaf hazen",
+    "johannes gustaf petersen"
+  ],
+  "iorter": [
+    "Forsheda"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västbo härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Haz%C3%A9n%201849%20SPA3.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5794593",
+      "link": "https://www.wikidata.org/wiki/Q5794593"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbVQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbVQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1909"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

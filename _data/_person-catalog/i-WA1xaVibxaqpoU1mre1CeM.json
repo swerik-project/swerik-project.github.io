@@ -1,0 +1,76 @@
+{
+  "name": "valdemar vahlin",
+  "swerik-id": "i-WA1xaVibxaqpoU1mre1CeM",
+  "DOB": "1838-12-18",
+  "DOD": "1903-05-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västerås domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10718088"
+  },
+  "place-of-death": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "alt-names": [
+    "olof valdemar vahlin",
+    "vahlin"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Falu, Hedemora och Säters valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Valdemar%20Vahlin%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6336122",
+      "link": "https://www.wikidata.org/wiki/Q6336122"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbyA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbyA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1898",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1897"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1889",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

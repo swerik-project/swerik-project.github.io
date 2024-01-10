@@ -1,0 +1,98 @@
+{
+  "name": "odd engström",
+  "swerik-id": "i-wfVKmWwu9tQqTHD55FwTQ",
+  "DOB": "1941-09-20",
+  "DOD": "1998-05-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skillingmarks socken",
+    "link": "http://www.wikidata.org/entity/Q10670176"
+  },
+  "place-of-death": {
+    "place": "Saltsjöbaden",
+    "link": "http://www.wikidata.org/entity/Q990771"
+  },
+  "alt-names": [
+    "engström"
+  ],
+  "iorter": [
+    "Saltsjöbaden"
+  ],
+  "positions": [
+    {
+      "start": "1991-10-08 00:00:00",
+      "end": "1993-02-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1990-02-27 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    },
+    {
+      "start": "1990-02-16 00:00:00",
+      "end": "1990-02-27 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1990-02-16 00:00:00",
+      "role": "budgetminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5713152",
+      "link": "https://www.wikidata.org/wiki/Q5713152"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0839411947603",
+      "link": "https://data.riksdagen.se/personlista/?iid=0839411947603&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d6966726-8f29-40f3-b917-f04d2a4a914e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d6966726-8f29-40f3-b917-f04d2a4a914e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-10-08",
+      "end": "1993-02-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

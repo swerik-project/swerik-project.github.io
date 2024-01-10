@@ -1,0 +1,62 @@
+{
+  "name": "lars larsson",
+  "swerik-id": "i-JJbUecmn3MSCSN2PV2BVLq",
+  "DOB": "1921-11-16",
+  "DOD": "1971-04-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Risinge församling",
+    "link": "http://www.wikidata.org/entity/Q10655757"
+  },
+  "place-of-death": {
+    "place": "Risinge församling",
+    "link": "http://www.wikidata.org/entity/Q10655757"
+  },
+  "alt-names": [
+    "lars edmund larsson",
+    "larsson"
+  ],
+  "iorter": [
+    "Lotorp"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1971-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1957-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5937997",
+      "link": "https://www.wikidata.org/wiki/Q5937997"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1971-01-11",
+      "end": "1971-04-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

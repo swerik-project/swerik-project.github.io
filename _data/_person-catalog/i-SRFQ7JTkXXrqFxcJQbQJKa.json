@@ -1,0 +1,69 @@
+{
+  "name": "johan dahlberg",
+  "swerik-id": "i-SRFQ7JTkXXrqFxcJQbQJKa",
+  "DOB": "1843-08-13",
+  "DOD": "1915-03-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "place-of-death": {
+    "place": "Härnösands domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10531743"
+  },
+  "alt-names": [
+    "dahlberg",
+    "johan peter dahlberg"
+  ],
+  "iorter": [
+    "Bollstabruk"
+  ],
+  "positions": [
+    {
+      "start": "1905-06-27 00:00:00",
+      "end": "1906-01-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands mellersta domsagas valkrets"
+    },
+    {
+      "start": "1895-01-01 00:00:00",
+      "end": "1903-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands mellersta domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Dahlberg%201843%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5615201",
+      "link": "https://www.wikidata.org/wiki/Q5615201"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfdA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfdA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

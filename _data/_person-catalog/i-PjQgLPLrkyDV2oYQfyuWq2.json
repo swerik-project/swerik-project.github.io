@@ -1,0 +1,89 @@
+{
+  "name": "märta stenevi",
+  "swerik-id": "i-PjQgLPLrkyDV2oYQfyuWq2",
+  "DOB": "1976-03-30",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Lunds Allhelgonaförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570808"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anna märta viktoria stenevi"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2021-02-05 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "bostadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2021-02-05 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2021-02-05 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "bostadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven III",
+      "district": null
+    },
+    {
+      "start": "2021-02-05 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven III",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frihamnsdagarna%202022%20Foto%20Tommy%20Winterski%C3%B6ld%20Vestlie%20%2852362082455%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q64524335",
+      "link": "https://www.wikidata.org/wiki/Q64524335"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0349986646724",
+      "link": "https://data.riksdagen.se/personlista/?iid=0349986646724&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "50f598e2-c287-447d-83f1-ad32372b0e82",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_50f598e2-c287-447d-83f1-ad32372b0e82"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

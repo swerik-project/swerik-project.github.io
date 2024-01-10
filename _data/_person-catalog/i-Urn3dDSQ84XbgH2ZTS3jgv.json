@@ -1,0 +1,50 @@
+{
+  "name": "martin olsson",
+  "swerik-id": "i-Urn3dDSQ84XbgH2ZTS3jgv",
+  "DOB": "1873-07-28",
+  "DOD": "1959-05-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Asarums församling",
+    "link": "http://www.wikidata.org/entity/Q10419122"
+  },
+  "place-of-death": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1931-05-26 00:00:00",
+      "end": "1931-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Olsson%20SPA%201873%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111866962",
+      "link": "https://www.wikidata.org/wiki/Q111866962"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQEQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQEQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

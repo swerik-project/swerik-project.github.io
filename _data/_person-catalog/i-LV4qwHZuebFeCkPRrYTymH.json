@@ -1,0 +1,62 @@
+{
+  "name": "gustaf jansson",
+  "swerik-id": "i-LV4qwHZuebFeCkPRrYTymH",
+  "DOB": "1823-11-02",
+  "DOD": "1912-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Länna församling",
+    "link": "http://www.wikidata.org/entity/Q11056961"
+  },
+  "place-of-death": {
+    "place": "Länna församling",
+    "link": "http://www.wikidata.org/entity/Q11056961"
+  },
+  "alt-names": [
+    "j gustaf jansson",
+    "jan gustaf jansson",
+    "jansson",
+    "johan gustaf jansson"
+  ],
+  "iorter": [
+    "Hemmarö"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Jansson.pdf"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5828702",
+      "link": "https://www.wikidata.org/wiki/Q5828702"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeIw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeIw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

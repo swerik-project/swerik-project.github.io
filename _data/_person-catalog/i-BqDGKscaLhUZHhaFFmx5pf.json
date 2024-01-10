@@ -1,0 +1,90 @@
+{
+  "name": "bertil ohlin",
+  "swerik-id": "i-BqDGKscaLhUZHhaFFmx5pf",
+  "DOB": "1899-04-23",
+  "DOD": "1979-08-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klippans församling",
+    "link": "http://www.wikidata.org/entity/Q10546313"
+  },
+  "place-of-death": {
+    "place": "Q112014295",
+    "link": "http://www.wikidata.org/entity/Q112014295"
+  },
+  "alt-names": [
+    "bertil g ohlin",
+    "bertil gotthard ohlin",
+    "ohlin"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1944-09-30 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1938-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bertil-Ohlin-in-the-second-chambers-speaker-chair-391842586514.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q179493",
+      "link": "https://www.wikidata.org/wiki/Q179493"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7663",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7663"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABJ4tA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABJ4tA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN5Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN5Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAhZQ",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAhZQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAhZw",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAhZw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

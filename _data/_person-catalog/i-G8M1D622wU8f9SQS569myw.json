@@ -1,0 +1,58 @@
+{
+  "name": "rebwar hassan",
+  "swerik-id": "i-G8M1D622wU8f9SQS569myw",
+  "DOB": "1959",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2012-11-23 00:00:00",
+      "end": "2013-05-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97777868",
+      "link": "https://www.wikidata.org/wiki/Q97777868"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0961349903416",
+      "link": "https://data.riksdagen.se/personlista/?iid=0961349903416&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "09924aee-97da-48a5-8e80-aabcc03e9b4c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_09924aee-97da-48a5-8e80-aabcc03e9b4c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2012-11-23",
+      "end": "2013-05-17"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

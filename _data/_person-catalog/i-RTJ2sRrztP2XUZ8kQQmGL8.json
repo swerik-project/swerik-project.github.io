@@ -1,0 +1,65 @@
+{
+  "name": "robert arfwedson",
+  "swerik-id": "i-RTJ2sRrztP2XUZ8kQQmGL8",
+  "DOB": "1831-11-01",
+  "DOD": "1900-11-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Näshulta församling",
+    "link": "http://www.wikidata.org/entity/Q10605336"
+  },
+  "place-of-death": {
+    "place": "Näshulta församling",
+    "link": "http://www.wikidata.org/entity/Q10605336"
+  },
+  "alt-names": [
+    "arfwedson",
+    "robert august arfwedson"
+  ],
+  "iorter": [
+    "Åstorp"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Väster- och Öster-Rekarne häraders valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Väster- och Öster-Rekarne häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Arfwedson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5558924",
+      "link": "https://www.wikidata.org/wiki/Q5558924"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPtA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPtA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29806",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29806"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

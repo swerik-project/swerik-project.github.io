@@ -1,0 +1,58 @@
+{
+  "name": "jessica stegrud",
+  "swerik-id": "i-TMwpsik9bguNXgjB4GcxTS",
+  "DOB": "1970-09-27",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jessica margareta stegrud"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jessica%20Stegrud.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q63975366",
+      "link": "https://www.wikidata.org/wiki/Q63975366"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0717363246311",
+      "link": "https://data.riksdagen.se/personlista/?iid=0717363246311&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "32b8d916-3679-4cee-9235-759fff057b09",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_32b8d916-3679-4cee-9235-759fff057b09"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ed3c082b-ddc3-4ef6-b91f-c69ba133b87d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ed3c082b-ddc3-4ef6-b91f-c69ba133b87d"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

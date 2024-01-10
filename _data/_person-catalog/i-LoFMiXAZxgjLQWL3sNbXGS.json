@@ -1,0 +1,67 @@
+{
+  "name": "karl wilhelm bodin",
+  "swerik-id": "i-LoFMiXAZxgjLQWL3sNbXGS",
+  "DOB": "1871-10-22",
+  "DOD": "1949-01-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grava församling",
+    "link": "http://www.wikidata.org/entity/Q10508455"
+  },
+  "place-of-death": {
+    "place": "Grava församling",
+    "link": "http://www.wikidata.org/entity/Q10508455"
+  },
+  "alt-names": [
+    "bodin"
+  ],
+  "iorter": [
+    "Trangärd"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1941-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Wilhelm%20Bodin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5580341",
+      "link": "https://www.wikidata.org/wiki/Q5580341"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbvg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbvg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1941"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

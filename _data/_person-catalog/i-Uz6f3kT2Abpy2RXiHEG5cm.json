@@ -1,0 +1,104 @@
+{
+  "name": "thorwald bergquist",
+  "swerik-id": "i-Uz6f3kT2Abpy2RXiHEG5cm",
+  "DOB": "1899-12-01",
+  "DOD": "1972-12-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nävelsjö",
+    "link": "http://www.wikidata.org/entity/Q10605440"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "bergquist",
+    "thorwald erik natanael bergquist"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Västerås",
+    "Växjö",
+    "Äppelviken"
+  ],
+  "positions": [
+    {
+      "start": "1943-08-30 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1943-01-11 00:00:00",
+      "end": "1947-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    },
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1942-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    },
+    {
+      "start": "1939-12-13 00:00:00",
+      "end": "1943-08-30 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1936-06-19 00:00:00",
+      "end": "1936-09-28 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Pehrsson-Bramstorp",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Thorwald%20Bergquist.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5572966",
+      "link": "https://www.wikidata.org/wiki/Q5572966"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPgQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPgQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:38518",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:38518"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

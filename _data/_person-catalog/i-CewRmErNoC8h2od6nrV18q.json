@@ -1,0 +1,65 @@
+{
+  "name": "anders berger",
+  "swerik-id": "i-CewRmErNoC8h2od6nrV18q",
+  "DOB": "1815-06-22",
+  "DOD": "1871-10-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nysunds församling",
+    "link": "http://www.wikidata.org/entity/Q10604970"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "anders alexander berger",
+    "berger"
+  ],
+  "iorter": [
+    "Håkanbol"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1871-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ölme, Visnums och Väse häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Berger%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5571682",
+      "link": "https://www.wikidata.org/wiki/Q5571682"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18586",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18586"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAAC4YQ",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAAC4YQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

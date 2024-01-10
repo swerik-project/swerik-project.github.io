@@ -1,0 +1,71 @@
+{
+  "name": "erik holmkvist",
+  "swerik-id": "i-XSmf7kggQT5AhCPw4beW4j",
+  "DOB": "1929",
+  "DOD": "2010",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "holmkvist"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5811663",
+      "link": "https://www.wikidata.org/wiki/Q5811663"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0691717205205",
+      "link": "https://data.riksdagen.se/personlista/?iid=0691717205205&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d9d33129-52ca-47c9-87d3-a932370f3908",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d9d33129-52ca-47c9-87d3-a932370f3908"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

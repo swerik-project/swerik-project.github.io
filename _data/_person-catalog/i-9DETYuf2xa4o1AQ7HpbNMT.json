@@ -1,0 +1,176 @@
+{
+  "name": "staffan burenstam linder",
+  "swerik-id": "i-9DETYuf2xa4o1AQ7HpbNMT",
+  "DOB": "1931-09-13",
+  "DOD": "2000-07-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norberg",
+    "link": "http://www.wikidata.org/entity/Q2551945"
+  },
+  "place-of-death": {
+    "place": "Djursholm",
+    "link": "http://www.wikidata.org/entity/Q990076"
+  },
+  "alt-names": [
+    "burenstam linder",
+    "hans martin staffan burenstam linder"
+  ],
+  "iorter": [
+    "Djursholm"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1986-04-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1984-03-01 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1983-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1981-06-09 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1981-05-05 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1981-05-05 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1978-10-19 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1976-10-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5590197",
+      "link": "https://www.wikidata.org/wiki/Q5590197"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a97f1fe1-89a5-49c8-b5ef-e8b97d316c83",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a97f1fe1-89a5-49c8-b5ef-e8b97d316c83"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgegw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgegw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:50670",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:50670"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1985-09-30",
+      "end": "1986-04-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

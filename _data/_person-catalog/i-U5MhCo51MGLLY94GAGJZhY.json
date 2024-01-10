@@ -1,0 +1,105 @@
+{
+  "name": "johan linander",
+  "swerik-id": "i-U5MhCo51MGLLY94GAGJZhY",
+  "DOB": "1974",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Veberöd",
+    "link": "http://www.wikidata.org/entity/Q2007115"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2008-06-28 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2007-05-14 00:00:00",
+      "end": "2008-02-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2007-01-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2005-12-24 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2005-10-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Linander%20%28C%29%20Sverige.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5952656",
+      "link": "https://www.wikidata.org/wiki/Q5952656"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0324815829026",
+      "link": "https://data.riksdagen.se/personlista/?iid=0324815829026&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "94569100-ea9f-4d1b-b297-aa164d410c66",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_94569100-ea9f-4d1b-b297-aa164d410c66"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

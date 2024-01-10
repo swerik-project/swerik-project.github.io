@@ -1,0 +1,101 @@
+{
+  "name": "karl kilbom",
+  "swerik-id": "i-UA8QjszavpQnNcqKo12DY2",
+  "DOB": "1885-05-08",
+  "DOD": "1961-12-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Films församling",
+    "link": "http://www.wikidata.org/entity/Q10495202"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "karl kihlbom",
+    "kilbom"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Ängby"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Kalle.kilbom.glasogon.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1347810",
+      "link": "https://www.wikidata.org/wiki/Q1347810"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11485",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11485"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "0piq-fX0h5AAAAAAAABLlg",
+      "link": "https://portrattarkiv.se/details/0piq-fX0h5AAAAAAAABLlg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:35202",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:35202"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN1A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN1A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1938",
+      "end": "1944"
+    },
+    {
+      "party": {
+        "name": "Socialistiska partiet",
+        "party-id": "Q2425638"
+      },
+      "start": "1934",
+      "end": "1937"
+    },
+    {
+      "party": {
+        "name": "Kilbomspartiet",
+        "party-id": "Q111188360"
+      },
+      "start": "1930",
+      "end": "1933"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

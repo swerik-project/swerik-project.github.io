@@ -1,0 +1,82 @@
+{
+  "name": "sven nilsson",
+  "swerik-id": "i-BqTEGFHCkiyw2BHdEDbheb",
+  "DOB": "1813-11-15",
+  "DOD": "1877-04-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kiaby församling",
+    "link": "http://www.wikidata.org/entity/Q10545265"
+  },
+  "place-of-death": {
+    "place": "Österslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10728110"
+  },
+  "alt-names": [
+    "nilsson"
+  ],
+  "iorter": [
+    "Österslöv"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1877-04-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Villands härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Nilsson%20i%20%C3%96stersl%C3%B6v%201928.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011969",
+      "link": "https://www.wikidata.org/wiki/Q6011969"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8099",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8099"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAATFw",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAATFw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:31664",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:31664"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpnQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpnQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1869",
+      "end": "1877"
+    },
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1867",
+      "end": "1868"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

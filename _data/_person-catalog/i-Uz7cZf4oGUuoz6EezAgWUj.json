@@ -1,0 +1,68 @@
+{
+  "name": "ivan von knorring",
+  "swerik-id": "i-Uz7cZf4oGUuoz6EezAgWUj",
+  "DOB": "1850-05-25",
+  "DOD": "1930-03-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skövde",
+    "link": "http://www.wikidata.org/entity/Q21166"
+  },
+  "place-of-death": {
+    "place": "Stora Malms församling",
+    "link": "http://www.wikidata.org/entity/Q10681060"
+  },
+  "alt-names": [
+    "axel ivan von knorring",
+    "von knorring"
+  ],
+  "iorter": [
+    "Skiringe"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Villåttinge härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20von%20Knorring%20SPA%201%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5915513",
+      "link": "https://www.wikidata.org/wiki/Q5915513"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPxA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPxA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1902"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

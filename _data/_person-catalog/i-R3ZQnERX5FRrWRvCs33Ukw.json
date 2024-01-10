@@ -1,0 +1,79 @@
+{
+  "name": "adolf dahl",
+  "swerik-id": "i-R3ZQnERX5FRrWRvCs33Ukw",
+  "DOB": "1868-01-14",
+  "DOD": "1930-09-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sölvesborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10689124"
+  },
+  "place-of-death": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "alt-names": [
+    "dahl",
+    "peter adolf dahl"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1929-06-10 00:00:00",
+      "end": "1930-06-07 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman II",
+      "district": null
+    },
+    {
+      "start": "1924-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Dahl%20PK36.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5614917",
+      "link": "https://www.wikidata.org/wiki/Q5614917"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15781",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15781"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA7qng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA7qng"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfp0A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfp0A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

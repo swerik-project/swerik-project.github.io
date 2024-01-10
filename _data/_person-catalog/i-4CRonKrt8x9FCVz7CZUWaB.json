@@ -1,0 +1,58 @@
+{
+  "name": "arvid hallberg",
+  "swerik-id": "i-4CRonKrt8x9FCVz7CZUWaB",
+  "DOB": "1884-12-06",
+  "DOD": "1973-07-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljusnarsbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10568448"
+  },
+  "place-of-death": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "alt-names": [
+    "gustaf arvid hallberg",
+    "hallberg"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1947-10-22 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5784158",
+      "link": "https://www.wikidata.org/wiki/Q5784158"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67562",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67562"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

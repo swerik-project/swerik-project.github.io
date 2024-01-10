@@ -1,0 +1,83 @@
+{
+  "name": "simon boethius",
+  "swerik-id": "i-Dcv7orvbcwV75515Zn1HKJ",
+  "DOB": "1850-03-06",
+  "DOD": "1924-03-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Säfsnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10687922"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "boethius",
+    "simon johannes boethius"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Bo%C3%ABthius%2C%20SMK%2C%201.%20Sthlm%201942.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5580519",
+      "link": "https://www.wikidata.org/wiki/Q5580519"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17854",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17854"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADmSw",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADmSw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29840",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29840"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOIw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOIw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1902"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "fredrik forssbeck",
+  "swerik-id": "i-Kmw25fR42eKoSsCWJ8FFjd",
+  "DOB": "1814-08-05",
+  "DOD": "1889-04-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vikingstads församling",
+    "link": "http://www.wikidata.org/entity/Q10715263"
+  },
+  "place-of-death": {
+    "place": "Vikingstads församling",
+    "link": "http://www.wikidata.org/entity/Q10715263"
+  },
+  "alt-names": [
+    "forssbeck",
+    "j fredrik a forssbeck",
+    "johan fredrik august forssbeck"
+  ],
+  "iorter": [
+    "Duseborg"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Forssbeck%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5737435",
+      "link": "https://www.wikidata.org/wiki/Q5737435"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "IQojCnw0WmAAAAAAAAAqfA",
+      "link": "https://portrattarkiv.se/details/IQojCnw0WmAAAAAAAAAqfA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgahg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgahg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

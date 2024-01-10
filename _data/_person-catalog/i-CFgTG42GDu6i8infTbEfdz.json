@@ -1,0 +1,81 @@
+{
+  "name": "anders olsson",
+  "swerik-id": "i-CFgTG42GDu6i8infTbEfdz",
+  "DOB": "1836-07-15",
+  "DOD": "1908-02-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Väsby församling",
+    "link": "http://www.wikidata.org/entity/Q10717783"
+  },
+  "place-of-death": {
+    "place": "Väsby församling",
+    "link": "http://www.wikidata.org/entity/Q10717783"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Ornakärr",
+    "Väsby"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Luggude domsagas norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Olsson%201836%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026487",
+      "link": "https://www.wikidata.org/wiki/Q6026487"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRxQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRxQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:62737",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:62737"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeska diskussionsklubben",
+        "party-id": "Q10432852"
+      },
+      "start": "1897",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

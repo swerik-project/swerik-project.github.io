@@ -1,0 +1,56 @@
+{
+  "name": "anders ros",
+  "swerik-id": "i-CSYUL6TKHTJUbrxfYUfcEk",
+  "DOB": "1806-12-20",
+  "DOD": "1887-02-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Leksands församling",
+    "link": "http://www.wikidata.org/entity/Q10556731"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "anders emanuel ros",
+    "ros"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Ros%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6078640",
+      "link": "https://www.wikidata.org/wiki/Q6078640"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6857",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6857"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfbA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfbA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

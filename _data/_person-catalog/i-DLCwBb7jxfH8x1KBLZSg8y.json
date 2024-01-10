@@ -1,0 +1,71 @@
+{
+  "name": "agneta karlsson",
+  "swerik-id": "i-DLCwBb7jxfH8x1KBLZSg8y",
+  "DOB": "1962-10-05",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "agneta ingrid karin karlsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2014-10-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2013-11-04 00:00:00",
+      "end": "2013-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/High-level%20conference%20on%20e-health%20Health%20in%20the%20digital%20society%20The%20digital%20society%20for%20health%20Agneta%20Karlsson%20%2837493657100%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18448419",
+      "link": "https://www.wikidata.org/wiki/Q18448419"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0314880166319",
+      "link": "https://data.riksdagen.se/personlista/?iid=0314880166319&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c8fd3a7a-0a24-4694-96e0-491028bf2b5d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c8fd3a7a-0a24-4694-96e0-491028bf2b5d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2014-10-03",
+      "end": "2014-10-13"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

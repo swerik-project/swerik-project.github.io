@@ -1,0 +1,52 @@
+{
+  "name": "lennart waern",
+  "swerik-id": "i-XzKN718sC7YCzfKgPU5yXN",
+  "DOB": "1812-10-09",
+  "DOD": "1902-12-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Köla församling",
+    "link": "http://www.wikidata.org/entity/Q10552115"
+  },
+  "place-of-death": {
+    "place": "Ovansjö församling",
+    "link": "http://www.wikidata.org/entity/Q10613557"
+  },
+  "alt-names": [
+    "lennart magnus waern",
+    "leonard magnus waern",
+    "waern"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lennart%20Waern%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6228302",
+      "link": "https://www.wikidata.org/wiki/Q6228302"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOWw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOWw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

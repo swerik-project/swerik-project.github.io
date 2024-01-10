@@ -1,0 +1,65 @@
+{
+  "name": "johan gustaf richert",
+  "swerik-id": "i-JcJAFEi1cLdgs31fhFt53T",
+  "DOB": "1857-05-16",
+  "DOD": "1934-02-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "richert"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1907-01-01 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Gustaf%20Richert%20TEKA0115493.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6070963",
+      "link": "https://www.wikidata.org/wiki/Q6070963"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6727",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6727"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAQug",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAQug"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:43673",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:43673"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNrA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNrA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

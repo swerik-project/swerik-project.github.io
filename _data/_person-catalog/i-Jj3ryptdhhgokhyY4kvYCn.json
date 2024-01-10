@@ -1,0 +1,76 @@
+{
+  "name": "carl andersson",
+  "swerik-id": "i-Jj3ryptdhhgokhyY4kvYCn",
+  "DOB": "1841-09-09",
+  "DOD": "1907-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "place-of-death": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "alt-names": [
+    "andersson",
+    "carl august andersson"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1881-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20August%20Andersson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554283",
+      "link": "https://www.wikidata.org/wiki/Q5554283"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgOvg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgOvg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1881",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

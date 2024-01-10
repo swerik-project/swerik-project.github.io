@@ -1,0 +1,57 @@
+{
+  "name": "henric gahn",
+  "swerik-id": "i-KwHwxj5zEpDUoZ2yNLrmX8",
+  "DOB": "1820-06-21",
+  "DOD": "1901-02-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fellingsbro församling",
+    "link": "http://www.wikidata.org/entity/Q10494562"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "gahn",
+    "henric pontus wolter gahn"
+  ],
+  "iorter": [
+    "Kåfalla",
+    "Vikmanshyttan"
+  ],
+  "positions": [
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1892-05-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Gahn%20SPA1%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5749448",
+      "link": "https://www.wikidata.org/wiki/Q5749448"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "14649",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14649"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU1g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU1g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

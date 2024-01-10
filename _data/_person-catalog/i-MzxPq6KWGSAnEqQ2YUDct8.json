@@ -1,0 +1,93 @@
+{
+  "name": "henning leo",
+  "swerik-id": "i-MzxPq6KWGSAnEqQ2YUDct8",
+  "DOB": "1885-09-03",
+  "DOD": "1953-05-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landskrona församling",
+    "link": "http://www.wikidata.org/entity/Q10553938"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "henning vilhelm leo",
+    "leo"
+  ],
+  "iorter": [
+    "Lidingö",
+    "Älmhult"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1941-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1932-09-24 00:00:00",
+      "end": "1936-06-19 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson I",
+      "district": null
+    },
+    {
+      "start": "1931-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kronobergs läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henning%20Leo.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5946756",
+      "link": "https://www.wikidata.org/wiki/Q5946756"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11235",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11235"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge6g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge6g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

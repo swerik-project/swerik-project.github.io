@@ -1,0 +1,50 @@
+{
+  "name": "carl otto larsson",
+  "swerik-id": "i-2t9Vp7JX4pqR6fx9wurVt3",
+  "DOB": "1871-12-05",
+  "DOD": "1951-06-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lyrestads församling",
+    "link": "http://www.wikidata.org/entity/Q10571633"
+  },
+  "place-of-death": {
+    "place": "Lyrestads församling",
+    "link": "http://www.wikidata.org/entity/Q10571633"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Sjötorp"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Larsson%20SPA%2011%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117222738",
+      "link": "https://www.wikidata.org/wiki/Q117222738"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd7A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd7A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

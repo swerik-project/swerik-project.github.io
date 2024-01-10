@@ -1,0 +1,74 @@
+{
+  "name": "jonas andersson",
+  "swerik-id": "i-JP8NeL17uoQgDiTaxrGnVM",
+  "DOB": "1989-10-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Husby-Rekarne församling",
+    "link": "http://www.wikidata.org/entity/Q10527330"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jonas peter andersson"
+  ],
+  "iorter": [
+    "Linghem",
+    "Linköping"
+  ],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20andersson.riksdagen2018.18d952.1660241.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q58837098",
+      "link": "https://www.wikidata.org/wiki/Q58837098"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "025931369428",
+      "link": "https://data.riksdagen.se/personlista/?iid=025931369428&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9944df03-e946-4046-aeef-c49117503a0c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9944df03-e946-4046-aeef-c49117503a0c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

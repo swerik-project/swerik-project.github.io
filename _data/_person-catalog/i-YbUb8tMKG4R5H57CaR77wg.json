@@ -1,0 +1,51 @@
+{
+  "name": "theodor wijkander",
+  "swerik-id": "i-YbUb8tMKG4R5H57CaR77wg",
+  "DOB": "1821-02-06",
+  "DOD": "1885-12-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skeppsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10670076"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "anders laurentius theodor wijkander",
+    "wijkander"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1868-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Laurentius%20Theodor%20Wijkander%20-%20V%C3%A4rmlands%20regementes%20historia.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6241030",
+      "link": "https://www.wikidata.org/wiki/Q6241030"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcTw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcTw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

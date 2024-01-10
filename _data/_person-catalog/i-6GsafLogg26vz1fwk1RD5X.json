@@ -1,0 +1,51 @@
+{
+  "name": "ivar nilzon",
+  "swerik-id": "i-6GsafLogg26vz1fwk1RD5X",
+  "DOB": "1892-12-12",
+  "DOD": "1975-09-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ringarums församling",
+    "link": "http://www.wikidata.org/entity/Q10655472"
+  },
+  "place-of-death": {
+    "place": "Ringarums församling",
+    "link": "http://www.wikidata.org/entity/Q10655472"
+  },
+  "alt-names": [
+    "karl ivar nilzon",
+    "nilzon"
+  ],
+  "iorter": [
+    "Ringarum"
+  ],
+  "positions": [
+    {
+      "start": "1948-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Nilzon%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6012314",
+      "link": "https://www.wikidata.org/wiki/Q6012314"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga4A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga4A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

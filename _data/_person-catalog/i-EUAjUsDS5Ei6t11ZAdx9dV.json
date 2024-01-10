@@ -1,0 +1,50 @@
+{
+  "name": "johannes andersson",
+  "swerik-id": "i-EUAjUsDS5Ei6t11ZAdx9dV",
+  "DOB": "1841-11-25",
+  "DOD": "1915-09-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lekåsa församling",
+    "link": "http://www.wikidata.org/entity/Q10556764"
+  },
+  "place-of-death": {
+    "place": "Tengene församling",
+    "link": "http://www.wikidata.org/entity/Q10692690"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Baltorp"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åse, Viste, Barne och Laske domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Andersson%20Baltorp.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554970",
+      "link": "https://www.wikidata.org/wiki/Q5554970"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd8w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd8w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

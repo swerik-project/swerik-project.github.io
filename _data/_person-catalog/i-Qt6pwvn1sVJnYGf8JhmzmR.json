@@ -1,0 +1,51 @@
+{
+  "name": "peter hedberg",
+  "swerik-id": "i-Qt6pwvn1sVJnYGf8JhmzmR",
+  "DOB": "1990-11-15",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gudmundrå församling",
+    "link": "http://www.wikidata.org/entity/Q10510281"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "peter andre hedberg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031268",
+      "link": "https://www.wikidata.org/wiki/Q114031268"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0589561178823",
+      "link": "https://data.riksdagen.se/personlista/?iid=0589561178823&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "162c225d-c946-4fde-ae8b-69bf837f2a64",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_162c225d-c946-4fde-ae8b-69bf837f2a64"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

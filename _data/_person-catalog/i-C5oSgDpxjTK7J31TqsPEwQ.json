@@ -1,0 +1,80 @@
+{
+  "name": "claes roxbergh",
+  "swerik-id": "i-C5oSgDpxjTK7J31TqsPEwQ",
+  "DOB": "1945-10-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tidaholms församling",
+    "link": "http://www.wikidata.org/entity/Q10697668"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "roxbergh"
+  ],
+  "iorter": [
+    "Askim"
+  ],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5125015",
+      "link": "https://www.wikidata.org/wiki/Q5125015"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0267143098400",
+      "link": "https://data.riksdagen.se/personlista/?iid=0267143098400&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7af84408-3ef0-4fe0-86f7-c59ebbabd76d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7af84408-3ef0-4fe0-86f7-c59ebbabd76d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2002-09-30",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

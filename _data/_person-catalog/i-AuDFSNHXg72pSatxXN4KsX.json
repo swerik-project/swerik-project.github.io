@@ -1,0 +1,76 @@
+{
+  "name": "petrus bergström",
+  "swerik-id": "i-AuDFSNHXg72pSatxXN4KsX",
+  "DOB": "1881-11-29",
+  "DOD": "1939-04-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nordingrå församling",
+    "link": "http://www.wikidata.org/entity/Q10602053"
+  },
+  "place-of-death": {
+    "place": "Nordingrå församling",
+    "link": "http://www.wikidata.org/entity/Q10602053"
+  },
+  "alt-names": [
+    "bergström"
+  ],
+  "iorter": [
+    "Bäckland"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Petrus%20Bergstr%C3%B6m%201881%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5573550",
+      "link": "https://www.wikidata.org/wiki/Q5573550"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfgw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfgw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1925",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1918",
+      "end": "1921"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

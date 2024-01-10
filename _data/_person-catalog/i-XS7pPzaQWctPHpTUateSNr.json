@@ -1,0 +1,50 @@
+{
+  "name": "henrik johan sundström",
+  "swerik-id": "i-XS7pPzaQWctPHpTUateSNr",
+  "DOB": "1835-10-03",
+  "DOD": "1901-12-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "place-of-death": {
+    "place": "Piteå stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10632420"
+  },
+  "alt-names": [
+    "sundström"
+  ],
+  "iorter": [
+    "Luleå"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Luleå, Umeå, Piteå, Haparanda och Skellefteå valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Johan%20Sundstr%C3%B6m%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6196603",
+      "link": "https://www.wikidata.org/wiki/Q6196603"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRJQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRJQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

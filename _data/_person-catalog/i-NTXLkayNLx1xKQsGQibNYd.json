@@ -1,0 +1,73 @@
+{
+  "name": "maria leissner",
+  "swerik-id": "i-NTXLkayNLx1xKQsGQibNYd",
+  "DOB": "1956-01-21",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Oscar Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q10612957"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "leissner"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Leissner%20at%20Community%20of%20Democracies%20Press%20Briefing.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4961647",
+      "link": "https://www.wikidata.org/wiki/Q4961647"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0351107680112",
+      "link": "https://data.riksdagen.se/personlista/?iid=0351107680112&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ef9d7cad-1faa-4907-8fff-b1e92dccbcd3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ef9d7cad-1faa-4907-8fff-b1e92dccbcd3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

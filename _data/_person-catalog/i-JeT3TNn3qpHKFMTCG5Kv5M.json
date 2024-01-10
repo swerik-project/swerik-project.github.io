@@ -1,0 +1,56 @@
+{
+  "name": "bernhard hay",
+  "swerik-id": "i-JeT3TNn3qpHKFMTCG5Kv5M",
+  "DOB": "1835-01-07",
+  "DOD": "1917-03-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "alt-names": [
+    "anders bernhard hay",
+    "hay"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bernhard%20Hay%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5794206",
+      "link": "https://www.wikidata.org/wiki/Q5794206"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAAsqQ",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAAsqQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbTQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbTQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

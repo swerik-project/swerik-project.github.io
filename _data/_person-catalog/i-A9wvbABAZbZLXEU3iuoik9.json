@@ -1,0 +1,58 @@
+{
+  "name": "ulf löfgren",
+  "swerik-id": "i-A9wvbABAZbZLXEU3iuoik9",
+  "DOB": "1946",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1990-10-15 00:00:00",
+      "end": "1990-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97971268",
+      "link": "https://www.wikidata.org/wiki/Q97971268"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0704703749401",
+      "link": "https://data.riksdagen.se/personlista/?iid=0704703749401&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fcdc158d-9f81-4ea0-8590-64d16fa8ec9b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fcdc158d-9f81-4ea0-8590-64d16fa8ec9b"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1990-10-15",
+      "end": "1990-11-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

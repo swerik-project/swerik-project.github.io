@@ -1,0 +1,57 @@
+{
+  "name": "carl berglund",
+  "swerik-id": "i-CKeMdsg9MbymP6ZEKomqw4",
+  "DOB": "1859-09-03",
+  "DOD": "1921-06-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vättaks församling",
+    "link": "http://www.wikidata.org/entity/Q10718490"
+  },
+  "place-of-death": {
+    "place": "Vättaks församling",
+    "link": "http://www.wikidata.org/entity/Q10718490"
+  },
+  "alt-names": [
+    "berglund",
+    "carl v l berglund",
+    "carl vilhelm laurentius berglund"
+  ],
+  "iorter": [
+    "Gimmene"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1919-09-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Berglund%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5039896",
+      "link": "https://www.wikidata.org/wiki/Q5039896"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18628",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18628"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd9A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd9A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

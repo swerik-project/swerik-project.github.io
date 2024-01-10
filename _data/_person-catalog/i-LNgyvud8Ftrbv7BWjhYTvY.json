@@ -1,0 +1,68 @@
+{
+  "name": "per samzelius",
+  "swerik-id": "i-LNgyvud8Ftrbv7BWjhYTvY",
+  "DOB": "1827-03-20",
+  "DOD": "1899-07-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kumla församling",
+    "link": "http://www.wikidata.org/entity/Q10550065"
+  },
+  "place-of-death": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "alt-names": [
+    "samzelius"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1895-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    },
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Samzelius%201827%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6091184",
+      "link": "https://www.wikidata.org/wiki/Q6091184"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc-Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc-Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1895"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

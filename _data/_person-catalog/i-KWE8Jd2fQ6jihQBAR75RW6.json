@@ -1,0 +1,76 @@
+{
+  "name": "per gustaf petersson",
+  "swerik-id": "i-KWE8Jd2fQ6jihQBAR75RW6",
+  "DOB": "1837-07-05",
+  "DOD": "1922-01-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Risinge församling",
+    "link": "http://www.wikidata.org/entity/Q10655757"
+  },
+  "place-of-death": {
+    "place": "Hällestads församling",
+    "link": "http://www.wikidata.org/entity/Q10531396"
+  },
+  "alt-names": [
+    "petersson"
+  ],
+  "iorter": [
+    "Brystorp"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Finspånga läns domsagas valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Finspånga läns domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Petersson%201837%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6045532",
+      "link": "https://www.wikidata.org/wiki/Q6045532"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgatg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgatg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

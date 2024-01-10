@@ -1,0 +1,62 @@
+{
+  "name": "edvard lindberg",
+  "swerik-id": "i-VzvxsE3P19Hvn4eXo7FDph",
+  "DOB": "1868-12-05",
+  "DOD": "1965-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bara församling",
+    "link": "http://www.wikidata.org/entity/Q10426233"
+  },
+  "place-of-death": {
+    "place": "Västra Skrävlinge församling",
+    "link": "http://www.wikidata.org/entity/Q10718358"
+  },
+  "alt-names": [
+    "lindberg",
+    "n edvard lindberg",
+    "nils edvard lindberg"
+  ],
+  "iorter": [
+    "Limhamn",
+    "Sofielund"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Oxie härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Lindberg%201868%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q110623938",
+      "link": "https://www.wikidata.org/wiki/Q110623938"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRdg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRdg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

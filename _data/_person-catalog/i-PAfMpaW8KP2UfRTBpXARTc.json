@@ -1,0 +1,98 @@
+{
+  "name": "linda westerlund snecker",
+  "swerik-id": "i-PAfMpaW8KP2UfRTBpXARTc",
+  "DOB": "1983-02-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kalmar församling",
+    "link": "http://www.wikidata.org/entity/Q10542837"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "linda madelen westerlund snecker"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2016-01-05 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2015-06-22 00:00:00",
+      "end": "2015-08-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2015-04-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Linda%20Snecker.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18245930",
+      "link": "https://www.wikidata.org/wiki/Q18245930"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0150118366721",
+      "link": "https://data.riksdagen.se/personlista/?iid=0150118366721&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1c03e794-a9a3-43d5-810a-7951e4c70901",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1c03e794-a9a3-43d5-810a-7951e4c70901"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

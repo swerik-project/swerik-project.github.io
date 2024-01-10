@@ -1,0 +1,60 @@
+{
+  "name": "sture henriksson",
+  "swerik-id": "i-Lcd3uLV5ZW69Tt1s2baQhn",
+  "DOB": "1917-05-28",
+  "DOD": "1957-04-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Riseberga församling",
+    "link": "http://www.wikidata.org/entity/Q10655735"
+  },
+  "place-of-death": {
+    "place": "Bromma",
+    "link": "http://www.wikidata.org/entity/Q926728"
+  },
+  "alt-names": [
+    "henriksson",
+    "sture hertvig henriksson"
+  ],
+  "iorter": [
+    "Bromma"
+  ],
+  "positions": [
+    {
+      "start": "1957-03-22 00:00:00",
+      "end": "1957-04-22 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1957-04-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henriksson%20Sture%2019170528-.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5801470",
+      "link": "https://www.wikidata.org/wiki/Q5801470"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNCQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

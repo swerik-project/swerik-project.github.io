@@ -1,0 +1,114 @@
+{
+  "name": "barbro feltzing",
+  "swerik-id": "i-FJ3qAMd2ReYtDiK92hL27W",
+  "DOB": "1945-04-24",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Örgryte församling",
+    "link": "http://www.wikidata.org/entity/Q10727562"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "barbro margareta feltzing"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-05-22 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2005-06-27 00:00:00",
+      "end": "2005-11-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2003-06-30 00:00:00",
+      "end": "2005-04-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2003-03-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    },
+    {
+      "start": "1995-06-19 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-05-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4859748",
+      "link": "https://www.wikidata.org/wiki/Q4859748"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0553513261108",
+      "link": "https://data.riksdagen.se/personlista/?iid=0553513261108&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c322de-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c322de-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2006-05-22",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

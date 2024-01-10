@@ -1,0 +1,141 @@
+{
+  "name": "arne andersson",
+  "swerik-id": "i-PjjxQYR5UbxSEEqwa2s5mr",
+  "DOB": "1928",
+  "DOD": "2001-09-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alboga socken",
+    "link": "http://www.wikidata.org/entity/Q10404380"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "andersson",
+    "l arne andersson",
+    "lars arne andersson"
+  ],
+  "iorter": [
+    "Ljung"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1971-05-19 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5553993",
+      "link": "https://www.wikidata.org/wiki/Q5553993"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0275356156309",
+      "link": "https://data.riksdagen.se/personlista/?iid=0275356156309&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b965d61e-daa6-49b8-92ca-a89ffe013573",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b965d61e-daa6-49b8-92ca-a89ffe013573"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "28K7pO-SRrAAAAAAAACPxQ",
+      "link": "https://portrattarkiv.se/details/28K7pO-SRrAAAAAAAACPxQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "carina ödebrink",
+  "swerik-id": "i-6UNFa2V25wnCzLT178t6sh",
+  "DOB": "1961-09-13",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Tyska Christinae församling",
+    "link": "http://www.wikidata.org/entity/Q10707795"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ms.%20Carina%20Odebrink%2C%20Mr.%20Jasenko%20Omanovic%2C%20Mr.%20Lars%20Thomsson%2C%20OSCE%20PA%20Autumn%20Meeting%2C%20Marrakech%2C%206%20Oct.%202019%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q57168837",
+      "link": "https://www.wikidata.org/wiki/Q57168837"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "02910042914",
+      "link": "https://data.riksdagen.se/personlista/?iid=02910042914&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "10b75fcf-dbac-4fba-9773-7e8889c237b2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_10b75fcf-dbac-4fba-9773-7e8889c237b2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

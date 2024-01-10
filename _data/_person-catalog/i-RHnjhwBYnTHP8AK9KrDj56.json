@@ -1,0 +1,65 @@
+{
+  "name": "magnus unger",
+  "swerik-id": "i-RHnjhwBYnTHP8AK9KrDj56",
+  "DOB": "1832-11-26",
+  "DOD": "1913-07-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gillberga församling",
+    "link": "http://www.wikidata.org/entity/Q10504904"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "edwin magnus unger",
+    "unger"
+  ],
+  "iorter": [
+    "Nora"
+  ],
+  "positions": [
+    {
+      "start": "1893-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1892-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Unger%20SPA8%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6219963",
+      "link": "https://www.wikidata.org/wiki/Q6219963"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9fCwuOWMwGAAAAAAAAAFnA",
+      "link": "https://portrattarkiv.se/details/9fCwuOWMwGAAAAAAAAAFnA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsNQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsNQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

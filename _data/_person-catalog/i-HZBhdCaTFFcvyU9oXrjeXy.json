@@ -1,0 +1,60 @@
+{
+  "name": "anders flanking",
+  "swerik-id": "i-HZBhdCaTFFcvyU9oXrjeXy",
+  "DOB": "1957-10-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skövde församling",
+    "link": "http://www.wikidata.org/entity/Q10671306"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2011-10-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Flanking.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4753774",
+      "link": "https://www.wikidata.org/wiki/Q4753774"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "082878762718",
+      "link": "https://data.riksdagen.se/personlista/?iid=082878762718&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b83f4ae9-3e18-47fe-9575-cd01f6aa092f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b83f4ae9-3e18-47fe-9575-cd01f6aa092f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2010-10-04",
+      "end": "2011-10-11"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

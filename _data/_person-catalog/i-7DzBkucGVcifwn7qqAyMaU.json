@@ -1,0 +1,62 @@
+{
+  "name": "jörgen weibull",
+  "swerik-id": "i-7DzBkucGVcifwn7qqAyMaU",
+  "DOB": "1924-04-25",
+  "DOD": "1998-09-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lund",
+    "link": "http://www.wikidata.org/entity/Q2167"
+  },
+  "place-of-death": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "alt-names": [
+    "hans jörgen weibull"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1988-06-06 00:00:00",
+      "end": "1988-07-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6rgen%20Weibull.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6234347",
+      "link": "https://www.wikidata.org/wiki/Q6234347"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0242784896493",
+      "link": "https://data.riksdagen.se/personlista/?iid=0242784896493&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9f7e8af8-9f40-45a8-96d5-80150ef34852",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9f7e8af8-9f40-45a8-96d5-80150ef34852"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1988-06-06",
+      "end": "1988-07-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "gustaf bergström",
+  "swerik-id": "i-PnDe7gNhupEFs28fHTkDMW",
+  "DOB": "1864-06-29",
+  "DOD": "1920-08-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Karlskrona",
+    "link": "http://www.wikidata.org/entity/Q25789"
+  },
+  "alt-names": [
+    "bergström",
+    "gustaf albin bergström"
+  ],
+  "iorter": [
+    "Bubbetorp"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Bergstr%C3%B6m%201864%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5573351",
+      "link": "https://www.wikidata.org/wiki/Q5573351"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQDg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQDg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

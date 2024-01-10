@@ -1,0 +1,58 @@
+{
+  "name": "mona jönsson",
+  "swerik-id": "i-APELvxGf3JYiSTi4k8E9SN",
+  "DOB": "1951-03-18",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Askums församling",
+    "link": "http://www.wikidata.org/entity/Q10419853"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4988873",
+      "link": "https://www.wikidata.org/wiki/Q4988873"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0597915398712",
+      "link": "https://data.riksdagen.se/personlista/?iid=0597915398712&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a76d2337-f7bb-4f52-a213-69acdda14fed",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a76d2337-f7bb-4f52-a213-69acdda14fed"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2002-09-30",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "johan hjelmerus",
+  "swerik-id": "i-KMPMrDqavruDYW5jWx13ou",
+  "DOB": "1852-06-16",
+  "DOD": "1928-02-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jälluntofta församling",
+    "link": "http://www.wikidata.org/entity/Q10541660"
+  },
+  "place-of-death": {
+    "place": "Hogstads församling",
+    "link": "http://www.wikidata.org/entity/Q10525083"
+  },
+  "alt-names": [
+    "hjelmerus"
+  ],
+  "iorter": [
+    "Mjärdevid"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Lysings och Göstrings domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Hjelm%C3%A9rus%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5807410",
+      "link": "https://www.wikidata.org/wiki/Q5807410"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABGeiw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABGeiw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgadw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgadw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

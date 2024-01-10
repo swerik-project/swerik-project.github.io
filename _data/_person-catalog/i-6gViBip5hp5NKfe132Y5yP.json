@@ -1,0 +1,52 @@
+{
+  "name": "pehr nilsson",
+  "swerik-id": "i-6gViBip5hp5NKfe132Y5yP",
+  "DOB": "1812-06-21",
+  "DOD": "1900-03-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10595637"
+  },
+  "place-of-death": {
+    "place": "Överluleå församling",
+    "link": "http://www.wikidata.org/entity/Q10728626"
+  },
+  "alt-names": [
+    "nilsson",
+    "per nilsson"
+  ],
+  "iorter": [
+    "Vittjärv",
+    "Wittjerf"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens södra domsagas norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Pehr%20Nilsson%201812%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6011556",
+      "link": "https://www.wikidata.org/wiki/Q6011556"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRHw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRHw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

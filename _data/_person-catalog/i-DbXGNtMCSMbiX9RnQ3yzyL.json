@@ -1,0 +1,80 @@
+{
+  "name": "sven erik alkemark",
+  "swerik-id": "i-DbXGNtMCSMbiX9RnQ3yzyL",
+  "DOB": "1937-07-10",
+  "DOD": "1990-02-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vallsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10712386"
+  },
+  "place-of-death": {
+    "place": "Tofteryds församling",
+    "link": "http://www.wikidata.org/entity/Q18333982"
+  },
+  "alt-names": [
+    "alkemark"
+  ],
+  "iorter": [
+    "Skillingaryd"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1990-02-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1986-10-15 00:00:00",
+      "end": "1986-11-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1985-11-18 00:00:00",
+      "end": "1985-12-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21694243",
+      "link": "https://www.wikidata.org/wiki/Q21694243"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0898090064906",
+      "link": "https://data.riksdagen.se/personlista/?iid=0898090064906&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1ddd664a-5eb7-49ed-827d-fd46284344b9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1ddd664a-5eb7-49ed-827d-fd46284344b9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1990-02-16"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

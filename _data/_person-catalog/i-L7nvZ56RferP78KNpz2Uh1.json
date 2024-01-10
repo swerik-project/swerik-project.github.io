@@ -1,0 +1,157 @@
+{
+  "name": "per albin hansson",
+  "swerik-id": "i-L7nvZ56RferP78KNpz2Uh1",
+  "DOB": "1885-10-28",
+  "DOD": "1946-10-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fosie församling",
+    "link": "http://www.wikidata.org/entity/Q10498247"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "hansson"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Ålsten"
+  ],
+  "positions": [
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1946-10-06 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    },
+    {
+      "start": "1939-12-13 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1939-12-13 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1924-10-18 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting III",
+      "district": null
+    },
+    {
+      "start": "1924-10-18 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sandler",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1946-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1920-07-01 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1920-03-10 00:00:00",
+      "end": "1920-07-01 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Albin%20Hansson%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q53660",
+      "link": "https://www.wikidata.org/wiki/Q53660"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12597",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12597"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAAm0Q",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAAm0Q"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:55601",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:55601"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:59982",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:59982"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:60256",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:60256"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN5w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN5w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

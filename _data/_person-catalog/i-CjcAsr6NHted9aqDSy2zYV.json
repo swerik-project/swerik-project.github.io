@@ -1,0 +1,43 @@
+{
+  "name": "allan grönkvist",
+  "swerik-id": "i-CjcAsr6NHted9aqDSy2zYV",
+  "DOB": "1910-02-20",
+  "DOD": "1959-06-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nyeds församling",
+    "link": "http://www.wikidata.org/entity/Q10604644"
+  },
+  "place-of-death": {
+    "place": "Nyeds församling",
+    "link": "http://www.wikidata.org/entity/Q10604644"
+  },
+  "alt-names": [
+    "grönkvist"
+  ],
+  "iorter": [
+    "Molkom"
+  ],
+  "positions": [
+    {
+      "start": "1954-01-01 00:00:00",
+      "end": "1957-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5774566",
+      "link": "https://www.wikidata.org/wiki/Q5774566"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

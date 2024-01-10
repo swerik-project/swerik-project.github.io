@@ -1,0 +1,49 @@
+{
+  "name": "gunnar dahlgren",
+  "swerik-id": "i-8gzBExXmQ6zL4aUsbZEEE8",
+  "DOB": "1903-11-03",
+  "DOD": "1980-06-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Masthuggs församling",
+    "link": "http://www.wikidata.org/entity/Q10578167"
+  },
+  "place-of-death": {
+    "place": "Masthuggs församling",
+    "link": "http://www.wikidata.org/entity/Q10578167"
+  },
+  "alt-names": [
+    "bror gunnar leopold dahlgren",
+    "dahlgren"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111797206",
+      "link": "https://www.wikidata.org/wiki/Q111797206"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR_w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR_w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

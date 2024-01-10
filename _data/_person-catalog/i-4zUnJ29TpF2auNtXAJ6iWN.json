@@ -1,0 +1,60 @@
+{
+  "name": "elis heuman",
+  "swerik-id": "i-4zUnJ29TpF2auNtXAJ6iWN",
+  "DOB": "1859-03-07",
+  "DOD": "1908-08-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Morlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10589152"
+  },
+  "place-of-death": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "alt-names": [
+    "heuman"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1907-01-01 00:00:00",
+      "end": "1908-08-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elis%20Daniel%20He%C3%BCman%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5804623",
+      "link": "https://www.wikidata.org/wiki/Q5804623"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12964",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12964"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnkQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnkQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:68709",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:68709"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

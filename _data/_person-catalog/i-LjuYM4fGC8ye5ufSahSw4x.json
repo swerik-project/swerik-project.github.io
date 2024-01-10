@@ -1,0 +1,58 @@
+{
+  "name": "lolo lindström",
+  "swerik-id": "i-LjuYM4fGC8ye5ufSahSw4x",
+  "DOB": "1947",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2013-09-19 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96324261",
+      "link": "https://www.wikidata.org/wiki/Q96324261"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0914994510206",
+      "link": "https://data.riksdagen.se/personlista/?iid=0914994510206&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3c495054-c39f-4fc3-91d9-d6fde269e7a4",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3c495054-c39f-4fc3-91d9-d6fde269e7a4"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2013-09-19",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

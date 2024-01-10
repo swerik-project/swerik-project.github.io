@@ -1,0 +1,50 @@
+{
+  "name": "magnus andersson",
+  "swerik-id": "i-N6Keb2NhChtqLkNGdsJVHC",
+  "DOB": "1833-06-17",
+  "DOD": "1906-01-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ödeborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10727071"
+  },
+  "place-of-death": {
+    "place": "Färgelanda församling",
+    "link": "http://www.wikidata.org/entity/Q10500807"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Stigen"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Valbo och Nordals häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Andersson%201833%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555405",
+      "link": "https://www.wikidata.org/wiki/Q5555405"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZlQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZlQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

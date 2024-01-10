@@ -1,0 +1,114 @@
+{
+  "name": "karl gustaf westman",
+  "swerik-id": "i-JnuZjJswUM4d7eeyfhSVGt",
+  "DOB": "1876-08-18",
+  "DOD": "1944-01-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10512824"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "westman"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1943-08-30 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1936-09-28 00:00:00",
+      "end": "1943-08-30 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1936-06-19 00:00:00",
+      "end": "1936-09-28 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Pehrsson-Bramstorp",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1943-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1914-02-17 00:00:00",
+      "end": "1917-03-30 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hammarskjöld",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Gustaf%20Westman%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4353489",
+      "link": "https://www.wikidata.org/wiki/Q4353489"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAzoA",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAzoA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:498",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:498"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga7w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga7w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1922",
+      "end": "1943"
+    },
+    {
+      "party": {
+        "name": "Jordbrukarnas fria grupp",
+        "party-id": "Q10540831"
+      },
+      "start": "1919",
+      "end": "1921"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "dan eriksson",
+  "swerik-id": "i-UwR9aTcbsp2FAzzbpFB47A",
+  "DOB": "1956",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "dan erik eriksson",
+    "eriksson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5716200",
+      "link": "https://www.wikidata.org/wiki/Q5716200"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0125847791412",
+      "link": "https://data.riksdagen.se/personlista/?iid=0125847791412&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "561a8d1a-dab3-4bc2-b6fe-f460152edecf",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_561a8d1a-dab3-4bc2-b6fe-f460152edecf"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Ny demokrati",
+        "party-id": "Q967278"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

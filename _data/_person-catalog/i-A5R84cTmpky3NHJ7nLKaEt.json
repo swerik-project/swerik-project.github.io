@@ -1,0 +1,144 @@
+{
+  "name": "bosse ringholm",
+  "swerik-id": "i-A5R84cTmpky3NHJ7nLKaEt",
+  "DOB": "1942-08-18",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falköping",
+    "link": "http://www.wikidata.org/entity/Q21165"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "bo ingvar karchimirer ringholm",
+    "bo ringholm"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-07 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-03-21 00:00:00",
+      "end": "2006-03-27 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2005-01-01 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "eu-minister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2005-01-01 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "samordningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2004-11-01 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2004-11-01 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "idrottsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1999-04-12 00:00:00",
+      "end": "2004-10-21 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1982-10-11 00:00:00",
+      "end": "1982-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-05-03 00:00:00",
+      "end": "1976-06-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bosse%20Ringholm.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q321595",
+      "link": "https://www.wikidata.org/wiki/Q321595"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0552112259207",
+      "link": "https://data.riksdagen.se/personlista/?iid=0552112259207&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c329ce-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c329ce-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2006-10-07",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

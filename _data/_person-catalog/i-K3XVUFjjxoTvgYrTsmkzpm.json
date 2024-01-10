@@ -1,0 +1,96 @@
+{
+  "name": "christian loven",
+  "swerik-id": "i-K3XVUFjjxoTvgYrTsmkzpm",
+  "DOB": "1835-03-12",
+  "DOD": "1904-06-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Boo församling",
+    "link": "http://www.wikidata.org/entity/Q11056762"
+  },
+  "alt-names": [
+    "loven",
+    "otto christian loven",
+    "otto kristian loven"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Christian%20Lov%C3%A9n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5964257",
+      "link": "https://www.wikidata.org/wiki/Q5964257"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9698",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9698"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNqg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNqg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:3707",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:3707"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Friesenska diskussionsklubben",
+        "party-id": "Q10499105"
+      },
+      "start": "1899",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1897",
+      "end": "1897"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1891",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

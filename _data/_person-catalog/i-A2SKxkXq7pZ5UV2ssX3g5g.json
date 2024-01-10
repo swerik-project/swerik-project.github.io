@@ -1,0 +1,59 @@
+{
+  "name": "nils winkler",
+  "swerik-id": "i-A2SKxkXq7pZ5UV2ssX3g5g",
+  "DOB": "1870-10-18",
+  "DOD": "1942-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hässleholm",
+    "link": "http://www.wikidata.org/entity/Q847665"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "alt-names": [
+    "winkler"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1916-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Winkler.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6244378",
+      "link": "https://www.wikidata.org/wiki/Q6244378"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSIw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSIw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

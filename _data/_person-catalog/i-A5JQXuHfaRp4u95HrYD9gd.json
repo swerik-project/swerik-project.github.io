@@ -1,0 +1,68 @@
+{
+  "name": "edvard bohnstedt",
+  "swerik-id": "i-A5JQXuHfaRp4u95HrYD9gd",
+  "DOB": "1840-10-08",
+  "DOD": "1919-01-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skinnskattebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10670209"
+  },
+  "place-of-death": {
+    "place": "Jakobs församling",
+    "link": "http://www.wikidata.org/entity/Q10539290"
+  },
+  "alt-names": [
+    "bohnstedt",
+    "carl edvard ludvig bohnstedt"
+  ],
+  "iorter": [
+    "Rinkesta"
+  ],
+  "positions": [
+    {
+      "start": "1905-03-08 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Edvard%20Ludvig%20Bohnstedt%20-%20from%20Svenskt%20Portr%C3%A4ttgalleri%20II.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5580824",
+      "link": "https://www.wikidata.org/wiki/Q5580824"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP0A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP0A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1905",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

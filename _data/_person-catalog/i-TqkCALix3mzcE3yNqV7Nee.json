@@ -1,0 +1,69 @@
+{
+  "name": "martina johansson",
+  "swerik-id": "i-TqkCALix3mzcE3yNqV7Nee",
+  "DOB": "1975-03-08",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Lekaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10556686"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Martina%20Johansson%20Centerpartiet.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q71132178",
+      "link": "https://www.wikidata.org/wiki/Q71132178"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "033935884729",
+      "link": "https://data.riksdagen.se/personlista/?iid=033935884729&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5f965f4e-69e5-489d-99bf-a8908fc3e34a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5f965f4e-69e5-489d-99bf-a8908fc3e34a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

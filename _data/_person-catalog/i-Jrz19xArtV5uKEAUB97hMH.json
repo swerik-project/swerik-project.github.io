@@ -1,0 +1,49 @@
+{
+  "name": "harald kärrlander",
+  "swerik-id": "i-Jrz19xArtV5uKEAUB97hMH",
+  "DOB": "1902-05-29",
+  "DOD": "1968-11-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Dals församling",
+    "link": "http://www.wikidata.org/entity/Q10466249"
+  },
+  "place-of-death": {
+    "place": "Kanarieöarna",
+    "link": "http://www.wikidata.org/entity/Q5813"
+  },
+  "alt-names": [
+    "kärrlander"
+  ],
+  "iorter": [
+    "Kyrkdal",
+    "Sollefteå"
+  ],
+  "positions": [
+    {
+      "start": "1948-01-01 00:00:00",
+      "end": "1966-09-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5928617",
+      "link": "https://www.wikidata.org/wiki/Q5928617"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfEw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfEw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

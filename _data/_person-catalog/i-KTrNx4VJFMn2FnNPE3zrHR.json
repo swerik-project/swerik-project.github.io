@@ -1,0 +1,76 @@
+{
+  "name": "swen persson",
+  "swerik-id": "i-KTrNx4VJFMn2FnNPE3zrHR",
+  "DOB": "1875-04-28",
+  "DOD": "1937-01-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nymö",
+    "link": "http://www.wikidata.org/entity/Q10604849"
+  },
+  "place-of-death": {
+    "place": "Oppmanna församling",
+    "link": "http://www.wikidata.org/entity/Q10610916"
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Fritorp"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1916-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads läns sydöstra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Swen%20Persson%201875%20SPA%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043830",
+      "link": "https://www.wikidata.org/wiki/Q6043830"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAABBXA",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAABBXA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1916",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

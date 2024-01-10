@@ -1,0 +1,60 @@
+{
+  "name": "fredrik isberg",
+  "swerik-id": "i-7JYAVk7sXiL1NiWBEfZYhv",
+  "DOB": "1813-07-19",
+  "DOD": "1874-03-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "fredrik georg isberg",
+    "isberg"
+  ],
+  "iorter": [
+    "Norrtälje"
+  ],
+  "positions": [
+    {
+      "start": "1871-01-01 00:00:00",
+      "end": "1874-03-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertälje, Norrtälje, Vaxholms, Öregrunds, Östhammars och Sigtuna valkrets"
+    },
+    {
+      "start": "1867-03-26 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertälje, Norrtälje, Vaxholms, Öregrunds, Östhammars och Sigtuna valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Isberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5824491",
+      "link": "https://www.wikidata.org/wiki/Q5824491"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeWw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeWw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

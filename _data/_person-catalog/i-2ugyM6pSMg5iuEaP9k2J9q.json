@@ -1,0 +1,51 @@
+{
+  "name": "louise thunström",
+  "swerik-id": "i-2ugyM6pSMg5iuEaP9k2J9q",
+  "DOB": "1973-03-11",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Iran",
+    "link": "http://www.wikidata.org/entity/Q794"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "louise charlotte elahe thunström"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031249",
+      "link": "https://www.wikidata.org/wiki/Q114031249"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0905254899611",
+      "link": "https://data.riksdagen.se/personlista/?iid=0905254899611&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ee34af33-039e-4eaa-b7dc-819721bb8ce9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ee34af33-039e-4eaa-b7dc-819721bb8ce9"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

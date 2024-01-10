@@ -1,0 +1,52 @@
+{
+  "name": "erik forssberg",
+  "swerik-id": "i-92m93tAMUTKkSzFCqeubqH",
+  "DOB": "1865-12-09",
+  "DOD": "1934-08-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "link": "http://www.wikidata.org/entity/Q7374365"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "forssberg",
+    "j erik forssberg",
+    "john erik forssberg"
+  ],
+  "iorter": [
+    "Karlskrona"
+  ],
+  "positions": [
+    {
+      "start": "1927-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns och Kristianstads läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Dir%20Erik%20W.%20Forsberg%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5737442",
+      "link": "https://www.wikidata.org/wiki/Q5737442"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQKA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQKA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

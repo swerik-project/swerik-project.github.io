@@ -1,0 +1,66 @@
+{
+  "name": "sven antby",
+  "swerik-id": "i-Fs9KpZYHZp1uu9ioJZkH5D",
+  "DOB": "1908-01-06",
+  "DOD": "2001-12-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Gamlestads församling",
+    "link": "http://www.wikidata.org/entity/Q57417269"
+  },
+  "place-of-death": {
+    "place": "Långareds församling",
+    "link": "http://www.wikidata.org/entity/Q10572515"
+  },
+  "alt-names": [
+    "antby"
+  ],
+  "iorter": [
+    "Långared"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1947-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5557659",
+      "link": "https://www.wikidata.org/wiki/Q5557659"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZSw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZSw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1971-01-11",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "berit frändås",
+  "swerik-id": "i-TQn4XFmjtAgPMLekmAkhFk",
+  "DOB": "1938-01-30",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "frändås"
+  ],
+  "iorter": [
+    "Årås"
+  ],
+  "positions": [
+    {
+      "start": "1974-02-15 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98556674",
+      "link": "https://www.wikidata.org/wiki/Q98556674"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-02-15",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

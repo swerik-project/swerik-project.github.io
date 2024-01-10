@@ -1,0 +1,51 @@
+{
+  "name": "helmer schött",
+  "swerik-id": "i-UnNSATNMZzocKpwqSbyLL9",
+  "DOB": "1865-04-25",
+  "DOD": "1939-01-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sölvesborg",
+    "link": "http://www.wikidata.org/entity/Q898727"
+  },
+  "place-of-death": {
+    "place": "Kalmar",
+    "link": "http://www.wikidata.org/entity/Q26345"
+  },
+  "alt-names": [
+    "robert helmer schött",
+    "schött"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Helmer%20Sch%C3%B6tt%201865%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111543297",
+      "link": "https://www.wikidata.org/wiki/Q111543297"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc9A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc9A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

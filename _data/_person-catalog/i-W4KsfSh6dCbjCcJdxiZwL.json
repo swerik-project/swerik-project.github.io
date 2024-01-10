@@ -1,0 +1,117 @@
+{
+  "name": "margareta andren",
+  "swerik-id": "i-W4KsfSh6dCbjCcJdxiZwL",
+  "DOB": "1933-01-08",
+  "DOD": "2022-12-02",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Björkviks församling",
+    "link": "http://www.wikidata.org/entity/Q10430628"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "andren",
+    "elsa margareta andren"
+  ],
+  "iorter": [
+    "Bromma"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-14 00:00:00",
+      "end": "1988-11-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1978-10-03 00:00:00",
+      "end": "1978-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1977-10-01 00:00:00",
+      "end": "1978-03-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1977-01-10 00:00:00",
+      "end": "1977-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-18 00:00:00",
+      "end": "1976-12-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4936035",
+      "link": "https://www.wikidata.org/wiki/Q4936035"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0755978501008",
+      "link": "https://data.riksdagen.se/personlista/?iid=0755978501008&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f6402ba6-4278-4d4b-b6bf-cccb83e779a6",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f6402ba6-4278-4d4b-b6bf-cccb83e779a6"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1988-10-14",
+      "end": "1988-11-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

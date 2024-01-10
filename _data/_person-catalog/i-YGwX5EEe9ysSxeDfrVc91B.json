@@ -1,0 +1,49 @@
+{
+  "name": "nils agerberg",
+  "swerik-id": "i-YGwX5EEe9ysSxeDfrVc91B",
+  "DOB": "1912-01-29",
+  "DOD": "1996-05-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Näskotts församling",
+    "link": "http://www.wikidata.org/entity/Q10605347"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "agerberg"
+  ],
+  "iorter": [
+    "Frösön",
+    "Östersund"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5543430",
+      "link": "https://www.wikidata.org/wiki/Q5543430"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfReQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfReQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

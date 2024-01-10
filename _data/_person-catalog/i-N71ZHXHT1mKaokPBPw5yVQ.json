@@ -1,0 +1,69 @@
+{
+  "name": "bertil öhvall",
+  "swerik-id": "i-N71ZHXHT1mKaokPBPw5yVQ",
+  "DOB": "1920-08-26",
+  "DOD": "2001-02-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Råneå församling",
+    "link": "http://www.wikidata.org/entity/Q10658731"
+  },
+  "place-of-death": {
+    "place": "Luleå domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570636"
+  },
+  "alt-names": [
+    "oscar bertil öhvall",
+    "öhvall"
+  ],
+  "iorter": [
+    "Bergnäset"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bertil%20%C3%96hlund%201920%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6256938",
+      "link": "https://www.wikidata.org/wiki/Q6256938"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRCg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRCg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1971-01-11",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

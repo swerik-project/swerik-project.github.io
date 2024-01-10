@@ -1,0 +1,111 @@
+{
+  "name": "anna lindh",
+  "swerik-id": "i-S7LcGmD5NuSMrFDW8LBeJ1",
+  "DOB": "1957-06-19",
+  "DOD": "2003-09-11",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
+  },
+  "place-of-death": {
+    "place": "Karolinska Universitetssjukhuset",
+    "link": "http://www.wikidata.org/entity/Q1734280"
+  },
+  "alt-names": [
+    "lindh",
+    "ylva anna maria lindh"
+  ],
+  "iorter": [
+    "Grillby",
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2003-09-11 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1982-10-08 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Lindh%202002.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q208591",
+      "link": "https://www.wikidata.org/wiki/Q208591"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0987448696517",
+      "link": "https://data.riksdagen.se/personlista/?iid=0987448696517&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c3232a-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c3232a-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2002-09-30",
+      "end": "2002-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

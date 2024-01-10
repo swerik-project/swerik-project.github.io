@@ -1,0 +1,191 @@
+{
+  "name": "margot wallström",
+  "swerik-id": "i-aihY66rhb8LqCkSn8GhKt",
+  "DOB": "1954-09-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kåge",
+    "link": "http://www.wikidata.org/entity/Q616561"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "wallström"
+  ],
+  "iorter": [
+    "Hammarö"
+  ],
+  "positions": [
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2016-05-25 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "kulturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "konsumentminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "samfundsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson I",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "konsumentminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "samfundsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Margot%20Wahlstrom%20Sveriges%20EU-kommissionar.jpg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Margot%20Wallstr%C3%B6m%20Senate%20of%20Poland%2001%20%28cropped%29.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q237522",
+      "link": "https://www.wikidata.org/wiki/Q237522"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0740457070816",
+      "link": "https://data.riksdagen.se/personlista/?iid=0740457070816&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ca2c6fb1-1a65-4dbf-8260-a075e79c48ef",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ca2c6fb1-1a65-4dbf-8260-a075e79c48ef"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1982-10-04",
+      "end": "1985-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

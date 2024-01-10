@@ -1,0 +1,51 @@
+{
+  "name": "fredrik petersson",
+  "swerik-id": "i-R97w3nuXuTMZKkdjArixv8",
+  "DOB": "1837-04-25",
+  "DOD": "1907-02-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Urshults församling",
+    "link": "http://www.wikidata.org/entity/Q10711099"
+  },
+  "place-of-death": {
+    "place": "Urshults församling",
+    "link": "http://www.wikidata.org/entity/Q10711099"
+  },
+  "alt-names": [
+    "adolf fredrik petersson",
+    "petersson"
+  ],
+  "iorter": [
+    "Ugglekull"
+  ],
+  "positions": [
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Mellersta Värends domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Petersson%20SPA%2011.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6045372",
+      "link": "https://www.wikidata.org/wiki/Q6045372"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQTA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQTA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

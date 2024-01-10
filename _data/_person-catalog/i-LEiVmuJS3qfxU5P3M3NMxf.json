@@ -1,0 +1,90 @@
+{
+  "name": "carl rydberg",
+  "swerik-id": "i-LEiVmuJS3qfxU5P3M3NMxf",
+  "DOB": "1844-05-16",
+  "DOD": "1908-11-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kimstads församling",
+    "link": "http://www.wikidata.org/entity/Q10545485"
+  },
+  "place-of-death": {
+    "place": "Norrköpings Borgs församling",
+    "link": "http://www.wikidata.org/entity/Q10602795"
+  },
+  "alt-names": [
+    "carl gustaf rydberg",
+    "rydberg"
+  ],
+  "iorter": [
+    "Eksund"
+  ],
+  "positions": [
+    {
+      "start": "1902-01-01 00:00:00",
+      "end": "1906-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Björkekinds, Östkinds, Lösings, Bråbo och Memmings domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Rydberg%20SPA%20%222.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6085150",
+      "link": "https://www.wikidata.org/wiki/Q6085150"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAuaA",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAuaA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgayA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgayA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1902",
+      "end": "1906"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1892",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

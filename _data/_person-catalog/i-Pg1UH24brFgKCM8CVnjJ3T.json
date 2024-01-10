@@ -1,0 +1,65 @@
+{
+  "name": "magnus björnstjerna",
+  "swerik-id": "i-Pg1UH24brFgKCM8CVnjJ3T",
+  "DOB": "1805-01-28",
+  "DOD": "1898-03-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Arby församling",
+    "link": "http://www.wikidata.org/entity/Q10417120"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "björnstjerna",
+    "johan magnus björnstjerna"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    },
+    {
+      "start": "1858-09-24 00:00:00",
+      "end": "1862-03-28 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4tt%20av%20gnerall%C3%B6jtnant%20Johan%20Magnus%20Bj%C3%B6rnstjerna%20%281805-1898%29%2C%201881%20-%20Skoklosters%20slott%20-%2099516.tif"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5578369",
+      "link": "https://www.wikidata.org/wiki/Q5578369"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18339",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18339"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdAA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdAA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "björn samuelson",
+  "swerik-id": "i-Vb6bpYMqjKnzjfNm2jvcjj",
+  "DOB": "1951-12-23",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lidingö",
+    "link": "http://www.wikidata.org/entity/Q3906736"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2013-01-01 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-08-16 00:00:00",
+      "end": "2012-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-04-19 00:00:00",
+      "end": "2012-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6090662",
+      "link": "https://www.wikidata.org/wiki/Q6090662"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0483306984615",
+      "link": "https://data.riksdagen.se/personlista/?iid=0483306984615&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "6b973739-9587-47c5-bae3-f7f78583b587",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_6b973739-9587-47c5-bae3-f7f78583b587"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2013-01-01",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

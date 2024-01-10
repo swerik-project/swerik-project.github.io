@@ -1,0 +1,133 @@
+{
+  "name": "gunnar lange",
+  "swerik-id": "i-NAbeZfqManywc6YbAfsfki",
+  "DOB": "1909-03-09",
+  "DOD": "1976-09-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "lange",
+    "nils gunnar lange"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1975-03-17 00:00:00",
+      "end": "1976-09-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1974-10-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1955-09-12 00:00:00",
+      "end": "1970-10-09 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1955-09-12 00:00:00",
+      "end": "1970-10-09 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1955-09-12 00:00:00",
+      "end": "1970-10-09 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1954-11-29 00:00:00",
+      "end": "1955-09-12 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Vortrag%20%22Schwedische%20Handelspolitik%20und%20die%20wirtschaftlichn%20Zusammenarbeitspl%C3%A4ne%20in%20%22Europa%22%20vom%20schwedischen%20Handelsminister%20Gunnar%20Lange%20%28Kiel%2013.351%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6146893",
+      "link": "https://www.wikidata.org/wiki/Q6146893"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10997",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10997"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0868028415991",
+      "link": "https://data.riksdagen.se/personlista/?iid=0868028415991&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ac0c80ab-b35c-4f94-bfd9-113379d7281a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ac0c80ab-b35c-4f94-bfd9-113379d7281a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-01-10",
+      "end": "1974-10-20"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

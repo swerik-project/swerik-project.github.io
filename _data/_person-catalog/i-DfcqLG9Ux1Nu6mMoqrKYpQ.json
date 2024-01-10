@@ -1,0 +1,51 @@
+{
+  "name": "elin eriksson",
+  "swerik-id": "i-DfcqLG9Ux1Nu6mMoqrKYpQ",
+  "DOB": "1886-01-27",
+  "DOD": "1966-05-02",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Tortuna församling",
+    "link": "http://www.wikidata.org/entity/Q10700501"
+  },
+  "place-of-death": {
+    "place": "Hallstahammars församling",
+    "link": "http://www.wikidata.org/entity/Q10516434"
+  },
+  "alt-names": [
+    "elin sofia eriksson",
+    "eriksson"
+  ],
+  "iorter": [
+    "Hallstahammar"
+  ],
+  "positions": [
+    {
+      "start": "1941-11-26 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elin%20Eriksson%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4947005",
+      "link": "https://www.wikidata.org/wiki/Q4947005"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAA8Tw",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAA8Tw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

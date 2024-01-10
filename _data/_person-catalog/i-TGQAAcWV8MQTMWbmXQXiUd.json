@@ -1,0 +1,65 @@
+{
+  "name": "knut g ewerlöf",
+  "swerik-id": "i-TGQAAcWV8MQTMWbmXQXiUd",
+  "DOB": "1890-11-28",
+  "DOD": "1973-11-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskrona stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543880"
+  },
+  "place-of-death": {
+    "place": "Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10673010"
+  },
+  "alt-names": [
+    "ewerlöf",
+    "knut gerhard ewerlöf"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1939-12-13 00:00:00",
+      "end": "1945-07-31 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1938-01-01 00:00:00",
+      "end": "1961-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ewerl%C3%B6f.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5721610",
+      "link": "https://www.wikidata.org/wiki/Q5721610"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMnw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:61924",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:61924"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

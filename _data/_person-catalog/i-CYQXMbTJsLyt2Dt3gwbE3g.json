@@ -1,0 +1,59 @@
+{
+  "name": "rudolf boman",
+  "swerik-id": "i-CYQXMbTJsLyt2Dt3gwbE3g",
+  "DOB": "1895-09-20",
+  "DOD": "1971-04-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vireda församling",
+    "link": "http://www.wikidata.org/entity/Q10715935"
+  },
+  "place-of-death": {
+    "place": "Vireda församling",
+    "link": "http://www.wikidata.org/entity/Q10715935"
+  },
+  "alt-names": [
+    "boman"
+  ],
+  "iorter": [
+    "Kieryd"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1965-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf%20Boman%201895%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5581410",
+      "link": "https://www.wikidata.org/wiki/Q5581410"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbcg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbcg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "albert staaff",
+  "swerik-id": "i-RwPBopTzpg4A2p2sPdjgQ5",
+  "DOB": "1821-11-24",
+  "DOD": "1895-01-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "place-of-death": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "alt-names": [
+    "albert wilhelm staaff",
+    "staaf",
+    "staaff"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Staaff%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6186277",
+      "link": "https://www.wikidata.org/wiki/Q6186277"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAAA-UA",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAAA-UA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:54920",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:54920"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAAA-fw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAAA-fw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABlDQ",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABlDQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNdw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNdw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

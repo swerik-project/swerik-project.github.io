@@ -1,0 +1,56 @@
+{
+  "name": "john lindqvist",
+  "swerik-id": "i-AgGMZzru6dKoQKBAEAC9qQ",
+  "DOB": "1845-06-08",
+  "DOD": "1891-08-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Ryds församling",
+    "link": "http://www.wikidata.org/entity/Q10728384"
+  },
+  "place-of-death": {
+    "place": "Marstrand",
+    "link": "http://www.wikidata.org/entity/Q406556"
+  },
+  "alt-names": [
+    "johan lindqvist",
+    "lindqvist"
+  ],
+  "iorter": [
+    "Örnsköldsvik"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1891-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lindqvist%20John%2018450608%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6149669",
+      "link": "https://www.wikidata.org/wiki/Q6149669"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAABfLQ",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAABfLQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfWg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfWg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

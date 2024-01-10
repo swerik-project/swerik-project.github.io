@@ -1,0 +1,70 @@
+{
+  "name": "robert dickson",
+  "swerik-id": "i-HDr6WDtiNAxPxAvXojfCn5",
+  "DOB": "1843-11-27",
+  "DOD": "1924-04-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "dickson"
+  ],
+  "iorter": [
+    "Jönköping",
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1895-01-01 00:00:00",
+      "end": "1903-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Dickson%20%281843-1924%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5621628",
+      "link": "https://www.wikidata.org/wiki/Q5621628"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17520",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17520"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA8E1g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA8E1g"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbfQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbfQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

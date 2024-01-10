@@ -1,0 +1,68 @@
+{
+  "name": "gunnar ekelund",
+  "swerik-id": "i-TszN7oLAQKXvuRBmFA9m4t",
+  "DOB": "1850-10-07",
+  "DOD": "1928-08-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kvillinge församling",
+    "link": "http://www.wikidata.org/entity/Q10551107"
+  },
+  "place-of-death": {
+    "place": "Kvillinge församling",
+    "link": "http://www.wikidata.org/entity/Q10551107"
+  },
+  "alt-names": [
+    "ekelund",
+    "gunnar mauritz hugo ekelund"
+  ],
+  "iorter": [
+    "Hults bruk"
+  ],
+  "positions": [
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Ekelund%201850%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5629675",
+      "link": "https://www.wikidata.org/wiki/Q5629675"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaEw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaEw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1919"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1910",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

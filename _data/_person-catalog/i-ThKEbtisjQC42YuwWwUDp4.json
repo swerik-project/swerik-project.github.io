@@ -1,0 +1,84 @@
+{
+  "name": "anne rhenman",
+  "swerik-id": "i-ThKEbtisjQC42YuwWwUDp4",
+  "DOB": "1957-07-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ann rhenman eklund",
+    "anne rhenman eklund",
+    "anne sörensen",
+    "rhenman",
+    "sörensen"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1993-10-06 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1993-05-04 00:00:00",
+      "end": "1993-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-11-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4974616",
+      "link": "https://www.wikidata.org/wiki/Q4974616"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "078688254917",
+      "link": "https://data.riksdagen.se/personlista/?iid=078688254917&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8d3f8b8e-218e-452d-9092-9bb7af61bf52",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8d3f8b8e-218e-452d-9092-9bb7af61bf52"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Ny demokrati",
+        "party-id": "Q967278"
+      },
+      "start": "1993-05-04",
+      "end": "1993-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

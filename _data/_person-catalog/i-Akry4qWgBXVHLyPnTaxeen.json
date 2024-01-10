@@ -1,0 +1,64 @@
+{
+  "name": "carl axel trolle",
+  "swerik-id": "i-Akry4qWgBXVHLyPnTaxeen",
+  "DOB": "1810-07-17",
+  "DOD": "1879-09-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klågerup",
+    "link": "http://www.wikidata.org/entity/Q2028407"
+  },
+  "place-of-death": {
+    "place": "Lund",
+    "link": "http://www.wikidata.org/entity/Q2167"
+  },
+  "alt-names": [
+    "trolle"
+  ],
+  "iorter": [
+    "Klågerup"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1873-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Trolle%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6215599",
+      "link": "https://www.wikidata.org/wiki/Q6215599"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAB2SgA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAB2SgA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSKw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSKw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens konservativa grupp",
+        "party-id": "Q10501498"
+      },
+      "start": "1867",
+      "end": "1872"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

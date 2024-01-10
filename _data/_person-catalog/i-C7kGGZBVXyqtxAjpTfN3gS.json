@@ -1,0 +1,46 @@
+{
+  "name": "john pehrsson",
+  "swerik-id": "i-C7kGGZBVXyqtxAjpTfN3gS",
+  "DOB": "1826-10-07",
+  "DOD": "1900-06-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Osby församling",
+    "link": "http://www.wikidata.org/entity/Q10612943"
+  },
+  "place-of-death": {
+    "place": "Osby församling",
+    "link": "http://www.wikidata.org/entity/Q10612943"
+  },
+  "alt-names": [
+    "pehrsson"
+  ],
+  "iorter": [
+    "Hedvigsdal",
+    "Marklunda"
+  ],
+  "positions": [
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1900-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Pehrsson%201826%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6039741",
+      "link": "https://www.wikidata.org/wiki/Q6039741"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

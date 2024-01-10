@@ -1,0 +1,67 @@
+{
+  "name": "carin runeson",
+  "swerik-id": "i-RZNwwHohbyBgLVVG4Dy1Bj",
+  "DOB": "1947",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3363839",
+      "link": "https://www.wikidata.org/wiki/Q3363839"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0502174718806",
+      "link": "https://data.riksdagen.se/personlista/?iid=0502174718806&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "bc6862fa-36eb-4772-bcd2-aaaa7e62da76",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_bc6862fa-36eb-4772-bcd2-aaaa7e62da76"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

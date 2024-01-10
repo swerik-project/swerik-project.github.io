@@ -1,0 +1,74 @@
+{
+  "name": "fredrik von strokirch",
+  "swerik-id": "i-5BRVk73D7xc6p4YfM7HAZs",
+  "DOB": "1824-07-09",
+  "DOD": "1903-07-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sandhems församling",
+    "link": "http://www.wikidata.org/entity/Q10661177"
+  },
+  "place-of-death": {
+    "place": "Ljungarums församling",
+    "link": "http://www.wikidata.org/entity/Q10568302"
+  },
+  "alt-names": [
+    "johan paul fredrik otto von strokirch",
+    "strokirch"
+  ],
+  "iorter": [
+    "Strömsberg"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Paul%20Fredrik%20Otto%20von%20Strokirch%20%281824-1903%29%20in%201902.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6192676",
+      "link": "https://www.wikidata.org/wiki/Q6192676"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABR7g",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABR7g"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbWw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbWw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

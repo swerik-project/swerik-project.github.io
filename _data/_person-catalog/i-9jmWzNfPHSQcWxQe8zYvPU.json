@@ -1,0 +1,61 @@
+{
+  "name": "claes cederström",
+  "swerik-id": "i-9jmWzNfPHSQcWxQe8zYvPU",
+  "DOB": "1833-10-31",
+  "DOD": "1900-09-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hemmesjö med Tegnaby församling",
+    "link": "http://www.wikidata.org/entity/Q10521808"
+  },
+  "place-of-death": {
+    "place": "Växjö",
+    "link": "http://www.wikidata.org/entity/Q26152"
+  },
+  "alt-names": [
+    "cederström",
+    "claes henrik cederström"
+  ],
+  "iorter": [
+    "Högnalöv"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1882-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Claes%20Cederstr%C3%B6m%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96097384",
+      "link": "https://www.wikidata.org/wiki/Q96097384"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA7fLQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA7fLQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:70286",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:70286"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQIg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQIg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

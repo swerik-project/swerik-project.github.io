@@ -1,0 +1,76 @@
+{
+  "name": "valfrid eriksson",
+  "swerik-id": "i-RzNMopiTz7dhdPuNJBYjdA",
+  "DOB": "1879-12-24",
+  "DOD": "1932-11-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vitsands församling",
+    "link": "http://www.wikidata.org/entity/Q10716383"
+  },
+  "place-of-death": {
+    "place": "Torsby",
+    "link": "http://www.wikidata.org/entity/Q3582130"
+  },
+  "alt-names": [
+    "eriksson"
+  ],
+  "iorter": [
+    "Överbyn"
+  ],
+  "positions": [
+    {
+      "start": "1926-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Valfrid%20Eriksson%201879%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5717504",
+      "link": "https://www.wikidata.org/wiki/Q5717504"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbqw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbqw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1926",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1921",
+      "end": "1921"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

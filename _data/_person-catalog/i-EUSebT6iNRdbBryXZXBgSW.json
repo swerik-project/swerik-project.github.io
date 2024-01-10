@@ -1,0 +1,41 @@
+{
+  "name": "edvard petren",
+  "swerik-id": "i-EUSebT6iNRdbBryXZXBgSW",
+  "DOB": "1863-01-24",
+  "DOD": "1930-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Husie församling",
+    "link": "http://www.wikidata.org/entity/Q67366597"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1905-04-14 00:00:00",
+      "end": "1905-08-02 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ramstedt",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Petr%C3%A9n%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6161187",
+      "link": "https://www.wikidata.org/wiki/Q6161187"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

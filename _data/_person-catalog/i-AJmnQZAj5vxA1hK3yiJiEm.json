@@ -1,0 +1,69 @@
+{
+  "name": "david perez",
+  "swerik-id": "i-AJmnQZAj5vxA1hK3yiJiEm",
+  "DOB": "1990-06-26",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Täby församling",
+    "link": "http://www.wikidata.org/entity/Q10707908"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "david alexander perez"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2021-03-01 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q96323621",
+      "link": "https://www.wikidata.org/wiki/Q96323621"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0119851690521",
+      "link": "https://data.riksdagen.se/personlista/?iid=0119851690521&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c5cc2c67-3638-430e-bccb-a04db799a9f0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c5cc2c67-3638-430e-bccb-a04db799a9f0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2021-03-01",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

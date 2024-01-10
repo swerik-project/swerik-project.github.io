@@ -1,0 +1,55 @@
+{
+  "name": "mats tysk",
+  "swerik-id": "i-PXYNAanmb4rxrN5vpctctX",
+  "DOB": "1841-12-13",
+  "DOD": "1906-02-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mora församling",
+    "link": "http://www.wikidata.org/entity/Q10588907"
+  },
+  "place-of-death": {
+    "place": "Mora församling",
+    "link": "http://www.wikidata.org/entity/Q10588907"
+  },
+  "alt-names": [
+    "tysk"
+  ],
+  "iorter": [
+    "Mora"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ovansiljans domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mats%20Tysk%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6217733",
+      "link": "https://www.wikidata.org/wiki/Q6217733"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAmaA",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAmaA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbsA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbsA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

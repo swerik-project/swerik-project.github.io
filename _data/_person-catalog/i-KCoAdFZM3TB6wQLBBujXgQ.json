@@ -1,0 +1,60 @@
+{
+  "name": "jakob erikson",
+  "swerik-id": "i-KCoAdFZM3TB6wQLBBujXgQ",
+  "DOB": "1848-05-16",
+  "DOD": "1915-07-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Träkumla socken",
+    "link": "http://www.wikidata.org/entity/Q10705576"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "erikson",
+    "peter jakob maximilian erikson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Eriksson%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5715812",
+      "link": "https://www.wikidata.org/wiki/Q5715812"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMeA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMeA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "birgit hjalmarsson",
+  "swerik-id": "i-SM5drZdTakSfdcuMz6raDu",
+  "DOB": "1926-10-26",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "hjalmarsson"
+  ],
+  "iorter": [
+    "Säter"
+  ],
+  "positions": [
+    {
+      "start": "1974-02-15 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98539326",
+      "link": "https://www.wikidata.org/wiki/Q98539326"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1974-02-15",
+      "end": "1976-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

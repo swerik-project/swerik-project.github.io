@@ -1,0 +1,49 @@
+{
+  "name": "ernfrid gelotte",
+  "swerik-id": "i-SUSCNw1CP7NJaZRxfPfBGu",
+  "DOB": "1863-08-27",
+  "DOD": "1935-10-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Österfärnebo församling",
+    "link": "http://www.wikidata.org/entity/Q10727848"
+  },
+  "place-of-death": {
+    "place": "Säby församling",
+    "link": "http://www.wikidata.org/entity/Q10687878"
+  },
+  "alt-names": [
+    "bror ernfrid gelotte",
+    "gelotte"
+  ],
+  "iorter": [
+    "Tranås"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1915-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5755262",
+      "link": "https://www.wikidata.org/wiki/Q5755262"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbCQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "gustaf lantz",
+  "swerik-id": "i-6GYXkbfSoUeH3CekfDuKLA",
+  "DOB": "1981-02-01",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gamla Uppsala församling",
+    "link": "http://www.wikidata.org/entity/Q10502441"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lars gustaf oscar lantz"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2023-08-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2020-12-16 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2020-08-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2017-04-24 00:00:00",
+      "end": "2017-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Lantz.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q30035705",
+      "link": "https://www.wikidata.org/wiki/Q30035705"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "075747847023",
+      "link": "https://data.riksdagen.se/personlista/?iid=075747847023&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "82c56b96-b106-4b16-958c-98b153d02639",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_82c56b96-b106-4b16-958c-98b153d02639"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2023-08-27"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "john jönsson",
+  "swerik-id": "i-SefoHBfj1LYxndXCtgBZ5N",
+  "DOB": "1862-09-09",
+  "DOD": "1934-06-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jämshögs församling",
+    "link": "http://www.wikidata.org/entity/Q10541678"
+  },
+  "place-of-death": {
+    "place": "Karlshamn",
+    "link": "http://www.wikidata.org/entity/Q54769"
+  },
+  "alt-names": [
+    "jönsson"
+  ],
+  "iorter": [
+    "Boa"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Listers domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20J%C3%B6nsson%201862%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5895945",
+      "link": "https://www.wikidata.org/wiki/Q5895945"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Di4a42b6X_AAAAAAAAB6UA",
+      "link": "https://portrattarkiv.se/details/Di4a42b6X_AAAAAAAAB6UA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQlA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQlA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

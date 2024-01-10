@@ -1,0 +1,65 @@
+{
+  "name": "carl patric ossbahr",
+  "swerik-id": "i-Fn6GZyzoxgGzKkevJhSZFP",
+  "DOB": "1893-12-08",
+  "DOD": "1985-12-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svea artilleriregemente",
+    "link": "http://www.wikidata.org/entity/Q7651801"
+  },
+  "place-of-death": {
+    "place": "Västerleds församling",
+    "link": "http://www.wikidata.org/entity/Q10717966"
+  },
+  "alt-names": [
+    "ossbahr"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16801912",
+      "link": "https://www.wikidata.org/wiki/Q16801912"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN0Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN0Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

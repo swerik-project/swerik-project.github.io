@@ -1,0 +1,109 @@
+{
+  "name": "per olsson",
+  "swerik-id": "i-7qvitSSN8gQ1uzg5iwWjD9",
+  "DOB": "1864-12-07",
+  "DOD": "1939-12-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Högs församling",
+    "link": "http://www.wikidata.org/entity/Q10532345"
+  },
+  "place-of-death": {
+    "place": "Hälsingtuna församling",
+    "link": "http://www.wikidata.org/entity/Q10531498"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Fiskeby",
+    "Fläsbro",
+    "Åsak"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hälsinglands norra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-03-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hälsinglands norra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Hälsinglands domsagas valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1906-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Enångers och Forsa tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Olsson%201864%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027782",
+      "link": "https://www.wikidata.org/wiki/Q6027782"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7794",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7794"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO8A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO8A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1921",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1909",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1897",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

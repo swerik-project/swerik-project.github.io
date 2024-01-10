@@ -1,0 +1,95 @@
+{
+  "name": "anders åström",
+  "swerik-id": "i-HLhP48YeUAXEGs7zCTagms",
+  "DOB": "1859-10-17",
+  "DOD": "1915-06-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlskoga församling",
+    "link": "http://www.wikidata.org/entity/Q10543859"
+  },
+  "place-of-death": {
+    "place": "Degerfors församling",
+    "link": "http://www.wikidata.org/entity/Q10467695"
+  },
+  "alt-names": [
+    "anders åström den yngre",
+    "åström"
+  ],
+  "iorter": [
+    "Degerfors"
+  ],
+  "positions": [
+    {
+      "start": "1908-05-11 00:00:00",
+      "end": "1915-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20%C3%85str%C3%B6m%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6256023",
+      "link": "https://www.wikidata.org/wiki/Q6256023"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfimQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfimQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABlaZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABlaZA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "xnPIH5lXePAAAAAAAAAQxA",
+      "link": "https://portrattarkiv.se/details/xnPIH5lXePAAAAAAAAAQxA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1915"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1908",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1891",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

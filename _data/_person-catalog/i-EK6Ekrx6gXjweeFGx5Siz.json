@@ -1,0 +1,49 @@
+{
+  "name": "holger adolfsson",
+  "swerik-id": "i-EK6Ekrx6gXjweeFGx5Siz",
+  "DOB": "1908-01-20",
+  "DOD": "1960-09-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hammarö församling",
+    "link": "http://www.wikidata.org/entity/Q10516910"
+  },
+  "place-of-death": {
+    "place": "Röstånga församling",
+    "link": "http://www.wikidata.org/entity/Q10659169"
+  },
+  "alt-names": [
+    "adolfsson",
+    "erik holger jonatan adolfsson"
+  ],
+  "iorter": [
+    "Bynsberg"
+  ],
+  "positions": [
+    {
+      "start": "1950-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111551656",
+      "link": "https://www.wikidata.org/wiki/Q111551656"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbtA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbtA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

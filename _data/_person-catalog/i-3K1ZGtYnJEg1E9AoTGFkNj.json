@@ -1,0 +1,51 @@
+{
+  "name": "otto meijer",
+  "swerik-id": "i-3K1ZGtYnJEg1E9AoTGFkNj",
+  "DOB": "1889-02-12",
+  "DOD": "1965-02-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vä församling",
+    "link": "http://www.wikidata.org/entity/Q10717095"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "meijer",
+    "per otto bernhard meijer"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1940-01-19 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Meijer%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117280381",
+      "link": "https://www.wikidata.org/wiki/Q117280381"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTbQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTbQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

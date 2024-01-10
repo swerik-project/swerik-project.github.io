@@ -1,0 +1,48 @@
+{
+  "name": "thore sörlin",
+  "swerik-id": "i-WCJinCspGk1rMWNk5YnBxH",
+  "DOB": "1906-10-28",
+  "DOD": "1988-08-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åsele församling",
+    "link": "http://www.wikidata.org/entity/Q10726894"
+  },
+  "place-of-death": {
+    "place": "Åsele församling",
+    "link": "http://www.wikidata.org/entity/Q10726894"
+  },
+  "alt-names": [
+    "sörlin"
+  ],
+  "iorter": [
+    "Åsele"
+  ],
+  "positions": [
+    {
+      "start": "1955-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6202629",
+      "link": "https://www.wikidata.org/wiki/Q6202629"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfiow",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfiow"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

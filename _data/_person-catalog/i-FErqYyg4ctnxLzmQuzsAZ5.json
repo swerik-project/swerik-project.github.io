@@ -1,0 +1,77 @@
+{
+  "name": "august wengberg",
+  "swerik-id": "i-FErqYyg4ctnxLzmQuzsAZ5",
+  "DOB": "1822-01-08",
+  "DOD": "1885-06-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ängelholm",
+    "link": "http://www.wikidata.org/entity/Q54755"
+  },
+  "place-of-death": {
+    "place": "Ystads församling",
+    "link": "http://www.wikidata.org/entity/Q10723793"
+  },
+  "alt-names": [
+    "per august wengberg",
+    "wengberg"
+  ],
+  "iorter": [
+    "Ystad"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ystads, Skanör-Falsterbo och Trelleborgs valkrets"
+    },
+    {
+      "start": "1874-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ystads, Skanör-Falsterbo och Trelleborgs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Wengberg%201822%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6235750",
+      "link": "https://www.wikidata.org/wiki/Q6235750"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgSBQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSBQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya centern (partigrupp 1883-1887)",
+        "party-id": "Q10604299"
+      },
+      "start": "1883",
+      "end": "1884"
+    },
+    {
+      "party": {
+        "name": "Centern (partigrupp 1873-1882)",
+        "party-id": "Q10444846"
+      },
+      "start": "1879",
+      "end": "1882"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

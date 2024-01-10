@@ -1,0 +1,66 @@
+{
+  "name": "johan jakob nordström",
+  "swerik-id": "i-NtZkf2mFJXvC9PJ1aMWzTd",
+  "DOB": "1801-12-20",
+  "DOD": "1874-05-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åbo",
+    "link": "http://www.wikidata.org/entity/Q38511"
+  },
+  "place-of-death": {
+    "place": "Finska församlingen",
+    "link": "http://www.wikidata.org/entity/Q10495587"
+  },
+  "alt-names": [
+    "johan jacob nordström",
+    "nordström"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1874-05-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Jakob%20Nordstr%C3%B6m.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4547462",
+      "link": "https://www.wikidata.org/wiki/Q4547462"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8331",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8331"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "5TJc-sPXaKAAAAAAAAAnvQ",
+      "link": "https://portrattarkiv.se/details/5TJc-sPXaKAAAAAAAAAnvQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:2718",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:2718"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRnA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRnA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

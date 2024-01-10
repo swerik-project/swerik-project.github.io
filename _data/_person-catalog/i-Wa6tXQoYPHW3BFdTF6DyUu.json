@@ -1,0 +1,49 @@
+{
+  "name": "harald johansson",
+  "swerik-id": "i-Wa6tXQoYPHW3BFdTF6DyUu",
+  "DOB": "1906-03-17",
+  "DOD": "1986-06-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "place-of-death": {
+    "place": "Norrköpings S:t Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q10602807"
+  },
+  "alt-names": [
+    "ernst harald johansson",
+    "johansson"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111844383",
+      "link": "https://www.wikidata.org/wiki/Q111844383"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgagQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgagQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

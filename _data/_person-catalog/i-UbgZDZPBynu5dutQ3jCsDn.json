@@ -1,0 +1,60 @@
+{
+  "name": "christina örnebjär",
+  "swerik-id": "i-UbgZDZPBynu5dutQ3jCsDn",
+  "DOB": "1979-03-01",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Skinnskattebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10670209"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2015-04-20 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Christina%20%C3%96rnebj%C3%A4r.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q19977344",
+      "link": "https://www.wikidata.org/wiki/Q19977344"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0266517781926",
+      "link": "https://data.riksdagen.se/personlista/?iid=0266517781926&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "165a1fcd-57f6-4f98-8f0d-9f45313dedf9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_165a1fcd-57f6-4f98-8f0d-9f45313dedf9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2015-04-20",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

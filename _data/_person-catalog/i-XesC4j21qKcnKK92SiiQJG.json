@@ -1,0 +1,76 @@
+{
+  "name": "helena nilsson lannegren",
+  "swerik-id": "i-XesC4j21qKcnKK92SiiQJG",
+  "DOB": "1948-12-30",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1997-06-01 00:00:00",
+      "end": "1998-08-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns norra valkrets"
+    },
+    {
+      "start": "1996-06-01 00:00:00",
+      "end": "1997-04-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns norra valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1996-03-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns norra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4969533",
+      "link": "https://www.wikidata.org/wiki/Q4969533"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0370034713503",
+      "link": "https://data.riksdagen.se/personlista/?iid=0370034713503&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5c9e6d47-53c3-4fce-9712-70e1623eb0b0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5c9e6d47-53c3-4fce-9712-70e1623eb0b0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1997-06-01",
+      "end": "1998-08-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

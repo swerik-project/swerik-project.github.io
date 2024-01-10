@@ -1,0 +1,49 @@
+{
+  "name": "erik ericsson",
+  "swerik-id": "i-7LiCmByQJSTk3ESw7CzerA",
+  "DOB": "1818-05-24",
+  "DOD": "1898-04-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sala landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58820835"
+  },
+  "place-of-death": {
+    "place": "Malungs församling",
+    "link": "http://www.wikidata.org/entity/Q10576232"
+  },
+  "alt-names": [
+    "ericsson",
+    "johan erik ericsson"
+  ],
+  "iorter": [
+    "Malung"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5715109",
+      "link": "https://www.wikidata.org/wiki/Q5715109"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUnA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUnA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

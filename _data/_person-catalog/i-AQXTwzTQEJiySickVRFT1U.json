@@ -1,0 +1,80 @@
+{
+  "name": "marianne jönsson",
+  "swerik-id": "i-AQXTwzTQEJiySickVRFT1U",
+  "DOB": "1933-06-13",
+  "DOD": "2017-05-25",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Södra Möckleby församling",
+    "link": "http://www.wikidata.org/entity/Q10688953"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jönsson"
+  ],
+  "iorter": [
+    "Degerhamn"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
+    {
+      "start": "1986-11-11 00:00:00",
+      "end": "1986-12-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4957716",
+      "link": "https://www.wikidata.org/wiki/Q4957716"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0396368639900",
+      "link": "https://data.riksdagen.se/personlista/?iid=0396368639900&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1ecaf939-b671-4d11-ad81-b3f941bef627",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1ecaf939-b671-4d11-ad81-b3f941bef627"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,128 @@
+{
+  "name": "ines uusmann",
+  "swerik-id": "i-3sPbyicZy7gfbq8RdVTQMb",
+  "DOB": "1948-10-30",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Rolfstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10656469"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ines junea uusmann",
+    "uusmann"
+  ],
+  "iorter": [
+    "Täby"
+  ],
+  "positions": [
+    {
+      "start": "1996-03-22 00:00:00",
+      "end": "1998-10-06 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson III",
+      "district": null
+    },
+    {
+      "start": "1994-10-07 00:00:00",
+      "end": "1998-10-07 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1990-06-14 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1989-01-16 00:00:00",
+      "end": "1989-06-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ines%20Uusmann%202020%2002.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4984124",
+      "link": "https://www.wikidata.org/wiki/Q4984124"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0729734540102",
+      "link": "https://data.riksdagen.se/personlista/?iid=0729734540102&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "05b89d3c-9b8f-42b7-a4dc-0e06be68b226",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_05b89d3c-9b8f-42b7-a4dc-0e06be68b226"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1994-10-03",
+      "end": "1994-10-07"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

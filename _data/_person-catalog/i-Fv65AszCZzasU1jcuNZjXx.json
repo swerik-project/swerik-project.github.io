@@ -1,0 +1,71 @@
+{
+  "name": "monica widnemark",
+  "swerik-id": "i-Fv65AszCZzasU1jcuNZjXx",
+  "DOB": "1951",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "widnemark"
+  ],
+  "iorter": [
+    "Kosta"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4990475",
+      "link": "https://www.wikidata.org/wiki/Q4990475"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0245526181815",
+      "link": "https://data.riksdagen.se/personlista/?iid=0245526181815&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "bd0337c8-1c1c-4e99-bab2-753123338fee",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_bd0337c8-1c1c-4e99-bab2-753123338fee"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

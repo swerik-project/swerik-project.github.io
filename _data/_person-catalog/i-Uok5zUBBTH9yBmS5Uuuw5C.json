@@ -1,0 +1,51 @@
+{
+  "name": "peter norman",
+  "swerik-id": "i-Uok5zUBBTH9yBmS5Uuuw5C",
+  "DOB": "1958-04-03",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sverige",
+    "link": "http://www.wikidata.org/entity/Q34"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "peter erik norman"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "finansmarknadsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3209237",
+      "link": "https://www.wikidata.org/wiki/Q3209237"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0222968585611",
+      "link": "https://data.riksdagen.se/personlista/?iid=0222968585611&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "261f2d98-f06e-4286-b574-c4b20bcfb1e9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_261f2d98-f06e-4286-b574-c4b20bcfb1e9"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

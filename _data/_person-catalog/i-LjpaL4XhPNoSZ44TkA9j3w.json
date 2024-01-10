@@ -1,0 +1,71 @@
+{
+  "name": "katja nyberg",
+  "swerik-id": "i-LjpaL4XhPNoSZ44TkA9j3w",
+  "DOB": "1971-09-16",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Övertorneå församling",
+    "link": "http://www.wikidata.org/entity/Q10728680"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "katja maria elisabeth nyberg"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Katja%20Nyberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q61103104",
+      "link": "https://www.wikidata.org/wiki/Q61103104"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0768554866215",
+      "link": "https://data.riksdagen.se/personlista/?iid=0768554866215&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "243a8476-df07-435b-b2e8-50d03926ae51",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_243a8476-df07-435b-b2e8-50d03926ae51"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

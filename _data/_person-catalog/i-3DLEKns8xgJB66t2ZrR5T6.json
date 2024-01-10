@@ -1,0 +1,96 @@
+{
+  "name": "fabian månsson",
+  "swerik-id": "i-3DLEKns8xgJB66t2ZrR5T6",
+  "DOB": "1872-01-20",
+  "DOD": "1938-01-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Förkärla församling",
+    "link": "http://www.wikidata.org/entity/Q10501349"
+  },
+  "place-of-death": {
+    "place": "Serafimerlasarettet",
+    "link": "http://www.wikidata.org/entity/Q10666168"
+  },
+  "alt-names": [
+    "dacke",
+    "karl fabian månsson",
+    "månsson"
+  ],
+  "iorter": [
+    "Furuvik",
+    "Furvik",
+    "Gävle",
+    "Hagaström"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1937-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gästriklands valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fabian%20M%C3%A5nsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2254365",
+      "link": "https://www.wikidata.org/wiki/Q2254365"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8630",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8630"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAU4Q",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAU4Q"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:30050",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:30050"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPCA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPCA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1924",
+      "end": "1937"
+    },
+    {
+      "party": {
+        "name": "Socialdemokratiska vänstergruppen",
+        "party-id": "Q10672903"
+      },
+      "start": "1917",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

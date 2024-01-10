@@ -1,0 +1,58 @@
+{
+  "name": "marita aronson",
+  "swerik-id": "i-8eznoqP6pLNBjC4Q11VtkC",
+  "DOB": "1939-05-10",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Guddarp",
+    "link": "http://www.wikidata.org/entity/Q10510264"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4936554",
+      "link": "https://www.wikidata.org/wiki/Q4936554"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0333961113904",
+      "link": "https://data.riksdagen.se/personlista/?iid=0333961113904&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8fef2ee0-ea7c-4ca1-ba6b-020a556c6ca0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8fef2ee0-ea7c-4ca1-ba6b-020a556c6ca0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2002-09-30",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

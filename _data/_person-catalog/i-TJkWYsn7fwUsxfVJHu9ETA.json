@@ -1,0 +1,64 @@
+{
+  "name": "ulla berg",
+  "swerik-id": "i-TJkWYsn7fwUsxfVJHu9ETA",
+  "DOB": "1946",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "berg",
+    "samuelsson",
+    "ulla samuelsson"
+  ],
+  "iorter": [
+    "Hällefors"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21585329",
+      "link": "https://www.wikidata.org/wiki/Q21585329"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0186543997302",
+      "link": "https://data.riksdagen.se/personlista/?iid=0186543997302&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "658f32a5-c6ab-473f-92b6-b70391f65dac",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_658f32a5-c6ab-473f-92b6-b70391f65dac"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

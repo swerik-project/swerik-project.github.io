@@ -1,0 +1,65 @@
+{
+  "name": "magnus huss",
+  "swerik-id": "i-VQbxrsVx9uAdAvTHPXPzK7",
+  "DOB": "1807-10-22",
+  "DOD": "1890-04-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torps församling",
+    "link": "http://www.wikidata.org/entity/Q10700251"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "huss"
+  ],
+  "iorter": [
+    "Ekhult"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo, Bankekinds och Hanekinds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Huss.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q603365",
+      "link": "https://www.wikidata.org/wiki/Q603365"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13907",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13907"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABe2sg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABe2sg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:4686",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:4686"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgamw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgamw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

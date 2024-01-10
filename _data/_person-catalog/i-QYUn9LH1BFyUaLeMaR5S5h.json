@@ -1,0 +1,67 @@
+{
+  "name": "otto von arnold",
+  "swerik-id": "i-QYUn9LH1BFyUaLeMaR5S5h",
+  "DOB": "1950-09-03",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2013-02-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2007-11-05 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5559774",
+      "link": "https://www.wikidata.org/wiki/Q5559774"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0241675049710",
+      "link": "https://data.riksdagen.se/personlista/?iid=0241675049710&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "6d7749f6-b86f-4c7e-9259-5126e28e893e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_6d7749f6-b86f-4c7e-9259-5126e28e893e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2010-10-04",
+      "end": "2013-02-21"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "ola andersson",
+  "swerik-id": "i-3h4JLudD4ghwrTDYsHbDm4",
+  "DOB": "1837-11-02",
+  "DOD": "1919-07-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Görslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10512685"
+  },
+  "place-of-death": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Burlöv",
+    "Malmö",
+    "Nordanå"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1871-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ola%20Andersson%20%281837-1919%29%20SvUpp.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555650",
+      "link": "https://www.wikidata.org/wiki/Q5555650"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5811",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5811"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO5g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO5g"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:49258",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49258"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

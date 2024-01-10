@@ -1,0 +1,88 @@
+{
+  "name": "oscar alströmer",
+  "swerik-id": "i-A1rXJfgfS6b5QQQgwn3Jm8",
+  "DOB": "1811-10-31",
+  "DOD": "1888-08-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fuxerna församling",
+    "link": "http://www.wikidata.org/entity/Q10500565"
+  },
+  "place-of-death": {
+    "place": "Marstrand",
+    "link": "http://www.wikidata.org/entity/Q406556"
+  },
+  "alt-names": [
+    "alströmer",
+    "carl jonas oscar alströmer"
+  ],
+  "iorter": [
+    "Halmstad"
+  ],
+  "positions": [
+    {
+      "start": "1876-03-20 00:00:00",
+      "end": "1878-07-04 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. III",
+      "district": null
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4tt%20av%20Oscar%20Alstr%C3%B6mer.%20Fritz%20von%20Dardel%2C%201848%20-%20Nordiska%20Museet%20-%20NMA.0043759.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5548000",
+      "link": "https://www.wikidata.org/wiki/Q5548000"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5729",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5729"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnnw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:49016",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49016"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1867",
+      "end": "1867"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

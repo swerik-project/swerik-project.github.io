@@ -1,0 +1,111 @@
+{
+  "name": "curt boström",
+  "swerik-id": "i-HGfALYBg5SLYb8z1er3XK1",
+  "DOB": "1926-12-31",
+  "DOD": "2014-03-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Piteå",
+    "link": "http://www.wikidata.org/entity/Q21169"
+  },
+  "place-of-death": {
+    "place": "Piteå",
+    "link": "http://www.wikidata.org/entity/Q21169"
+  },
+  "alt-names": [
+    "boström"
+  ],
+  "iorter": [
+    "Piteå"
+  ],
+  "positions": [
+    {
+      "start": "1982-12-01 00:00:00",
+      "end": "1983-01-17 00:00:00",
+      "role": "försvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme II",
+      "district": null
+    },
+    {
+      "start": "1982-10-08 00:00:00",
+      "end": "1985-06-30 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme II",
+      "district": null
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1982-10-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1982-01-01 00:00:00",
+      "end": "1985-12-31 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme II",
+      "district": null
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "1974-02-15 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5583208",
+      "link": "https://www.wikidata.org/wiki/Q5583208"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "83bf4564-867e-402a-a79a-82a7c15fe0b1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_83bf4564-867e-402a-a79a-82a7c15fe0b1"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1982-10-04",
+      "end": "1982-10-07"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "wilhelm palmaer",
+  "swerik-id": "i-UpY7my6TxLhYjcwRW7yL1s",
+  "DOB": "1832-02-18",
+  "DOD": "1910-07-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "carl wilhelm palmaer",
+    "palmaer"
+  ],
+  "iorter": [
+    "Forsvik"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vadsbo södra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Wilhelm%20Palm%C3%A6r.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6033361",
+      "link": "https://www.wikidata.org/wiki/Q6033361"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAAAk7w",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAAAk7w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd_g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd_g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

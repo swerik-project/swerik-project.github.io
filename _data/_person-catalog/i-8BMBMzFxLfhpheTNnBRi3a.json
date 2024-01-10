@@ -1,0 +1,67 @@
+{
+  "name": "nils persson",
+  "swerik-id": "i-8BMBMzFxLfhpheTNnBRi3a",
+  "DOB": "1873-09-16",
+  "DOD": "1948-06-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mangskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10576408"
+  },
+  "place-of-death": {
+    "place": "Mangskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10576408"
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Grytterud"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Persson%201873%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043440",
+      "link": "https://www.wikidata.org/wiki/Q6043440"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcWw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcWw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1940"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1929",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

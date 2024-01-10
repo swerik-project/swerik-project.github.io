@@ -1,0 +1,67 @@
+{
+  "name": "olof lind",
+  "swerik-id": "i-QseqVj35KqHrtaDJjkAmGv",
+  "DOB": "1861-10-29",
+  "DOD": "1944-07-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Årsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10726762"
+  },
+  "place-of-death": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "alt-names": [
+    "lind"
+  ],
+  "iorter": [
+    "Nås"
+  ],
+  "positions": [
+    {
+      "start": "1919-08-04 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Lind%201861%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5952967",
+      "link": "https://www.wikidata.org/wiki/Q5952967"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbvw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbvw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kommunistiska partiet",
+        "party-id": "Q965481"
+      },
+      "start": "1921",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Socialdemokratiska vänstergruppen",
+        "party-id": "Q10672903"
+      },
+      "start": "1919",
+      "end": "1921"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "axel fagerholm",
+  "swerik-id": "i-MmmeadtFjSdRUyPkMZX2Xo",
+  "DOB": "1844-08-21",
+  "DOD": "1930-04-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vimmerby stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10715642"
+  },
+  "place-of-death": {
+    "place": "Hässleby församling",
+    "link": "http://www.wikidata.org/entity/Q10531807"
+  },
+  "alt-names": [
+    "fagerholm",
+    "sven axel fagerholm"
+  ],
+  "iorter": [
+    "Vallnäs"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1901-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Fagerholm%201844%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105200990",
+      "link": "https://www.wikidata.org/wiki/Q105200990"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbBw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbBw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

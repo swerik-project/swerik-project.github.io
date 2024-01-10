@@ -1,0 +1,91 @@
+{
+  "name": "sten wahlund",
+  "swerik-id": "i-E9aScmhjijhnqjzEW3KgLJ",
+  "DOB": "1901-03-06",
+  "DOD": "1976-07-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bollnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10432594"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sten gösta william wahlund",
+    "wahlund"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1944-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sten%20G%C3%B6sta%20William%20Wahlund%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6229126",
+      "link": "https://www.wikidata.org/wiki/Q6229126"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAP-w",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAP-w"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29715",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29715"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAP_A",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAP_A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAP_Q",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAP_Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAQ2w",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAQ2w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge_Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge_Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABkkpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABkkpQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

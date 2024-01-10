@@ -1,0 +1,87 @@
+{
+  "name": "magdalena thuresson",
+  "swerik-id": "i-XKBEUKbavmqFvdi75cDrts",
+  "DOB": "1990-09-20",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vällingby församling",
+    "link": "http://www.wikidata.org/entity/Q18334835"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "magdalena schröder"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-06-01 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2023-02-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2022-08-02 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-11-12 00:00:00",
+      "end": "2021-12-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q58769193",
+      "link": "https://www.wikidata.org/wiki/Q58769193"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "041911485722",
+      "link": "https://data.riksdagen.se/personlista/?iid=041911485722&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "af75fe5c-7d6c-493e-91d6-b44a1445c718",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_af75fe5c-7d6c-493e-91d6-b44a1445c718"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2022-09-26",
+      "end": "2023-02-28"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

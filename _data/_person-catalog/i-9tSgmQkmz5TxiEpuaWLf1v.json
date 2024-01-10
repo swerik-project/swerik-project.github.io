@@ -1,0 +1,88 @@
+{
+  "name": "edvard alkman",
+  "swerik-id": "i-9tSgmQkmz5TxiEpuaWLf1v",
+  "DOB": "1867-07-03",
+  "DOD": "1937-12-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gällersta församling",
+    "link": "http://www.wikidata.org/entity/Q10512297"
+  },
+  "place-of-death": {
+    "place": "Katarina församling",
+    "link": "http://www.wikidata.org/entity/Q3427889"
+  },
+  "alt-names": [
+    "alkman",
+    "edvard petrus alkman"
+  ],
+  "iorter": [
+    "Göteborg",
+    "Stenkullen"
+  ],
+  "positions": [
+    {
+      "start": "1928-01-01 00:00:00",
+      "end": "1929-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1916-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Petrus%20Alkman.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5552279",
+      "link": "https://www.wikidata.org/wiki/Q5552279"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4WiA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4WiA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:46505",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:46505"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR4Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR4Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala riksdagspartiet",
+        "party-id": "Q10560990"
+      },
+      "start": "1928",
+      "end": "1929"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1916",
+      "end": "1919"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

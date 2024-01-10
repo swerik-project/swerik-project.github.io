@@ -1,0 +1,58 @@
+{
+  "name": "inger gustafsson",
+  "swerik-id": "i-B25PXrQwRSEFXwvdsqCzFG",
+  "DOB": "1948",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2005-12-01 00:00:00",
+      "end": "2006-02-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4951500",
+      "link": "https://www.wikidata.org/wiki/Q4951500"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0463244199702",
+      "link": "https://data.riksdagen.se/personlista/?iid=0463244199702&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "21ed44df-f728-46b4-b894-ae1a72c06d39",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_21ed44df-f728-46b4-b894-ae1a72c06d39"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2005-12-01",
+      "end": "2006-02-28"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

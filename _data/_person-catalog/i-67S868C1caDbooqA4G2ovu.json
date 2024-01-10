@@ -1,0 +1,58 @@
+{
+  "name": "louise mörk",
+  "swerik-id": "i-67S868C1caDbooqA4G2ovu",
+  "DOB": "1993",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114239981",
+      "link": "https://www.wikidata.org/wiki/Q114239981"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0476362590123",
+      "link": "https://data.riksdagen.se/personlista/?iid=0476362590123&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ee0713c7-695e-4368-84e8-ce91d2821fa9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ee0713c7-695e-4368-84e8-ce91d2821fa9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "anette åkesson",
+  "swerik-id": "i-Mu8D3Cyy6PoWGop3KQtfh2",
+  "DOB": "1966",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Svennevad",
+    "link": "http://www.wikidata.org/entity/Q2007208"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "2012-09-01 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4991052",
+      "link": "https://www.wikidata.org/wiki/Q4991052"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0198031297912",
+      "link": "https://data.riksdagen.se/personlista/?iid=0198031297912&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "cee29007-d024-4ba9-8d69-bbdc5cec2bc0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_cee29007-d024-4ba9-8d69-bbdc5cec2bc0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

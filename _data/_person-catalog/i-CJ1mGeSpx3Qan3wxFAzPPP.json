@@ -1,0 +1,60 @@
+{
+  "name": "andrea törnestam",
+  "swerik-id": "i-CJ1mGeSpx3Qan3wxFAzPPP",
+  "DOB": "1991-06-17",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-06-08 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sommartal%202015%20in%20Stockholm%2003%20%28Andrea%20T%C3%B6rnestam%29.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q20890201",
+      "link": "https://www.wikidata.org/wiki/Q20890201"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "088172351225",
+      "link": "https://data.riksdagen.se/personlista/?iid=088172351225&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b302a522-d88c-43bb-bc8f-daa51959db07",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b302a522-d88c-43bb-bc8f-daa51959db07"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-06-08",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

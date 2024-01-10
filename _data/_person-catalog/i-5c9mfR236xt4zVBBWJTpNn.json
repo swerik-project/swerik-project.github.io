@@ -1,0 +1,124 @@
+{
+  "name": "herman andersson",
+  "swerik-id": "i-5c9mfR236xt4zVBBWJTpNn",
+  "DOB": "1869-03-15",
+  "DOD": "1938-10-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tuve församling",
+    "link": "http://www.wikidata.org/entity/Q10706708"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "andersson",
+    "herman teodor andersson"
+  ],
+  "iorter": [
+    "Grimbo"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1938-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs och Bohus läns södra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Askims samt Västra och Östra Hisings häraders valkrets"
+    },
+    {
+      "start": "1901-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra och Östra Hisings häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554793",
+      "link": "https://www.wikidata.org/wiki/Q5554793"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5Dxg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5Dxg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR5Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR5Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1922",
+      "end": "1938"
+    },
+    {
+      "party": {
+        "name": "Jordbrukarnas fria grupp",
+        "party-id": "Q10540831"
+      },
+      "start": "1918",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1915",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1901",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

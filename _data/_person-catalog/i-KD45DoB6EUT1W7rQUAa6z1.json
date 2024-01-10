@@ -1,0 +1,62 @@
+{
+  "name": "kristina knöös franzen",
+  "swerik-id": "i-KD45DoB6EUT1W7rQUAa6z1",
+  "DOB": "1957",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "knöös franzen"
+  ],
+  "iorter": [
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1992-01-01 00:00:00",
+      "end": "1992-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21558212",
+      "link": "https://www.wikidata.org/wiki/Q21558212"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0676588149317",
+      "link": "https://data.riksdagen.se/personlista/?iid=0676588149317&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "4c719fdc-faf0-4545-817d-6312bd87b147",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_4c719fdc-faf0-4545-817d-6312bd87b147"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1992-01-01",
+      "end": "1992-01-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

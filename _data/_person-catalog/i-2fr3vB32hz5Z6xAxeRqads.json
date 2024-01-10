@@ -1,0 +1,71 @@
+{
+  "name": "martin ådahl",
+  "swerik-id": "i-2fr3vB32hz5Z6xAxeRqads",
+  "DOB": "1969-12-05",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "sven martin andreas ådahl"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20%C3%85dahl%202018%20001.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6254715",
+      "link": "https://www.wikidata.org/wiki/Q6254715"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0494843794418",
+      "link": "https://data.riksdagen.se/personlista/?iid=0494843794418&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1e70f7df-dd11-410b-941a-bcac14e919a8",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1e70f7df-dd11-410b-941a-bcac14e919a8"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

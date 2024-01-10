@@ -1,0 +1,60 @@
+{
+  "name": "mubarik mohamed abdirahman",
+  "swerik-id": "i-En3CE6QoStF8T5JvdqYiDW",
+  "DOB": "1982-11-03",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-04-19 00:00:00",
+      "end": "2022-05-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mubarik%20Mohamed%20Abdirahman.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111655286",
+      "link": "https://www.wikidata.org/wiki/Q111655286"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0940558892720",
+      "link": "https://data.riksdagen.se/personlista/?iid=0940558892720&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "de59fcb5-51a2-48ea-aa8d-7a828d1ea7c2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_de59fcb5-51a2-48ea-aa8d-7a828d1ea7c2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-04-19",
+      "end": "2022-05-22"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

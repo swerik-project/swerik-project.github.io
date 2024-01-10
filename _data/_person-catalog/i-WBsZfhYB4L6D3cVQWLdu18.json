@@ -1,0 +1,58 @@
+{
+  "name": "leif björnlod",
+  "swerik-id": "i-WBsZfhYB4L6D3cVQWLdu18",
+  "DOB": "1939-08-10",
+  "DOD": "2018-03-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "place-of-death": {
+    "place": "Brunskogs distrikt",
+    "link": "http://www.wikidata.org/entity/Q21704786"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5578317",
+      "link": "https://www.wikidata.org/wiki/Q5578317"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0381231495405",
+      "link": "https://data.riksdagen.se/personlista/?iid=0381231495405&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "28535a60-4698-43e5-aa4f-c572d5c0303e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_28535a60-4698-43e5-aa4f-c572d5c0303e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2002-09-30",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "carl schedin",
+  "swerik-id": "i-Amix13w5CwbirmoN46TB7n",
+  "DOB": "1868-07-17",
+  "DOD": "1948-12-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torsångs församling",
+    "link": "http://www.wikidata.org/entity/Q10700451"
+  },
+  "place-of-death": {
+    "place": "Torsångs församling",
+    "link": "http://www.wikidata.org/entity/Q10700451"
+  },
+  "alt-names": [
+    "carl gustaf schedin",
+    "schedin"
+  ],
+  "iorter": [
+    "Milsbo"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1929-01-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1927-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Schedin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6096631",
+      "link": "https://www.wikidata.org/wiki/Q6096631"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb2Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb2Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

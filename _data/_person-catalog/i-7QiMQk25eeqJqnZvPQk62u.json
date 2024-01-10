@@ -1,0 +1,60 @@
+{
+  "name": "jonas alströmer dy",
+  "swerik-id": "i-7QiMQk25eeqJqnZvPQk62u",
+  "DOB": "1840-11-12",
+  "DOD": "1917-07-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fuxerna församling",
+    "link": "http://www.wikidata.org/entity/Q10500565"
+  },
+  "place-of-death": {
+    "place": "Östads församling",
+    "link": "http://www.wikidata.org/entity/Q10727767"
+  },
+  "alt-names": [
+    "alströmer",
+    "jonas alströmer"
+  ],
+  "iorter": [
+    "Östad"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Alstr%C3%B6mer%201840%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5552501",
+      "link": "https://www.wikidata.org/wiki/Q5552501"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZRw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZRw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

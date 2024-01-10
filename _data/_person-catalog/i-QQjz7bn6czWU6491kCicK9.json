@@ -1,0 +1,88 @@
+{
+  "name": "georg danell",
+  "swerik-id": "i-QQjz7bn6czWU6491kCicK9",
+  "DOB": "1947-09-07",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skinnskattebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10670209"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "danell"
+  ],
+  "iorter": [
+    "Enebyberg"
+  ],
+  "positions": [
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1981-05-05 00:00:00",
+      "role": "planminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1979-01-01 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1978-03-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5616559",
+      "link": "https://www.wikidata.org/wiki/Q5616559"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1979-10-01",
+      "end": "1979-10-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,103 @@
+{
+  "name": "josef fransson",
+  "swerik-id": "i-DF6yJMSNGfT6HwisDSi4qz",
+  "DOB": "1978-09-25",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Frösve församling",
+    "link": "http://www.wikidata.org/entity/Q10499781"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-05-13 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2022-12-13 00:00:00",
+      "end": "2023-04-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-11-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5740653",
+      "link": "https://www.wikidata.org/wiki/Q5740653"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0211757295524",
+      "link": "https://data.riksdagen.se/personlista/?iid=0211757295524&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2131f2eb-348c-4b92-8e76-52c134d79919",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2131f2eb-348c-4b92-8e76-52c134d79919"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2022-12-13",
+      "end": "2023-04-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

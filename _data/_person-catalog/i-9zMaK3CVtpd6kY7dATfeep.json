@@ -1,0 +1,80 @@
+{
+  "name": "kjell arne welin",
+  "swerik-id": "i-9zMaK3CVtpd6kY7dATfeep",
+  "DOB": "1942-11-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "welin"
+  ],
+  "iorter": [
+    "Helsingborg"
+  ],
+  "positions": [
+    {
+      "start": "1994-02-07 00:00:00",
+      "end": "1994-05-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6235147",
+      "link": "https://www.wikidata.org/wiki/Q6235147"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0514532571208",
+      "link": "https://data.riksdagen.se/personlista/?iid=0514532571208&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c838920a-57b5-4fbc-9627-82f670187878",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c838920a-57b5-4fbc-9627-82f670187878"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1994-02-07",
+      "end": "1994-05-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

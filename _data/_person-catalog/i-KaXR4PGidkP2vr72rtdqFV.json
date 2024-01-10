@@ -1,0 +1,82 @@
+{
+  "name": "axel sundberg",
+  "swerik-id": "i-KaXR4PGidkP2vr72rtdqFV",
+  "DOB": "1869-11-11",
+  "DOD": "1934-12-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västerviks församling",
+    "link": "http://www.wikidata.org/entity/Q10718036"
+  },
+  "place-of-death": {
+    "place": "Lysekils församling",
+    "link": "http://www.wikidata.org/entity/Q10571689"
+  },
+  "alt-names": [
+    "axel ludvig sundberg",
+    "sundberg"
+  ],
+  "iorter": [
+    "Lysekil"
+  ],
+  "positions": [
+    {
+      "start": "1926-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs och Bohus läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Sundberg%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6195378",
+      "link": "https://www.wikidata.org/wiki/Q6195378"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACQ4w",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACQ4w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkaw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkaw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1926",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1915",
+      "end": "1918"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

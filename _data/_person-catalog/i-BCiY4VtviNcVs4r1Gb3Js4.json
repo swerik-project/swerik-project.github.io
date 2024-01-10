@@ -1,0 +1,58 @@
+{
+  "name": "emmanuel morfidiakis",
+  "swerik-id": "i-BCiY4VtviNcVs4r1Gb3Js4",
+  "DOB": "1937",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1985-11-19 00:00:00",
+      "end": "1985-12-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1985-10-15 00:00:00",
+      "end": "1985-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q119019359",
+      "link": "https://www.wikidata.org/wiki/Q119019359"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0504070018507",
+      "link": "https://data.riksdagen.se/personlista/?iid=0504070018507&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "dc959d9b-edc2-41c4-a382-7f4c5533ccf7",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_dc959d9b-edc2-41c4-a382-7f4c5533ccf7"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

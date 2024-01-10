@@ -1,0 +1,82 @@
+{
+  "name": "allan larsson",
+  "swerik-id": "i-Nv77dySLCrLFFtvFyZSdjG",
+  "DOB": "1938-04-03",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bredaryd",
+    "link": "http://www.wikidata.org/entity/Q3283889"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Saltsjö-Boo"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-05-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1991-10-05 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1990-02-27 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "finansminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Carlsson II",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Allan%20Larsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4730772",
+      "link": "https://www.wikidata.org/wiki/Q4730772"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0970500642209",
+      "link": "https://data.riksdagen.se/personlista/?iid=0970500642209&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "94e6c4ce-dc1d-4bfd-bc4c-0353c49d508d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_94e6c4ce-dc1d-4bfd-bc4c-0353c49d508d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1994-10-03",
+      "end": "1995-05-14"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

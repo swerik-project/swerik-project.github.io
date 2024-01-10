@@ -1,0 +1,69 @@
+{
+  "name": "sven andersson",
+  "swerik-id": "i-7sFhzF4XyCBEam1XMECpMa",
+  "DOB": "1917-09-05",
+  "DOD": "2000-01-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Laxarby församling",
+    "link": "http://www.wikidata.org/entity/Q10555268"
+  },
+  "place-of-death": {
+    "place": "Steneby församling",
+    "link": "http://www.wikidata.org/entity/Q10678415"
+  },
+  "alt-names": [
+    "andersson",
+    "sven august holger andersson"
+  ],
+  "iorter": [
+    "Billingsfors"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Andersson%20i%20Billingsfors%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5556063",
+      "link": "https://www.wikidata.org/wiki/Q5556063"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZMw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZMw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1971-01-11",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

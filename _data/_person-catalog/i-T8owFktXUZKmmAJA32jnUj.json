@@ -1,0 +1,67 @@
+{
+  "name": "henning elmquist",
+  "swerik-id": "i-T8owFktXUZKmmAJA32jnUj",
+  "DOB": "1871-12-05",
+  "DOD": "1933-08-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Eskilstuna stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10489097"
+  },
+  "place-of-death": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "alt-names": [
+    "gustaf henning elmquist"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1920-10-27 00:00:00",
+      "end": "1921-10-13 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.y.",
+      "district": null
+    },
+    {
+      "start": "1920-10-27 00:00:00",
+      "end": "1921-10-13 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen von Sydow",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elmquist%2C%20Henning%20i%20Hvar%208%20dag%202%201906.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5710064",
+      "link": "https://www.wikidata.org/wiki/Q5710064"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16035",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16035"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABLNg",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABLNg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29938",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29938"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

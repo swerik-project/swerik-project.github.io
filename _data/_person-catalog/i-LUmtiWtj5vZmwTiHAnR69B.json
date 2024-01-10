@@ -1,0 +1,85 @@
+{
+  "name": "oscar berg",
+  "swerik-id": "i-LUmtiWtj5vZmwTiHAnR69B",
+  "DOB": "1839-10-30",
+  "DOD": "1903-10-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kumla församling",
+    "link": "http://www.wikidata.org/entity/Q10550066"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "berg",
+    "c o berg",
+    "carl oscar berg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Berg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5571164",
+      "link": "https://www.wikidata.org/wiki/Q5571164"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18538",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18538"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAAC0jA",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAAC0jA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:8162",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:8162"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfElQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfElQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

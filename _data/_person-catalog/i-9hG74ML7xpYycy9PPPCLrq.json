@@ -1,0 +1,51 @@
+{
+  "name": "janne åstrand",
+  "swerik-id": "i-9hG74ML7xpYycy9PPPCLrq",
+  "DOB": "1828-09-20",
+  "DOD": "1884-03-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sunds församling",
+    "link": "http://www.wikidata.org/entity/Q10683798"
+  },
+  "place-of-death": {
+    "place": "Linköping",
+    "link": "http://www.wikidata.org/entity/Q25413"
+  },
+  "alt-names": [
+    "johan axel åstrand",
+    "åstrand"
+  ],
+  "iorter": [
+    "Graby"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kinda och Ydre domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Janne%20%C3%85strand%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104840074",
+      "link": "https://www.wikidata.org/wiki/Q104840074"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgayQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgayQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "carl ros",
+  "swerik-id": "i-7DCgRGSzWSxyZLwAQP8JuC",
+  "DOB": "1866-11-07",
+  "DOD": "1930-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rämmens församling",
+    "link": "http://www.wikidata.org/entity/Q10658435"
+  },
+  "place-of-death": {
+    "place": "Södra Råda församling",
+    "link": "http://www.wikidata.org/entity/Q10688973"
+  },
+  "alt-names": [
+    "carl axel ros",
+    "ros"
+  ],
+  "iorter": [
+    "Årås"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ros%20SPA%201%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6078656",
+      "link": "https://www.wikidata.org/wiki/Q6078656"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcRA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcRA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "solange olame bayibsa",
+  "swerik-id": "i-LCciWZcLX7JDVXPmTcHLUk",
+  "DOB": "1987-08-07",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Tanzania",
+    "link": "http://www.wikidata.org/entity/Q924"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2021-06-01 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2020-12-01 00:00:00",
+      "end": "2021-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Solange%20Olame%20Bayibsa.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q103821442",
+      "link": "https://www.wikidata.org/wiki/Q103821442"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0323000187920",
+      "link": "https://data.riksdagen.se/personlista/?iid=0323000187920&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e7479c89-0534-4762-baa4-2517b636dde2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e7479c89-0534-4762-baa4-2517b636dde2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

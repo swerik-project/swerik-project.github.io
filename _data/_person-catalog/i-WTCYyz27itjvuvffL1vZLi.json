@@ -1,0 +1,71 @@
+{
+  "name": "elina linna",
+  "swerik-id": "i-WTCYyz27itjvuvffL1vZLi",
+  "DOB": "1947",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "kaarina elina linna"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elina%20Linna%20%28V%29%20Sverige.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4349165",
+      "link": "https://www.wikidata.org/wiki/Q4349165"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0972254695405",
+      "link": "https://data.riksdagen.se/personlista/?iid=0972254695405&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0e602932-457a-4c65-b945-a21bd1674cf1",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0e602932-457a-4c65-b945-a21bd1674cf1"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2006-10-02",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

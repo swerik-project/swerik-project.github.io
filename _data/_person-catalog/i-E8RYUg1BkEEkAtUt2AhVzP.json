@@ -1,0 +1,64 @@
+{
+  "name": "elvy söderström",
+  "swerik-id": "i-E8RYUg1BkEEkAtUt2AhVzP",
+  "DOB": "1953-10-11",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "söderström"
+  ],
+  "iorter": [
+    "Örnsköldsvik"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Kaffe%20chat%20%284296083950%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4981874",
+      "link": "https://www.wikidata.org/wiki/Q4981874"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0813946968912",
+      "link": "https://data.riksdagen.se/personlista/?iid=0813946968912&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1e5d63bb-4abf-415c-b1e4-68e4bbaaef44",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1e5d63bb-4abf-415c-b1e4-68e4bbaaef44"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

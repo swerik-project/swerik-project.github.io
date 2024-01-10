@@ -1,0 +1,126 @@
+{
+  "name": "nyamko sabuni",
+  "swerik-id": "i-Rtt4vV6Vr1WnfJAi2Dn9hN",
+  "DOB": "1969-03-31",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Bujumbura",
+    "link": "http://www.wikidata.org/entity/Q3854"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nyamko ana sabuni",
+    "nyamko saboni"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2013-01-21 00:00:00",
+      "role": "biträdande utbildningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "demokratiminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "integrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "konsumentminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2013-01-21 00:00:00",
+      "role": "jämställdhetsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2013-01-21 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nyamko%20Sabuni%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q241851",
+      "link": "https://www.wikidata.org/wiki/Q241851"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0802373156815",
+      "link": "https://data.riksdagen.se/personlista/?iid=0802373156815&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ff50a40d-0981-455c-b8d8-885298bad11c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ff50a40d-0981-455c-b8d8-885298bad11c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2010-10-04",
+      "end": "2010-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

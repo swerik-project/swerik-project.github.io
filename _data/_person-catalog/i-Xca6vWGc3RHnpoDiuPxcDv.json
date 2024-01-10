@@ -1,0 +1,67 @@
+{
+  "name": "jörgen berglund",
+  "swerik-id": "i-Xca6vWGc3RHnpoDiuPxcDv",
+  "DOB": "1974-02-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sundsvalls församling",
+    "link": "http://www.wikidata.org/entity/Q10683835"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q57168821",
+      "link": "https://www.wikidata.org/wiki/Q57168821"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0628005785225",
+      "link": "https://data.riksdagen.se/personlista/?iid=0628005785225&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fe6f437b-729a-4943-8e41-f43d39a5605f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fe6f437b-729a-4943-8e41-f43d39a5605f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

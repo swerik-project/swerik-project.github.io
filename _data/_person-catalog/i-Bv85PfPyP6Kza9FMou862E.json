@@ -1,0 +1,59 @@
+{
+  "name": "carl ekman",
+  "swerik-id": "i-Bv85PfPyP6Kza9FMou862E",
+  "DOB": "1830-11-03",
+  "DOD": "1888-07-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ekshärads församling",
+    "link": "http://www.wikidata.org/entity/Q10480761"
+  },
+  "place-of-death": {
+    "place": "Ekshärads församling",
+    "link": "http://www.wikidata.org/entity/Q10480761"
+  },
+  "alt-names": [
+    "ekman"
+  ],
+  "iorter": [
+    "Ekshärad"
+  ],
+  "positions": [
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvdals och Nyeds domsagas valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvdals och Nyeds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ekman%201830%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104904307",
+      "link": "https://www.wikidata.org/wiki/Q104904307"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbqQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbqQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "arne svensson",
+  "swerik-id": "i-Ac9yxy2x5ktJ5wzveXCsFQ",
+  "DOB": "1923",
+  "DOD": "2019-09-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "svensson"
+  ],
+  "iorter": [
+    "Hillared"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21567815",
+      "link": "https://www.wikidata.org/wiki/Q21567815"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0545494137791",
+      "link": "https://data.riksdagen.se/personlista/?iid=0545494137791&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "51c90ec7-c0d8-41ba-b793-e3a711cbc75c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_51c90ec7-c0d8-41ba-b793-e3a711cbc75c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

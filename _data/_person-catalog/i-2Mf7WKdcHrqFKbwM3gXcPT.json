@@ -1,0 +1,124 @@
+{
+  "name": "rune jonsson",
+  "swerik-id": "i-2Mf7WKdcHrqFKbwM3gXcPT",
+  "DOB": "1929-09-17",
+  "DOD": "2006-06-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grundsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10509154"
+  },
+  "place-of-death": {
+    "place": "Örnsköldsviks församling",
+    "link": "http://www.wikidata.org/entity/Q10727632"
+  },
+  "alt-names": [
+    "jonsson",
+    "sven alla jonsson"
+  ],
+  "iorter": [
+    "Husum"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Rune%20Jonsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5891990",
+      "link": "https://www.wikidata.org/wiki/Q5891990"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "038177988704",
+      "link": "https://data.riksdagen.se/personlista/?iid=038177988704&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0b458d5d-fef1-4f9a-8481-b4e2dd3fcb40",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0b458d5d-fef1-4f9a-8481-b4e2dd3fcb40"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfcQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfcQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

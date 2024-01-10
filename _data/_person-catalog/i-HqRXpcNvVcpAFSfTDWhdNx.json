@@ -1,0 +1,56 @@
+{
+  "name": "carl klingspor",
+  "swerik-id": "i-HqRXpcNvVcpAFSfTDWhdNx",
+  "DOB": "1847-11-18",
+  "DOD": "1911-02-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skärkinds församling",
+    "link": "http://www.wikidata.org/entity/Q10671006"
+  },
+  "place-of-death": {
+    "place": "Ulricehamns församling",
+    "link": "http://www.wikidata.org/entity/Q10708864"
+  },
+  "alt-names": [
+    "carl gustaf adolph klingspor",
+    "klingspor"
+  ],
+  "iorter": [
+    "Råbäck"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1911-02-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Klingspor.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5914152",
+      "link": "https://www.wikidata.org/wiki/Q5914152"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11612",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11612"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge0w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge0w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

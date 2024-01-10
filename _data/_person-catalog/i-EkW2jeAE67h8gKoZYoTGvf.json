@@ -1,0 +1,51 @@
+{
+  "name": "carl magnusson",
+  "swerik-id": "i-EkW2jeAE67h8gKoZYoTGvf",
+  "DOB": "1866-08-06",
+  "DOD": "1961-12-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Flo församling",
+    "link": "http://www.wikidata.org/entity/Q10496855"
+  },
+  "place-of-death": {
+    "place": "Kungälvs församling",
+    "link": "http://www.wikidata.org/entity/Q10550417"
+  },
+  "alt-names": [
+    "carl teodor magnusson",
+    "magnusson"
+  ],
+  "iorter": [
+    "Lövås"
+  ],
+  "positions": [
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Magnusson%20SPA%2001%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5971939",
+      "link": "https://www.wikidata.org/wiki/Q5971939"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZwA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZwA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

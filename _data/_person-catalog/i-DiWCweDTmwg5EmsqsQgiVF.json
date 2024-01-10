@@ -1,0 +1,86 @@
+{
+  "name": "halfred von koch",
+  "swerik-id": "i-DiWCweDTmwg5EmsqsQgiVF",
+  "DOB": "1872-01-13",
+  "DOD": "1948-03-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svea livgardes församling",
+    "link": "http://www.wikidata.org/entity/Q31899080"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "g h von koch",
+    "gerard halfred von koch",
+    "gerhard halfred von koch",
+    "von koch"
+  ],
+  "iorter": [
+    "Djursholm",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1926-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/GH%20von%20Koch%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1511698",
+      "link": "https://www.wikidata.org/wiki/Q1511698"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11687",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11687"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "0piq-fX0h5AAAAAAAABWrQ",
+      "link": "https://portrattarkiv.se/details/0piq-fX0h5AAAAAAAABWrQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:41691",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:41691"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfseA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfseA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1926"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1915",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "carl collander",
+  "swerik-id": "i-3FSs4wVDP5BUGhdcBZEhUo",
+  "DOB": "1838-04-20",
+  "DOD": "1901-08-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Solna",
+    "link": "http://www.wikidata.org/entity/Q10673294"
+  },
+  "alt-names": [
+    "carl wilhelm collander",
+    "collander"
+  ],
+  "iorter": [
+    "Uddevalla"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1898-01-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uddevalla och Strömstads valkrets"
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uddevalla, Strömstads och Marstrands valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Collander%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5610736",
+      "link": "https://www.wikidata.org/wiki/Q5610736"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSFg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:63864",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63864"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

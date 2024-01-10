@@ -1,0 +1,99 @@
+{
+  "name": "karin starrin",
+  "swerik-id": "i-AeygsPpZHRw5TndXwnCHQm",
+  "DOB": "1947-10-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Söderhamn",
+    "link": "http://www.wikidata.org/entity/Q746839"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "karin margareta starrin",
+    "starrin"
+  ],
+  "iorter": [
+    "Edsbyn"
+  ],
+  "positions": [
+    {
+      "start": "1995-10-10 00:00:00",
+      "end": "1997-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1995-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1992-07-01 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1991-10-10 00:00:00",
+      "end": "1992-06-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4980077",
+      "link": "https://www.wikidata.org/wiki/Q4980077"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0636794729408",
+      "link": "https://data.riksdagen.se/personlista/?iid=0636794729408&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2bc1246e-274b-4373-ba48-78c430822d57",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2bc1246e-274b-4373-ba48-78c430822d57"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1995-10-10",
+      "end": "1997-04-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

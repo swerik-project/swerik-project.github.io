@@ -1,0 +1,90 @@
+{
+  "name": "ingrid diesen",
+  "swerik-id": "i-TAQ95hRXzNuydoAADkaDJJ",
+  "DOB": "1918-01-04",
+  "DOD": "2009-12-29",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sankt Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10659410"
+  },
+  "place-of-death": {
+    "place": "Västerleds församling",
+    "link": "http://www.wikidata.org/entity/Q10717966"
+  },
+  "alt-names": [
+    "diesen",
+    "ingrid elisabeth diesen",
+    "sigurdsen"
+  ],
+  "iorter": [
+    "Hägersten",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1967-01-01 00:00:00",
+      "end": "1969-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Diesen-Westerberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4944811",
+      "link": "https://www.wikidata.org/wiki/Q4944811"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0702252495497",
+      "link": "https://data.riksdagen.se/personlista/?iid=0702252495497&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "4451e028-cabc-4685-ad67-9f31275d659b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_4451e028-cabc-4685-ad67-9f31275d659b"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMdg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMdg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1976-10-04",
+      "end": "1979-10-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

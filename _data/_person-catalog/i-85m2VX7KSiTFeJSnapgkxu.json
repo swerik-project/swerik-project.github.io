@@ -1,0 +1,98 @@
+{
+  "name": "lena ek",
+  "swerik-id": "i-85m2VX7KSiTFeJSnapgkxu",
+  "DOB": "1958-01-16",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Mönsterås",
+    "link": "http://www.wikidata.org/entity/Q599114"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ek"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-10-04 00:00:00",
+      "end": "2015-07-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2011-09-29 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "miljöminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2003-11-09 00:00:00",
+      "end": "2004-07-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2003-10-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1998-10-05 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Almedalen%202014%20%2817552525215%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q535342",
+      "link": "https://www.wikidata.org/wiki/Q535342"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0438928446810",
+      "link": "https://data.riksdagen.se/personlista/?iid=0438928446810&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d7c32592-83e4-11d4-ae60-0050040c9b55",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d7c32592-83e4-11d4-ae60-0050040c9b55"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2014-10-04",
+      "end": "2015-07-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

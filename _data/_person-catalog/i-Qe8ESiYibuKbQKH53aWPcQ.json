@@ -1,0 +1,50 @@
+{
+  "name": "carl riström",
+  "swerik-id": "i-Qe8ESiYibuKbQKH53aWPcQ",
+  "DOB": "1850-08-15",
+  "DOD": "1936-09-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Råneå församling",
+    "link": "http://www.wikidata.org/entity/Q10658731"
+  },
+  "place-of-death": {
+    "place": "Råneå församling",
+    "link": "http://www.wikidata.org/entity/Q10658731"
+  },
+  "alt-names": [
+    "riström"
+  ],
+  "iorter": [
+    "Råneå"
+  ],
+  "positions": [
+    {
+      "start": "1909-04-21 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalix domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ristr%C3%B6m%201850%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6073663",
+      "link": "https://www.wikidata.org/wiki/Q6073663"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ9A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ9A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

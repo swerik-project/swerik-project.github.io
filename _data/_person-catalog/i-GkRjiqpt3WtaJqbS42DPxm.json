@@ -1,0 +1,50 @@
+{
+  "name": "johan sunne",
+  "swerik-id": "i-GkRjiqpt3WtaJqbS42DPxm",
+  "DOB": "1890-12-09",
+  "DOD": "1967-07-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ramsåsa församling",
+    "link": "http://www.wikidata.org/entity/Q10649196"
+  },
+  "place-of-death": {
+    "place": "Mjölby församling",
+    "link": "http://www.wikidata.org/entity/Q10586847"
+  },
+  "alt-names": [
+    "sunne"
+  ],
+  "iorter": [
+    "Mjölby"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Adolf%20Sunne%201890%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6196822",
+      "link": "https://www.wikidata.org/wiki/Q6196822"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga5A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga5A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

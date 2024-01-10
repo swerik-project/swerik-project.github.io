@@ -1,0 +1,68 @@
+{
+  "name": "anders jönsson",
+  "swerik-id": "i-PF3w438tBaNGThYnFQ2iZL",
+  "DOB": "1852-08-08",
+  "DOD": "1932-02-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åhus församling",
+    "link": "http://www.wikidata.org/entity/Q10726258"
+  },
+  "place-of-death": {
+    "place": "Åhus församling",
+    "link": "http://www.wikidata.org/entity/Q10726258"
+  },
+  "alt-names": [
+    "a jönsson",
+    "jönsson"
+  ],
+  "iorter": [
+    "Yngsjö"
+  ],
+  "positions": [
+    {
+      "start": "1902-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Villands härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20J%C3%B6nsson%201852%20SPA10%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5895737",
+      "link": "https://www.wikidata.org/wiki/Q5895737"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpMw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpMw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1903",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1902",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

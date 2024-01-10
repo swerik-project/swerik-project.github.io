@@ -1,0 +1,138 @@
+{
+  "name": "alfred petersson",
+  "swerik-id": "i-SSfsoXw9GLxGZJpSxs9qgb",
+  "DOB": "1860-06-25",
+  "DOD": "1920-10-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderåkra församling",
+    "link": "http://www.wikidata.org/entity/Q10688847"
+  },
+  "place-of-death": {
+    "place": "Söderåkra församling",
+    "link": "http://www.wikidata.org/entity/Q10688847"
+  },
+  "alt-names": [
+    "per alfred petersson",
+    "petersson"
+  ],
+  "iorter": [
+    "Påboda"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-10-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1917-10-19 00:00:00",
+      "end": "1920-03-10 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Edén",
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1911-10-07 00:00:00",
+      "end": "1914-02-17 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff II",
+      "district": null
+    },
+    {
+      "start": "1911-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1906-05-29 00:00:00",
+      "end": "1909-03-17 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lindman I",
+      "district": null
+    },
+    {
+      "start": "1905-08-02 00:00:00",
+      "end": "1905-11-07 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lundeberg",
+      "district": null
+    },
+    {
+      "start": "1905-08-02 00:00:00",
+      "end": "1905-11-07 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Lundeberg",
+      "district": null
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Möre domsagas östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Petersson%20i%20P%C3%A5boda.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4723287",
+      "link": "https://www.wikidata.org/wiki/Q4723287"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7147",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7147"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABNUJA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABNUJA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37605",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37605"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgclQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgclQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

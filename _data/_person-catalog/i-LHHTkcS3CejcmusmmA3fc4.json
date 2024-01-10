@@ -1,0 +1,61 @@
+{
+  "name": "william nisser",
+  "swerik-id": "i-LHHTkcS3CejcmusmmA3fc4",
+  "DOB": "1882-06-18",
+  "DOD": "1960-04-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stora Skedvi församling",
+    "link": "http://www.wikidata.org/entity/Q7619892"
+  },
+  "place-of-death": {
+    "place": "Stora Kopparbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10681037"
+  },
+  "alt-names": [
+    "nisser",
+    "william patrik nisser"
+  ],
+  "iorter": [
+    "Grycksbo"
+  ],
+  "positions": [
+    {
+      "start": "1938-01-11 00:00:00",
+      "end": "1943-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kopparbergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Nisser%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6012769",
+      "link": "https://www.wikidata.org/wiki/Q6012769"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8139",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8139"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfcCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfcCQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:42962",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:42962"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

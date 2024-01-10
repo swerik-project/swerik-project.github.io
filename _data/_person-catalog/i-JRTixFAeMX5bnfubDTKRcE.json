@@ -1,0 +1,114 @@
+{
+  "name": "fridtjuv berg",
+  "swerik-id": "i-JRTixFAeMX5bnfubDTKRcE",
+  "DOB": "1851-03-20",
+  "DOD": "1916-02-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ödeshögs församling",
+    "link": "http://www.wikidata.org/entity/Q10727092"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "berg",
+    "johan fridtjuv berg"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1911-10-07 00:00:00",
+      "end": "1914-02-17 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff II",
+      "district": null
+    },
+    {
+      "start": "1905-11-07 00:00:00",
+      "end": "1906-05-29 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff I",
+      "district": null
+    },
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1916-02-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fridtjuv%20Berg-photo.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3510888",
+      "link": "https://www.wikidata.org/wiki/Q3510888"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18541",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18541"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADxzg",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADxzg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:46512",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:46512"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEqQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEqQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABlb5w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABlb5w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1916"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

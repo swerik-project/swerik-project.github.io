@@ -1,0 +1,60 @@
+{
+  "name": "johan sandler",
+  "swerik-id": "i-7QE5GMscRVyrFe44fdd7z8",
+  "DOB": "1858-09-21",
+  "DOD": "1929-05-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sunne församling",
+    "link": "http://www.wikidata.org/entity/Q10683918"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "sandler"
+  ],
+  "iorter": [
+    "Hola"
+  ],
+  "positions": [
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Sandler%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6092860",
+      "link": "https://www.wikidata.org/wiki/Q6092860"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6345",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6345"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAAAsPA",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAAAsPA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfnw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,121 @@
+{
+  "name": "mariam osman sherifay",
+  "swerik-id": "i-D6WhYz3CQwyb2zimKjUUEk",
+  "DOB": "1954-01-01",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kairo",
+    "link": "http://www.wikidata.org/entity/Q85"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2005-01-01 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2004-06-15 00:00:00",
+      "end": "2004-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2004-03-08 00:00:00",
+      "end": "2004-06-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2004-01-19 00:00:00",
+      "end": "2004-03-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2003-02-18 00:00:00",
+      "end": "2003-08-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2003-01-21 00:00:00",
+      "end": "2003-02-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2002-10-10 00:00:00",
+      "end": "2002-10-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2002-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4971432",
+      "link": "https://www.wikidata.org/wiki/Q4971432"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0228907110117",
+      "link": "https://data.riksdagen.se/personlista/?iid=0228907110117&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b77869e6-bfc1-4b4c-bd6b-2d9def934ae6",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b77869e6-bfc1-4b4c-bd6b-2d9def934ae6"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2005-01-01",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

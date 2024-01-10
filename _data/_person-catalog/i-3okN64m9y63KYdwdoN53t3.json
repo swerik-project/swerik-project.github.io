@@ -1,0 +1,66 @@
+{
+  "name": "gustaf fridolf almquist",
+  "swerik-id": "i-3okN64m9y63KYdwdoN53t3",
+  "DOB": "1814-10-31",
+  "DOD": "1886-10-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Eds församling",
+    "link": "http://www.wikidata.org/entity/Q10479944"
+  },
+  "place-of-death": {
+    "place": "Södertälje landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10688807"
+  },
+  "alt-names": [
+    "almquist",
+    "almqvist"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1871-09-11 00:00:00",
+      "end": "1880-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Fridolf%20Almquist.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5552429",
+      "link": "https://www.wikidata.org/wiki/Q5552429"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5701",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5701"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA36zQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA36zQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:112",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:112"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb9w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb9w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

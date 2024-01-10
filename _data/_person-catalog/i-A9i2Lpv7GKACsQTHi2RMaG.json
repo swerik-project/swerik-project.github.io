@@ -1,0 +1,76 @@
+{
+  "name": "anna hagwall",
+  "swerik-id": "i-A9i2Lpv7GKACsQTHi2RMaG",
+  "DOB": "1953-01-19",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Ungern",
+    "link": "http://www.wikidata.org/entity/Q28"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2016-10-08 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2016-10-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2013-02-21 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6930975",
+      "link": "https://www.wikidata.org/wiki/Q6930975"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0105126451619",
+      "link": "https://data.riksdagen.se/personlista/?iid=0105126451619&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9ba9d931-c9c0-4052-8c1b-9765f09cad69",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9ba9d931-c9c0-4052-8c1b-9765f09cad69"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2014-09-29",
+      "end": "2016-10-08"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

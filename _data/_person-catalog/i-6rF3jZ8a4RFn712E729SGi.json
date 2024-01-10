@@ -1,0 +1,59 @@
+{
+  "name": "henning odencrantz",
+  "swerik-id": "i-6rF3jZ8a4RFn712E729SGi",
+  "DOB": "1853-02-19",
+  "DOD": "1900-01-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljungarums församling",
+    "link": "http://www.wikidata.org/entity/Q10568302"
+  },
+  "place-of-death": {
+    "place": "Jönköping",
+    "link": "http://www.wikidata.org/entity/Q25415"
+  },
+  "alt-names": [
+    "odencrantz"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1900-01-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henning%20Odencrantz%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6022442",
+      "link": "https://www.wikidata.org/wiki/Q6022442"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbYQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbYQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

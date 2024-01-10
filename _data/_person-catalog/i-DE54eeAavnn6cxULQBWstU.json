@@ -1,0 +1,50 @@
+{
+  "name": "gustaf filip frost",
+  "swerik-id": "i-DE54eeAavnn6cxULQBWstU",
+  "DOB": "1870-05-01",
+  "DOD": "1937-08-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "place-of-death": {
+    "place": "Norrköpings Matteus församling",
+    "link": "http://www.wikidata.org/entity/Q10602802"
+  },
+  "alt-names": [
+    "frost"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1920-05-20 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrköpings och Linköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Frost%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5745712",
+      "link": "https://www.wikidata.org/wiki/Q5745712"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaYg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaYg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

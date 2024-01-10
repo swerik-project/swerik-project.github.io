@@ -1,0 +1,44 @@
+{
+  "name": "carl ludvig von hohenhausen",
+  "swerik-id": "i-CJ8VxhEn7B4ML38d2dZPgd",
+  "DOB": "1787-10-02",
+  "DOD": "1866-04-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1848-04-10 00:00:00",
+      "end": "1853-06-11 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sparre",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5809467",
+      "link": "https://www.wikidata.org/wiki/Q5809467"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13708",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13708"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

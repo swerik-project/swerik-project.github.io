@@ -1,0 +1,99 @@
+{
+  "name": "jessika roswall",
+  "swerik-id": "i-TMBKCxFj2h6LkEEpYodyut",
+  "DOB": "1972-12-18",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Helga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10519481"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "jessika elisabeth andersdotter roswall",
+    "jessika vilhelmsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "eu-minister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jessika%20Roswall%20in%202022.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4984640",
+      "link": "https://www.wikidata.org/wiki/Q4984640"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0718034011110",
+      "link": "https://data.riksdagen.se/personlista/?iid=0718034011110&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5e09bf12-6f96-4a96-ac0c-27203aef4d2f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5e09bf12-6f96-4a96-ac0c-27203aef4d2f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

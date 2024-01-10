@@ -1,0 +1,66 @@
+{
+  "name": "wictor karlsson",
+  "swerik-id": "i-XuDGU2fejbHx97YqvyuWq7",
+  "DOB": "1881-10-30",
+  "DOD": "1949-09-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Undenäs församling",
+    "link": "http://www.wikidata.org/entity/Q10709321"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "karlsson",
+    "wictor emanuel karlsson"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wictor%20Karlsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5902339",
+      "link": "https://www.wikidata.org/wiki/Q5902339"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12389",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12389"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAU6A",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAU6A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:71676",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:71676"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNdA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNdA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

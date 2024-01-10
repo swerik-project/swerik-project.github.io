@@ -1,0 +1,50 @@
+{
+  "name": "otto silfverbrand",
+  "swerik-id": "i-8V88s3WbNZU98tiN5fipnr",
+  "DOB": "1880-04-22",
+  "DOD": "1954-04-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "place-of-death": {
+    "place": "Lindesbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10562522"
+  },
+  "alt-names": [
+    "silfverbrand"
+  ],
+  "iorter": [
+    "Gällivare"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Silfwerbrand%201880%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6175872",
+      "link": "https://www.wikidata.org/wiki/Q6175872"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRJA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRJA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

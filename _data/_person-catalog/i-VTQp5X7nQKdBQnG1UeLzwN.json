@@ -1,0 +1,64 @@
+{
+  "name": "carl alfred svensson",
+  "swerik-id": "i-VTQp5X7nQKdBQnG1UeLzwN",
+  "DOB": "1861-10-09",
+  "DOD": "1925-05-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söne församling",
+    "link": "http://www.wikidata.org/entity/Q10689167"
+  },
+  "place-of-death": {
+    "place": "Sköns församling",
+    "link": "http://www.wikidata.org/entity/Q10671268"
+  },
+  "alt-names": [
+    "svensson"
+  ],
+  "iorter": [
+    "Skönsberg"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1925-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Medelpads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Alfred%20Svensson%20SvRiksPortr.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198337",
+      "link": "https://www.wikidata.org/wiki/Q6198337"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "34914",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34914"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfUA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfUA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

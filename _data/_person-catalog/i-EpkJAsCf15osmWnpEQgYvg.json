@@ -1,0 +1,68 @@
+{
+  "name": "wilhelm styrlander",
+  "swerik-id": "i-EpkJAsCf15osmWnpEQgYvg",
+  "DOB": "1854-12-14",
+  "DOD": "1906-03-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Häradshammars församling",
+    "link": "http://www.wikidata.org/entity/Q10531607"
+  },
+  "place-of-death": {
+    "place": "Sollefteå församling",
+    "link": "http://www.wikidata.org/entity/Q10673246"
+  },
+  "alt-names": [
+    "andreas wilhelm styrlander",
+    "styrlander"
+  ],
+  "iorter": [
+    "Sollefteå"
+  ],
+  "positions": [
+    {
+      "start": "1895-03-27 00:00:00",
+      "end": "1905-05-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands mellersta domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Styrlander%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6194111",
+      "link": "https://www.wikidata.org/wiki/Q6194111"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfoQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfoQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1900",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

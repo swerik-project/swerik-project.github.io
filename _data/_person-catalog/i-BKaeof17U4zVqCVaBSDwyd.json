@@ -1,0 +1,59 @@
+{
+  "name": "alexander thore",
+  "swerik-id": "i-BKaeof17U4zVqCVaBSDwyd",
+  "DOB": "1866-12-12",
+  "DOD": "1931-04-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jonstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10540795"
+  },
+  "place-of-death": {
+    "place": "Göteborgs Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10512824"
+  },
+  "alt-names": [
+    "thore"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1927-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alex.%20Thore%201937.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6209055",
+      "link": "https://www.wikidata.org/wiki/Q6209055"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkjA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkjA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

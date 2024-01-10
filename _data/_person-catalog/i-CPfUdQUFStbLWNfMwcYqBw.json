@@ -1,0 +1,76 @@
+{
+  "name": "nils persson",
+  "swerik-id": "i-CPfUdQUFStbLWNfMwcYqBw",
+  "DOB": "1838-10-02",
+  "DOD": "1921-08-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Asmundtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10419868"
+  },
+  "place-of-death": {
+    "place": "Vadensjö församling",
+    "link": "http://www.wikidata.org/entity/Q10711945"
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Vadensjö"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Harjagers och Rönnebergs häraders valkrets"
+    },
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Harjagers och Rönnebergs häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Persson%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043460",
+      "link": "https://www.wikidata.org/wiki/Q6043460"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRuA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRuA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1891",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1885",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

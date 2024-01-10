@@ -1,0 +1,94 @@
+{
+  "name": "carl johan svensen",
+  "swerik-id": "i-2Nvz3MaNEG9Cs55xRuCwqF",
+  "DOB": "1823-10-26",
+  "DOD": "1883-09-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ålems församling",
+    "link": "http://www.wikidata.org/entity/Q10726460"
+  },
+  "place-of-death": {
+    "place": "Tveta församling",
+    "link": "http://www.wikidata.org/entity/Q10706754"
+  },
+  "alt-names": [
+    "svensen"
+  ],
+  "iorter": [
+    "Lilla Sinnerstad"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Aspelands och Handbörds domsagas valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Aspelands och Handbörds domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Johan%20Svens%C3%A9n.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6198065",
+      "link": "https://www.wikidata.org/wiki/Q6198065"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "34877",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34877"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAAA5Tw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAAA5Tw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdBA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdBA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1876",
+      "end": "1883"
+    },
+    {
+      "party": {
+        "name": "Nyliberala partiet",
+        "party-id": "Q10604782"
+      },
+      "start": "1868",
+      "end": "1869"
+    },
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1867",
+      "end": "1867"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

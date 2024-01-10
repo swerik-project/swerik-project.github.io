@@ -1,0 +1,98 @@
+{
+  "name": "marianne karlsson",
+  "swerik-id": "i-QF9w7weamuxjZGtJKPPkwp",
+  "DOB": "1931-12-01",
+  "DOD": "2012-12-24",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sunds församling",
+    "link": "http://www.wikidata.org/entity/Q10683798"
+  },
+  "place-of-death": {
+    "place": "Skänninge församling",
+    "link": "http://www.wikidata.org/entity/Q10670947"
+  },
+  "alt-names": [
+    "karlsson"
+  ],
+  "iorter": [
+    "Skänninge"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21733290",
+      "link": "https://www.wikidata.org/wiki/Q21733290"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0927227010803",
+      "link": "https://data.riksdagen.se/personlista/?iid=0927227010803&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7dfcec2a-0395-4088-962d-8f7509072e6a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7dfcec2a-0395-4088-962d-8f7509072e6a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

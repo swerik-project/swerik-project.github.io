@@ -1,0 +1,52 @@
+{
+  "name": "åke olofsson",
+  "swerik-id": "i-LZKy6UGzXQTFvkBjboQ6oT",
+  "DOB": "1898-02-21",
+  "DOD": "1954-05-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Höganäs församling",
+    "link": "http://www.wikidata.org/entity/Q10532202"
+  },
+  "place-of-death": {
+    "place": "Helsingborg",
+    "link": "http://www.wikidata.org/entity/Q25411"
+  },
+  "alt-names": [
+    "olofsson",
+    "åke valdemar olofsson",
+    "åke waldemar olofsson"
+  ],
+  "iorter": [
+    "Höganäs"
+  ],
+  "positions": [
+    {
+      "start": "1938-04-21 00:00:00",
+      "end": "1954-05-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85ke%20Olofsson%201898%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6025853",
+      "link": "https://www.wikidata.org/wiki/Q6025853"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRyA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRyA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

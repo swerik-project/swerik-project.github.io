@@ -1,0 +1,89 @@
+{
+  "name": "janine alm ericson",
+  "swerik-id": "i-4K631U2FyQthafuME3cNGX",
+  "DOB": "1973-10-31",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Alingsås församling",
+    "link": "http://www.wikidata.org/entity/Q10405289"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "janine sofia alm ericson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2021-11-30 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-02-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/JanineAlmEricson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18238692",
+      "link": "https://www.wikidata.org/wiki/Q18238692"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0316505710324",
+      "link": "https://data.riksdagen.se/personlista/?iid=0316505710324&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7e408079-a5cd-432a-a30e-fd61fd15c65a",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7e408079-a5cd-432a-a30e-fd61fd15c65a"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2021-11-30",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

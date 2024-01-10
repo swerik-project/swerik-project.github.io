@@ -1,0 +1,56 @@
+{
+  "name": "wilhelm wallberg",
+  "swerik-id": "i-Q2uEbNS3KYnEBSoGtKvNAn",
+  "DOB": "1827-07-14",
+  "DOD": "1893-01-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Halmstads församling",
+    "link": "http://www.wikidata.org/entity/Q58455502"
+  },
+  "place-of-death": {
+    "place": "Snöstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10672797"
+  },
+  "alt-names": [
+    "carl wilhelm wallberg",
+    "wallberg"
+  ],
+  "iorter": [
+    "Heagård"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1892-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Wallberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6230349",
+      "link": "https://www.wikidata.org/wiki/Q6230349"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAASZA",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAASZA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfneg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfneg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

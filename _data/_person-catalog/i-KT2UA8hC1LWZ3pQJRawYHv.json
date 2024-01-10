@@ -1,0 +1,51 @@
+{
+  "name": "carl eskilsson",
+  "swerik-id": "i-KT2UA8hC1LWZ3pQJRawYHv",
+  "DOB": "1906-07-30",
+  "DOD": "1987-01-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björsäters församling",
+    "link": "http://www.wikidata.org/entity/Q10430783"
+  },
+  "place-of-death": {
+    "place": "Björsäters församling",
+    "link": "http://www.wikidata.org/entity/Q10430783"
+  },
+  "alt-names": [
+    "carl eskil eskilsson",
+    "eskilsson"
+  ],
+  "iorter": [
+    "Björsäter"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Eskilsson%201969%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5719171",
+      "link": "https://www.wikidata.org/wiki/Q5719171"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaoA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaoA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,116 @@
+{
+  "name": "ann linde",
+  "swerik-id": "i-HYbURAzNUTvqh65pcPmmZx",
+  "DOB": "1961-12-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Helsingborg",
+    "link": "http://www.wikidata.org/entity/Q25411"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ann christin linde"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2019-09-10 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Andersson",
+      "district": null
+    },
+    {
+      "start": "2019-09-10 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2019-09-10 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven III",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "utrikeshandelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2016-05-25 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "eu-minister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2016-05-25 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2016-05-25 00:00:00",
+      "end": "2019-09-10 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Annlindecropped.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18243775",
+      "link": "https://www.wikidata.org/wiki/Q18243775"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0992800527915",
+      "link": "https://data.riksdagen.se/personlista/?iid=0992800527915&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "908c814e-d988-4e03-af5a-9ce8b1237433",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_908c814e-d988-4e03-af5a-9ce8b1237433"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

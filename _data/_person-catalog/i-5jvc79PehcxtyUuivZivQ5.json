@@ -1,0 +1,70 @@
+{
+  "name": "axel mannerskantz",
+  "swerik-id": "i-5jvc79PehcxtyUuivZivQ5",
+  "DOB": "1897-06-03",
+  "DOD": "1975-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "place-of-death": {
+    "place": "Halltorps församling",
+    "link": "http://www.wikidata.org/entity/Q10516446"
+  },
+  "alt-names": [
+    "axel fredrik mannerskantz",
+    "mannerskantz"
+  ],
+  "iorter": [
+    "Värnanäs"
+  ],
+  "positions": [
+    {
+      "start": "1956-01-01 00:00:00",
+      "end": "1959-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    },
+    {
+      "start": "1936-01-01 00:00:00",
+      "end": "1951-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Mannerskantz%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5975035",
+      "link": "https://www.wikidata.org/wiki/Q5975035"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9052",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9052"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "I_2wtd5VefAAAAAAAAAR_A",
+      "link": "https://portrattarkiv.se/details/I_2wtd5VefAAAAAAAAAR_A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcpw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcpw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

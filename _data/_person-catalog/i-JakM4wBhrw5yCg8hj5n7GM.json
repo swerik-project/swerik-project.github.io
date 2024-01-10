@@ -1,0 +1,50 @@
+{
+  "name": "carl olof carlsson",
+  "swerik-id": "i-JakM4wBhrw5yCg8hj5n7GM",
+  "DOB": "1889-05-17",
+  "DOD": "1964-02-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grinneröds församling",
+    "link": "http://www.wikidata.org/entity/Q2014819"
+  },
+  "place-of-death": {
+    "place": "Grinneröd",
+    "link": "http://www.wikidata.org/entity/Q28465582"
+  },
+  "alt-names": [
+    "carlsson"
+  ],
+  "iorter": [
+    "Bakeröd"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Olof%20Carlsson%201889%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5603047",
+      "link": "https://www.wikidata.org/wiki/Q5603047"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAA8Hg",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAA8Hg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

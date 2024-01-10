@@ -1,0 +1,56 @@
+{
+  "name": "johan enander",
+  "swerik-id": "i-H5w8iePXvnS6ELkjZJEWWQ",
+  "DOB": "1826-07-02",
+  "DOD": "1909-03-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Härja församling",
+    "link": "http://www.wikidata.org/entity/Q10531646"
+  },
+  "place-of-death": {
+    "place": "Borås",
+    "link": "http://www.wikidata.org/entity/Q26040"
+  },
+  "alt-names": [
+    "anders johan enander",
+    "enander"
+  ],
+  "iorter": [
+    "Borås"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Borås, Alingsås och Ulricehamns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Enander%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5711044",
+      "link": "https://www.wikidata.org/wiki/Q5711044"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZNg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZNg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:64761",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:64761"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

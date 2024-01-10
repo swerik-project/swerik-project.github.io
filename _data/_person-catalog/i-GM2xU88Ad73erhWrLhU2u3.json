@@ -1,0 +1,51 @@
+{
+  "name": "johan hult",
+  "swerik-id": "i-GM2xU88Ad73erhWrLhU2u3",
+  "DOB": "1888-07-06",
+  "DOD": "1950-05-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vassända-Naglums församling",
+    "link": "http://www.wikidata.org/entity/Q10713341"
+  },
+  "place-of-death": {
+    "place": "Västra Tunhems församling",
+    "link": "http://www.wikidata.org/entity/Q10718396"
+  },
+  "alt-names": [
+    "hult",
+    "john gottfrid hult"
+  ],
+  "iorter": [
+    "Vargön"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Hult%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q116057307",
+      "link": "https://www.wikidata.org/wiki/Q116057307"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZtQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZtQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "karl sandegård",
+  "swerik-id": "i-2kBxj9K56e436Bc1ZLBqtp",
+  "DOB": "1880-10-06",
+  "DOD": "1968-12-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sandvikens församling",
+    "link": "http://www.wikidata.org/entity/Q10661257"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "karl johan sandegård",
+    "sandegård"
+  ],
+  "iorter": [
+    "Lilla Edet",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1946-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Sandeg%C3%A5rd.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6092251",
+      "link": "https://www.wikidata.org/wiki/Q6092251"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZ6g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ6g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

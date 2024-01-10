@@ -1,0 +1,51 @@
+{
+  "name": "otto ljunggren",
+  "swerik-id": "i-DnBfdRUButhiwSk9JDWDo1",
+  "DOB": "1842-04-21",
+  "DOD": "1894-06-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Odensvi församling",
+    "link": "http://www.wikidata.org/entity/Q10606827"
+  },
+  "place-of-death": {
+    "place": "Blackstads församling",
+    "link": "http://www.wikidata.org/entity/Q10430873"
+  },
+  "alt-names": [
+    "ljunggren",
+    "per otto wilhelm ljunggren"
+  ],
+  "iorter": [
+    "Trästad"
+  ],
+  "positions": [
+    {
+      "start": "1884-01-01 00:00:00",
+      "end": "1885-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Ljunggren%201842%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5961209",
+      "link": "https://www.wikidata.org/wiki/Q5961209"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc0w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc0w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

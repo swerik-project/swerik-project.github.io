@@ -1,0 +1,75 @@
+{
+  "name": "dan broström",
+  "swerik-id": "i-TUo8XdDHL6Q5hUgyWW5MGk",
+  "DOB": "1870-02-01",
+  "DOD": "1925-07-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristinehamns församling",
+    "link": "http://www.wikidata.org/entity/Q10549260"
+  },
+  "place-of-death": {
+    "place": "Trönninge församling",
+    "link": "http://www.wikidata.org/entity/Q10705682"
+  },
+  "alt-names": [
+    "broström",
+    "daniel broström"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1914-02-17 00:00:00",
+      "end": "1917-03-30 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hammarskjöld",
+      "district": null
+    },
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Brostrom.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4346188",
+      "link": "https://www.wikidata.org/wiki/Q4346188"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17043",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17043"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAACZkA",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAACZkA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:63084",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63084"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSPw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSPw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

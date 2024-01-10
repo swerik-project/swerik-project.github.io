@@ -1,0 +1,65 @@
+{
+  "name": "lars andersson",
+  "swerik-id": "i-4pbAgoLV1BB3FE92CBZsfH",
+  "DOB": "1888-09-22",
+  "DOD": "1974-03-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Överkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10728604"
+  },
+  "place-of-death": {
+    "place": "Överkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10728604"
+  },
+  "alt-names": [
+    "andersson",
+    "lars erik andersson"
+  ],
+  "iorter": [
+    "Hedensbyn"
+  ],
+  "positions": [
+    {
+      "start": "1947-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    },
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1946-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Andersson%201888%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555272",
+      "link": "https://www.wikidata.org/wiki/Q5555272"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA54qA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA54qA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRmA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRmA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

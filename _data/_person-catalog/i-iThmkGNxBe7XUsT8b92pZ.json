@@ -1,0 +1,78 @@
+{
+  "name": "jabar amin",
+  "swerik-id": "i-iThmkGNxBe7XUsT8b92pZ",
+  "DOB": "1959-06-01",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Irakiska Kurdistan",
+    "link": "http://www.wikidata.org/entity/Q205047"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2012-05-21 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2012-03-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Presstr%C3%A4ff%20om%20l%C3%A4rart%C3%A4thet%20i%20skolan%20%289213255633%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5548875",
+      "link": "https://www.wikidata.org/wiki/Q5548875"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0849219210615",
+      "link": "https://data.riksdagen.se/personlista/?iid=0849219210615&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "fcfcb68c-c0e4-40c0-a7f3-68ec912d1268",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_fcfcb68c-c0e4-40c0-a7f3-68ec912d1268"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

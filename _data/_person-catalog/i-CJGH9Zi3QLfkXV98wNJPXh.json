@@ -1,0 +1,50 @@
+{
+  "name": "per tysk",
+  "swerik-id": "i-CJGH9Zi3QLfkXV98wNJPXh",
+  "DOB": "1874-09-30",
+  "DOD": "1926-02-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mora församling",
+    "link": "http://www.wikidata.org/entity/Q10588907"
+  },
+  "place-of-death": {
+    "place": "Vårfrukyrka församling",
+    "link": "http://www.wikidata.org/entity/Q10718862"
+  },
+  "alt-names": [
+    "tysk"
+  ],
+  "iorter": [
+    "Färnäs"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Tysk%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6217739",
+      "link": "https://www.wikidata.org/wiki/Q6217739"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbtw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbtw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

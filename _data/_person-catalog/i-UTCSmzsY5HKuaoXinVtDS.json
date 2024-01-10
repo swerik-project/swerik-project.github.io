@@ -1,0 +1,72 @@
+{
+  "name": "rolf l nilson",
+  "swerik-id": "i-UTCSmzsY5HKuaoXinVtDS",
+  "DOB": "1945-07-01",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nilson",
+    "rolf lennart nilson"
+  ],
+  "iorter": [
+    "Lund"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6009395",
+      "link": "https://www.wikidata.org/wiki/Q6009395"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0320093489709",
+      "link": "https://data.riksdagen.se/personlista/?iid=0320093489709&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "532dbf0c-5046-421c-a92b-0d708d40132c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_532dbf0c-5046-421c-a92b-0d708d40132c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

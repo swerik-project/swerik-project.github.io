@@ -1,0 +1,71 @@
+{
+  "name": "arne mellqvist",
+  "swerik-id": "i-7LRmEboCTvsPZzt8VjD5zK",
+  "DOB": "1950",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mellqvist"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1995-01-10 00:00:00",
+      "end": "1995-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21572126",
+      "link": "https://www.wikidata.org/wiki/Q21572126"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0465435843419",
+      "link": "https://data.riksdagen.se/personlista/?iid=0465435843419&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "911412b2-c69d-4dc1-9d66-7df590392e8b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_911412b2-c69d-4dc1-9d66-7df590392e8b"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1995-01-10",
+      "end": "1995-10-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

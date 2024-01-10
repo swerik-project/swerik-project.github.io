@@ -1,0 +1,107 @@
+{
+  "name": "mats persson",
+  "swerik-id": "i-VBA6eUH2CpmPZFgqzCpt9N",
+  "DOB": "1980-11-27",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Markaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10577528"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mats robert persson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "utbildningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2017-08-07 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2017-07-03 00:00:00",
+      "end": "2017-07-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2017-05-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mats%20Persson.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043377",
+      "link": "https://www.wikidata.org/wiki/Q6043377"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "023767922422",
+      "link": "https://data.riksdagen.se/personlista/?iid=023767922422&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "66fca0ac-0ebb-4bd0-b1e1-f34e223d2f1b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_66fca0ac-0ebb-4bd0-b1e1-f34e223d2f1b"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

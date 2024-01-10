@@ -1,0 +1,62 @@
+{
+  "name": "sven olof nordlund",
+  "swerik-id": "i-HXBso2gxqMgmH9FitU25bj",
+  "DOB": "1931",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nordlund"
+  ],
+  "iorter": [
+    "Vännäsby"
+  ],
+  "positions": [
+    {
+      "start": "1986-10-10 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98271441",
+      "link": "https://www.wikidata.org/wiki/Q98271441"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0650047409402",
+      "link": "https://data.riksdagen.se/personlista/?iid=0650047409402&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f77a2bef-a788-434b-9e85-64a3148d1c73",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f77a2bef-a788-434b-9e85-64a3148d1c73"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1986-10-10",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

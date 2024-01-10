@@ -1,0 +1,66 @@
+{
+  "name": "johan arrhenius",
+  "swerik-id": "i-JcqbjeL3j68iUaniGTTyRL",
+  "DOB": "1811-09-27",
+  "DOD": "1889-09-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Järeda församling",
+    "link": "http://www.wikidata.org/entity/Q10541757"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "arrhenius",
+    "johan petter arrhenius"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Arrhenius2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4069879",
+      "link": "https://www.wikidata.org/wiki/Q4069879"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18847",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18847"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "28K7pO-SRrAAAAAAAACo3A",
+      "link": "https://portrattarkiv.se/details/28K7pO-SRrAAAAAAAACo3A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:95",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:95"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdGw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdGw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "lennart blom",
+  "swerik-id": "i-HMtJGAv6SxejLYLDAEzumP",
+  "DOB": "1913-11-01",
+  "DOD": "2011-11-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kila församling",
+    "link": "http://www.wikidata.org/entity/Q10545347"
+  },
+  "place-of-death": {
+    "place": "Lidköpings församling",
+    "link": "http://www.wikidata.org/entity/Q10561393"
+  },
+  "alt-names": [
+    "blom"
+  ],
+  "iorter": [
+    "Såtenäs"
+  ],
+  "positions": [
+    {
+      "start": "1968-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lennart%20Blom%201913%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5579356",
+      "link": "https://www.wikidata.org/wiki/Q5579356"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeTw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeTw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

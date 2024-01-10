@@ -1,0 +1,67 @@
+{
+  "name": "martin andreasson",
+  "swerik-id": "i-LDb1GxQGG47N4mNNZ13jSZ",
+  "DOB": "1970-10-01",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö",
+    "link": "http://www.wikidata.org/entity/Q2211"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2012-03-20 00:00:00",
+      "end": "2012-06-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5556512",
+      "link": "https://www.wikidata.org/wiki/Q5556512"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0836813859011",
+      "link": "https://data.riksdagen.se/personlista/?iid=0836813859011&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "61963397-07f3-4f0f-855f-7897f6a3ab91",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_61963397-07f3-4f0f-855f-7897f6a3ab91"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2012-03-20",
+      "end": "2012-06-20"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

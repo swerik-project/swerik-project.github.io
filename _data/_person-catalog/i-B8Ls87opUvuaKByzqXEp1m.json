@@ -1,0 +1,44 @@
+{
+  "name": "johannes åkesson",
+  "swerik-id": "i-B8Ls87opUvuaKByzqXEp1m",
+  "DOB": "1872-10-30",
+  "DOD": "1954-06-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Södra Mellby församling",
+    "link": "http://www.wikidata.org/entity/Q10688947"
+  },
+  "place-of-death": {
+    "place": "S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10659420"
+  },
+  "alt-names": [
+    "johannes andreas åkesson",
+    "åkesson"
+  ],
+  "iorter": [
+    "Raskarum"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6255597",
+      "link": "https://www.wikidata.org/wiki/Q6255597"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

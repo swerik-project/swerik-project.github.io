@@ -1,0 +1,56 @@
+{
+  "name": "sven boman",
+  "swerik-id": "i-BMTxaGNqCLRjPTZWStMh8F",
+  "DOB": "1895-10-05",
+  "DOD": "1950-03-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Romfartuna församling",
+    "link": "http://www.wikidata.org/entity/Q10656556"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "boman",
+    "sven birger boman"
+  ],
+  "iorter": [
+    "Avesta"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1950-03-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Boman%201895%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5598255",
+      "link": "https://www.wikidata.org/wiki/Q5598255"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA2J2w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA2J2w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUoQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUoQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

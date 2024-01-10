@@ -1,0 +1,62 @@
+{
+  "name": "sven ohlon",
+  "swerik-id": "i-4trrwMgaaYgdfEZaeP8LTR",
+  "DOB": "1888-03-27",
+  "DOD": "1972-05-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrbyås församling",
+    "link": "http://www.wikidata.org/entity/Q10602750"
+  },
+  "place-of-death": {
+    "place": "Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10713238"
+  },
+  "alt-names": [
+    "ohlon",
+    "sven em ohlon",
+    "sven johan emanuel ohlon"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1947-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Ohlon%201888%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6023421",
+      "link": "https://www.wikidata.org/wiki/Q6023421"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTnQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTnQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:45705",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45705"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAhEw",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAhEw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

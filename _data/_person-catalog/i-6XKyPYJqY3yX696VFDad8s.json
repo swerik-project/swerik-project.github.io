@@ -1,0 +1,49 @@
+{
+  "name": "axel baeckström",
+  "swerik-id": "i-6XKyPYJqY3yX696VFDad8s",
+  "DOB": "1888-12-12",
+  "DOD": "1938-10-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö S:t Pauli församling",
+    "link": "http://www.wikidata.org/entity/Q10576132"
+  },
+  "place-of-death": {
+    "place": "Kågedalens församling",
+    "link": "http://www.wikidata.org/entity/Q10551981"
+  },
+  "alt-names": [
+    "axel fredrik baeckström",
+    "baeckström"
+  ],
+  "iorter": [
+    "Kågedalen"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1938-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5591651",
+      "link": "https://www.wikidata.org/wiki/Q5591651"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfbuQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfbuQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "lars erik gustavsson",
+  "swerik-id": "i-UA5ckFSjhrYHm2TBQW4PDR",
+  "DOB": "1869-07-28",
+  "DOD": "1933-11-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kumla församling",
+    "link": "http://www.wikidata.org/entity/Q10550065"
+  },
+  "place-of-death": {
+    "place": "Halmstad",
+    "link": "http://www.wikidata.org/entity/Q26521"
+  },
+  "alt-names": [
+    "gustafsson",
+    "gustavsson",
+    "lars erik gustafsson"
+  ],
+  "iorter": [
+    "Brånsta"
+  ],
+  "positions": [
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117714137",
+      "link": "https://www.wikidata.org/wiki/Q117714137"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsCQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsCQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

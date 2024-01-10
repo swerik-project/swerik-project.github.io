@@ -1,0 +1,61 @@
+{
+  "name": "thorvald köhlin",
+  "swerik-id": "i-HcoqR7YhxPAoWtRPS3Lzmn",
+  "DOB": "1854-12-07",
+  "DOD": "1927-05-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Trankils församling",
+    "link": "http://www.wikidata.org/entity/Q10701271"
+  },
+  "place-of-death": {
+    "place": "Åmåls stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58496152"
+  },
+  "alt-names": [
+    "köhlin",
+    "l thorvald köhlin",
+    "lorentz thorvald köhlin"
+  ],
+  "iorter": [
+    "Åmål"
+  ],
+  "positions": [
+    {
+      "start": "1915-04-28 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Thorvald%20K%C3%B6hlin%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5928943",
+      "link": "https://www.wikidata.org/wiki/Q5928943"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZdg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZdg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

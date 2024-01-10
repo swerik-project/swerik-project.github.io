@@ -1,0 +1,69 @@
+{
+  "name": "jörgen warborn",
+  "swerik-id": "i-4fjwccvGrtcBzgdzdxhXhs",
+  "DOB": "1969-01-23",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-07-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6rgen%20Warborn.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6232261",
+      "link": "https://www.wikidata.org/wiki/Q6232261"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0117203219614",
+      "link": "https://data.riksdagen.se/personlista/?iid=0117203219614&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "15ab245f-6634-4e11-88eb-3d9533e87d18",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_15ab245f-6634-4e11-88eb-3d9533e87d18"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2019-07-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

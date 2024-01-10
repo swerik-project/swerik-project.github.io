@@ -1,0 +1,51 @@
+{
+  "name": "peder björk",
+  "swerik-id": "i-Xuj1vM6ABWqwaf2n7VoBVD",
+  "DOB": "1975-09-29",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mjölby församling",
+    "link": "http://www.wikidata.org/entity/Q10586847"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/9B0A8453%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q29041937",
+      "link": "https://www.wikidata.org/wiki/Q29041937"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0140985614421",
+      "link": "https://data.riksdagen.se/personlista/?iid=0140985614421&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "b7a4d732-085d-41da-8a57-901bcf117edf",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_b7a4d732-085d-41da-8a57-901bcf117edf"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

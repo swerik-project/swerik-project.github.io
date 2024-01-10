@@ -1,0 +1,54 @@
+{
+  "name": "johan johnsson",
+  "swerik-id": "i-F1Qv8honQNYhyeiCp8bRG5",
+  "DOB": "1894-09-19",
+  "DOD": "1983-07-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Osby församling",
+    "link": "http://www.wikidata.org/entity/Q10612943"
+  },
+  "place-of-death": {
+    "place": "Hägerstens församling",
+    "link": "http://www.wikidata.org/entity/Q10531256"
+  },
+  "alt-names": [
+    "jiwe",
+    "johan viktor johnsson",
+    "johan wiktor johnsson",
+    "johnsson"
+  ],
+  "iorter": [
+    "Bromma",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Johnsson%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5889499",
+      "link": "https://www.wikidata.org/wiki/Q5889499"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNiA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNiA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "oscar olsson",
+  "swerik-id": "i-QBPRL2CNKrTtn2M3Ea51HX",
+  "DOB": "1877-07-04",
+  "DOD": "1950-01-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Helsingborgs Maria församling",
+    "link": "http://www.wikidata.org/entity/Q10520535"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "olsson",
+    "olsson med skägget",
+    "oscar u b olsson",
+    "oscar ulrik bernhardin olsson"
+  ],
+  "iorter": [
+    "Danderyd",
+    "Linköping"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Olsson%2C%201935.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6027706",
+      "link": "https://www.wikidata.org/wiki/Q6027706"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7792",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7792"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsdw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsdw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAZtg",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAZtg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

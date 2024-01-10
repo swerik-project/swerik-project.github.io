@@ -1,0 +1,78 @@
+{
+  "name": "erik nygren",
+  "swerik-id": "i-P8dcb8BV3PnFDCLJ87ZfqB",
+  "DOB": "1897-03-28",
+  "DOD": "1973-04-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alvesta församling",
+    "link": "http://www.wikidata.org/entity/Q10407152"
+  },
+  "place-of-death": {
+    "place": "Tranås församling",
+    "link": "http://www.wikidata.org/entity/Q10701387"
+  },
+  "alt-names": [
+    "erik vilhelm nygren",
+    "nygren"
+  ],
+  "iorter": [
+    "Bromma",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Nygren%201897%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6019506",
+      "link": "https://www.wikidata.org/wiki/Q6019506"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNZg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNZg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1953",
+      "end": "1956"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1929",
+      "end": "1932"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

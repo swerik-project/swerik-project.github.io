@@ -1,0 +1,66 @@
+{
+  "name": "gustaf björlin",
+  "swerik-id": "i-WkUkGYSPERNhC2T27k25Ny",
+  "DOB": "1845-10-14",
+  "DOD": "1922-06-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åmåls stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58496152"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "björlin",
+    "johan gustaf björlin"
+  ],
+  "iorter": [
+    "Visby"
+  ],
+  "positions": [
+    {
+      "start": "1896-01-01 00:00:00",
+      "end": "1909-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Bj%C3%B6rlin%20%281845-1922%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5578043",
+      "link": "https://www.wikidata.org/wiki/Q5578043"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18311",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18311"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA3JmQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA3JmQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:68428",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:68428"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR0Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR0Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

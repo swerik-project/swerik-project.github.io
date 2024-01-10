@@ -1,0 +1,51 @@
+{
+  "name": "august westerdal",
+  "swerik-id": "i-RSEAJVoTxUmPUJCD5i2nNA",
+  "DOB": "1821-01-06",
+  "DOD": "1884-12-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uddevalla församling",
+    "link": "http://www.wikidata.org/entity/Q10708421"
+  },
+  "place-of-death": {
+    "place": "Tösse med Tydje församling",
+    "link": "http://www.wikidata.org/entity/Q10708246"
+  },
+  "alt-names": [
+    "august wilhelm westerdal",
+    "westerdal"
+  ],
+  "iorter": [
+    "Strömsberg"
+  ],
+  "positions": [
+    {
+      "start": "1870-03-03 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tössbo och Vedbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Westerdal.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6237674",
+      "link": "https://www.wikidata.org/wiki/Q6237674"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZ0A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ0A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

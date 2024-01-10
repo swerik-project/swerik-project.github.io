@@ -1,0 +1,68 @@
+{
+  "name": "jöns harald skoglösa",
+  "swerik-id": "i-7fVaAEB7bi8DWd4cVRZ6WB",
+  "DOB": "1898-09-11",
+  "DOD": "1987-04-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vinslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10715799"
+  },
+  "place-of-death": {
+    "place": "Vinslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10715799"
+  },
+  "alt-names": [
+    "harald johnsson",
+    "johnsson",
+    "jöns harald johnsson",
+    "skoglösa"
+  ],
+  "iorter": [
+    "Skoglösa",
+    "Önnestad"
+  ],
+  "positions": [
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads läns valkrets"
+    },
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristianstads läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Harald%20Johnsson%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5653837",
+      "link": "https://www.wikidata.org/wiki/Q5653837"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Di4a42b6X_AAAAAAAABA9Q",
+      "link": "https://portrattarkiv.se/details/Di4a42b6X_AAAAAAAABA9Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpzQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpzQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

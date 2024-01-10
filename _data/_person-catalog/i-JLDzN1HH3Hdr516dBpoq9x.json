@@ -1,0 +1,57 @@
+{
+  "name": "nils sundin",
+  "swerik-id": "i-JLDzN1HH3Hdr516dBpoq9x",
+  "DOB": "1828-06-14",
+  "DOD": "1898-05-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Adolf Fredriks församling",
+    "link": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "johan christian nicolaas sundin",
+    "nils johan christian sundin",
+    "sundin"
+  ],
+  "iorter": [
+    "Alkvettern"
+  ],
+  "positions": [
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Sundin%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6196196",
+      "link": "https://www.wikidata.org/wiki/Q6196196"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACV2Q",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACV2Q"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsMA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsMA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "gustaf månsson",
+  "swerik-id": "i-2VaWfDfYCxUNRSZbTF7vcy",
+  "DOB": "1865-07-11",
+  "DOD": "1925-06-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norra Härene församling",
+    "link": "http://www.wikidata.org/entity/Q10602462"
+  },
+  "place-of-death": {
+    "place": "Skara stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669768"
+  },
+  "alt-names": [
+    "anders gustaf månsson",
+    "månsson"
+  ],
+  "iorter": [
+    "Fusagården"
+  ],
+  "positions": [
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20M%C3%A5nsson%201865%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111462343",
+      "link": "https://www.wikidata.org/wiki/Q111462343"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeDg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeDg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1907",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1906"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

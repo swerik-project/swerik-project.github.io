@@ -1,0 +1,89 @@
+{
+  "name": "alexander chrisopoulos",
+  "swerik-id": "i-U9We27C3x3JviFqbQPuj3d",
+  "DOB": "1939-07-20",
+  "DOD": "2010-03-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Thessaloníki",
+    "link": "http://www.wikidata.org/entity/Q17151"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "chrisopoulos"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5608191",
+      "link": "https://www.wikidata.org/wiki/Q5608191"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0126791491904",
+      "link": "https://data.riksdagen.se/personlista/?iid=0126791491904&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f2e8d1ef-1422-4660-8c66-79e863a5e0a3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f2e8d1ef-1422-4660-8c66-79e863a5e0a3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

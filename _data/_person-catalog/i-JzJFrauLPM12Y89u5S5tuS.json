@@ -1,0 +1,73 @@
+{
+  "name": "barbro backberger",
+  "swerik-id": "i-JzJFrauLPM12Y89u5S5tuS",
+  "DOB": "1932-06-03",
+  "DOD": "1999-03",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kungälvs församling",
+    "link": "http://www.wikidata.org/entity/Q10550417"
+  },
+  "place-of-death": {
+    "place": "Hässelby församling",
+    "link": "http://www.wikidata.org/entity/Q10531790"
+  },
+  "alt-names": [
+    "barbro elisabeth backberger"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1988-11-12 00:00:00",
+      "end": "1988-12-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1977-01-10 00:00:00",
+      "end": "1977-04-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1974-03-23 00:00:00",
+      "end": "1974-04-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4937165",
+      "link": "https://www.wikidata.org/wiki/Q4937165"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:38264",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:38264"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "1977-01-10",
+      "end": "1977-04-11"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

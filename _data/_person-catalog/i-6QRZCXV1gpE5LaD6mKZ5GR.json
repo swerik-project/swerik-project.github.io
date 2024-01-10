@@ -1,0 +1,78 @@
+{
+  "name": "anna belle strömberg",
+  "swerik-id": "i-6QRZCXV1gpE5LaD6mKZ5GR",
+  "DOB": "1965-08-17",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Hammarby församling",
+    "link": "http://www.wikidata.org/entity/Q6980930"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2021-11-16 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2021-09-01 00:00:00",
+      "end": "2021-11-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anna-Belle%20Str%C3%B6mberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q108525972",
+      "link": "https://www.wikidata.org/wiki/Q108525972"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "07921826010",
+      "link": "https://data.riksdagen.se/personlista/?iid=07921826010&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0a614b1d-8d24-4794-838d-8fbed7b503c5",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0a614b1d-8d24-4794-838d-8fbed7b503c5"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2021-11-16",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

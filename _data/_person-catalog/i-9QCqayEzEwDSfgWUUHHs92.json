@@ -1,0 +1,81 @@
+{
+  "name": "peter andersson",
+  "swerik-id": "i-9QCqayEzEwDSfgWUUHHs92",
+  "DOB": "1838-01-30",
+  "DOD": "1894-06-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Håbols församling",
+    "link": "http://www.wikidata.org/entity/Q10531964"
+  },
+  "place-of-death": {
+    "place": "Håbols församling",
+    "link": "http://www.wikidata.org/entity/Q10531964"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Högkil"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tössbo och Vedbo domsagas valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tössbo och Vedbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Andersson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555843",
+      "link": "https://www.wikidata.org/wiki/Q5555843"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5815",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5815"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZjw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZjw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1882",
+      "end": "1884"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

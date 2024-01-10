@@ -1,0 +1,61 @@
+{
+  "name": "olof hedengren",
+  "swerik-id": "i-RR74pQCVaSzQhJFP8A3gGT",
+  "DOB": "1812-01-14",
+  "DOD": "1870-12-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Riseberga gods",
+    "link": "http://www.wikidata.org/entity/Q10655734"
+  },
+  "place-of-death": {
+    "place": "Riseberga gods",
+    "link": "http://www.wikidata.org/entity/Q10655734"
+  },
+  "alt-names": [
+    "hedengren",
+    "olof gabriel hedengren"
+  ],
+  "iorter": [
+    "Riseberga"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1870-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Edsbergs, Lekebergs, Grimstens och Hardemo häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Gabriel%20Hedengren%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5795578",
+      "link": "https://www.wikidata.org/wiki/Q5795578"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12713",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12713"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAA1sw",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAA1sw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsRw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsRw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

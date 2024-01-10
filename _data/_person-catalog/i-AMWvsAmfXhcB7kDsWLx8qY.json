@@ -1,0 +1,86 @@
+{
+  "name": "arvid enarsson",
+  "swerik-id": "i-AMWvsAmfXhcB7kDsWLx8qY",
+  "DOB": "1912-07-20",
+  "DOD": "1971-04-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Laxarby församling",
+    "link": "http://www.wikidata.org/entity/Q10555268"
+  },
+  "place-of-death": {
+    "place": "Laxarby församling",
+    "link": "http://www.wikidata.org/entity/Q10555268"
+  },
+  "alt-names": [
+    "enarsson"
+  ],
+  "iorter": [
+    "Laxarby"
+  ],
+  "positions": [
+    {
+      "start": "1971-04-13 00:00:00",
+      "end": "1971-04-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1971-01-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1969-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    },
+    {
+      "start": "1962-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Älvsborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Arvid%20Enarsson%201912%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5711082",
+      "link": "https://www.wikidata.org/wiki/Q5711082"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZPg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZPg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1971-04-13",
+      "end": "1971-04-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

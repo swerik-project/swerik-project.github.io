@@ -1,0 +1,53 @@
+{
+  "name": "victoria tiblom",
+  "swerik-id": "i-ThVPmg6PwxL4WvXey5u76X",
+  "DOB": "1969-10-21",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Sköns församling",
+    "link": "http://www.wikidata.org/entity/Q10671268"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "victoria anna eva tiblom"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Victoria%20Tiblom.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031232",
+      "link": "https://www.wikidata.org/wiki/Q114031232"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0985943148917",
+      "link": "https://data.riksdagen.se/personlista/?iid=0985943148917&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9538493f-67cc-4713-9b97-94cc2e32c4db",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9538493f-67cc-4713-9b97-94cc2e32c4db"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "ingela nylund watz",
+  "swerik-id": "i-EjPMvKrvi7HdAPnB25iKv8",
+  "DOB": "1962-03-18",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Korpilombolo församling",
+    "link": "http://www.wikidata.org/entity/Q10548138"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ingela%20Nylund%20Watz%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4970595",
+      "link": "https://www.wikidata.org/wiki/Q4970595"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0313390540217",
+      "link": "https://data.riksdagen.se/personlista/?iid=0313390540217&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9cd4ce1a-c1f5-4743-aed6-8e60569e9947",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9cd4ce1a-c1f5-4743-aed6-8e60569e9947"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

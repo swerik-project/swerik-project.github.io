@@ -1,0 +1,86 @@
+{
+  "name": "carl ifvarsson",
+  "swerik-id": "i-TF2nMgsgs9UxhzkCePtBJo",
+  "DOB": "1818-02-13",
+  "DOD": "1889-12-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Våxtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10718954"
+  },
+  "place-of-death": {
+    "place": "Ränneslövs församling",
+    "link": "http://www.wikidata.org/entity/Q10658458"
+  },
+  "alt-names": [
+    "ifvarsson"
+  ],
+  "iorter": [
+    "Värestorp"
+  ],
+  "positions": [
+    {
+      "start": "1880-04-21 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "vice talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1889-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Höks härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ifvarsson%20SPA3.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5822171",
+      "link": "https://www.wikidata.org/wiki/Q5822171"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "14075",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14075"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnvA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnvA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:26691",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:26691"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1889"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1867",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

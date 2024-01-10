@@ -1,0 +1,50 @@
+{
+  "name": "emil andersson",
+  "swerik-id": "i-44Z592MNuSA3T2e2FTSqff",
+  "DOB": "1877-09-13",
+  "DOD": "1958-04-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Solberga församling",
+    "link": "http://www.wikidata.org/entity/Q10673099"
+  },
+  "place-of-death": {
+    "place": "Solberga församling",
+    "link": "http://www.wikidata.org/entity/Q10673099"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Jäger"
+  ],
+  "positions": [
+    {
+      "start": "1937-04-23 00:00:00",
+      "end": "1941-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Andersson%201877%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554421",
+      "link": "https://www.wikidata.org/wiki/Q5554421"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR7g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR7g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

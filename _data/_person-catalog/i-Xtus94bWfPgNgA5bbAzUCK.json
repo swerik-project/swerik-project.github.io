@@ -1,0 +1,50 @@
+{
+  "name": "magnus pehrsson",
+  "swerik-id": "i-Xtus94bWfPgNgA5bbAzUCK",
+  "DOB": "1887-03-20",
+  "DOD": "1935-05-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Andrarums församling",
+    "link": "http://www.wikidata.org/entity/Q10411443"
+  },
+  "place-of-death": {
+    "place": "Hörby församling",
+    "link": "http://www.wikidata.org/entity/Q10532585"
+  },
+  "alt-names": [
+    "o magnus pehrsson",
+    "oscar magnus pehrsson",
+    "pehrsson"
+  ],
+  "iorter": [
+    "Hörby"
+  ],
+  "positions": [
+    {
+      "start": "1935-01-01 00:00:00",
+      "end": "1935-05-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommun"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117286580",
+      "link": "https://www.wikidata.org/wiki/Q117286580"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRsA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRsA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "gerard de geer",
+  "swerik-id": "i-CDjSHpShj8K86Tq8DTYWY1",
+  "DOB": "1858-10-02",
+  "DOD": "1943-07-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Saltsjöbadens församling",
+    "link": "http://www.wikidata.org/entity/Q11057449"
+  },
+  "alt-names": [
+    "de geer af finspång",
+    "gerard jacob de geer",
+    "gerard jakob de geer"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20De%20Geer.tif"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q562127",
+      "link": "https://www.wikidata.org/wiki/Q562127"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17350",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17350"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMkg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMkg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:1164",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:1164"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

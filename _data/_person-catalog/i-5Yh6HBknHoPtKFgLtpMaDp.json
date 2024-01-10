@@ -1,0 +1,83 @@
+{
+  "name": "gustaf olsson",
+  "swerik-id": "i-5Yh6HBknHoPtKFgLtpMaDp",
+  "DOB": "1840-01-28",
+  "DOD": "1901-11-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Köpings landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58814313"
+  },
+  "place-of-death": {
+    "place": "Kolbäcks församling",
+    "link": "http://www.wikidata.org/entity/Q10547061"
+  },
+  "alt-names": [
+    "anders gustaf olsson",
+    "olsson"
+  ],
+  "iorter": [
+    "Frössvi",
+    "Frösvi"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1901-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns södra domsagas valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns södra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Gustaf%20Olsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6158688",
+      "link": "https://www.wikidata.org/wiki/Q6158688"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPIg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPIg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAQkg",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAQkg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1900"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

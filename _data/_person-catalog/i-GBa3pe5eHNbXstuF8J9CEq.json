@@ -1,0 +1,50 @@
+{
+  "name": "carl fredrik carlström",
+  "swerik-id": "i-GBa3pe5eHNbXstuF8J9CEq",
+  "DOB": "1882-12-16",
+  "DOD": "1973-09-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Länna församling",
+    "link": "http://www.wikidata.org/entity/Q11056961"
+  },
+  "place-of-death": {
+    "place": "Enköping",
+    "link": "http://www.wikidata.org/entity/Q21167"
+  },
+  "alt-names": [
+    "carlström"
+  ],
+  "iorter": [
+    "Övertorneå"
+  ],
+  "positions": [
+    {
+      "start": "1935-01-01 00:00:00",
+      "end": "1946-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Fredrik%20Carlstr%C3%B6m%201882%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5603503",
+      "link": "https://www.wikidata.org/wiki/Q5603503"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRYw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRYw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

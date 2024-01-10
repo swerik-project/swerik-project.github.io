@@ -1,0 +1,60 @@
+{
+  "name": "magnus sjödahl",
+  "swerik-id": "i-T8Rg3jWpwbaD2AL9KBwWw3",
+  "DOB": "1958-08-13",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2013-02-22 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Sj%C3%B6dahl%2001.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q10575345",
+      "link": "https://www.wikidata.org/wiki/Q10575345"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0534948028412",
+      "link": "https://data.riksdagen.se/personlista/?iid=0534948028412&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "95b85019-4add-44a4-98c1-7a0b8a25812e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_95b85019-4add-44a4-98c1-7a0b8a25812e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2013-02-22",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

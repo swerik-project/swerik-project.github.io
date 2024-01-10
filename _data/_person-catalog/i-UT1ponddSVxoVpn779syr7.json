@@ -1,0 +1,89 @@
+{
+  "name": "solveig zander",
+  "swerik-id": "i-UT1ponddSVxoVpn779syr7",
+  "DOB": "1955-02-15",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Enköping",
+    "link": "http://www.wikidata.org/entity/Q21167"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "solveig ellen viola zander"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2020-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Solveig%20Zander.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4990884",
+      "link": "https://www.wikidata.org/wiki/Q4990884"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0196077326617",
+      "link": "https://data.riksdagen.se/personlista/?iid=0196077326617&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c59974f3-9489-4b50-8a17-78378bfd7afe",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c59974f3-9489-4b50-8a17-78378bfd7afe"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2020-12-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

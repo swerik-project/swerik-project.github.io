@@ -1,0 +1,87 @@
+{
+  "name": "maria malmer stenergard",
+  "swerik-id": "i-MEQoHPb6qh2nYtPCAZQYv3",
+  "DOB": "1981-03-23",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Norra Åsums församling",
+    "link": "http://www.wikidata.org/entity/Q10602670"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "migrationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Kristersson",
+      "district": null
+    },
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2022-10-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20ulf%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18202362",
+      "link": "https://www.wikidata.org/wiki/Q18202362"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0572788110724",
+      "link": "https://data.riksdagen.se/personlista/?iid=0572788110724&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "4f48a9f3-c14a-4436-8ad3-a1d4166bdf30",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_4f48a9f3-c14a-4436-8ad3-a1d4166bdf30"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2022-09-26",
+      "end": "2022-10-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

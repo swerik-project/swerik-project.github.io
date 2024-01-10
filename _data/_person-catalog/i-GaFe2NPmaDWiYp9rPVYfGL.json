@@ -1,0 +1,60 @@
+{
+  "name": "knut knutsson posse",
+  "swerik-id": "i-GaFe2NPmaDWiYp9rPVYfGL",
+  "DOB": "1826-11-07",
+  "DOD": "1902-01-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kalvsviks församling",
+    "link": "http://www.wikidata.org/entity/Q10542953"
+  },
+  "place-of-death": {
+    "place": "Bergunda församling",
+    "link": "http://www.wikidata.org/entity/Q10428608"
+  },
+  "alt-names": [
+    "carl knut johan knutsson posse",
+    "posse"
+  ],
+  "iorter": [
+    "Bergkvara"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1877-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Posse%201826%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6054523",
+      "link": "https://www.wikidata.org/wiki/Q6054523"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQfA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQfA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

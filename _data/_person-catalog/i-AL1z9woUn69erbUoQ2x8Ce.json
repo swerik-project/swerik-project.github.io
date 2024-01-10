@@ -1,0 +1,67 @@
+{
+  "name": "tomas nilsson",
+  "swerik-id": "i-AL1z9woUn69erbUoQ2x8Ce",
+  "DOB": "1965",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2013-08-15 00:00:00",
+      "end": "2014-02-15 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    },
+    {
+      "start": "2011-11-23 00:00:00",
+      "end": "2012-05-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q12006677",
+      "link": "https://www.wikidata.org/wiki/Q12006677"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0797281536419",
+      "link": "https://data.riksdagen.se/personlista/?iid=0797281536419&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "506a45c5-7af4-4f1d-833a-a943f4462b72",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_506a45c5-7af4-4f1d-833a-a943f4462b72"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2013-08-15",
+      "end": "2014-02-15"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

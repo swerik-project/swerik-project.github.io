@@ -1,0 +1,114 @@
+{
+  "name": "bo turesson",
+  "swerik-id": "i-BjNiod8wotUabh41ByfhRU",
+  "DOB": "1914-06-04",
+  "DOD": "1997-10-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Linköpings domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10562793"
+  },
+  "place-of-death": {
+    "place": "Vänersborgs församling",
+    "link": "http://www.wikidata.org/entity/Q18334839"
+  },
+  "alt-names": [
+    "turesson"
+  ],
+  "iorter": [
+    "Mora",
+    "Mora; Bo; 2:348"
+  ],
+  "positions": [
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1976-10-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1960-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bo%20Turesson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6216923",
+      "link": "https://www.wikidata.org/wiki/Q6216923"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb9A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb9A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1976-10-04",
+      "end": "1976-10-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

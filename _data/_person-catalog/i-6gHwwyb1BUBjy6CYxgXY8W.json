@@ -1,0 +1,61 @@
+{
+  "name": "adam christian raab",
+  "swerik-id": "i-6gHwwyb1BUBjy6CYxgXY8W",
+  "DOB": "1801-08-11",
+  "DOD": "1872-06-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nättraby församling",
+    "link": "http://www.wikidata.org/entity/Q10605422"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "adam raab",
+    "raab"
+  ],
+  "iorter": [
+    "Stora Sickla"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Raab%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6060104",
+      "link": "https://www.wikidata.org/wiki/Q6060104"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7469",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7469"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAACCA",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAACCA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgchw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgchw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

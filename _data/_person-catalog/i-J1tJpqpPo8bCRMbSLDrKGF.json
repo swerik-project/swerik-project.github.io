@@ -1,0 +1,58 @@
+{
+  "name": "agneta nilsson",
+  "swerik-id": "i-J1tJpqpPo8bCRMbSLDrKGF",
+  "DOB": "1956",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2023-10-14 00:00:00",
+      "end": "2023-11-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q113864862",
+      "link": "https://www.wikidata.org/wiki/Q113864862"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0653578338415",
+      "link": "https://data.riksdagen.se/personlista/?iid=0653578338415&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "889d11ae-8749-46fa-b850-bf6aeeb8f1aa",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_889d11ae-8749-46fa-b850-bf6aeeb8f1aa"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2023-10-14",
+      "end": "2023-11-13"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

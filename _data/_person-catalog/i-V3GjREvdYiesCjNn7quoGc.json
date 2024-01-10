@@ -1,0 +1,67 @@
+{
+  "name": "hans olsson",
+  "swerik-id": "i-V3GjREvdYiesCjNn7quoGc",
+  "DOB": "1951-06-10",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2438833",
+      "link": "https://www.wikidata.org/wiki/Q2438833"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0456305921813",
+      "link": "https://data.riksdagen.se/personlista/?iid=0456305921813&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "be6420ea-a3af-4740-9580-05edf61f992c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_be6420ea-a3af-4740-9580-05edf61f992c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

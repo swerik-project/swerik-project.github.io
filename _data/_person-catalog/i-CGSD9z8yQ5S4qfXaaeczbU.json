@@ -1,0 +1,50 @@
+{
+  "name": "ernst august lantz",
+  "swerik-id": "i-CGSD9z8yQ5S4qfXaaeczbU",
+  "DOB": "1874-01-30",
+  "DOD": "1944-07-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Varnums församling",
+    "link": "http://www.wikidata.org/entity/Q10713133"
+  },
+  "place-of-death": {
+    "place": "Varnums församling",
+    "link": "http://www.wikidata.org/entity/Q10713133"
+  },
+  "alt-names": [
+    "lantz"
+  ],
+  "iorter": [
+    "Kristinehamn"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Lantz%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117222626",
+      "link": "https://www.wikidata.org/wiki/Q117222626"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgb_Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgb_Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "casimir wrede",
+  "swerik-id": "i-H8nf6XfDZ3vnaSoJc7JR5Q",
+  "DOB": "1818-07-30",
+  "DOD": "1892-05-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
+  },
+  "place-of-death": {
+    "place": "Maglö",
+    "link": "http://www.wikidata.org/entity/Q10575275"
+  },
+  "alt-names": [
+    "fabian casimir wrede",
+    "wrede af elimä"
+  ],
+  "iorter": [
+    "Kristianstad"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Wrede%201818%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6247175",
+      "link": "https://www.wikidata.org/wiki/Q6247175"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpSw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpSw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

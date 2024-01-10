@@ -1,0 +1,107 @@
+{
+  "name": "tobias krantz",
+  "swerik-id": "i-UnkrZ3NAvoWXY6Krxbkudq",
+  "DOB": "1971-04-07",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bankeryd",
+    "link": "http://www.wikidata.org/entity/Q2391850"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "tobias kjell bertil krantz"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-06 00:00:00",
+      "end": "2010-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2009-06-17 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "högskoleminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2007-01-06 00:00:00",
+      "end": "2009-06-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-12-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2006-03-01 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2005-11-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20Krantz%2C%20Svenskt%20N%C3%A4ringsliv%202012.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q952026",
+      "link": "https://www.wikidata.org/wiki/Q952026"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "099373212513",
+      "link": "https://data.riksdagen.se/personlista/?iid=099373212513&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5f17fe11-6d1b-4bad-bad8-9d5af2fc73d4",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5f17fe11-6d1b-4bad-bad8-9d5af2fc73d4"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2010-10-06",
+      "end": "2010-10-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

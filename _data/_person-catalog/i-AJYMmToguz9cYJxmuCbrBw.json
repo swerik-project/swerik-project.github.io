@@ -1,0 +1,73 @@
+{
+  "name": "gustaf anderson",
+  "swerik-id": "i-AJYMmToguz9cYJxmuCbrBw",
+  "DOB": "1835-11-06",
+  "DOD": "1907-12-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mjölby församling",
+    "link": "http://www.wikidata.org/entity/Q10586847"
+  },
+  "place-of-death": {
+    "place": "Östra Tollstads församling",
+    "link": "http://www.wikidata.org/entity/Q10728425"
+  },
+  "alt-names": [
+    "anders gustaf anderson",
+    "anderson"
+  ],
+  "iorter": [
+    "Himmelsby"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vifolka, Valkebo och Gullbergs domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20G.%20Andersson%20i%20Himmelsby.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5553524",
+      "link": "https://www.wikidata.org/wiki/Q5553524"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4x1g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4x1g"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaCA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaCA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1902"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "carl orre",
+  "swerik-id": "i-PzJU3iRvonQtL82VS2dFzm",
+  "DOB": "1820-06-07",
+  "DOD": "1900-11-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kållerstads församling",
+    "link": "http://www.wikidata.org/entity/Q10552018"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10542111"
+  },
+  "alt-names": [
+    "carl magnus orre",
+    "orre"
+  ],
+  "iorter": [
+    "Stora Boserup"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tveta, Vista och Mo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Orre%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104842277",
+      "link": "https://www.wikidata.org/wiki/Q104842277"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbKQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbKQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAArhA",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAArhA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

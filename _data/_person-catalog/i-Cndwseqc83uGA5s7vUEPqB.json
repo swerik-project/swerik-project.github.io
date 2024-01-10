@@ -1,0 +1,60 @@
+{
+  "name": "olle sandahl",
+  "swerik-id": "i-Cndwseqc83uGA5s7vUEPqB",
+  "DOB": "1950",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Karlstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10543952"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "karl olof anders helge sandahl"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kronobergs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6091566",
+      "link": "https://www.wikidata.org/wiki/Q6091566"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0900815713419",
+      "link": "https://data.riksdagen.se/personlista/?iid=0900815713419&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "41b23059-4c0f-4b8d-95e5-0fbf9f6e72ab",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_41b23059-4c0f-4b8d-95e5-0fbf9f6e72ab"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2002-09-30",
+      "end": "2006-10-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

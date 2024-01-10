@@ -1,0 +1,65 @@
+{
+  "name": "axel odelberg",
+  "swerik-id": "i-5gFxxU1pzf9wxfbqY5n4JU",
+  "DOB": "1805-11-25",
+  "DOD": "1884-01-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Brännkyrka församling",
+    "link": "http://www.wikidata.org/entity/Q10436974"
+  },
+  "place-of-death": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "alt-names": [
+    "odelberg"
+  ],
+  "iorter": [
+    "Enskede"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Odelberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6022244",
+      "link": "https://www.wikidata.org/wiki/Q6022244"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7602",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7602"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge2w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge2w"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:2773",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:2773"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "vfWYdYT6EoAAAAAAAAAfLQ",
+      "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAfLQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

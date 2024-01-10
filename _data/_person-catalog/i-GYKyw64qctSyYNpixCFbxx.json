@@ -1,0 +1,81 @@
+{
+  "name": "gustaf barthelson",
+  "swerik-id": "i-GYKyw64qctSyYNpixCFbxx",
+  "DOB": "1854-02-08",
+  "DOD": "1934-02-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Frötuna församling",
+    "link": "http://www.wikidata.org/entity/Q10499811"
+  },
+  "place-of-death": {
+    "place": "Halna församling",
+    "link": "http://www.wikidata.org/entity/Q10516530"
+  },
+  "alt-names": [
+    "barthelson",
+    "clemens gustaf barthelson"
+  ],
+  "iorter": [
+    "Halnatorp"
+  ],
+  "positions": [
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/G%20Barthelson%201854%20SPA5%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5566549",
+      "link": "https://www.wikidata.org/wiki/Q5566549"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "19083",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=19083"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdbw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdbw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1908",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

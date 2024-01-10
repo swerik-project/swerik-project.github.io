@@ -1,0 +1,69 @@
+{
+  "name": "nils persson",
+  "swerik-id": "i-UbXixv6dLiNoAQbkiewisQ",
+  "DOB": "1865-07-30",
+  "DOD": "1927-01-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Vemmerlövs församling",
+    "link": "http://www.wikidata.org/entity/Q10728457"
+  },
+  "place-of-death": {
+    "place": "Malmö S:t Pauli församling",
+    "link": "http://www.wikidata.org/entity/Q10576132"
+  },
+  "alt-names": [
+    "persson"
+  ],
+  "iorter": [
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1926-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1916-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Persson%201865%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6043423",
+      "link": "https://www.wikidata.org/wiki/Q6043423"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "7120",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7120"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAaVw",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAaVw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAAA8rA",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAAA8rA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

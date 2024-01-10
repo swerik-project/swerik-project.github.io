@@ -1,0 +1,83 @@
+{
+  "name": "samuel söderberg",
+  "swerik-id": "i-dppNpPyX1pBND8b8JcCpo",
+  "DOB": "1859-01-09",
+  "DOD": "1924-03-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sundborns församling",
+    "link": "http://www.wikidata.org/entity/Q10683735"
+  },
+  "place-of-death": {
+    "place": "Sundborns församling",
+    "link": "http://www.wikidata.org/entity/Q10683735"
+  },
+  "alt-names": [
+    "söderberg"
+  ],
+  "iorter": [
+    "Hobborn",
+    "Sundborn"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns östra valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Falu domsagas norra tingslags valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6201693",
+      "link": "https://www.wikidata.org/wiki/Q6201693"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb5w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb5w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1912",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1905"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

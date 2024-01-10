@@ -1,0 +1,68 @@
+{
+  "name": "theodor lundgren",
+  "swerik-id": "i-M3KsriBtBmH4v2DUpjuGUU",
+  "DOB": "1837-10-01",
+  "DOD": "1915-03-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Strömstads församling",
+    "link": "http://www.wikidata.org/entity/Q10682248"
+  },
+  "place-of-death": {
+    "place": "Strömstads församling",
+    "link": "http://www.wikidata.org/entity/Q10682248"
+  },
+  "alt-names": [
+    "lundgren"
+  ],
+  "iorter": [
+    "Strömstad"
+  ],
+  "positions": [
+    {
+      "start": "1898-02-22 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uddevalla och Strömstads valkrets"
+    },
+    {
+      "start": "1881-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uddevalla, Strömstads, Marstrands och Kungälvs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Lundgren%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5966776",
+      "link": "https://www.wikidata.org/wiki/Q5966776"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTew",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTew"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1898",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

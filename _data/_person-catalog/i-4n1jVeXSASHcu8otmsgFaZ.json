@@ -1,0 +1,67 @@
+{
+  "name": "emil molin",
+  "swerik-id": "i-4n1jVeXSASHcu8otmsgFaZ",
+  "DOB": "1882-09-19",
+  "DOD": "1958-09-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grundsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10509154"
+  },
+  "place-of-death": {
+    "place": "Nås församling",
+    "link": "http://www.wikidata.org/entity/Q10605503"
+  },
+  "alt-names": [
+    "molin"
+  ],
+  "iorter": [
+    "Dombäcksmark"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ångermanlands norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Molin%201882%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6154722",
+      "link": "https://www.wikidata.org/wiki/Q6154722"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfgg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfgg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1920",
+      "end": "1920"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1919"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

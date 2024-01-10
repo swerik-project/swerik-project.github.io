@@ -1,0 +1,99 @@
+{
+  "name": "blenda littmarck",
+  "swerik-id": "i-3fAnC8TbAVjy9BhJnxfPUh",
+  "DOB": "1916-04-15",
+  "DOD": "2009-01-29",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Forsa församling",
+    "link": "http://www.wikidata.org/entity/Q10498070"
+  },
+  "place-of-death": {
+    "place": "Gustav Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10511165"
+  },
+  "alt-names": [
+    "blenda maria vilhelmina littmarck",
+    "littmarck"
+  ],
+  "iorter": [
+    "Bromma"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1977-10-07 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1977-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4963176",
+      "link": "https://www.wikidata.org/wiki/Q4963176"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0665721749890",
+      "link": "https://data.riksdagen.se/personlista/?iid=0665721749890&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e5caf488-96b7-4b20-9182-45649b319970",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e5caf488-96b7-4b20-9182-45649b319970"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1985-09-30",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

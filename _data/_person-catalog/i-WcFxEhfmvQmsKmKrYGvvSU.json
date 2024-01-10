@@ -1,0 +1,50 @@
+{
+  "name": "gustaf sjöberg",
+  "swerik-id": "i-WcFxEhfmvQmsKmKrYGvvSU",
+  "DOB": "1861-01-28",
+  "DOD": "1927-07-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fröjereds församling",
+    "link": "http://www.wikidata.org/entity/Q10499708"
+  },
+  "place-of-death": {
+    "place": "Skövde",
+    "link": "http://www.wikidata.org/entity/Q21166"
+  },
+  "alt-names": [
+    "sjöberg"
+  ],
+  "iorter": [
+    "Skövde"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Sj%C3%B6berg%201861%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6177984",
+      "link": "https://www.wikidata.org/wiki/Q6177984"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeIQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeIQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

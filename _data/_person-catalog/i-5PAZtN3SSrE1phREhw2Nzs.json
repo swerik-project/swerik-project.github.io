@@ -1,0 +1,63 @@
+{
+  "name": "hans leghammar",
+  "swerik-id": "i-5PAZtN3SSrE1phREhw2Nzs",
+  "DOB": "1957-11-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kalmar domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10542836"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "hans lennart leghammar",
+    "leghammar"
+  ],
+  "iorter": [
+    "Torup"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5944151",
+      "link": "https://www.wikidata.org/wiki/Q5944151"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0456298137719",
+      "link": "https://data.riksdagen.se/personlista/?iid=0456298137719&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0d4d7cf7-6d3b-4a49-9e11-70ac4b53216d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0d4d7cf7-6d3b-4a49-9e11-70ac4b53216d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

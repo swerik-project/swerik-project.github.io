@@ -1,0 +1,49 @@
+{
+  "name": "erik bergström",
+  "swerik-id": "i-4kU5YzjqnQadjquDxvadgY",
+  "DOB": "1901-06-18",
+  "DOD": "1975-08-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Trankils församling",
+    "link": "http://www.wikidata.org/entity/Q10701271"
+  },
+  "place-of-death": {
+    "place": "Karlstads domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10543924"
+  },
+  "alt-names": [
+    "bergström",
+    "per erik bergström"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1953-01-01 00:00:00",
+      "end": "1953-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111655821",
+      "link": "https://www.wikidata.org/wiki/Q111655821"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbmA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbmA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

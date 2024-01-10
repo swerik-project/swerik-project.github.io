@@ -1,0 +1,57 @@
+{
+  "name": "nils andersson",
+  "swerik-id": "i-PPkBrVcWDXzrNGbQM8yTDH",
+  "DOB": "1891-03-23",
+  "DOD": "1974-06-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bollnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10432594"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "andersson",
+    "nils axel andersson",
+    "åsön"
+  ],
+  "iorter": [
+    "Östersund"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Andersson%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555633",
+      "link": "https://www.wikidata.org/wiki/Q5555633"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5yFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5yFg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRkw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRkw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

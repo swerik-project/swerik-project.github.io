@@ -1,0 +1,59 @@
+{
+  "name": "johan algot stenberg",
+  "swerik-id": "i-BBUr9QfjeTZnYsBSJ1KaEe",
+  "DOB": "1868-11-02",
+  "DOD": "1936-10-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "place-of-death": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "alt-names": [
+    "stenberg"
+  ],
+  "iorter": [
+    "Brännan"
+  ],
+  "positions": [
+    {
+      "start": "1927-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Stenberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6188698",
+      "link": "https://www.wikidata.org/wiki/Q6188698"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfifA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfifA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

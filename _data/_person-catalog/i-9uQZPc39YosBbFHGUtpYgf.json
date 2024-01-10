@@ -1,0 +1,80 @@
+{
+  "name": "anders lindblad",
+  "swerik-id": "i-9uQZPc39YosBbFHGUtpYgf",
+  "DOB": "1866-01-10",
+  "DOD": "1937-09-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Borgeby församling",
+    "link": "http://www.wikidata.org/entity/Q10433143"
+  },
+  "place-of-death": {
+    "place": "Örgryte församling",
+    "link": "http://www.wikidata.org/entity/Q10727562"
+  },
+  "alt-names": [
+    "ac lindblad",
+    "anders christenson lindblad",
+    "lindblad"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-14 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1908-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/A.C.%20Lindblad.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5954133",
+      "link": "https://www.wikidata.org/wiki/Q5954133"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10449",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10449"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAABGng",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAABGng"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTmQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTmQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

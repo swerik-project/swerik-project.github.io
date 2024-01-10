@@ -1,0 +1,51 @@
+{
+  "name": "martin westmont",
+  "swerik-id": "i-4rA8nu7Qns2drm1ePJStLd",
+  "DOB": "1978",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-12 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Westmont%20i%20Stockholms%20stadshus%202021.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114659286",
+      "link": "https://www.wikidata.org/wiki/Q114659286"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0678597762924",
+      "link": "https://data.riksdagen.se/personlista/?iid=0678597762924&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "8fd0a93e-226a-4fb5-ae65-bdecf1387a0c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_8fd0a93e-226a-4fb5-ae65-bdecf1387a0c"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

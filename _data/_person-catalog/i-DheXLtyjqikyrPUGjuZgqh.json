@@ -1,0 +1,56 @@
+{
+  "name": "abel sundberg",
+  "swerik-id": "i-DheXLtyjqikyrPUGjuZgqh",
+  "DOB": "1893-01-02",
+  "DOD": "1974-12-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Johannebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10540465"
+  },
+  "alt-names": [
+    "abel gotthard leopold sundberg",
+    "sundberg"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1948-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Abel%20Sundberg%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6195368",
+      "link": "https://www.wikidata.org/wiki/Q6195368"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABVnZA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABVnZA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkRw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkRw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

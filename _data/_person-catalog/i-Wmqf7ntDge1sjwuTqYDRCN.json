@@ -1,0 +1,48 @@
+{
+  "name": "herman gyllenhaal",
+  "swerik-id": "i-Wmqf7ntDge1sjwuTqYDRCN",
+  "DOB": "1821-03-24",
+  "DOD": "1912-09-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "gyllenhaal af härlingstorp"
+  ],
+  "iorter": [
+    "Härlingstorp"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skånings, Vilske och Valle domsagas valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104850932",
+      "link": "https://www.wikidata.org/wiki/Q104850932"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdTQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdTQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "marianne nilsson",
+  "swerik-id": "i-8JZcs777rtbkcdtwo6fUYL",
+  "DOB": "1948",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "marianne jönsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2000-08-01 00:00:00",
+      "end": "2002-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1998-10-07 00:00:00",
+      "end": "2000-07-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    },
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21567760",
+      "link": "https://www.wikidata.org/wiki/Q21567760"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0771794334400",
+      "link": "https://data.riksdagen.se/personlista/?iid=0771794334400&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "d861322b-6cbb-11d6-ae34-0004755038ce",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_d861322b-6cbb-11d6-ae34-0004755038ce"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2000-08-01",
+      "end": "2002-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "jan eliasson",
+  "swerik-id": "i-T7hu1JgBezor1oXi7Z3qnA",
+  "DOB": "1940-09-17",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eliasson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-04-24 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Eliasson%20at%20T%C3%A4llberg%20Forum%202009%20cropped.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q549955",
+      "link": "https://www.wikidata.org/wiki/Q549955"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0785941964009",
+      "link": "https://data.riksdagen.se/personlista/?iid=0785941964009&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3b94f4d0-ee6a-42f5-bace-5f1c0332409f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3b94f4d0-ee6a-42f5-bace-5f1c0332409f"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

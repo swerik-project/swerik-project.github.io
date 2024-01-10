@@ -1,0 +1,70 @@
+{
+  "name": "johan nordenfalk den yngre",
+  "swerik-id": "i-Ej7GqB6XDsmEuEtqUYcCNG",
+  "DOB": "1830-09-02",
+  "DOD": "1901-07-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Lövsta",
+    "link": "http://www.wikidata.org/entity/Q10572987"
+  },
+  "alt-names": [
+    "johan nordenfalk",
+    "nordenfalk"
+  ],
+  "iorter": [
+    "Lövsta"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Selebo, Åkers och Daga häraders valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nordenfalk%2C%20Johan%20%28av%20Oscar%20Bj%C3%B6rck%201892%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6014586",
+      "link": "https://www.wikidata.org/wiki/Q6014586"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABhCA",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABhCA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29604",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29604"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP4g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP4g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

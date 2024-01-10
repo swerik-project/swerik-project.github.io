@@ -1,0 +1,65 @@
+{
+  "name": "carl johansson",
+  "swerik-id": "i-96hHV3ALkrSUzCixZLWNaR",
+  "DOB": "1856-08-26",
+  "DOD": "1940-08-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rya församling",
+    "link": "http://www.wikidata.org/entity/Q10658171"
+  },
+  "place-of-death": {
+    "place": "Helsingborgs Gustav Adolfs församling",
+    "link": "http://www.wikidata.org/entity/Q10520534"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Helsingborg"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Johansson%201856%20SPA%20%28cropped%29%20bild.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5885676",
+      "link": "https://www.wikidata.org/wiki/Q5885676"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAUfw",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAUfw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAdCQ",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAdCQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAAN2lw",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAAN2lw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRTw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRTw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

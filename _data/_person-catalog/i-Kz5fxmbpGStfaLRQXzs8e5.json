@@ -1,0 +1,51 @@
+{
+  "name": "ernst flensburg",
+  "swerik-id": "i-Kz5fxmbpGStfaLRQXzs8e5",
+  "DOB": "1851-08-25",
+  "DOD": "1917-10-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "place-of-death": {
+    "place": "Ronneby församling",
+    "link": "http://www.wikidata.org/entity/Q10656780"
+  },
+  "alt-names": [
+    "ernst martin benedict flensburg",
+    "flensburg"
+  ],
+  "iorter": [
+    "Ronneby"
+  ],
+  "positions": [
+    {
+      "start": "1917-01-01 00:00:00",
+      "end": "1917-10-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Flensburg%201851%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5733290",
+      "link": "https://www.wikidata.org/wiki/Q5733290"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQJw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQJw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

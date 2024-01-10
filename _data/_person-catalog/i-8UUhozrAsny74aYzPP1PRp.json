@@ -1,0 +1,83 @@
+{
+  "name": "edvard hedin",
+  "swerik-id": "i-8UUhozrAsny74aYzPP1PRp",
+  "DOB": "1856-05-29",
+  "DOD": "1921-10-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kräcklinge församling",
+    "link": "http://www.wikidata.org/entity/Q10549658"
+  },
+  "place-of-death": {
+    "place": "Kräcklinge församling",
+    "link": "http://www.wikidata.org/entity/Q10549658"
+  },
+  "alt-names": [
+    "edvard laurentius maximus hedin",
+    "hedin"
+  ],
+  "iorter": [
+    "Torp",
+    "i Torp"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Örebro läns södra valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Edsbergs, Grimstens och Hardemo häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Hedin.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5795864",
+      "link": "https://www.wikidata.org/wiki/Q5795864"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12728",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12728"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAA3sA",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAA3sA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1918",
+      "end": "1920"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1897",
+      "end": "1902"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

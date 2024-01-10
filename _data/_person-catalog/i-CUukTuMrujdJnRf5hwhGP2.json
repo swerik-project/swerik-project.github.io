@@ -1,0 +1,56 @@
+{
+  "name": "gösta elfving",
+  "swerik-id": "i-CUukTuMrujdJnRf5hwhGP2",
+  "DOB": "1908-09-02",
+  "DOD": "1992-08-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ludvika församling",
+    "link": "http://www.wikidata.org/entity/Q10570482"
+  },
+  "place-of-death": {
+    "place": "Uppsala",
+    "link": "http://www.wikidata.org/entity/Q25286"
+  },
+  "alt-names": [
+    "elfving",
+    "oskar gösta charles elfving"
+  ],
+  "iorter": [
+    "Bromma"
+  ],
+  "positions": [
+    {
+      "start": "1954-01-01 00:00:00",
+      "end": "1957-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6sta%20Elfving%201908%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5708424",
+      "link": "https://www.wikidata.org/wiki/Q5708424"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMjw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMjw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:64707",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:64707"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

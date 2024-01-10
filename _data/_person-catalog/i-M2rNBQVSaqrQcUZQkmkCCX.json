@@ -1,0 +1,87 @@
+{
+  "name": "serkan köse",
+  "swerik-id": "i-M2rNBQVSaqrQcUZQkmkCCX",
+  "DOB": "1976-10-04",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Yeniceoba",
+    "link": "http://www.wikidata.org/entity/Q601532"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2017-09-01 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2017-03-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Serkan%20K%C3%B6se%202021.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q26710616",
+      "link": "https://www.wikidata.org/wiki/Q26710616"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0256716955026",
+      "link": "https://data.riksdagen.se/personlista/?iid=0256716955026&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f2597c6d-8286-457a-9d62-6243f260af40",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f2597c6d-8286-457a-9d62-6243f260af40"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

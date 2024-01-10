@@ -1,0 +1,99 @@
+{
+  "name": "ingegerd elm",
+  "swerik-id": "i-13QQP8owbbh9DWwyjxnTSS",
+  "DOB": "1936-08-12",
+  "DOD": "1992-01-20",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Eksjö",
+    "link": "http://www.wikidata.org/entity/Q1001905"
+  },
+  "place-of-death": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "alt-names": [
+    "elm",
+    "wega ingegerd elm"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-01-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4946536",
+      "link": "https://www.wikidata.org/wiki/Q4946536"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0173299755202",
+      "link": "https://data.riksdagen.se/personlista/?iid=0173299755202&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "df7d5f9d-c82d-42f0-a90d-e8a510adf25d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_df7d5f9d-c82d-42f0-a90d-e8a510adf25d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1992-01-09"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

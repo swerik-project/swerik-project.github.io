@@ -1,0 +1,109 @@
+{
+  "name": "wilhelm lothigius",
+  "swerik-id": "i-4dRQH2H5PV9JHu8LSrspJz",
+  "DOB": "1836-05-08",
+  "DOD": "1913-04-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jönköpings Kristina församling",
+    "link": "http://www.wikidata.org/entity/Q10542102"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "lars wilhelm samuel lothigius",
+    "lothigius"
+  ],
+  "iorter": [
+    "Karlshamn",
+    "Vänersborg"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vänersborgs och Åmåls valkrets"
+    },
+    {
+      "start": "1886-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1878-01-01 00:00:00",
+      "end": "1885-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Karlshamns och Sölvesborgs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Wilhelm%20Samuel%20Lothigius.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6150473",
+      "link": "https://www.wikidata.org/wiki/Q6150473"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAACEEw",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAACEEw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnqg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnqg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "De moderata reformvännernas grupp",
+        "party-id": "Q19977599"
+      },
+      "start": "1903",
+      "end": "1905"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

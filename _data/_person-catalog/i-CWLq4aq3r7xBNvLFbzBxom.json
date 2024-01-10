@@ -1,0 +1,50 @@
+{
+  "name": "axel löfgren",
+  "swerik-id": "i-CWLq4aq3r7xBNvLFbzBxom",
+  "DOB": "1880-03-23",
+  "DOD": "1954-06-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gryts församling",
+    "link": "http://www.wikidata.org/entity/Q10509671"
+  },
+  "place-of-death": {
+    "place": "Bromma kyrkobokföringsdistrikt",
+    "link": "http://www.wikidata.org/entity/Q111576217"
+  },
+  "alt-names": [
+    "löfgren"
+  ],
+  "iorter": [
+    "Äppelviken"
+  ],
+  "positions": [
+    {
+      "start": "1942-01-01 00:00:00",
+      "end": "1945-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20L%C3%B6fgren%201880%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5969413",
+      "link": "https://www.wikidata.org/wiki/Q5969413"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNEA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNEA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

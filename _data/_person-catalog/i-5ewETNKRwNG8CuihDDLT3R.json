@@ -1,0 +1,50 @@
+{
+  "name": "sten waldem",
+  "swerik-id": "i-5ewETNKRwNG8CuihDDLT3R",
+  "DOB": "1877-08-07",
+  "DOD": "1960-09-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljungby församling, Kalmar-Ölands kontrakt",
+    "link": "http://www.wikidata.org/entity/Q10568321"
+  },
+  "place-of-death": {
+    "place": "Kalmar domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10542836"
+  },
+  "alt-names": [
+    "sten ragnar valdemar waldem",
+    "sten ragnar valdemar waldeus",
+    "waldem"
+  ],
+  "iorter": [
+    "Ölvingstorp"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6229469",
+      "link": "https://www.wikidata.org/wiki/Q6229469"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc2g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc2g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

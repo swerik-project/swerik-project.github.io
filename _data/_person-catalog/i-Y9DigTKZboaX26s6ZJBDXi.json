@@ -1,0 +1,81 @@
+{
+  "name": "anders johansson",
+  "swerik-id": "i-Y9DigTKZboaX26s6ZJBDXi",
+  "DOB": "1831-12-11",
+  "DOD": "1908-01-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Leksbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10556742"
+  },
+  "place-of-death": {
+    "place": "Ullervads församling",
+    "link": "http://www.wikidata.org/entity/Q10708752"
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Löfåsen",
+    "Lövåsen"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vadsbo norra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Johansson%201831%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5885300",
+      "link": "https://www.wikidata.org/wiki/Q5885300"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Di4a42b6X_AAAAAAAAAJnw",
+      "link": "https://portrattarkiv.se/details/Di4a42b6X_AAAAAAAAAJnw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdVw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdVw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1892",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1892"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1882",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

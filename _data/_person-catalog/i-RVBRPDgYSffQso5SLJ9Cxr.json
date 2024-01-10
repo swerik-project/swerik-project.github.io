@@ -1,0 +1,87 @@
+{
+  "name": "larry söder",
+  "swerik-id": "i-RVBRPDgYSffQso5SLJ9Cxr",
+  "DOB": "1969-07-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nol-Alafors kyrkobokföringsdistrikt",
+    "link": "http://www.wikidata.org/entity/Q114456563"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "2015-04-25 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20S%C3%B6der%2001.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21578777",
+      "link": "https://www.wikidata.org/wiki/Q21578777"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0992473266516",
+      "link": "https://data.riksdagen.se/personlista/?iid=0992473266516&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e238e06a-acac-4fae-829c-1773ee851878",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e238e06a-acac-4fae-829c-1773ee851878"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

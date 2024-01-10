@@ -1,0 +1,80 @@
+{
+  "name": "wiwi anne johansson",
+  "swerik-id": "i-UhKXyeGqJBzFW5wSyeoGMt",
+  "DOB": "1950",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "wiwi anne elisabeth johansson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2017-10-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Wiwi-Anne%20Johansson%202.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4957112",
+      "link": "https://www.wikidata.org/wiki/Q4957112"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0995355603410",
+      "link": "https://data.riksdagen.se/personlista/?iid=0995355603410&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9fa04b4d-174b-4c86-82fa-1336c4a6a52d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9fa04b4d-174b-4c86-82fa-1336c4a6a52d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2014-09-29",
+      "end": "2017-10-31"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

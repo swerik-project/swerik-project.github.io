@@ -1,0 +1,69 @@
+{
+  "name": "gustaf ekdahl",
+  "swerik-id": "i-FFyGhg7yDLhat7YPoNLzaH",
+  "DOB": "1835-01-17",
+  "DOD": "1911-06-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Södertälje stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10688814"
+  },
+  "place-of-death": {
+    "place": "Södertälje stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10688814"
+  },
+  "alt-names": [
+    "ekdahl",
+    "gustaf adalrik ekdahl"
+  ],
+  "iorter": [
+    "Södertälje"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "1880-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Enköpings, Södertälje, Norrtälje, Vaxholms, Öregrunds, Östhammars och Sigtuna valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ekdahl%2C%20Gustaf%20%28Hvar%208%20dag%20no%2039%201911%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5629530",
+      "link": "https://www.wikidata.org/wiki/Q5629530"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgecw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgecw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1905"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

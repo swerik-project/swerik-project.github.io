@@ -1,0 +1,68 @@
+{
+  "name": "erik röing",
+  "swerik-id": "i-9cYsFuLsrAUioQXvcyUNgJ",
+  "DOB": "1866-08-03",
+  "DOD": "1936-11-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Marstrands församling",
+    "link": "http://www.wikidata.org/entity/Q10577777"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "erik petter waldemar röing",
+    "röing"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20R%C3%B6ing%201866%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6086670",
+      "link": "https://www.wikidata.org/wiki/Q6086670"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkng"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala riksdagspartiet",
+        "party-id": "Q10560990"
+      },
+      "start": "1924",
+      "end": "1928"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1906",
+      "end": "1923"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

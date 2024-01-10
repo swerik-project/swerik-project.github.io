@@ -1,0 +1,57 @@
+{
+  "name": "abel andersson",
+  "swerik-id": "i-LToMcVXu3j48yboSLK1sPQ",
+  "DOB": "1887-06-15",
+  "DOD": "1964-04-30",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Villstads församling",
+    "link": "http://www.wikidata.org/entity/Q10715586"
+  },
+  "place-of-death": {
+    "place": "Villstads församling",
+    "link": "http://www.wikidata.org/entity/Q10715586"
+  },
+  "alt-names": [
+    "andersson",
+    "karl abel mauritz andersson",
+    "karl albin mauritz andersson"
+  ],
+  "iorter": [
+    "Löbbo"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Abel%20Andersson%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5553810",
+      "link": "https://www.wikidata.org/wiki/Q5553810"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "28K7pO-SRrAAAAAAAACwNA",
+      "link": "https://portrattarkiv.se/details/28K7pO-SRrAAAAAAAACwNA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbhA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbhA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

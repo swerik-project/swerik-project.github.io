@@ -1,0 +1,59 @@
+{
+  "name": "eije mossberg",
+  "swerik-id": "i-RsxcNGZPjwF53SBgVLhwYJ",
+  "DOB": "1908-01-21",
+  "DOD": "1997-07-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vaxholm",
+    "link": "http://www.wikidata.org/entity/Q1001109"
+  },
+  "place-of-death": {
+    "place": "Schweiz",
+    "link": "http://www.wikidata.org/entity/Q39"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1947-07-01 00:00:00",
+      "end": "1951-10-01 00:00:00",
+      "role": "inrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1947-07-01 00:00:00",
+      "role": "biträdande socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1947-07-01 00:00:00",
+      "role": "biträdande socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eije%20Mossberg.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5995142",
+      "link": "https://www.wikidata.org/wiki/Q5995142"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "carl otto bergman",
+  "swerik-id": "i-62hcuT4dPauXmw9K3r4nB4",
+  "DOB": "1828-04-29",
+  "DOD": "1901-06-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Luleå domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570636"
+  },
+  "place-of-death": {
+    "place": "Edefors församling",
+    "link": "http://www.wikidata.org/entity/Q10479862"
+  },
+  "alt-names": [
+    "bergman"
+  ],
+  "iorter": [
+    "Bodträskfors",
+    "Gällivare"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1901-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    },
+    {
+      "start": "1881-01-01 00:00:00",
+      "end": "1883-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Otto%20Bergman%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5572579",
+      "link": "https://www.wikidata.org/wiki/Q5572579"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18638",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18638"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADIQw",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADIQw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "WQknIBFpuuAAAAAAAANhdg",
+      "link": "https://portrattarkiv.se/details/WQknIBFpuuAAAAAAAANhdg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfb6g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfb6g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1899",
+      "end": "1901"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

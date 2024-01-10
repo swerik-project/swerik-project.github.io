@@ -1,0 +1,98 @@
+{
+  "name": "kjell johansson",
+  "swerik-id": "i-WpdDDVBL8xRiFwxBEnVikM",
+  "DOB": "1933-05-07",
+  "DOD": "2014-05-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landskrona",
+    "link": "http://www.wikidata.org/entity/Q54352"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "johansson"
+  ],
+  "iorter": [
+    "Mariefred"
+  ],
+  "positions": [
+    {
+      "start": "1992-04-10 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1992-03-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5886806",
+      "link": "https://www.wikidata.org/wiki/Q5886806"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0992508932009",
+      "link": "https://data.riksdagen.se/personlista/?iid=0992508932009&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "49b4c754-dce0-43fd-8eda-d0e5b5e1f276",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_49b4c754-dce0-43fd-8eda-d0e5b5e1f276"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1992-04-10",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

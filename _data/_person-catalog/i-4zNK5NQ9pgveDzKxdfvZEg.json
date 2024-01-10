@@ -1,0 +1,77 @@
+{
+  "name": "carl edvard ekman",
+  "swerik-id": "i-4zNK5NQ9pgveDzKxdfvZEg",
+  "DOB": "1826-03-07",
+  "DOD": "1903-12-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "ekman"
+  ],
+  "iorter": [
+    "Finspång"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Edvard%20Ekman%20Svenska%20industriens%20m%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1037569",
+      "link": "https://www.wikidata.org/wiki/Q1037569"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15852",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15852"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABcdA",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABcdA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABganA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABganA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Skånska partiet",
+        "party-id": "Q10671173"
+      },
+      "start": "1873",
+      "end": "1885"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

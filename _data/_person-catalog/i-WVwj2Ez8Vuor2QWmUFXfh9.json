@@ -1,0 +1,56 @@
+{
+  "name": "carl wahren",
+  "swerik-id": "i-WVwj2Ez8Vuor2QWmUFXfh9",
+  "DOB": "1866-11-30",
+  "DOD": "1941-04-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Mosaiska församling",
+    "link": "http://www.wikidata.org/entity/Q109827958"
+  },
+  "place-of-death": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "alt-names": [
+    "carl jacob wahren",
+    "wahren"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Wahren%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q23989278",
+      "link": "https://www.wikidata.org/wiki/Q23989278"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "ciLMGSqrYjAAAAAAAAAP2w",
+      "link": "https://portrattarkiv.se/details/ciLMGSqrYjAAAAAAAAAP2w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgazg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgazg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

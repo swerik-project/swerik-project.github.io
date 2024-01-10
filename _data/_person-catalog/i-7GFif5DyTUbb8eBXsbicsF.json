@@ -1,0 +1,78 @@
+{
+  "name": "magnus oscarsson",
+  "swerik-id": "i-7GFif5DyTUbb8eBXsbicsF",
+  "DOB": "1970-03-16",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stora Åby församling",
+    "link": "http://www.wikidata.org/entity/Q10681185"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Oscarsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q18244900",
+      "link": "https://www.wikidata.org/wiki/Q18244900"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0792733370419",
+      "link": "https://data.riksdagen.se/personlista/?iid=0792733370419&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0d218eb6-6294-4587-8abf-be0a351d7213",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0d218eb6-6294-4587-8abf-be0a351d7213"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

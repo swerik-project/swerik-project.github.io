@@ -1,0 +1,67 @@
+{
+  "name": "olavi viitanen",
+  "swerik-id": "i-8pJqy5ekTiYsJKdTnJ27uj",
+  "DOB": "1937",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1991-04-08 00:00:00",
+      "end": "1991-06-14 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1988-11-12 00:00:00",
+      "end": "1988-12-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1987-04-27 00:00:00",
+      "end": "1987-06-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q118873880",
+      "link": "https://www.wikidata.org/wiki/Q118873880"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0317320289305",
+      "link": "https://data.riksdagen.se/personlista/?iid=0317320289305&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9dd18740-91ee-4f68-a13d-97408f382721",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9dd18740-91ee-4f68-a13d-97408f382721"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

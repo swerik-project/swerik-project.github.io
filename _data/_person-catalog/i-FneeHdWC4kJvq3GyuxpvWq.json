@@ -1,0 +1,116 @@
+{
+  "name": "petrus gränebo",
+  "swerik-id": "i-FneeHdWC4kJvq3GyuxpvWq",
+  "DOB": "1881-12-28",
+  "DOD": "1959-10-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mönsterås församling",
+    "link": "http://www.wikidata.org/entity/Q10593574"
+  },
+  "place-of-death": {
+    "place": "Mönsterås församling",
+    "link": "http://www.wikidata.org/entity/Q10593574"
+  },
+  "alt-names": [
+    "carl petrus valdemar gränebo",
+    "carl petrus valdemar nilsson",
+    "gränebo",
+    "nilsson",
+    "petrus nilsson"
+  ],
+  "iorter": [
+    "Gränebo"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1951-12-31 00:00:00",
+      "role": "förste vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1939-12-31 00:00:00",
+      "role": "andre vice talman",
+      "source": "speaker",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1951-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Petrus%20Nilsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5774246",
+      "link": "https://www.wikidata.org/wiki/Q5774246"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13261",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13261"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcpQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "wbbNj8LLWMAAAAAAAAAg3Q",
+      "link": "https://portrattarkiv.se/details/wbbNj8LLWMAAAAAAAAAg3Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1922",
+      "end": "1951"
+    },
+    {
+      "party": {
+        "name": "Jordbrukarnas fria grupp",
+        "party-id": "Q10540831"
+      },
+      "start": "1919",
+      "end": "1921"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1917",
+      "end": "1917"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

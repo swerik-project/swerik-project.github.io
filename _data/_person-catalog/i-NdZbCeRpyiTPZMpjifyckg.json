@@ -1,0 +1,80 @@
+{
+  "name": "nina larsson",
+  "swerik-id": "i-NdZbCeRpyiTPZMpjifyckg",
+  "DOB": "1976-09-28",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Trollhättans församling",
+    "link": "http://www.wikidata.org/entity/Q10704894"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nina therese larsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2011-10-29 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2011-04-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ninalarsson%20lowres.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4961147",
+      "link": "https://www.wikidata.org/wiki/Q4961147"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0125036219125",
+      "link": "https://data.riksdagen.se/personlista/?iid=0125036219125&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "4720db09-e990-46d5-bc95-bb3087853435",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_4720db09-e990-46d5-bc95-bb3087853435"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "2011-10-29",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

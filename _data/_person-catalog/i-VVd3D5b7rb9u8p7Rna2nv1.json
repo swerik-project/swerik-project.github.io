@@ -1,0 +1,84 @@
+{
+  "name": "lars petter larsson",
+  "swerik-id": "i-VVd3D5b7rb9u8p7Rna2nv1",
+  "DOB": "1840-12-26",
+  "DOD": "1920-04-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sorunda församling",
+    "link": "http://www.wikidata.org/entity/Q10674046"
+  },
+  "place-of-death": {
+    "place": "Sorunda församling",
+    "link": "http://www.wikidata.org/entity/Q10674046"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Berga"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertörns domsagas valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertörns domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lars%20Larsson%201840%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938020",
+      "link": "https://www.wikidata.org/wiki/Q5938020"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgd8g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgd8g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1896",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1895"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

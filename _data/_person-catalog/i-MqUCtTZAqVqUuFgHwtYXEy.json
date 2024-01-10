@@ -1,0 +1,43 @@
+{
+  "name": "lennart wanhainen",
+  "swerik-id": "i-MqUCtTZAqVqUuFgHwtYXEy",
+  "DOB": "1914-03-23",
+  "DOD": "1990-02-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Pajala församling",
+    "link": "http://www.wikidata.org/entity/Q10615166"
+  },
+  "place-of-death": {
+    "place": "Pajala församling",
+    "link": "http://www.wikidata.org/entity/Q10615166"
+  },
+  "alt-names": [
+    "wanhainen"
+  ],
+  "iorter": [
+    "Erkheikki"
+  ],
+  "positions": [
+    {
+      "start": "1964-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västerbottens läns och Norrbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6232158",
+      "link": "https://www.wikidata.org/wiki/Q6232158"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

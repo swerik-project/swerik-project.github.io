@@ -1,0 +1,83 @@
+{
+  "name": "volrath tham",
+  "swerik-id": "i-LL8Ja5567gc6tt3ekL9QZX",
+  "DOB": "1867-05-28",
+  "DOD": "1946-12-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Häggdångers församling",
+    "link": "http://www.wikidata.org/entity/Q10531271"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "tham",
+    "volrath henrik sebastian tham"
+  ],
+  "iorter": [
+    "Stockholm",
+    "Söderhamn"
+  ],
+  "positions": [
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    },
+    {
+      "start": "1919-01-21 00:00:00",
+      "end": "1919-06-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gävleborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Volrath%20Tham.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6206835",
+      "link": "https://www.wikidata.org/wiki/Q6206835"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "NhqpvvI9tpAAAAAAAAAJAw",
+      "link": "https://portrattarkiv.se/details/NhqpvvI9tpAAAAAAAAAJAw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOjw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOjw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1934",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "nils hansson",
+  "swerik-id": "i-8NJMzX1yx8WpL8DS543hLE",
+  "DOB": "1867-03-08",
+  "DOD": "1945-03-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tottarps församling",
+    "link": "http://www.wikidata.org/entity/Q10700617"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1920-10-27 00:00:00",
+      "end": "1921-10-13 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.y.",
+      "district": null
+    },
+    {
+      "start": "1920-10-27 00:00:00",
+      "end": "1921-10-13 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen von Sydow",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Hansson%20H8D%201908.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5789486",
+      "link": "https://www.wikidata.org/wiki/Q5789486"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12595",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12595"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABhMkQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABhMkQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67820",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67820"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

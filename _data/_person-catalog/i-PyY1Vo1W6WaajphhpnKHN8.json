@@ -1,0 +1,78 @@
+{
+  "name": "sven rosenberg",
+  "swerik-id": "i-PyY1Vo1W6WaajphhpnKHN8",
+  "DOB": "1811-01-16",
+  "DOD": "1895-04-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Mörrums församling",
+    "link": "http://www.wikidata.org/entity/Q10593679"
+  },
+  "place-of-death": {
+    "place": "Östra Ljungby församling",
+    "link": "http://www.wikidata.org/entity/Q10728354"
+  },
+  "alt-names": [
+    "rosenberg",
+    "sven persson rosenberg"
+  ],
+  "iorter": [
+    "Östra Ljungby"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norra Åsbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Persson-Rosenberg%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6079600",
+      "link": "https://www.wikidata.org/wiki/Q6079600"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6903",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6903"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAgPQ",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAgPQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfpnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfpnw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1869",
+      "end": "1869"
+    },
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1867",
+      "end": "1868"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "elsa ewerlöf",
+  "swerik-id": "i-8VktB9k3RQP3f855b5miQr",
+  "DOB": "1887-09-04",
+  "DOD": "1979-05-15",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Gränna stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10509739"
+  },
+  "place-of-death": {
+    "place": "Sofia församling",
+    "link": "http://www.wikidata.org/entity/Q10673010"
+  },
+  "alt-names": [
+    "elsa helga emilia josefina ewerlöf",
+    "ewerlöf"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1946-02-14 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Elsa%20Ewerl%C3%B6f%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4947351",
+      "link": "https://www.wikidata.org/wiki/Q4947351"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfMkw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfMkw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:39887",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:39887"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

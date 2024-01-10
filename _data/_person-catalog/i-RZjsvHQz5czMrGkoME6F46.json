@@ -1,0 +1,52 @@
+{
+  "name": "ove eriksson",
+  "swerik-id": "i-RZjsvHQz5czMrGkoME6F46",
+  "DOB": "1931-06-22",
+  "DOD": "2017",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ekshärad",
+    "link": "http://www.wikidata.org/entity/Q2651809"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eriksson"
+  ],
+  "iorter": [
+    "Filipstad"
+  ],
+  "positions": [
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q31685086",
+      "link": "https://www.wikidata.org/wiki/Q31685086"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1982-10-04",
+      "end": "1985-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

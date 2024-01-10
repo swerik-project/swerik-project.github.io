@@ -1,0 +1,70 @@
+{
+  "name": "josef weijne",
+  "swerik-id": "i-UEUWoCh2SPr4UTMWyDHVXA",
+  "DOB": "1893-05-20",
+  "DOD": "1951-03-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Linköping",
+    "link": "http://www.wikidata.org/entity/Q25413"
+  },
+  "place-of-death": {
+    "place": "S:t Görans församling",
+    "link": "http://www.wikidata.org/entity/Q10659387"
+  },
+  "alt-names": [
+    "johan josef emanuel weijne",
+    "weijne"
+  ],
+  "iorter": [
+    "Borås",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1951-01-01 00:00:00",
+      "end": "1951-03-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    },
+    {
+      "start": "1946-10-11 00:00:00",
+      "end": "1951-03-08 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1939-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Weijne.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6338909",
+      "link": "https://www.wikidata.org/wiki/Q6338909"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQ4Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQ4Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

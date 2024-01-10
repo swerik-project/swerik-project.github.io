@@ -1,0 +1,62 @@
+{
+  "name": "hannes hervieu",
+  "swerik-id": "i-RbVbjAyjqSE4gXQF4DaDTA",
+  "DOB": "1989-04-09",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vantörs församling",
+    "link": "http://www.wikidata.org/entity/Q10712701"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "karl hannes sanh furuhagen hervieu"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-01-01 00:00:00",
+      "end": "2021-02-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hannes%20Hervieu.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16633048",
+      "link": "https://www.wikidata.org/wiki/Q16633048"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0249261021627",
+      "link": "https://data.riksdagen.se/personlista/?iid=0249261021627&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "95d25487-ff55-468d-a188-a6c6b4006377",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_95d25487-ff55-468d-a188-a6c6b4006377"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2021-01-01",
+      "end": "2021-02-28"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

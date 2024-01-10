@@ -1,0 +1,75 @@
+{
+  "name": "per muren",
+  "swerik-id": "i-txhZTbUuKZkkaU5vYzZgH",
+  "DOB": "1805-05-12",
+  "DOD": "1888-05-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gnarps församling",
+    "link": "http://www.wikidata.org/entity/Q10506441"
+  },
+  "place-of-death": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "alt-names": [
+    "muren",
+    "p muren"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1868-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Mur%C3%A9n%20Svenska%20industriens%20m%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5997630",
+      "link": "https://www.wikidata.org/wiki/Q5997630"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8573",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8573"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "I_2wtd5VefAAAAAAAABETA",
+      "link": "https://portrattarkiv.se/details/I_2wtd5VefAAAAAAAABETA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:65035",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:65035"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOWA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOWA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "ministeriella partiet",
+        "party-id": "Q10585839"
+      },
+      "start": "1867",
+      "end": "1868"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

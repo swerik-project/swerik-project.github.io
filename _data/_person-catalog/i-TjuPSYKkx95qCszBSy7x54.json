@@ -1,0 +1,79 @@
+{
+  "name": "ernst liljedahl",
+  "swerik-id": "i-TjuPSYKkx95qCszBSy7x54",
+  "DOB": "1869-12-06",
+  "DOD": "1937-06-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Trelleborgs församling",
+    "link": "http://www.wikidata.org/entity/Q10701736"
+  },
+  "place-of-death": {
+    "place": "Björsäters församling",
+    "link": "http://www.wikidata.org/entity/Q10430783"
+  },
+  "alt-names": [
+    "ernst torsten sigfrid liljedahl",
+    "liljedahl"
+  ],
+  "iorter": [
+    "Linköping",
+    "Tranås"
+  ],
+  "positions": [
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Liljedahl%20h%C3%A5gkomster.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5951594",
+      "link": "https://www.wikidata.org/wiki/Q5951594"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10242",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10242"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAA3MQ",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAA3MQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbMw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbMw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "politisk vilde",
+        "party-id": "Q1309957"
+      },
+      "start": "1917",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1916"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

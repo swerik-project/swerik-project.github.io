@@ -1,0 +1,87 @@
+{
+  "name": "torbjörn björlund",
+  "swerik-id": "i-Beux79YM43dDCxrVuBqfWw",
+  "DOB": "1957-10-07",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2015-08-03 00:00:00",
+      "end": "2016-01-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2015-04-07 00:00:00",
+      "end": "2015-06-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Torbj%C3%B6rn%20Bj%C3%B6rlund%202.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5578151",
+      "link": "https://www.wikidata.org/wiki/Q5578151"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "037508021018",
+      "link": "https://data.riksdagen.se/personlista/?iid=037508021018&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "0f68daf4-452b-4859-8d24-73105e9500a2",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0f68daf4-452b-4859-8d24-73105e9500a2"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2015-08-03",
+      "end": "2016-01-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

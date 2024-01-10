@@ -1,0 +1,60 @@
+{
+  "name": "claes göran larsson",
+  "swerik-id": "i-2bU177zRXqttE4vR8aEJ97",
+  "DOB": "1954-07-25",
+  "DOD": "1994-09-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Anga församling",
+    "link": "http://www.wikidata.org/entity/Q10411692"
+  },
+  "place-of-death": {
+    "place": "Visby domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10716051"
+  },
+  "alt-names": [
+    "elis clas göran larsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q64899365",
+      "link": "https://www.wikidata.org/wiki/Q64899365"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0106107423215",
+      "link": "https://data.riksdagen.se/personlista/?iid=0106107423215&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a4a0470b-5a28-4101-a69e-a649fd7d5d70",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a4a0470b-5a28-4101-a69e-a649fd7d5d70"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1994-10-03",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

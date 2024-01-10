@@ -1,0 +1,64 @@
+{
+  "name": "carl gustaf närlinge",
+  "swerik-id": "i-KjXCxQFmtvPac62A2kckSm",
+  "DOB": "1885-09-07",
+  "DOD": "1965-10-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bollnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10432594"
+  },
+  "place-of-death": {
+    "place": "Linköpings S:t Lars församling",
+    "link": "http://www.wikidata.org/entity/Q10562781"
+  },
+  "alt-names": [
+    "carl gustaf olsson",
+    "närlinge",
+    "olsson"
+  ],
+  "iorter": [
+    "Galvvasta",
+    "Golvvasta",
+    "Norrhyttan",
+    "Närlinge"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gustaf%20Olsson%201885%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6158007",
+      "link": "https://www.wikidata.org/wiki/Q6158007"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfcDA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfcDA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "carl ljungman",
+  "swerik-id": "i-XTwJUZzB6xKAAtc71pzxWc",
+  "DOB": "1840-06-04",
+  "DOD": "1901-11-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljungs socken",
+    "link": "http://www.wikidata.org/entity/Q10568369"
+  },
+  "place-of-death": {
+    "place": "Kungälv",
+    "link": "http://www.wikidata.org/entity/Q27455"
+  },
+  "alt-names": [
+    "ljungman"
+  ],
+  "iorter": [
+    "Sundsby"
+  ],
+  "positions": [
+    {
+      "start": "1868-01-01 00:00:00",
+      "end": "1871-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Orusts och Tjörns domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ljungman%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5961326",
+      "link": "https://www.wikidata.org/wiki/Q5961326"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTTA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTTA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "alfred andersson",
+  "swerik-id": "i-KV7mioxB7qA6XayCejfVpP",
+  "DOB": "1881-09-04",
+  "DOD": "1951-12-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Borrie församling",
+    "link": "http://www.wikidata.org/entity/Q10433317"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q10436022"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Bussjö"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1951-12-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Andersson%20SPA6%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5553840",
+      "link": "https://www.wikidata.org/wiki/Q5553840"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA57Uw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA57Uw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgOxA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgOxA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

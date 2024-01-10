@@ -1,0 +1,50 @@
+{
+  "name": "carl östlund",
+  "swerik-id": "i-CJ2A9EDvVX5GDYm4ek2CH8",
+  "DOB": "1894-12-28",
+  "DOD": "1971-05-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "place-of-death": {
+    "place": "Skellefteå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10669991"
+  },
+  "alt-names": [
+    "östlund"
+  ],
+  "iorter": [
+    "Myckle"
+  ],
+  "positions": [
+    {
+      "start": "1948-01-01 00:00:00",
+      "end": "1964-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gustafsson%201894%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6258118",
+      "link": "https://www.wikidata.org/wiki/Q6258118"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfirQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfirQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,116 @@
+{
+  "name": "owe andreasson",
+  "swerik-id": "i-Rb9LcfDrAi5Y6rVKoFXtAg",
+  "DOB": "1930-02-27",
+  "DOD": "2010-07-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vinbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10715657"
+  },
+  "place-of-death": {
+    "place": "Falkenbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10493734"
+  },
+  "alt-names": [
+    "andreasson"
+  ],
+  "iorter": [
+    "Falkenberg"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5556543",
+      "link": "https://www.wikidata.org/wiki/Q5556543"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "046137638006",
+      "link": "https://data.riksdagen.se/personlista/?iid=046137638006&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a99e1e84-f8e4-473c-9398-1a3ae0521fee",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a99e1e84-f8e4-473c-9398-1a3ae0521fee"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

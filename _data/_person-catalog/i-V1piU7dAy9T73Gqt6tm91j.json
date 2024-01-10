@@ -1,0 +1,62 @@
+{
+  "name": "kew nordqvist",
+  "swerik-id": "i-V1piU7dAy9T73Gqt6tm91j",
+  "DOB": "1950-03-12",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Maria Magdalena församling",
+    "link": "http://www.wikidata.org/entity/Q3438210"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "kew olle nordqvist"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Kew%20Nordqvist%20studiobild%20%289623072816%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6015942",
+      "link": "https://www.wikidata.org/wiki/Q6015942"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0427695165918",
+      "link": "https://data.riksdagen.se/personlista/?iid=0427695165918&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "5585378b-cdb6-4ebe-bb99-f1c2d4fd67fb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_5585378b-cdb6-4ebe-bb99-f1c2d4fd67fb"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "kerstin keen",
+  "swerik-id": "i-JgEQ9rf7V1cPH88QqLs2uJ",
+  "DOB": "1939-09-01",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Malmö",
+    "link": "http://www.wikidata.org/entity/Q2211"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "keen",
+    "kerstin margareta keen"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1986-11-01 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4958448",
+      "link": "https://www.wikidata.org/wiki/Q4958448"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0586461740105",
+      "link": "https://data.riksdagen.se/personlista/?iid=0586461740105&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9dc6570b-64d9-44c9-8fc4-4f9e45269185",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9dc6570b-64d9-44c9-8fc4-4f9e45269185"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1986-11-01",
+      "end": "1988-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "magnus resare",
+  "swerik-id": "i-JzKpzJSo2n2n5uYhKKmwLF",
+  "DOB": "1987-03-31",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anders magnus resare"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-10-18 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114772470",
+      "link": "https://www.wikidata.org/wiki/Q114772470"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "074310796828",
+      "link": "https://data.riksdagen.se/personlista/?iid=074310796828&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ddd14cee-8327-4c95-a2d5-b3ce4dbb3a8f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ddd14cee-8327-4c95-a2d5-b3ce4dbb3a8f"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

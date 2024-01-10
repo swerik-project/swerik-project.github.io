@@ -1,0 +1,46 @@
+{
+  "name": "karl kahlström",
+  "swerik-id": "i-HDHXUmj1pQK4Aot3piEBBF",
+  "DOB": "1862-12-24",
+  "DOD": "1931-09-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Atlingbo församling",
+    "link": "http://www.wikidata.org/entity/Q10421679"
+  },
+  "place-of-death": {
+    "place": "Atlingbo församling",
+    "link": "http://www.wikidata.org/entity/Q10421679"
+  },
+  "alt-names": [
+    "kahlström",
+    "karl reinhold kahlström"
+  ],
+  "iorter": [
+    "Lilla Atlings"
+  ],
+  "positions": [
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Kahlstr%C3%B6m%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5897175",
+      "link": "https://www.wikidata.org/wiki/Q5897175"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

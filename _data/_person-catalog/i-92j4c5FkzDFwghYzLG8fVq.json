@@ -1,0 +1,59 @@
+{
+  "name": "carl wilhelm berglind",
+  "swerik-id": "i-92j4c5FkzDFwghYzLG8fVq",
+  "DOB": "1835-06-23",
+  "DOD": "1901-02-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fläckebo församling",
+    "link": "http://www.wikidata.org/entity/Q10497170"
+  },
+  "place-of-death": {
+    "place": "Fläckebo församling",
+    "link": "http://www.wikidata.org/entity/Q10497170"
+  },
+  "alt-names": [
+    "berglind"
+  ],
+  "iorter": [
+    "Fläckebo"
+  ],
+  "positions": [
+    {
+      "start": "1883-04-24 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns norra domsagas valkrets"
+    },
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns norra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Berglind%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104905221",
+      "link": "https://www.wikidata.org/wiki/Q104905221"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPFg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

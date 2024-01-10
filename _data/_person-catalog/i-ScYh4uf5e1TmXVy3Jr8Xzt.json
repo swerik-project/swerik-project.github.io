@@ -1,0 +1,69 @@
+{
+  "name": "anders sundström",
+  "swerik-id": "i-ScYh4uf5e1TmXVy3Jr8Xzt",
+  "DOB": "1832-05-28",
+  "DOD": "1897-01-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sidensjö församling",
+    "link": "http://www.wikidata.org/entity/Q10667386"
+  },
+  "place-of-death": {
+    "place": "Sidensjö församling",
+    "link": "http://www.wikidata.org/entity/Q10667386"
+  },
+  "alt-names": [
+    "sundström"
+  ],
+  "iorter": [
+    "Hämra"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nätra och Nordingrå domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Sundstr%C3%B6m%201832%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6196554",
+      "link": "https://www.wikidata.org/wiki/Q6196554"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACYMg",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACYMg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:699",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:699"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfXw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfXw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1890"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,98 @@
+{
+  "name": "sven eric lorentzon",
+  "swerik-id": "i-UnoNXQEwX76AtugdBBHfa1",
+  "DOB": "1929-02-27",
+  "DOD": "2003-05-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Frölunda",
+    "link": "http://www.wikidata.org/entity/Q2416058"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "lorentzon"
+  ],
+  "iorter": [
+    "Ätran"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5963543",
+      "link": "https://www.wikidata.org/wiki/Q5963543"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0906916983202",
+      "link": "https://data.riksdagen.se/personlista/?iid=0906916983202&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9352d272-1e6a-4368-9f44-b85f12665ed9",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9352d272-1e6a-4368-9f44-b85f12665ed9"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

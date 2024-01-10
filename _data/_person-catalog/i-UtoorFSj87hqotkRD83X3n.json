@@ -1,0 +1,68 @@
+{
+  "name": "emanuel bjurström",
+  "swerik-id": "i-UtoorFSj87hqotkRD83X3n",
+  "DOB": "1874-10-29",
+  "DOD": "1939-09-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hedemora",
+    "link": "http://www.wikidata.org/entity/Q1001183"
+  },
+  "place-of-death": {
+    "place": "Hedemora",
+    "link": "http://www.wikidata.org/entity/Q1001183"
+  },
+  "alt-names": [
+    "bjurström",
+    "theodor emanuel bjurström"
+  ],
+  "iorter": [
+    "Hedemora"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1939-09-27 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20Bjurstr%C3%B6m%201874%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5577306",
+      "link": "https://www.wikidata.org/wiki/Q5577306"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU2g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU2g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1939"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1924",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

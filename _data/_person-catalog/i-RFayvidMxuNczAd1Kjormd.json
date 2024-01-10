@@ -1,0 +1,51 @@
+{
+  "name": "axel koraen",
+  "swerik-id": "i-RFayvidMxuNczAd1Kjormd",
+  "DOB": "1838-09-19",
+  "DOD": "1890-10-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Växjö landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10718572"
+  },
+  "place-of-death": {
+    "place": "Växjö församling",
+    "link": "http://www.wikidata.org/entity/Q10718570"
+  },
+  "alt-names": [
+    "axel mauritz koraen",
+    "koraen"
+  ],
+  "iorter": [
+    "Växjö"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Växjö och Oskarshamns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Korr%C3%A6n%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5919954",
+      "link": "https://www.wikidata.org/wiki/Q5919954"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "0piq-fX0h5AAAAAAAAA-QA",
+      "link": "https://portrattarkiv.se/details/0piq-fX0h5AAAAAAAAA-QA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

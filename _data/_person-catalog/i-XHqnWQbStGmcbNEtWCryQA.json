@@ -1,0 +1,50 @@
+{
+  "name": "gustaf hellbacken",
+  "swerik-id": "i-XHqnWQbStGmcbNEtWCryQA",
+  "DOB": "1885-05-19",
+  "DOD": "1961-09-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ludvika församling",
+    "link": "http://www.wikidata.org/entity/Q10570482"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "gustaf christoffer pettersson",
+    "gustaf kristoffer hellbacken",
+    "gustaf kristoffer pettersson",
+    "gustaf pettersson",
+    "hellbacken",
+    "pettersson"
+  ],
+  "iorter": [
+    "Hällbacken"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Pettersson%201885%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5798778",
+      "link": "https://www.wikidata.org/wiki/Q5798778"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

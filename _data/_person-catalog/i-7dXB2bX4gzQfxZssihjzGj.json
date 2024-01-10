@@ -1,0 +1,51 @@
+{
+  "name": "eskil albertsson",
+  "swerik-id": "i-7dXB2bX4gzQfxZssihjzGj",
+  "DOB": "1880-09-12",
+  "DOD": "1955-04-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hakarps församling",
+    "link": "http://www.wikidata.org/entity/Q10516102"
+  },
+  "place-of-death": {
+    "place": "Rogberga församling",
+    "link": "http://www.wikidata.org/entity/Q10656364"
+  },
+  "alt-names": [
+    "albertsson",
+    "axel eskil albert albertsson"
+  ],
+  "iorter": [
+    "Tenhult"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1947-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eskil%20Albertsson%201880%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5545566",
+      "link": "https://www.wikidata.org/wiki/Q5545566"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbSw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbSw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

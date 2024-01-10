@@ -1,0 +1,78 @@
+{
+  "name": "carl lind",
+  "swerik-id": "i-9cPaRoHDR9DLsNoEfU1LNN",
+  "DOB": "1859-02-23",
+  "DOD": "1920-07-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tanums socken",
+    "link": "http://www.wikidata.org/entity/Q10690716"
+  },
+  "place-of-death": {
+    "place": "Tanums socken",
+    "link": "http://www.wikidata.org/entity/Q10690716"
+  },
+  "alt-names": [
+    "carl tobias lind",
+    "lind"
+  ],
+  "iorter": [
+    "Gerum",
+    "Tanum"
+  ],
+  "positions": [
+    {
+      "start": "1902-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrvikens domsagas valkrets"
+    },
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1895-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrvikens domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lind%20Carl%2018590223-1.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5952801",
+      "link": "https://www.wikidata.org/wiki/Q5952801"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfTfw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfTfw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1902",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1889",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

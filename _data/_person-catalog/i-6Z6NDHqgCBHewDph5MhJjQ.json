@@ -1,0 +1,134 @@
+{
+  "name": "david bergström",
+  "swerik-id": "i-6Z6NDHqgCBHewDph5MhJjQ",
+  "DOB": "1858-11-05",
+  "DOD": "1946-02-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Brunneby församling",
+    "link": "http://www.wikidata.org/entity/Q10436394"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [
+    "bergström",
+    "david kristian bergström"
+  ],
+  "iorter": [
+    "Djursholm",
+    "Stockholm",
+    "Stocksund"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns med Norrköpings valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1915-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1911-10-07 00:00:00",
+      "end": "1914-02-17 00:00:00",
+      "role": "lantförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff II",
+      "district": null
+    },
+    {
+      "start": "1905-11-07 00:00:00",
+      "end": "1906-05-29 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Staaff I",
+      "district": null
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bergstr%C3%B6m%201936.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5573300",
+      "link": "https://www.wikidata.org/wiki/Q5573300"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18677",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18677"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAUhQ",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAUhQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:177",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:177"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADO7w",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADO7w"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEsg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEsg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1925",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1915"
+    },
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1899"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "johan gripenstedt",
+  "swerik-id": "i-WS6avHnstrES8AWCVeqaD9",
+  "DOB": "1851-09-16",
+  "DOD": "1918-07-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bälinge församling",
+    "link": "http://www.wikidata.org/entity/Q10438464"
+  },
+  "place-of-death": {
+    "place": "Askers församling",
+    "link": "http://www.wikidata.org/entity/Q10419791"
+  },
+  "alt-names": [
+    "gripenstedt",
+    "johan theodor gripenstedt"
+  ],
+  "iorter": [
+    "Bysta"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1918-02-23 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5772288",
+      "link": "https://www.wikidata.org/wiki/Q5772288"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13221",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13221"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsXQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsXQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1892",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

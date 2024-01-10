@@ -1,0 +1,72 @@
+{
+  "name": "oskar hagman",
+  "swerik-id": "i-RC4riwk1gZvGGkUqkfM15y",
+  "DOB": "1880-12-01",
+  "DOD": "1942-01-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Borgeby församling",
+    "link": "http://www.wikidata.org/entity/Q10433143"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "emil oskar hagman",
+    "hagman"
+  ],
+  "iorter": [
+    "Kungsholms Villastad",
+    "Stockholm",
+    "Ulvsunda"
+  ],
+  "positions": [
+    {
+      "start": "1930-01-01 00:00:00",
+      "end": "1942-01-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1928-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Hagman%201880%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5782657",
+      "link": "https://www.wikidata.org/wiki/Q5782657"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13514",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13514"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNtQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNtQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:67181",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:67181"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

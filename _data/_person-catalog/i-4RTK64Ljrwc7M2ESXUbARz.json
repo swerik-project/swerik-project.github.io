@@ -1,0 +1,60 @@
+{
+  "name": "per bondesson",
+  "swerik-id": "i-4RTK64Ljrwc7M2ESXUbARz",
+  "DOB": "1843-12-10",
+  "DOD": "1921-08-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Svalövs församling",
+    "link": "http://www.wikidata.org/entity/Q10684319"
+  },
+  "place-of-death": {
+    "place": "Malmö stad",
+    "link": "http://www.wikidata.org/entity/Q10576166"
+  },
+  "alt-names": [
+    "bondesson"
+  ],
+  "iorter": [
+    "Svalöv"
+  ],
+  "positions": [
+    {
+      "start": "1892-01-01 00:00:00",
+      "end": "1907-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Bondesson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5581635",
+      "link": "https://www.wikidata.org/wiki/Q5581635"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17948",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17948"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgO7A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgO7A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:63921",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63921"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

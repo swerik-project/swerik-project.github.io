@@ -1,0 +1,50 @@
+{
+  "name": "allvar olsson",
+  "swerik-id": "i-Mc6ZU6k7pPBL6uSsiFfayE",
+  "DOB": "1838-11-23",
+  "DOD": "1903-01-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Edsleskogs församling",
+    "link": "http://www.wikidata.org/entity/Q10479990"
+  },
+  "place-of-death": {
+    "place": "Tösse med Tydje församling",
+    "link": "http://www.wikidata.org/entity/Q10708246"
+  },
+  "alt-names": [
+    "olsson"
+  ],
+  "iorter": [
+    "Vittlanda"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tössbo och Vedbo domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Allvar%20Olsson%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026405",
+      "link": "https://www.wikidata.org/wiki/Q6026405"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZYA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZYA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

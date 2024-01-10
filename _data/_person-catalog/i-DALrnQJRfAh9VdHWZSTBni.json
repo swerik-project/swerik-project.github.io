@@ -1,0 +1,59 @@
+{
+  "name": "johan boman",
+  "swerik-id": "i-DALrnQJRfAh9VdHWZSTBni",
+  "DOB": "1825-12-21",
+  "DOD": "1895-03-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrbärke församling",
+    "link": "http://www.wikidata.org/entity/Q10602755"
+  },
+  "place-of-death": {
+    "place": "Norrbärke församling",
+    "link": "http://www.wikidata.org/entity/Q10602755"
+  },
+  "alt-names": [
+    "boman"
+  ],
+  "iorter": [
+    "Flatenberg"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbergslags domsagas valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbergslags domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Boman%201825%20SPA2.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q105044852",
+      "link": "https://www.wikidata.org/wiki/Q105044852"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUlg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUlg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "per magnus larsson",
+  "swerik-id": "i-KjYRcBXUeuPrFYyha9miB6",
+  "DOB": "1843-12-31",
+  "DOD": "1903-02-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ramsbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10649159"
+  },
+  "place-of-death": {
+    "place": "Ramsbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10649159"
+  },
+  "alt-names": [
+    "larsson"
+  ],
+  "iorter": [
+    "Löa"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Lindes domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Magnus%20Larsson%201843%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938539",
+      "link": "https://www.wikidata.org/wiki/Q5938539"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfr_A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfr_A"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

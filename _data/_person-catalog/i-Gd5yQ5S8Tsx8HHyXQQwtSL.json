@@ -1,0 +1,51 @@
+{
+  "name": "ludvig widell",
+  "swerik-id": "i-Gd5yQ5S8Tsx8HHyXQQwtSL",
+  "DOB": "1870-10-21",
+  "DOD": "1934-01-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Morlanda församling",
+    "link": "http://www.wikidata.org/entity/Q10589152"
+  },
+  "place-of-death": {
+    "place": "Stockholms slott",
+    "link": "http://www.wikidata.org/entity/Q750444"
+  },
+  "alt-names": [
+    "jakob ludvig widell",
+    "widell"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1934-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Widell%2C%20Ludvig%20%28i%20G%C3%B6teborgs%20nation%201903-1914%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6240025",
+      "link": "https://www.wikidata.org/wiki/Q6240025"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkrQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkrQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

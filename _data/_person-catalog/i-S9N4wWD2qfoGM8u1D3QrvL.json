@@ -1,0 +1,51 @@
+{
+  "name": "nadja awad",
+  "swerik-id": "i-S9N4wWD2qfoGM8u1D3QrvL",
+  "DOB": "1991-09-01",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kumla församling",
+    "link": "http://www.wikidata.org/entity/Q10550065"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nadja pasent awad"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031255",
+      "link": "https://www.wikidata.org/wiki/Q114031255"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0890152141226",
+      "link": "https://data.riksdagen.se/personlista/?iid=0890152141226&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "dc9b8a2d-c038-4add-a103-c810a0890f80",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_dc9b8a2d-c038-4add-a103-c810a0890f80"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

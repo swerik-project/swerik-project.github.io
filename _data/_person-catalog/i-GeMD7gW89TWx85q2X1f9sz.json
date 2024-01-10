@@ -1,0 +1,67 @@
+{
+  "name": "john gustafsson",
+  "swerik-id": "i-GeMD7gW89TWx85q2X1f9sz",
+  "DOB": "1899-06-04",
+  "DOD": "1979-09-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Fagerhults församling",
+    "link": "http://www.wikidata.org/entity/Q10493557"
+  },
+  "place-of-death": {
+    "place": "Fagerhults församling",
+    "link": "http://www.wikidata.org/entity/Q10493557"
+  },
+  "alt-names": [
+    "gustafsson"
+  ],
+  "iorter": [
+    "Välsnäs"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Gustafsson%201899%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5777808",
+      "link": "https://www.wikidata.org/wiki/Q5777808"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc5Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc5Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sveriges nationella förbund",
+        "party-id": "Q10686221"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

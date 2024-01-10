@@ -1,0 +1,59 @@
+{
+  "name": "carl alfred bäckström",
+  "swerik-id": "i-YKcHW4nbwE58e3oApp2AGd",
+  "DOB": "1831-05-12",
+  "DOD": "1910-12-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "By församling",
+    "link": "http://www.wikidata.org/entity/Q10438113"
+  },
+  "place-of-death": {
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
+  },
+  "alt-names": [
+    "bäckström"
+  ],
+  "iorter": [
+    "Uttersberg"
+  ],
+  "positions": [
+    {
+      "start": "1881-01-01 00:00:00",
+      "end": "1889-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20B%C3%A4ckstr%C3%B6m%201831%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5591660",
+      "link": "https://www.wikidata.org/wiki/Q5591660"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPYQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPYQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1889"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

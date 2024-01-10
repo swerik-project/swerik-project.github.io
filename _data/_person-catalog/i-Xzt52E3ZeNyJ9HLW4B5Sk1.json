@@ -1,0 +1,103 @@
+{
+  "name": "stefan löfven",
+  "swerik-id": "i-Xzt52E3ZeNyJ9HLW4B5Sk1",
+  "DOB": "1957-07-21",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hägerstens församling",
+    "link": "http://www.wikidata.org/entity/Q10531256"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "kjell stefan löfven"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2021-07-09 00:00:00",
+      "end": "2021-11-30 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven III",
+      "district": null
+    },
+    {
+      "start": "2019-01-21 00:00:00",
+      "end": "2021-07-09 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven II",
+      "district": null
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-19 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2014-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20L%C3%B6fven%20efter%20slutdebatten%20i%20SVT%202014%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2740012",
+      "link": "https://www.wikidata.org/wiki/Q2740012"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0218878014918",
+      "link": "https://data.riksdagen.se/personlista/?iid=0218878014918&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ac737989-5fa0-44bc-ad69-c1a0ddba71bb",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ac737989-5fa0-44bc-ad69-c1a0ddba71bb"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABM1Vw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABM1Vw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2018-09-24",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

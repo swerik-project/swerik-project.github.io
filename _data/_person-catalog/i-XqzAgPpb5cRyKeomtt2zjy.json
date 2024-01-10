@@ -1,0 +1,63 @@
+{
+  "name": "carl frick",
+  "swerik-id": "i-XqzAgPpb5cRyKeomtt2zjy",
+  "DOB": "1934-06-23",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö S:t Petri församling",
+    "link": "http://www.wikidata.org/entity/Q10576133"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "carl ernst gilius frick",
+    "frick"
+  ],
+  "iorter": [
+    "Hjo"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5743490",
+      "link": "https://www.wikidata.org/wiki/Q5743490"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0424419397804",
+      "link": "https://data.riksdagen.se/personlista/?iid=0424419397804&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e0e4b378-f38e-4e98-8bc0-c80f956f4094",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e0e4b378-f38e-4e98-8bc0-c80f956f4094"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

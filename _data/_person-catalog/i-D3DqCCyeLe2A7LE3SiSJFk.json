@@ -1,0 +1,61 @@
+{
+  "name": "christian aspelin",
+  "swerik-id": "i-D3DqCCyeLe2A7LE3SiSJFk",
+  "DOB": "1830-07-29",
+  "DOD": "1919-07-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Västanfors församling",
+    "link": "http://www.wikidata.org/entity/Q10717828"
+  },
+  "alt-names": [
+    "aspelin",
+    "christian henrik thomas aspelin"
+  ],
+  "iorter": [
+    "Fagersta"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västmanlands läns norra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Christian%20Aspelin.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5561342",
+      "link": "https://www.wikidata.org/wiki/Q5561342"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18889",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18889"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA4rFw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4rFw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPKA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPKA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

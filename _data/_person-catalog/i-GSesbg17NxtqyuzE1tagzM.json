@@ -1,0 +1,145 @@
+{
+  "name": "carl svensson",
+  "swerik-id": "i-GSesbg17NxtqyuzE1tagzM",
+  "DOB": "1879-07-21",
+  "DOD": "1938-07-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gammalkils församling",
+    "link": "http://www.wikidata.org/entity/Q10502525"
+  },
+  "place-of-death": {
+    "place": "Falköpings församling",
+    "link": "http://www.wikidata.org/entity/Q10493760"
+  },
+  "alt-names": [
+    "carl emil svensson",
+    "svensson"
+  ],
+  "iorter": [
+    "Eskilstuna",
+    "Nyköping",
+    "Stockholm",
+    "Stocksund"
+  ],
+  "positions": [
+    {
+      "start": "1925-02-27 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sandler",
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1935-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns och Västmanlands läns valkrets"
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1920-07-01 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "kommunikationsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1920-07-01 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "infrastrukturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1920-03-10 00:00:00",
+      "end": "1920-07-01 00:00:00",
+      "role": "civilminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    },
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns norra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nyköpings, Torshälla, Strängnäs, Mariefreds och Trosa valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Emil%20Svensson.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q20760558",
+      "link": "https://www.wikidata.org/wiki/Q20760558"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAX3A",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAX3A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAAC6gw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAAC6gw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkqw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkqw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

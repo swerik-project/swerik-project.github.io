@@ -1,0 +1,56 @@
+{
+  "name": "walter sundström",
+  "swerik-id": "i-4DAUFXnbqzCtaoFJumzEaf",
+  "DOB": "1890-07-06",
+  "DOD": "1971-07-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grundsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10509154"
+  },
+  "place-of-death": {
+    "place": "Skövde församling",
+    "link": "http://www.wikidata.org/entity/Q10671306"
+  },
+  "alt-names": [
+    "nils walter sundström",
+    "sundström"
+  ],
+  "iorter": [
+    "Skövde"
+  ],
+  "positions": [
+    {
+      "start": "1936-01-01 00:00:00",
+      "end": "1960-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Sundstr%C3%B6m%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6196710",
+      "link": "https://www.wikidata.org/wiki/Q6196710"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgexA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgexA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:46825",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:46825"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

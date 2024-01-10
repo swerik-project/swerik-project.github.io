@@ -1,0 +1,68 @@
+{
+  "name": "oscar öhman",
+  "swerik-id": "i-6yP8mRdXMQY3seTQXufb5B",
+  "DOB": "1886-12-01",
+  "DOD": "1947-01-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ljustorps församling",
+    "link": "http://www.wikidata.org/entity/Q10568483"
+  },
+  "place-of-death": {
+    "place": "Sundsvall",
+    "link": "http://www.wikidata.org/entity/Q26476"
+  },
+  "alt-names": [
+    "eric oscar öhman",
+    "öhman"
+  ],
+  "iorter": [
+    "Sundsvall"
+  ],
+  "positions": [
+    {
+      "start": "1930-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20%C3%96hman.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q15997528",
+      "link": "https://www.wikidata.org/wiki/Q15997528"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfTA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfTA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kilbomspartiet",
+        "party-id": "Q111188360"
+      },
+      "start": "1930",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "Sveriges kommunistiska parti",
+        "party-id": "Q1208859"
+      },
+      "start": "1929",
+      "end": "1929"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

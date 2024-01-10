@@ -1,0 +1,62 @@
+{
+  "name": "kent lundgren",
+  "swerik-id": "i-7AYyrtR4bzRwsLctDg5j9i",
+  "DOB": "1937-05-04",
+  "DOD": "2014-08-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lundby församling",
+    "link": "http://www.wikidata.org/entity/Q10570764"
+  },
+  "place-of-death": {
+    "place": "Backa församling",
+    "link": "http://www.wikidata.org/entity/Q10424136"
+  },
+  "alt-names": [
+    "lundgren"
+  ],
+  "iorter": [
+    "Skärhamn"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21745498",
+      "link": "https://www.wikidata.org/wiki/Q21745498"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0188510214005",
+      "link": "https://data.riksdagen.se/personlista/?iid=0188510214005&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9337daa4-5c05-4674-b01a-584ca0f57833",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9337daa4-5c05-4674-b01a-584ca0f57833"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1988-10-03",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

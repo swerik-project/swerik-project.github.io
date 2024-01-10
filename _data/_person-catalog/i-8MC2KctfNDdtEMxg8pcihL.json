@@ -1,0 +1,106 @@
+{
+  "name": "linda arvidsson wemmert",
+  "swerik-id": "i-8MC2KctfNDdtEMxg8pcihL",
+  "DOB": "1977-09-06",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "anna linda gabriella wemmert",
+    "linda wemmert"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-05-24 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2014-03-24 00:00:00",
+      "end": "2014-03-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2012-06-23 00:00:00",
+      "end": "2013-10-13 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2011-12-24 00:00:00",
+      "end": "2012-03-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2011-01-11 00:00:00",
+      "end": "2011-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2011-01-10 00:00:00",
+      "end": "2011-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4936650",
+      "link": "https://www.wikidata.org/wiki/Q4936650"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "03856618629",
+      "link": "https://data.riksdagen.se/personlista/?iid=03856618629&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "bd2280c3-e565-45b1-a256-fa72a7fc70ee",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_bd2280c3-e565-45b1-a256-fa72a7fc70ee"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-05-24",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

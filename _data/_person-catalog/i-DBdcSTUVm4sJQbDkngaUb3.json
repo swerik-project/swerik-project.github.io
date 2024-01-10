@@ -1,0 +1,66 @@
+{
+  "name": "albert björck",
+  "swerik-id": "i-DBdcSTUVm4sJQbDkngaUb3",
+  "DOB": "1812-08-17",
+  "DOD": "1885-07-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Göteborgs Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10512824"
+  },
+  "place-of-death": {
+    "place": "Göteborgs Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10512824"
+  },
+  "alt-names": [
+    "albert wilhelm björck",
+    "björck"
+  ],
+  "iorter": [
+    "Göteborg"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bj%C3%B6rck.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5577465",
+      "link": "https://www.wikidata.org/wiki/Q5577465"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18274",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18274"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA1tTQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA1tTQ"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:37414",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:37414"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSJw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSJw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "carl sjögren",
+  "swerik-id": "i-2M1688NA1hxdZmbJwUTnhY",
+  "DOB": "1869-11-26",
+  "DOD": "1947-07-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hallingebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10516394"
+  },
+  "place-of-death": {
+    "place": "Motala församling",
+    "link": "http://www.wikidata.org/entity/Q10589633"
+  },
+  "alt-names": [
+    "carl vilhelm peter sjögren",
+    "karl vilhelm peter sjögren",
+    "sjögren"
+  ],
+  "iorter": [
+    "Motala"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Sj%C3%B6gren%201869%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6178458",
+      "link": "https://www.wikidata.org/wiki/Q6178458"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgazA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgazA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

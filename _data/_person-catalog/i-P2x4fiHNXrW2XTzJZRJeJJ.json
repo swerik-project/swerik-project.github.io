@@ -1,0 +1,76 @@
+{
+  "name": "bengt anders johansson",
+  "swerik-id": "i-P2x4fiHNXrW2XTzJZRJeJJ",
+  "DOB": "1951",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Smålandsstenar",
+    "link": "http://www.wikidata.org/entity/Q2338168"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2002-09-30 00:00:00",
+      "end": "2006-10-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4887773",
+      "link": "https://www.wikidata.org/wiki/Q4887773"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0463955388312",
+      "link": "https://data.riksdagen.se/personlista/?iid=0463955388312&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7d87289a-e2ce-479e-8a42-6c749c8aa904",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7d87289a-e2ce-479e-8a42-6c749c8aa904"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

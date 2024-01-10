@@ -1,0 +1,93 @@
+{
+  "name": "paul paulson",
+  "swerik-id": "i-MkJ91XGj4UaBXD8juv6tc",
+  "DOB": "1851-09-05",
+  "DOD": "1924-03-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Välluvs församling",
+    "link": "http://www.wikidata.org/entity/Q10717295"
+  },
+  "place-of-death": {
+    "place": "Välluvs församling",
+    "link": "http://www.wikidata.org/entity/Q10717295"
+  },
+  "alt-names": [
+    "paulson"
+  ],
+  "iorter": [
+    "Ekeberga"
+  ],
+  "positions": [
+    {
+      "start": "1900-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Luggude domsagas södra valkrets"
+    },
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Paulson%2C%20Paul%20i%20Hvar%208%20dag%201911.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6037950",
+      "link": "https://www.wikidata.org/wiki/Q6037950"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgR3Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgR3Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1900",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

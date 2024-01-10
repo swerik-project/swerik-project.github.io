@@ -1,0 +1,72 @@
+{
+  "name": "hans rosengren",
+  "swerik-id": "i-EnY75k4BnjsRjmfLfQWBqT",
+  "DOB": "1942-10-22",
+  "DOD": "1989-05-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Åtvids församling",
+    "link": "http://www.wikidata.org/entity/Q10727009"
+  },
+  "place-of-death": {
+    "place": "Oskarshamns flygplats",
+    "link": "http://www.wikidata.org/entity/Q2213302"
+  },
+  "alt-names": [
+    "hans åke johan rosengren",
+    "rosengren"
+  ],
+  "iorter": [
+    "Karlstad"
+  ],
+  "positions": [
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1989-05-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21759275",
+      "link": "https://www.wikidata.org/wiki/Q21759275"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0255522895108",
+      "link": "https://data.riksdagen.se/personlista/?iid=0255522895108&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "72d8a5b9-74de-4db7-ab33-c2b1ec7a4ec4",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_72d8a5b9-74de-4db7-ab33-c2b1ec7a4ec4"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1988-10-03",
+      "end": "1989-05-08"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

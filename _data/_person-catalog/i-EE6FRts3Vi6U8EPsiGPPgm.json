@@ -1,0 +1,49 @@
+{
+  "name": "leonid yurkovskiy",
+  "swerik-id": "i-EE6FRts3Vi6U8EPsiGPPgm",
+  "DOB": "1995-11-22",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ryssland",
+    "link": "http://www.wikidata.org/entity/Q159"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q114031216",
+      "link": "https://www.wikidata.org/wiki/Q114031216"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0966063008623",
+      "link": "https://data.riksdagen.se/personlista/?iid=0966063008623&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "57476cc3-4db3-4fad-8ec7-e30f317f83a4",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_57476cc3-4db3-4fad-8ec7-e30f317f83a4"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

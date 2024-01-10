@@ -1,0 +1,49 @@
+{
+  "name": "birger andersson",
+  "swerik-id": "i-KEdq6yVXrLdahHdSbVheQv",
+  "DOB": "1909-04-02",
+  "DOD": "1974-04-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lofta församling",
+    "link": "http://www.wikidata.org/entity/Q10568825"
+  },
+  "place-of-death": {
+    "place": "Lofta församling",
+    "link": "http://www.wikidata.org/entity/Q10568825"
+  },
+  "alt-names": [
+    "andersson",
+    "birger magnus gudmund andersson"
+  ],
+  "iorter": [
+    "Mejstad"
+  ],
+  "positions": [
+    {
+      "start": "1941-01-01 00:00:00",
+      "end": "1944-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111665305",
+      "link": "https://www.wikidata.org/wiki/Q111665305"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcfQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcfQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

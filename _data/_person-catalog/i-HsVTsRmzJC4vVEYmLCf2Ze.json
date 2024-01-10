@@ -1,0 +1,60 @@
+{
+  "name": "carl jonsson",
+  "swerik-id": "i-HsVTsRmzJC4vVEYmLCf2Ze",
+  "DOB": "1845-09-10",
+  "DOD": "1917-03-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vists församling",
+    "link": "http://www.wikidata.org/entity/Q10716196"
+  },
+  "place-of-death": {
+    "place": "Vists församling",
+    "link": "http://www.wikidata.org/entity/Q10716196"
+  },
+  "alt-names": [
+    "carl johan jonsson",
+    "jonsson"
+  ],
+  "iorter": [
+    "Skog"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Åkerbo, Bankekinds och Hanekinds tingslag"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Jonsson%201845%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5891463",
+      "link": "https://www.wikidata.org/wiki/Q5891463"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaXg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaXg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1903",
+      "end": "1903"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

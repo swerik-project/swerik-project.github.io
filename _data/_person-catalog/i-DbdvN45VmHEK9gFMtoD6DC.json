@@ -1,0 +1,69 @@
+{
+  "name": "fredrik noren",
+  "swerik-id": "i-DbdvN45VmHEK9gFMtoD6DC",
+  "DOB": "1825-08-09",
+  "DOD": "1890-06-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grönahögs församling",
+    "link": "http://www.wikidata.org/entity/Q10510001"
+  },
+  "place-of-death": {
+    "place": "Grönahögs församling",
+    "link": "http://www.wikidata.org/entity/Q10510001"
+  },
+  "alt-names": [
+    "noren",
+    "s f noren",
+    "svante fredrik noren"
+  ],
+  "iorter": [
+    "Solberga"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kinds härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Nor%C3%A9n%201825%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6016509",
+      "link": "https://www.wikidata.org/wiki/Q6016509"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZfg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZfg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1870",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

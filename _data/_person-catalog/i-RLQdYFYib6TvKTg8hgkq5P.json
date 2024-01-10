@@ -1,0 +1,50 @@
+{
+  "name": "carl otto silfverschiöld",
+  "swerik-id": "i-RLQdYFYib6TvKTg8hgkq5P",
+  "DOB": "1827-11-03",
+  "DOD": "1879-05-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Alingsås stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q57234599"
+  },
+  "place-of-death": {
+    "place": "Göteborg",
+    "link": "http://www.wikidata.org/entity/Q25287"
+  },
+  "alt-names": [
+    "silfverschiöld"
+  ],
+  "iorter": [
+    "Gåsvadholm"
+  ],
+  "positions": [
+    {
+      "start": "1869-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Otto%20Silfverschi%C3%B6ld%201827%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6175889",
+      "link": "https://www.wikidata.org/wiki/Q6175889"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnpQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

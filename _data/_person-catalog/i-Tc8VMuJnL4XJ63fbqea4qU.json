@@ -1,0 +1,51 @@
+{
+  "name": "fabian lilliecreutz",
+  "swerik-id": "i-Tc8VMuJnL4XJ63fbqea4qU",
+  "DOB": "1866-04-08",
+  "DOD": "1935-02-20",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Voxtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10716930"
+  },
+  "place-of-death": {
+    "place": "Röda Korsets sjukhus",
+    "link": "http://www.wikidata.org/entity/Q10658837"
+  },
+  "alt-names": [
+    "lilliecreutz",
+    "samuel henrik fabian lilliecreutz"
+  ],
+  "iorter": [
+    "Jönköping"
+  ],
+  "positions": [
+    {
+      "start": "1925-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Fabian%20Lilliecreutz%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5952082",
+      "link": "https://www.wikidata.org/wiki/Q5952082"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbfA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbfA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

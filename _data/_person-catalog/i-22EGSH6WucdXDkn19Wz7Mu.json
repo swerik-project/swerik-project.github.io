@@ -1,0 +1,61 @@
+{
+  "name": "henrik gyllenram",
+  "swerik-id": "i-22EGSH6WucdXDkn19Wz7Mu",
+  "DOB": "1814-05-07",
+  "DOD": "1890-11-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gottröra församling",
+    "link": "http://www.wikidata.org/entity/Q4568259"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "gyllenram",
+    "henric gustaf wilhelm gyllenram"
+  ],
+  "iorter": [
+    "Karlstad",
+    "Visby"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1888-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Gotlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Painting%20of%20Henrik%20Gyllenram.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5779404",
+      "link": "https://www.wikidata.org/wiki/Q5779404"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgb0g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgb0g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

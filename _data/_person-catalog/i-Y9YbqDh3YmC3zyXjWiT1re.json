@@ -1,0 +1,68 @@
+{
+  "name": "oscar alin",
+  "swerik-id": "i-Y9YbqDh3YmC3zyXjWiT1re",
+  "DOB": "1846-12-22",
+  "DOD": "1900-12-31",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Falu Kristine församling",
+    "link": "http://www.wikidata.org/entity/Q10493877"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "alin",
+    "oscar josef alin",
+    "oskar alin",
+    "oskar josef alin"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1889-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Alin%20from%20Hildebrand%20Sveriges%20historia.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2485795",
+      "link": "https://www.wikidata.org/wiki/Q2485795"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "5667",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5667"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAcmg",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAcmg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:159",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:159"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOFw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOFw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

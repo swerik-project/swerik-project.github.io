@@ -1,0 +1,50 @@
+{
+  "name": "gustaf de mare",
+  "swerik-id": "i-6KN8cphxMAw2x3hKhGmKrb",
+  "DOB": "1825-01-14",
+  "DOD": "1882-04-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hallingebergs församling",
+    "link": "http://www.wikidata.org/entity/Q10516394"
+  },
+  "place-of-death": {
+    "place": "Lofta församling",
+    "link": "http://www.wikidata.org/entity/Q10568825"
+  },
+  "alt-names": [
+    "de mare"
+  ],
+  "iorter": [
+    "Nygård"
+  ],
+  "positions": [
+    {
+      "start": "1869-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20de%20Mar%C3%A9%201825%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5976081",
+      "link": "https://www.wikidata.org/wiki/Q5976081"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgciQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgciQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

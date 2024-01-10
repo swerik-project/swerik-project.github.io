@@ -1,0 +1,59 @@
+{
+  "name": "einar eriksson",
+  "swerik-id": "i-QNZJ61mCvaEh7BNdwgiTqk",
+  "DOB": "1905-12-10",
+  "DOD": "1971-12-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Abisko",
+    "link": "http://www.wikidata.org/entity/Q321471"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "eriksson",
+    "joel einar eriksson"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1947-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5716251",
+      "link": "https://www.wikidata.org/wiki/Q5716251"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOGw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOGw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-organisation:4577",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-organisation:4577"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:60429",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:60429"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "hans almryd",
+  "swerik-id": "i-N9nLJpQ9eHQNFu593JtF3",
+  "DOB": "1924-08-24",
+  "DOD": "1983-08-09",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Landskrona församling",
+    "link": "http://www.wikidata.org/entity/Q10553938"
+  },
+  "place-of-death": {
+    "place": "Värmdö församling",
+    "link": "http://www.wikidata.org/entity/Q10717632"
+  },
+  "alt-names": [
+    "almryd",
+    "hans gustaf bertil almryd"
+  ],
+  "iorter": [
+    "Hemmestavik"
+  ],
+  "positions": [
+    {
+      "start": "1968-10-18 00:00:00",
+      "end": "1868-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q111440067",
+      "link": "https://www.wikidata.org/wiki/Q111440067"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfEkw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfEkw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,123 @@
+{
+  "name": "johannes antonsson",
+  "swerik-id": "i-9MFHjq6CgKrRzcV8mJqNJd",
+  "DOB": "1921-11-20",
+  "DOD": "1995-08-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Frillesås församling",
+    "link": "http://www.wikidata.org/entity/Q10499181"
+  },
+  "place-of-death": {
+    "place": "Eftra socken",
+    "link": "http://www.wikidata.org/entity/Q10480202"
+  },
+  "alt-names": [
+    "antonsson",
+    "johannes mikael antonsson"
+  ],
+  "iorter": [
+    "Dahla"
+  ],
+  "positions": [
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "kommunminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "minister för nordiskt samarbete",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "samfundsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1976-10-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1958-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Antonsson%20-%20Landsbygd%201940%20tal%20%2811309446945%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q3742570",
+      "link": "https://www.wikidata.org/wiki/Q3742570"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnsw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnsw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1976-10-04",
+      "end": "1976-10-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

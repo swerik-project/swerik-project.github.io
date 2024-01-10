@@ -1,0 +1,72 @@
+{
+  "name": "stig grauers",
+  "swerik-id": "i-DaicBBuxahZnC8TXUP7pKP",
+  "DOB": "1934-06-04",
+  "DOD": "2021-12-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "grauers",
+    "stig bertil grauers"
+  ],
+  "iorter": [
+    "Partille"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5769170",
+      "link": "https://www.wikidata.org/wiki/Q5769170"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0373939465804",
+      "link": "https://data.riksdagen.se/personlista/?iid=0373939465804&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "e2408805-f8b1-4d53-ad01-a0cb0087b8f3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_e2408805-f8b1-4d53-ad01-a0cb0087b8f3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

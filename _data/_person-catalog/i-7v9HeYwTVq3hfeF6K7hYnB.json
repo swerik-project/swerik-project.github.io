@@ -1,0 +1,65 @@
+{
+  "name": "carl gustaf malmström",
+  "swerik-id": "i-7v9HeYwTVq3hfeF6K7hYnB",
+  "DOB": "1822-11-02",
+  "DOD": "1912-09-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tysslinge församling",
+    "link": "http://www.wikidata.org/entity/Q10707844"
+  },
+  "place-of-death": {
+    "place": "Danderyds församling",
+    "link": "http://www.wikidata.org/entity/Q10466522"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1878-11-01 00:00:00",
+      "end": "1880-08-27 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen De Geer d.ä. III",
+      "district": null
+    },
+    {
+      "start": "1878-11-01 00:00:00",
+      "end": "1880-08-27 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Posse",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Malmstr%C3%B6m%2C%20Carl%20Gustaf%2C%20trol%20av%20Henri%20Osti%20%28Uppsala%20UB%29%20%28cropped%29.tif"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2518893",
+      "link": "https://www.wikidata.org/wiki/Q2518893"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8997",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8997"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAB2V2A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAB2V2A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:3404",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:3404"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "john lenning",
+  "swerik-id": "i-PqmcVRtJmAcDnyfsoss1EQ",
+  "DOB": "1819-04-19",
+  "DOD": "1879-12-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings Hedvigs församling",
+    "link": "http://www.wikidata.org/entity/Q10602799"
+  },
+  "place-of-death": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "alt-names": [
+    "johan christian conrad lenning",
+    "lenning"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1873-01-01 00:00:00",
+      "end": "1879-12-25 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Norrköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Lenning%201819%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5946416",
+      "link": "https://www.wikidata.org/wiki/Q5946416"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "11231",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11231"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgayg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgayg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

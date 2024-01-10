@@ -1,0 +1,51 @@
+{
+  "name": "otto martin",
+  "swerik-id": "i-KqJwAKB9Zu7Did2m3WE6Xq",
+  "DOB": "1827-09-09",
+  "DOD": "1895-02-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Folkärna",
+    "link": "http://www.wikidata.org/entity/Q10497508"
+  },
+  "place-of-death": {
+    "place": "Södertälje",
+    "link": "http://www.wikidata.org/entity/Q26518"
+  },
+  "alt-names": [
+    "martin",
+    "otto august martin"
+  ],
+  "iorter": [
+    "Södertälje"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1894-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertälje, Norrtälje, Vaxholms, Öregrunds, Östhammars och Sigtuna valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Martin%20SPA4%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5978004",
+      "link": "https://www.wikidata.org/wiki/Q5978004"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeOg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeOg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

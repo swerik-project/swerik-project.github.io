@@ -1,0 +1,71 @@
+{
+  "name": "camilla odhnoff",
+  "swerik-id": "i-B4nu9XszBXgUbk8rfByBoJ",
+  "DOB": "1928-06-06",
+  "DOD": "2013-07-16",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Göteborgs Gamlestads församling",
+    "link": "http://www.wikidata.org/entity/Q57417269"
+  },
+  "place-of-death": {
+    "place": "Lund",
+    "link": "http://www.wikidata.org/entity/Q2167"
+  },
+  "alt-names": [
+    "camilla wilske",
+    "elna camilla odhnoff"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1969-10-14 00:00:00",
+      "end": "1973-11-03 00:00:00",
+      "role": "ungdomsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1967-01-09 00:00:00",
+      "end": "1969-10-14 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1967-01-09 00:00:00",
+      "end": "1973-11-03 00:00:00",
+      "role": "invandrarminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander III",
+      "district": null
+    },
+    {
+      "start": "1967-01-09 00:00:00",
+      "end": "1973-11-03 00:00:00",
+      "role": "invandrarminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Camilla%20Odhnoff%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4970788",
+      "link": "https://www.wikidata.org/wiki/Q4970788"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

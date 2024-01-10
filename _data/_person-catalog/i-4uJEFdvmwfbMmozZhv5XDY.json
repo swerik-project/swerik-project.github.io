@@ -1,0 +1,204 @@
+{
+  "name": "ola ullsten",
+  "swerik-id": "i-4uJEFdvmwfbMmozZhv5XDY",
+  "DOB": "1931-06-23",
+  "DOD": "2018-05-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Umeå landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10709189"
+  },
+  "place-of-death": {
+    "place": "Öja distrikt",
+    "link": "http://www.wikidata.org/entity/Q21776834"
+  },
+  "alt-names": [
+    "ullsten"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1981-05-22 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin III",
+      "district": null
+    },
+    {
+      "start": "1980-08-01 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1980-08-01 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin III",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1981-05-22 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin II",
+      "district": null
+    },
+    {
+      "start": "1979-10-12 00:00:00",
+      "end": "1982-10-08 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin III",
+      "district": null
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "statsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    },
+    {
+      "start": "1978-03-07 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "statsministerns ställföretädare",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1977-01-11 00:00:00",
+      "end": "1978-03-07 00:00:00",
+      "role": "invandrarminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-08 00:00:00",
+      "end": "1978-10-18 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Fälldin I",
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1976-10-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1965-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ola%20Ullsten.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q53733",
+      "link": "https://www.wikidata.org/wiki/Q53733"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "85283550-b02f-4483-8490-a70cae639f41",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_85283550-b02f-4483-8490-a70cae639f41"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABM1iw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABM1iw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNOg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNOg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1982-10-04",
+      "end": "1985-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

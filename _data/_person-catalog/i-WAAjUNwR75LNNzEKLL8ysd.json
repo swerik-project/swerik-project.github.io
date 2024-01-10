@@ -1,0 +1,52 @@
+{
+  "name": "hjalmar petre",
+  "swerik-id": "i-WAAjUNwR75LNNzEKLL8ysd",
+  "DOB": "1832-09-30",
+  "DOD": "1898-11-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ovansjö församling",
+    "link": "http://www.wikidata.org/entity/Q10613557"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "henric hjalmar petre",
+    "henrik hjalmar petre",
+    "petre"
+  ],
+  "iorter": [
+    "Hofors"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Ovansjö, Torsåkers och Årsunda samt Hedesunda och Österfärnebo tingslags valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hjalmar%20Petre.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6161169",
+      "link": "https://www.wikidata.org/wiki/Q6161169"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO9g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO9g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

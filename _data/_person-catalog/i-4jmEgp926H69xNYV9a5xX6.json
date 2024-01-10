@@ -1,0 +1,51 @@
+{
+  "name": "axel walfrid lundström",
+  "swerik-id": "i-4jmEgp926H69xNYV9a5xX6",
+  "DOB": "1866-09-05",
+  "DOD": "1941-02-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "place-of-death": {
+    "place": "Tierps församling",
+    "link": "http://www.wikidata.org/entity/Q10697799"
+  },
+  "alt-names": [
+    "lundström"
+  ],
+  "iorter": [
+    "Länna",
+    "Vreten"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Axel%20Lundstr%C3%B6m%201866%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5967741",
+      "link": "https://www.wikidata.org/wiki/Q5967741"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeFg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeFg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

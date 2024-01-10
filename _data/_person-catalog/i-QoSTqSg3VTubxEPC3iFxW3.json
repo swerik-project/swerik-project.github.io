@@ -1,0 +1,58 @@
+{
+  "name": "christer akej",
+  "swerik-id": "i-QoSTqSg3VTubxEPC3iFxW3",
+  "DOB": "1955-12-03",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hannas församling",
+    "link": "http://www.wikidata.org/entity/Q18290507"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5544850",
+      "link": "https://www.wikidata.org/wiki/Q5544850"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0538777624511",
+      "link": "https://data.riksdagen.se/personlista/?iid=0538777624511&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "94619ff6-ebf3-4462-95be-c9ef539a8c4d",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_94619ff6-ebf3-4462-95be-c9ef539a8c4d"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

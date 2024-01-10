@@ -1,0 +1,68 @@
+{
+  "name": "leonard hagström",
+  "swerik-id": "i-2FMdJQN5sEzW3N7zpocbuh",
+  "DOB": "1881-06-20",
+  "DOD": "1947-08-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tåsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10708131"
+  },
+  "place-of-death": {
+    "place": "Tåsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10708131"
+  },
+  "alt-names": [
+    "hagström",
+    "leon hagström"
+  ],
+  "iorter": [
+    "Kyrktåsjö"
+  ],
+  "positions": [
+    {
+      "start": "1934-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns och Jämtlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Hagstr%C3%B6m%201881%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5782807",
+      "link": "https://www.wikidata.org/wiki/Q5782807"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfXQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfXQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1935",
+      "end": "1940"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1934",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

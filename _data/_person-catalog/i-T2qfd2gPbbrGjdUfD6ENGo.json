@@ -1,0 +1,92 @@
+{
+  "name": "karl beckman",
+  "swerik-id": "i-T2qfd2gPbbrGjdUfD6ENGo",
+  "DOB": "1860-06-09",
+  "DOD": "1926-08-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Linköpings domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10562793"
+  },
+  "place-of-death": {
+    "place": "Linköpings domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10562793"
+  },
+  "alt-names": [
+    "beckman",
+    "karl vilhelm beckman"
+  ],
+  "iorter": [
+    "Linköping"
+  ],
+  "positions": [
+    {
+      "start": "1913-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrköpings och Linköpings valkrets"
+    },
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Linköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Vilhelm%20Beckman.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5568440",
+      "link": "https://www.wikidata.org/wiki/Q5568440"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "18395",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18395"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAACgtA",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAACgtA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:29886",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29886"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgaJA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgaJA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1913",
+      "end": "1917"
+    },
+    {
+      "party": {
+        "name": "Nationella framstegspartiet",
+        "party-id": "Q10594830"
+      },
+      "start": "1906",
+      "end": "1908"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

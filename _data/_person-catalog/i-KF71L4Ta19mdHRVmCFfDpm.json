@@ -1,0 +1,51 @@
+{
+  "name": "hugo hamilton",
+  "swerik-id": "i-KF71L4Ta19mdHRVmCFfDpm",
+  "DOB": "1832-08-21",
+  "DOD": "1903-11-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kila församling",
+    "link": "http://www.wikidata.org/entity/Q10545347"
+  },
+  "place-of-death": {
+    "place": "Bo församling",
+    "link": "http://www.wikidata.org/entity/Q10431811"
+  },
+  "alt-names": [
+    "hamilton af hageby",
+    "hugo johan hamilton"
+  ],
+  "iorter": [
+    "Boo"
+  ],
+  "positions": [
+    {
+      "start": "1871-09-27 00:00:00",
+      "end": "1885-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Hamilton%201832%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786136",
+      "link": "https://www.wikidata.org/wiki/Q5786136"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfsLg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfsLg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

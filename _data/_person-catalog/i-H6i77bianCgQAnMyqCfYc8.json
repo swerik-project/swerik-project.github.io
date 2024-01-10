@@ -1,0 +1,62 @@
+{
+  "name": "linus bylund",
+  "swerik-id": "i-H6i77bianCgQAnMyqCfYc8",
+  "DOB": "1978-01-02",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Spånga-Kista församling",
+    "link": "http://www.wikidata.org/entity/Q10676706"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "carl linus bylund"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Linus%20Bylund.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q15992158",
+      "link": "https://www.wikidata.org/wiki/Q15992158"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0506806850221",
+      "link": "https://data.riksdagen.se/personlista/?iid=0506806850221&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c97b1897-90bf-4e3d-b9bb-97887b022661",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c97b1897-90bf-4e3d-b9bb-97887b022661"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Sverigedemokraterna",
+        "party-id": "Q504069"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "joachim beck friis",
+  "swerik-id": "i-Qma3CBohwCYyXYKwXAyXtw",
+  "DOB": "1856-05-24",
+  "DOD": "1927-04-19",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Hargs församling",
+    "link": "http://www.wikidata.org/entity/Q10518095"
+  },
+  "alt-names": [
+    "beck friis",
+    "carl joachim beck friis"
+  ],
+  "iorter": [
+    "Harg"
+  ],
+  "positions": [
+    {
+      "start": "1900-05-07 00:00:00",
+      "end": "1916-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Joachim%20Beck-Friis%20%281856-1927%29%2C%20anonymous%20engraving.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5568204",
+      "link": "https://www.wikidata.org/wiki/Q5568204"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAACfIQ",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAACfIQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABge1g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge1g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1916"
+    },
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1900",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

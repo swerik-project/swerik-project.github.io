@@ -1,0 +1,57 @@
+{
+  "name": "johan grape",
+  "swerik-id": "i-NZuEyns3RhUEdS4Z93nD6B",
+  "DOB": "1821-06-04",
+  "DOD": "1899-01-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Burträsks församling",
+    "link": "http://www.wikidata.org/entity/Q10437982"
+  },
+  "place-of-death": {
+    "place": "Nederkalix församling",
+    "link": "http://www.wikidata.org/entity/Q10595631"
+  },
+  "alt-names": [
+    "grape"
+  ],
+  "iorter": [
+    "Björknäs"
+  ],
+  "positions": [
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1879-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalix domsagas valkrets"
+    },
+    {
+      "start": "1877-03-14 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Norrbottens norra domsagas valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5768895",
+      "link": "https://www.wikidata.org/wiki/Q5768895"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfRMw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRMw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

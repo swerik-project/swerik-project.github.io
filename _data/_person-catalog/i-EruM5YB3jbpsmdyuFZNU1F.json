@@ -1,0 +1,68 @@
+{
+  "name": "pehr andreasson",
+  "swerik-id": "i-EruM5YB3jbpsmdyuFZNU1F",
+  "DOB": "1844-05-07",
+  "DOD": "1901-05-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ytterby församling",
+    "link": "http://www.wikidata.org/entity/Q10723820"
+  },
+  "place-of-death": {
+    "place": "Ytterby församling",
+    "link": "http://www.wikidata.org/entity/Q10723820"
+  },
+  "alt-names": [
+    "andreasson",
+    "pehr teodor andreasson"
+  ],
+  "iorter": [
+    "Tunge"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Inlands domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Pehr%20Andreasson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5556551",
+      "link": "https://www.wikidata.org/wiki/Q5556551"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfR6A",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfR6A"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

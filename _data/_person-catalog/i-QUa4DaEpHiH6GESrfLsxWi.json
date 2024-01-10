@@ -1,0 +1,89 @@
+{
+  "name": "carl fredrik hochschild",
+  "swerik-id": "i-QUa4DaEpHiH6GESrfLsxWi",
+  "DOB": "1831-09-13",
+  "DOD": "1898-12-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Köpenhamn",
+    "link": "http://www.wikidata.org/entity/Q1748"
+  },
+  "place-of-death": {
+    "place": "Sövestads församling",
+    "link": "http://www.wikidata.org/entity/Q10689277"
+  },
+  "alt-names": [
+    "carl fredrik lotharius hochschild",
+    "carl hochschild",
+    "hochschild"
+  ],
+  "iorter": [
+    "Bellinga"
+  ],
+  "positions": [
+    {
+      "start": "1884-05-16 00:00:00",
+      "end": "1885-09-25 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Themptander",
+      "district": null
+    },
+    {
+      "start": "1880-04-27 00:00:00",
+      "end": "1885-09-25 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Posse",
+      "district": null
+    },
+    {
+      "start": "1880-04-27 00:00:00",
+      "end": "1885-09-25 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Thyselius",
+      "district": null
+    },
+    {
+      "start": "1877-01-01 00:00:00",
+      "end": "1886-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Hochschild%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16649394",
+      "link": "https://www.wikidata.org/wiki/Q16649394"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13676",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13676"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRcw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRcw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:69175",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:69175"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

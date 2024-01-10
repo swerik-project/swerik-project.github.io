@@ -1,0 +1,62 @@
+{
+  "name": "gunilla andersson",
+  "swerik-id": "i-45VdkAjY3iYtXQi37FEFo6",
+  "DOB": "1955",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Arvika"
+  ],
+  "positions": [
+    {
+      "start": "1989-05-11 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97971278",
+      "link": "https://www.wikidata.org/wiki/Q97971278"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0969147846718",
+      "link": "https://data.riksdagen.se/personlista/?iid=0969147846718&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1872a60d-53c7-47c0-9207-b9135ac0de2e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1872a60d-53c7-47c0-9207-b9135ac0de2e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1989-05-11",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

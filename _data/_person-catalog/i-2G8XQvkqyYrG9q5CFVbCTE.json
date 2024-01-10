@@ -1,0 +1,51 @@
+{
+  "name": "carl mauritz ekström",
+  "swerik-id": "i-2G8XQvkqyYrG9q5CFVbCTE",
+  "DOB": "1848-08-28",
+  "DOD": "1910-05-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vänersnäs församling",
+    "link": "http://www.wikidata.org/entity/Q10717362"
+  },
+  "place-of-death": {
+    "place": "Tossene församling",
+    "link": "http://www.wikidata.org/entity/Q10700567"
+  },
+  "alt-names": [
+    "ekström",
+    "mauritz ekström"
+  ],
+  "iorter": [
+    "Säm"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Tunge, Sörbygdens och Sotenäs häraders valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Mauritz%20Ekstr%C3%B6m%201848%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5707505",
+      "link": "https://www.wikidata.org/wiki/Q5707505"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSAQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSAQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

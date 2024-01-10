@@ -1,0 +1,51 @@
+{
+  "name": "paulus genberg",
+  "swerik-id": "i-HkbV7naLvKYhPjwbPjCEEY",
+  "DOB": "1811-04-13",
+  "DOD": "1875-09-29",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Brunflo församling",
+    "link": "http://www.wikidata.org/entity/Q10436351"
+  },
+  "place-of-death": {
+    "place": "Kalmar domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10542836"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1848-04-10 00:00:00",
+      "end": "1852-04-03 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sparre",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Genberg%2C%20Paul.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5755434",
+      "link": "https://www.wikidata.org/wiki/Q5755434"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13007",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13007"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:31745",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:31745"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

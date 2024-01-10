@@ -1,0 +1,69 @@
+{
+  "name": "maria borelius",
+  "swerik-id": "i-Qcof8uUB6fn43ayBzbj7o4",
+  "DOB": "1960-07-06",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Täby",
+    "link": "http://www.wikidata.org/entity/Q54337"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "maria sigrid astrid borelius"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-06 00:00:00",
+      "end": "2006-10-14 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Reinfeldt",
+      "district": null
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q520223",
+      "link": "https://www.wikidata.org/wiki/Q520223"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0388849444310",
+      "link": "https://data.riksdagen.se/personlista/?iid=0388849444310&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c0faea23-edbe-416e-9b07-bc36087613d0",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c0faea23-edbe-416e-9b07-bc36087613d0"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2006-10-02",
+      "end": "2006-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

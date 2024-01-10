@@ -1,0 +1,58 @@
+{
+  "name": "lars erik soting",
+  "swerik-id": "i-9oPPjVzrULrHNYKFEafWno",
+  "DOB": "1965-08-30",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q104215884",
+      "link": "https://www.wikidata.org/wiki/Q104215884"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0129061253610",
+      "link": "https://data.riksdagen.se/personlista/?iid=0129061253610&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "7027d7a8-51d8-4b10-94d9-3151efb0816f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_7027d7a8-51d8-4b10-94d9-3151efb0816f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2006-10-02",
+      "end": "2006-10-06"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

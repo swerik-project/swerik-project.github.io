@@ -1,0 +1,50 @@
+{
+  "name": "karl hillgård",
+  "swerik-id": "i-3Vt59Mph8bZHW3Yk38AtwE",
+  "DOB": "1893-08-27",
+  "DOD": "1978-10-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Trönninge församling",
+    "link": "http://www.wikidata.org/entity/Q10705682"
+  },
+  "place-of-death": {
+    "place": "Halmstad",
+    "link": "http://www.wikidata.org/entity/Q26521"
+  },
+  "alt-names": [
+    "hillgård"
+  ],
+  "iorter": [
+    "Halmstad"
+  ],
+  "positions": [
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Hillg%C3%A5rd%201893%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5806065",
+      "link": "https://www.wikidata.org/wiki/Q5806065"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnkg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnkg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

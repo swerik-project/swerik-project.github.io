@@ -1,0 +1,161 @@
+{
+  "name": "björn ericson",
+  "swerik-id": "i-EmjigjZuAQAJx6WM7GX1ZK",
+  "DOB": "1937",
+  "DOD": "2012-04-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "ericson"
+  ],
+  "iorter": [
+    "Tyresö"
+  ],
+  "positions": [
+    {
+      "start": "1996-10-01 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1996-03-23 00:00:00",
+      "end": "1996-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1995-10-10 00:00:00",
+      "end": "1996-03-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1994-10-08 00:00:00",
+      "end": "1995-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1992-08-01 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "http://www.wikidata.org/.well-known/genid/f59a429583fd1999cf77a4cf0e72353b"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1991-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1988-10-05 00:00:00",
+      "end": "1990-01-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1988-06-08 00:00:00",
+      "end": "1988-07-07 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1986-10-10 00:00:00",
+      "end": "1988-06-08 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1986-10-07 00:00:00",
+      "end": "1986-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1985-04-22 00:00:00",
+      "end": "1985-05-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1983-04-06 00:00:00",
+      "end": "1983-06-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5714566",
+      "link": "https://www.wikidata.org/wiki/Q5714566"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0683260207407",
+      "link": "https://data.riksdagen.se/personlista/?iid=0683260207407&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "a9117db8-1772-4b60-aa3a-055ce3f9221e",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_a9117db8-1772-4b60-aa3a-055ce3f9221e"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1996-10-01",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "kjell dahlström",
+  "swerik-id": "i-6WNL1CNr1JpVAMEECTwVDN",
+  "DOB": "1944-08-09",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sankt Ilians församling",
+    "link": "http://www.wikidata.org/entity/Q10661368"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "dahlström"
+  ],
+  "iorter": [
+    "Lund",
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1989-10-01 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1988-10-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5615831",
+      "link": "https://www.wikidata.org/wiki/Q5615831"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0666473608905",
+      "link": "https://data.riksdagen.se/personlista/?iid=0666473608905&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "25943772-a07b-4929-9a22-f19265a67e06",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_25943772-a07b-4929-9a22-f19265a67e06"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1989-10-01",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

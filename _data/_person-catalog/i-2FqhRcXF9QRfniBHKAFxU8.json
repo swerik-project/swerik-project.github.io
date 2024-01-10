@@ -1,0 +1,67 @@
+{
+  "name": "anders larsson",
+  "swerik-id": "i-2FqhRcXF9QRfniBHKAFxU8",
+  "DOB": "1953",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2005-04-18 00:00:00",
+      "end": "2005-11-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    },
+    {
+      "start": "2003-05-05 00:00:00",
+      "end": "2003-12-19 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Örebro läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97854743",
+      "link": "https://www.wikidata.org/wiki/Q97854743"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0773506435611",
+      "link": "https://data.riksdagen.se/personlista/?iid=0773506435611&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "c2abb052-6b20-11d7-ae78-0004755038ce",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_c2abb052-6b20-11d7-ae78-0004755038ce"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2005-04-18",
+      "end": "2005-11-20"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

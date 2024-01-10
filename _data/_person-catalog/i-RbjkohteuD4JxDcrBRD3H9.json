@@ -1,0 +1,56 @@
+{
+  "name": "karl mäler",
+  "swerik-id": "i-RbjkohteuD4JxDcrBRD3H9",
+  "DOB": "1893-03-07",
+  "DOD": "1963-03-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ådals-Lidens församling",
+    "link": "http://www.wikidata.org/entity/Q10726203"
+  },
+  "place-of-death": {
+    "place": "Skarpnäcks församling",
+    "link": "http://www.wikidata.org/entity/Q10669803"
+  },
+  "alt-names": [
+    "karl markus mäler",
+    "mäler"
+  ],
+  "iorter": [
+    "Sollefteå"
+  ],
+  "positions": [
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1947-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20M%C3%A4ler%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5999973",
+      "link": "https://www.wikidata.org/wiki/Q5999973"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "8650",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8650"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfDA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfDA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "eric mossberger",
+  "swerik-id": "i-LfCwKyj17iz8wFALKeKtFf",
+  "DOB": "1905-09-18",
+  "DOD": "1998-02-21",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Getinge församling",
+    "link": "http://www.wikidata.org/entity/Q10504595"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "eric gustaf valdemar mossberger",
+    "mossberger"
+  ],
+  "iorter": [
+    "Getinge"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    },
+    {
+      "start": "1951-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5995172",
+      "link": "https://www.wikidata.org/wiki/Q5995172"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnrQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnrQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1971-01-11",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

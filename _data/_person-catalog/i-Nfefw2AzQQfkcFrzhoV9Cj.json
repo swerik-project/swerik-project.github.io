@@ -1,0 +1,114 @@
+{
+  "name": "eliza roszkowska öberg",
+  "swerik-id": "i-Nfefw2AzQQfkcFrzhoV9Cj",
+  "DOB": "1978-02-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Piaseczno",
+    "link": "http://www.wikidata.org/entity/Q741876"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-04-11 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2013-06-01 00:00:00",
+      "end": "2013-10-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2012-05-01 00:00:00",
+      "end": "2013-02-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2011-10-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2008-03-01 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2007-09-18 00:00:00",
+      "end": "2008-02-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "2006-10-19 00:00:00",
+      "end": "2007-09-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Eliza%20Roszkowska%20%C3%96berg.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4991094",
+      "link": "https://www.wikidata.org/wiki/Q4991094"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0844246115721",
+      "link": "https://data.riksdagen.se/personlista/?iid=0844246115721&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2ab85951-bc6e-4d2d-81f5-4c8d60b0ce23",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2ab85951-bc6e-4d2d-81f5-4c8d60b0ce23"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2014-04-11",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

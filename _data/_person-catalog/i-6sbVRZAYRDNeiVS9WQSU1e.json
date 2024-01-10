@@ -1,0 +1,75 @@
+{
+  "name": "ruth andersson",
+  "swerik-id": "i-6sbVRZAYRDNeiVS9WQSU1e",
+  "DOB": "1908-03-04",
+  "DOD": "2000-01-23",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Starrkärrs församling",
+    "link": "http://www.wikidata.org/entity/Q10677633"
+  },
+  "place-of-death": {
+    "place": "Lerums församling",
+    "link": "http://www.wikidata.org/entity/Q10559627"
+  },
+  "alt-names": [
+    "anderson",
+    "ruth anderson",
+    "ruth magnhild helena andersson"
+  ],
+  "iorter": [
+    "Lerum"
+  ],
+  "positions": [
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    },
+    {
+      "start": "1960-10-17 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Älvsborgs läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ruth%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4935919",
+      "link": "https://www.wikidata.org/wiki/Q4935919"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5UQA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5UQA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZQg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZQg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1971-01-11",
+      "end": "1974-01-10"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

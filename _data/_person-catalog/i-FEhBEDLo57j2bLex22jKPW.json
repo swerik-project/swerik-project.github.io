@@ -1,0 +1,51 @@
+{
+  "name": "pål bengtsson",
+  "swerik-id": "i-FEhBEDLo57j2bLex22jKPW",
+  "DOB": "1852-01-17",
+  "DOD": "1930-11-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Väsby församling",
+    "link": "http://www.wikidata.org/entity/Q10717783"
+  },
+  "place-of-death": {
+    "place": "Borås",
+    "link": "http://www.wikidata.org/entity/Q26040"
+  },
+  "alt-names": [
+    "bengtsson",
+    "pål alfred bengtsson"
+  ],
+  "iorter": [
+    "Borås"
+  ],
+  "positions": [
+    {
+      "start": "1903-01-01 00:00:00",
+      "end": "1905-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Borås valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A5l%20Bengtsson%201852%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5570343",
+      "link": "https://www.wikidata.org/wiki/Q5570343"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZvQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZvQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

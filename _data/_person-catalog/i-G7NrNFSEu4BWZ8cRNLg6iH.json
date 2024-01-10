@@ -1,0 +1,71 @@
+{
+  "name": "ing britt nygren",
+  "swerik-id": "i-G7NrNFSEu4BWZ8cRNLg6iH",
+  "DOB": "1935",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nygren"
+  ],
+  "iorter": [
+    "Kungälv"
+  ],
+  "positions": [
+    {
+      "start": "1989-11-07 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "1988-10-04 00:00:00",
+      "end": "1988-10-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q21567755",
+      "link": "https://www.wikidata.org/wiki/Q21567755"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0196459185206",
+      "link": "https://data.riksdagen.se/personlista/?iid=0196459185206&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2d5f6006-20b8-4206-9041-305b60b78c6f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2d5f6006-20b8-4206-9041-305b60b78c6f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1989-11-07",
+      "end": "1991-09-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

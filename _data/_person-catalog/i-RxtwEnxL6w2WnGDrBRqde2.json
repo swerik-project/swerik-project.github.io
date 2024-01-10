@@ -1,0 +1,52 @@
+{
+  "name": "karl ward",
+  "swerik-id": "i-RxtwEnxL6w2WnGDrBRqde2",
+  "DOB": "1888-01-29",
+  "DOD": "1959-05-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Norrköpings S:t Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q10602807"
+  },
+  "place-of-death": {
+    "place": "Norrköpings S:t Olofs församling",
+    "link": "http://www.wikidata.org/entity/Q10602808"
+  },
+  "alt-names": [
+    "karl selim valentin ward",
+    "karl selim vallentin ward",
+    "ward"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Ward%201888%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6232377",
+      "link": "https://www.wikidata.org/wiki/Q6232377"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABga6Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABga6Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

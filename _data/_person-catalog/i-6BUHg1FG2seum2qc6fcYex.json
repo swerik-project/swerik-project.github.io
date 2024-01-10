@@ -1,0 +1,68 @@
+{
+  "name": "gustaf gyllensvärd",
+  "swerik-id": "i-6BUHg1FG2seum2qc6fcYex",
+  "DOB": "1848-06-28",
+  "DOD": "1922-04-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Våxtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10718954"
+  },
+  "place-of-death": {
+    "place": "Våxtorps församling",
+    "link": "http://www.wikidata.org/entity/Q10718954"
+  },
+  "alt-names": [
+    "anders gustaf gyllensvärd",
+    "gyllensvärd"
+  ],
+  "iorter": [
+    "Fågelsång"
+  ],
+  "positions": [
+    {
+      "start": "1890-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Höks härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Gyllensv%C3%A4rd%201848%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5779576",
+      "link": "https://www.wikidata.org/wiki/Q5779576"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnhQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnhQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1890",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "maria fälth",
+  "swerik-id": "i-GeNqvhUsb4jUqv5TQySc4z",
+  "DOB": "1963-02-04",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Huskvarna församling",
+    "link": "http://www.wikidata.org/entity/Q10527412"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2012-10-15 00:00:00",
+      "end": "2013-01-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2010-10-05 00:00:00",
+      "end": "2010-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4949319",
+      "link": "https://www.wikidata.org/wiki/Q4949319"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0994460509110",
+      "link": "https://data.riksdagen.se/personlista/?iid=0994460509110&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "74748ac8-c8f5-45ea-bb5a-912237ba3879",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_74748ac8-c8f5-45ea-bb5a-912237ba3879"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2012-10-15",
+      "end": "2013-01-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

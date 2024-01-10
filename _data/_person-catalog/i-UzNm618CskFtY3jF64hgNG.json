@@ -1,0 +1,46 @@
+{
+  "name": "filip kristensson",
+  "swerik-id": "i-UzNm618CskFtY3jF64hgNG",
+  "DOB": "1898-06-17",
+  "DOD": "1980-01-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Osby",
+    "link": "http://www.wikidata.org/entity/Q26511"
+  },
+  "place-of-death": {
+    "place": "Jönköping",
+    "link": "http://www.wikidata.org/entity/Q25415"
+  },
+  "alt-names": [
+    "gustaf filip natanael kristensson",
+    "kristensson"
+  ],
+  "iorter": [
+    "Osby"
+  ],
+  "positions": [
+    {
+      "start": "1945-01-01 00:00:00",
+      "end": "1956-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Skåne läns norra och östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ume%C3%A5%20stadsarkiv-1963-Landsh%C3%B6vning.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5923219",
+      "link": "https://www.wikidata.org/wiki/Q5923219"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

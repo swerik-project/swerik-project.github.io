@@ -1,0 +1,126 @@
+{
+  "name": "eric enlund",
+  "swerik-id": "i-TLnEcKgBYha1pdFTVEbAvk",
+  "DOB": "1918-04-09",
+  "DOD": "2011-03-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Enåkers församling",
+    "link": "http://www.wikidata.org/entity/Q10485122"
+  },
+  "place-of-death": {
+    "place": "Nora församling",
+    "link": "http://www.wikidata.org/entity/Q10601901"
+  },
+  "alt-names": [
+    "enlund",
+    "eric paul enlund"
+  ],
+  "iorter": [
+    "Runhällen"
+  ],
+  "positions": [
+    {
+      "start": "1980-11-07 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1979-10-15 00:00:00",
+      "end": "1980-10-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    },
+    {
+      "start": "1978-10-18 00:00:00",
+      "end": "1979-10-12 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Ullsten",
+      "district": null
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5713444",
+      "link": "https://www.wikidata.org/wiki/Q5713444"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0689652394598",
+      "link": "https://data.riksdagen.se/personlista/?iid=0689652394598&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "63fe33f1-e6c7-4c4f-ad51-234294d93f5b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_63fe33f1-e6c7-4c4f-ad51-234294d93f5b"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberalerna",
+        "party-id": "Q110857"
+      },
+      "start": "1980-11-07",
+      "end": "1982-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

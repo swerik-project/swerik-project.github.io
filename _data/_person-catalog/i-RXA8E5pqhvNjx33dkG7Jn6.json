@@ -1,0 +1,43 @@
+{
+  "name": "erik olof wiklund",
+  "swerik-id": "i-RXA8E5pqhvNjx33dkG7Jn6",
+  "DOB": "1885-01-15",
+  "DOD": "1962-02-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ytterlännäs socken",
+    "link": "http://www.wikidata.org/entity/Q50314817"
+  },
+  "place-of-death": {
+    "place": "Öregrunds församling",
+    "link": "http://www.wikidata.org/entity/Q10727514"
+  },
+  "alt-names": [
+    "wiklund"
+  ],
+  "iorter": [
+    "Ulvsunda"
+  ],
+  "positions": [
+    {
+      "start": "1942-11-19 00:00:00",
+      "end": "1945-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6241339",
+      "link": "https://www.wikidata.org/wiki/Q6241339"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

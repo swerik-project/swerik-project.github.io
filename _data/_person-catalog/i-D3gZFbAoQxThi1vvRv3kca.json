@@ -1,0 +1,69 @@
+{
+  "name": "carl nordenfelt",
+  "swerik-id": "i-D3gZFbAoQxThi1vvRv3kca",
+  "DOB": "1837-10-13",
+  "DOD": "1911-12-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Sätila församling",
+    "link": "http://www.wikidata.org/entity/Q10688177"
+  },
+  "place-of-death": {
+    "place": "Kristinehamns församling",
+    "link": "http://www.wikidata.org/entity/Q10549260"
+  },
+  "alt-names": [
+    "carl henrik nordenfelt",
+    "nordenfelt"
+  ],
+  "iorter": [
+    "Kristinehamn"
+  ],
+  "positions": [
+    {
+      "start": "1885-01-01 00:00:00",
+      "end": "1892-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1875-01-01 00:00:00",
+      "end": "1875-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristinehamns, Askersunds, Nora och Lindesbergs valkrets"
+    },
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1872-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kristinehamns, Askersunds, Nora och Lindesbergs valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Nordenfelt%20SPA5%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6014609",
+      "link": "https://www.wikidata.org/wiki/Q6014609"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcQg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcQg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

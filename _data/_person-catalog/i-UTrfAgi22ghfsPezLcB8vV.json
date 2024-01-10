@@ -1,0 +1,96 @@
+{
+  "name": "sigfrid linner",
+  "swerik-id": "i-UTrfAgi22ghfsPezLcB8vV",
+  "DOB": "1877-09-13",
+  "DOD": "1963-01-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bäckaby församling",
+    "link": "http://www.wikidata.org/entity/Q10438371"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "linner",
+    "sigfrid nathanael linner"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1939-01-01 00:00:00",
+      "end": "1946-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    },
+    {
+      "start": "1933-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    },
+    {
+      "start": "1914-02-17 00:00:00",
+      "end": "1917-03-30 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hammarskjöld",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sigfrid%20Linn%C3%A9r%20-%20Sveriges%20styresm%C3%A4n.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5959461",
+      "link": "https://www.wikidata.org/wiki/Q5959461"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10737",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10737"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOPw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOPw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:654",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:654"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerpartiet",
+        "party-id": "Q111033682"
+      },
+      "start": "1939",
+      "end": "1946"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

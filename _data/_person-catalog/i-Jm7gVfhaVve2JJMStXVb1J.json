@@ -1,0 +1,58 @@
+{
+  "name": "anne marie von essen",
+  "swerik-id": "i-Jm7gVfhaVve2JJMStXVb1J",
+  "DOB": "1934-02-14",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1991-04-19 00:00:00",
+      "end": "1991-06-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Göteborgs kommuns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97971220",
+      "link": "https://www.wikidata.org/wiki/Q97971220"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0112898942202",
+      "link": "https://data.riksdagen.se/personlista/?iid=0112898942202&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "1d64115c-ebf7-4c4d-848e-03e086ddcb9b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_1d64115c-ebf7-4c4d-848e-03e086ddcb9b"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1991-04-19",
+      "end": "1991-06-02"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

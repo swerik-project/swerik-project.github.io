@@ -1,0 +1,51 @@
+{
+  "name": "johan adolf hellberg",
+  "swerik-id": "i-2TbJKggFihcEZWLdGpj6Qa",
+  "DOB": "1871-07-27",
+  "DOD": "1951-01-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Torshälla församling",
+    "link": "http://www.wikidata.org/entity/Q10700368"
+  },
+  "place-of-death": {
+    "place": "Torshälla församling",
+    "link": "http://www.wikidata.org/entity/Q10700368"
+  },
+  "alt-names": [
+    "hellberg",
+    "johan hellberg"
+  ],
+  "iorter": [
+    "Torshälla"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Adolf%20Hellberg%201871%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5798850",
+      "link": "https://www.wikidata.org/wiki/Q5798850"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPvQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPvQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

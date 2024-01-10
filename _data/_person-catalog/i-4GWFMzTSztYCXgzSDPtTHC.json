@@ -1,0 +1,82 @@
+{
+  "name": "wilhelm andersson",
+  "swerik-id": "i-4GWFMzTSztYCXgzSDPtTHC",
+  "DOB": "1865-05-28",
+  "DOD": "1961-02-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Madesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10575132"
+  },
+  "place-of-death": {
+    "place": "Madesjö församling",
+    "link": "http://www.wikidata.org/entity/Q10575132"
+  },
+  "alt-names": [
+    "andersson",
+    "august wilhelm andersson"
+  ],
+  "iorter": [
+    "Resebo"
+  ],
+  "positions": [
+    {
+      "start": "1914-01-01 00:00:00",
+      "end": "1916-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar läns södra valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södra Möre domsagas västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Andersson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5556217",
+      "link": "https://www.wikidata.org/wiki/Q5556217"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5rIw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5rIw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc4w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc4w"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1914",
+      "end": "1916"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

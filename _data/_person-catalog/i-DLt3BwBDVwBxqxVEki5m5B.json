@@ -1,0 +1,71 @@
+{
+  "name": "annika lillemets",
+  "swerik-id": "i-DLt3BwBDVwBxqxVEki5m5B",
+  "DOB": "1962-03-06",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Kvarsebo församling",
+    "link": "http://www.wikidata.org/entity/Q18291509"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "annika maria charlotte lillemets"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Annika%20Lillemets%20%289622545154%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4962191",
+      "link": "https://www.wikidata.org/wiki/Q4962191"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0172220256016",
+      "link": "https://data.riksdagen.se/personlista/?iid=0172220256016&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "10d245ad-d796-4e29-bbcd-f4f8f24d6495",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_10d245ad-d796-4e29-bbcd-f4f8f24d6495"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2014-09-29",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

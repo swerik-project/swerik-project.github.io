@@ -1,0 +1,71 @@
+{
+  "name": "tina ehn",
+  "swerik-id": "i-UFTZBKNRWWLXUXAtcCcVfH",
+  "DOB": "1960-06-23",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Haga församling",
+    "link": "http://www.wikidata.org/entity/Q10515876"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "tina marina ehn"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns västra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Tina%20Ehn%20portr%C3%A4tt%20%282008%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4945880",
+      "link": "https://www.wikidata.org/wiki/Q4945880"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0154189076919",
+      "link": "https://data.riksdagen.se/personlista/?iid=0154189076919&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "14ed7b7f-bad5-45ee-9e7b-7482cb212dfa",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_14ed7b7f-bad5-45ee-9e7b-7482cb212dfa"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2010-10-04",
+      "end": "2014-09-29"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

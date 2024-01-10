@@ -1,0 +1,102 @@
+{
+  "name": "carl hammarskjöld",
+  "swerik-id": "i-RBwA6WtbjeTp4EH9rQG3me",
+  "DOB": "1838-02-22",
+  "DOD": "1898-04-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Tuna församling",
+    "link": "http://www.wikidata.org/entity/Q10706262"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "carl g hammarskjöld",
+    "carl gustav hammarskjöld",
+    "hammarskjöld"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1895-01-01 00:00:00",
+      "end": "1897-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "1880-08-27 00:00:00",
+      "end": "1888-02-06 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Posse",
+      "district": null
+    },
+    {
+      "start": "1880-08-27 00:00:00",
+      "end": "1888-02-06 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Themptander",
+      "district": null
+    },
+    {
+      "start": "1880-08-27 00:00:00",
+      "end": "1888-02-06 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Thyselius",
+      "district": null
+    },
+    {
+      "start": "1880-04-19 00:00:00",
+      "end": "1880-08-27 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Posse",
+      "district": null
+    },
+    {
+      "start": "1879-01-01 00:00:00",
+      "end": "1881-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gustav%20Hammarskj%C3%B6ld%20%281838-1898%29%2C%20anonymous%20engraving.png"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5786847",
+      "link": "https://www.wikidata.org/wiki/Q5786847"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12543",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12543"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOMg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOMg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

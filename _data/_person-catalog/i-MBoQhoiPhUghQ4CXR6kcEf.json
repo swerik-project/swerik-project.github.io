@@ -1,0 +1,64 @@
+{
+  "name": "herman zetterberg",
+  "swerik-id": "i-MBoQhoiPhUghQ4CXR6kcEf",
+  "DOB": "1904-07-01",
+  "DOD": "1963-03-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gustafsberg",
+    "link": "http://www.wikidata.org/entity/Q10511098"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1957-09-20 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander I",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1957-09-20 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Erlander II",
+      "district": null
+    },
+    {
+      "start": "1945-07-31 00:00:00",
+      "end": "1957-09-20 00:00:00",
+      "role": "justitieminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson IV",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/HermanZetterberg.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6252055",
+      "link": "https://www.wikidata.org/wiki/Q6252055"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:802",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:802"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

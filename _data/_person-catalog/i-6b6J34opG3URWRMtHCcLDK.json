@@ -1,0 +1,55 @@
+{
+  "name": "anders andersson",
+  "swerik-id": "i-6b6J34opG3URWRMtHCcLDK",
+  "DOB": "1820-01-16",
+  "DOD": "1894-10-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Vads församling",
+    "link": "http://www.wikidata.org/entity/Q10711952"
+  },
+  "place-of-death": {
+    "place": "Värings församling",
+    "link": "http://www.wikidata.org/entity/Q10717467"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Greby"
+  ],
+  "positions": [
+    {
+      "start": "1870-01-01 00:00:00",
+      "end": "1874-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Vadsbo södra domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Andersson%201820%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5553949",
+      "link": "https://www.wikidata.org/wiki/Q5553949"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5pnw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5pnw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdLw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdLw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "annika nordgren christensen",
+  "swerik-id": "i-WhkYyHkAQJinZzBj9xsEfU",
+  "DOB": "1972-04-14",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Friggeråkers församling",
+    "link": "http://www.wikidata.org/entity/Q10499113"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "annika theresia nordgren christensen"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4942814",
+      "link": "https://www.wikidata.org/wiki/Q4942814"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0251174631818",
+      "link": "https://data.riksdagen.se/personlista/?iid=0251174631818&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "90746d94-c053-4758-99ce-c6a0c0779033",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_90746d94-c053-4758-99ce-c6a0c0779033"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

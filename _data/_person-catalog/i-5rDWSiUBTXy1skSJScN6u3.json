@@ -1,0 +1,87 @@
+{
+  "name": "carin jämtin",
+  "swerik-id": "i-5rDWSiUBTXy1skSJScN6u3",
+  "DOB": "1964-08-03",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2017-05-28 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-10-07 00:00:00",
+      "end": "2006-12-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
+      "start": "2006-03-27 00:00:00",
+      "end": "2006-04-24 00:00:00",
+      "role": "utrikesminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    },
+    {
+      "start": "2003-10-10 00:00:00",
+      "end": "2006-10-06 00:00:00",
+      "role": "biståndsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Persson",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carin%20J%C3%A4mtin%20partisekreterare%20i%20%28S%29.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q2938797",
+      "link": "https://www.wikidata.org/wiki/Q2938797"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0882001830516",
+      "link": "https://data.riksdagen.se/personlista/?iid=0882001830516&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "835fee43-32d7-4f36-9489-11c05b580ef4",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_835fee43-32d7-4f36-9489-11c05b580ef4"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2014-09-29",
+      "end": "2017-05-28"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

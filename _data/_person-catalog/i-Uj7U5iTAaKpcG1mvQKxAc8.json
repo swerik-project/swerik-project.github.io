@@ -1,0 +1,96 @@
+{
+  "name": "alice bah kuhnke",
+  "swerik-id": "i-Uj7U5iTAaKpcG1mvQKxAc8",
+  "DOB": "1971-12-21",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Västra Skrävlinge församling",
+    "link": "http://www.wikidata.org/entity/Q10718358"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2019-01-22 00:00:00",
+      "end": "2019-06-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms läns valkrets"
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "demokratiminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "kulturminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    },
+    {
+      "start": "2014-10-03 00:00:00",
+      "end": "2019-01-21 00:00:00",
+      "role": "samfundsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Löfven I",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Bah%20Kuhnke%202014-12-17%20001.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4725739",
+      "link": "https://www.wikidata.org/wiki/Q4725739"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0787584650516",
+      "link": "https://data.riksdagen.se/personlista/?iid=0787584650516&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ce806f5d-33d2-41d1-8fa4-7f14e0361bd3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ce806f5d-33d2-41d1-8fa4-7f14e0361bd3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2019-01-22",
+      "end": "2019-06-18"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

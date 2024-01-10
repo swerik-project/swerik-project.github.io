@@ -1,0 +1,50 @@
+{
+  "name": "henrik henriksson",
+  "swerik-id": "i-NkimLMCqoAFthHer3924Cr",
+  "DOB": "1845-11-17",
+  "DOD": "1922-01-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Laholms landsförsamling",
+    "link": "http://www.wikidata.org/entity/Q10553374"
+  },
+  "place-of-death": {
+    "place": "Laholms församling",
+    "link": "http://www.wikidata.org/entity/Q10553372"
+  },
+  "alt-names": [
+    "henriksson"
+  ],
+  "iorter": [
+    "Laholm"
+  ],
+  "positions": [
+    {
+      "start": "1896-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Henriksson%2C%20Henrik%20i%20Svenskt%20portr%C3%A4ttgalleri%2C%20band%20XXV.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5801387",
+      "link": "https://www.wikidata.org/wiki/Q5801387"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfmig",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfmig"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "kristina yngwe",
+  "swerik-id": "i-NaB2cvgwB4zVi98HPFcvof",
+  "DOB": "1983-07-14",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Östraby församling",
+    "link": "http://www.wikidata.org/entity/Q10728506"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "kristina marie yngwe"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2020-11-30 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2020-04-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skåne läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/KristinaYngwe-6-webb%20%2825507442193%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q16616153",
+      "link": "https://www.wikidata.org/wiki/Q16616153"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0884738092723",
+      "link": "https://data.riksdagen.se/personlista/?iid=0884738092723&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2cfb5b7e-ac47-45e5-84f4-6c53c047cdca",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2cfb5b7e-ac47-45e5-84f4-6c53c047cdca"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2020-11-30",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

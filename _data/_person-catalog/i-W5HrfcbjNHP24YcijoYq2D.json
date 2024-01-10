@@ -1,0 +1,52 @@
+{
+  "name": "knut tillberg",
+  "swerik-id": "i-W5HrfcbjNHP24YcijoYq2D",
+  "DOB": "1860-03-04",
+  "DOD": "1940-09-07",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hjorteds församling",
+    "link": "http://www.wikidata.org/entity/Q10524752"
+  },
+  "place-of-death": {
+    "place": "Bromma församling",
+    "link": "http://www.wikidata.org/entity/Q4973721"
+  },
+  "alt-names": [
+    "knut h r tillberg",
+    "knut henning robert tillberg",
+    "tillberg"
+  ],
+  "iorter": [
+    "Nygård"
+  ],
+  "positions": [
+    {
+      "start": "1897-01-01 00:00:00",
+      "end": "1908-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A4radsh%C3%B6fding%20Knut%20Tillberg%20-%20no-nb%20digifoto%2020160412%2000116%20bldsa%20EYDE%205%2007B%20001.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6211046",
+      "link": "https://www.wikidata.org/wiki/Q6211046"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgdGg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdGg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

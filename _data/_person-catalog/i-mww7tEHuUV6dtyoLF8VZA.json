@@ -1,0 +1,51 @@
+{
+  "name": "primus wahlmark",
+  "swerik-id": "i-mww7tEHuUV6dtyoLF8VZA",
+  "DOB": "1883-06-09",
+  "DOD": "1955-01-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderhamns församling",
+    "link": "http://www.wikidata.org/entity/Q10688543"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "carl primus wahlmark",
+    "wahlmark"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1923-01-01 00:00:00",
+      "end": "1950-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Primus%20Wahlmark.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6228959",
+      "link": "https://www.wikidata.org/wiki/Q6228959"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfOHg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfOHg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

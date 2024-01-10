@@ -1,0 +1,51 @@
+{
+  "name": "gustaf von rosen",
+  "swerik-id": "i-KafTGBexnVL56zSvft8tjw",
+  "DOB": "1849-12-25",
+  "DOD": "1922-01-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Jakob och Johannes församling",
+    "link": "http://www.wikidata.org/entity/Q54006791"
+  },
+  "place-of-death": {
+    "place": "Klara församling",
+    "link": "http://www.wikidata.org/entity/Q10546040"
+  },
+  "alt-names": [
+    "gustaf pontus august von rosen",
+    "von rosen"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1910-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms stads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Rosen%2C%20Gustaf%20von%20%28ur%20Svensk%20musikkalender%201914%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6165648",
+      "link": "https://www.wikidata.org/wiki/Q6165648"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNEw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNEw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

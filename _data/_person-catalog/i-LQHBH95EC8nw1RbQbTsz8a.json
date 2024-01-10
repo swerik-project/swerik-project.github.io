@@ -1,0 +1,59 @@
+{
+  "name": "edvard hagfält",
+  "swerik-id": "i-LQHBH95EC8nw1RbQbTsz8a",
+  "DOB": "1873-02-23",
+  "DOD": "1952-04-04",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Söderby-Karls församling",
+    "link": "http://www.wikidata.org/entity/Q10688496"
+  },
+  "place-of-death": {
+    "place": "Söderby-Karls församling",
+    "link": "http://www.wikidata.org/entity/Q10688496"
+  },
+  "alt-names": [
+    "hagfält"
+  ],
+  "iorter": [
+    "Söder-Råda"
+  ],
+  "positions": [
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1922-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Stockholms läns och Uppsala läns valkrets"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Hagf%C3%A4lt%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5782446",
+      "link": "https://www.wikidata.org/wiki/Q5782446"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfN-w",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfN-w"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

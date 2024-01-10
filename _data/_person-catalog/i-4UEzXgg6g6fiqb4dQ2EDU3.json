@@ -1,0 +1,107 @@
+{
+  "name": "bernhard eriksson",
+  "swerik-id": "i-4UEzXgg6g6fiqb4dQ2EDU3",
+  "DOB": "1878-04-19",
+  "DOD": "1952-04-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Grangärde församling",
+    "link": "http://www.wikidata.org/entity/Q10508080"
+  },
+  "place-of-death": {
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
+  },
+  "alt-names": [
+    "eriksson",
+    "johan bernhard eriksson"
+  ],
+  "iorter": [
+    "Falun",
+    "Grängesberg"
+  ],
+  "positions": [
+    {
+      "start": "1928-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "talman",
+      "source": "speaker",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1922-01-01 00:00:00",
+      "end": "1936-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1920-07-01 00:00:00",
+      "end": "1920-10-27 00:00:00",
+      "role": "socialminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1920-03-10 00:00:00",
+      "end": "1920-07-01 00:00:00",
+      "role": "sjöförsvarsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting I",
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns västra valkrets"
+    },
+    {
+      "start": "1906-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbergslags domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Bernhard%20Eriksson%20SPA2%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4894168",
+      "link": "https://www.wikidata.org/wiki/Q4894168"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAAX2g",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAAX2g"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:64969",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:64969"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfU5Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfU5Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

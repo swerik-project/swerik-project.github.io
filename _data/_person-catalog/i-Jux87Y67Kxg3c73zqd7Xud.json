@@ -1,0 +1,68 @@
+{
+  "name": "emil olsson",
+  "swerik-id": "i-Jux87Y67Kxg3c73zqd7Xud",
+  "DOB": "1847-03-16",
+  "DOD": "1933-05-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ny församling",
+    "link": "http://www.wikidata.org/entity/Q10604238"
+  },
+  "place-of-death": {
+    "place": "Ny församling",
+    "link": "http://www.wikidata.org/entity/Q10604238"
+  },
+  "alt-names": [
+    "olof emil olsson",
+    "olsson"
+  ],
+  "iorter": [
+    "Kyrkebol"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jösse domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Olsson%201847%20SPA3%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6026783",
+      "link": "https://www.wikidata.org/wiki/Q6026783"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcGA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcGA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Gamla lantmannapartiet",
+        "party-id": "Q10502466"
+      },
+      "start": "1888",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

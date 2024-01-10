@@ -1,0 +1,100 @@
+{
+  "name": "birger hagård",
+  "swerik-id": "i-ENka9fRWC7HrGDQTU4F2ah",
+  "DOB": "1932-12-22",
+  "DOD": "2013-12-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Borås församling",
+    "link": "http://www.wikidata.org/entity/Q265682"
+  },
+  "place-of-death": {
+    "place": "Vadstena församling",
+    "link": "http://www.wikidata.org/entity/Q10711974"
+  },
+  "alt-names": [
+    "hagård"
+  ],
+  "iorter": [
+    "Vadstena"
+  ],
+  "positions": [
+    {
+      "start": "1994-10-03 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1988-10-03 00:00:00",
+      "end": "1991-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1988-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1982-10-04 00:00:00",
+      "end": "1985-09-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Birger%20Hag%C3%A5rd%20%281960%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5782917",
+      "link": "https://www.wikidata.org/wiki/Q5782917"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0213468747208",
+      "link": "https://data.riksdagen.se/personlista/?iid=0213468747208&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "43b9c023-c94b-4a93-8b3b-49ee25312845",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_43b9c023-c94b-4a93-8b3b-49ee25312845"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1994-10-03",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

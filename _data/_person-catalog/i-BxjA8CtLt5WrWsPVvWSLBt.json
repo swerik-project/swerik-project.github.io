@@ -1,0 +1,60 @@
+{
+  "name": "nils nestrup",
+  "swerik-id": "i-BxjA8CtLt5WrWsPVvWSLBt",
+  "DOB": "1894-12-22",
+  "DOD": "1965-11-01",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Slimminge församling",
+    "link": "http://www.wikidata.org/entity/Q10671576"
+  },
+  "place-of-death": {
+    "place": "S:t Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10659418"
+  },
+  "alt-names": [
+    "nestrup",
+    "nils nestor nestrup"
+  ],
+  "iorter": [
+    "Halmstad"
+  ],
+  "positions": [
+    {
+      "start": "1959-01-01 00:00:00",
+      "end": "1962-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kronobergs läns och Hallands läns valkrets"
+    },
+    {
+      "start": "1950-01-01 00:00:00",
+      "end": "1958-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Hallands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Nestrup%201894%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6005752",
+      "link": "https://www.wikidata.org/wiki/Q6005752"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfnmQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnmQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

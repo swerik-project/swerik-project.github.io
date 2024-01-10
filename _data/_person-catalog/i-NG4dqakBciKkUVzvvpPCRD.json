@@ -1,0 +1,78 @@
+{
+  "name": "ernst edelstam",
+  "swerik-id": "i-NG4dqakBciKkUVzvvpPCRD",
+  "DOB": "1837-08-06",
+  "DOD": "1900-01-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Nyköpings västra församling",
+    "link": "http://www.wikidata.org/entity/Q10604764"
+  },
+  "alt-names": [
+    "edelstam",
+    "ernst august edelstam"
+  ],
+  "iorter": [
+    "Nyköping"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Nyköpings, Torshälla, Mariefreds, Trosa och Enköpings valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Edelstam%201888.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5627008",
+      "link": "https://www.wikidata.org/wiki/Q5627008"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAAB2MQ",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAAB2MQ"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TR3yO_GV8eAAAAAAAABmCg",
+      "link": "https://portrattarkiv.se/details/TR3yO_GV8eAAAAAAAABmCg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfP5g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfP5g"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1892",
+      "end": "1893"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens frihandelsparti",
+        "party-id": "Q10411414"
+      },
+      "start": "1887",
+      "end": "1888"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,86 @@
+{
+  "name": "carl gethe",
+  "swerik-id": "i-HR7FkNR7CWoH9JSLzyadXt",
+  "DOB": "1830-08-16",
+  "DOD": "1906-09-12",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Eds församling",
+    "link": "http://www.wikidata.org/entity/Q10728262"
+  },
+  "place-of-death": {
+    "place": "Kalmar domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10542836"
+  },
+  "alt-names": [
+    "carl magnus fredrik erland gethe",
+    "gethe"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1899-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gethe%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5757453",
+      "link": "https://www.wikidata.org/wiki/Q5757453"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "1ha4xkDj-uAAAAAAAAAWxw",
+      "link": "https://portrattarkiv.se/details/1ha4xkDj-uAAAAAAAAAWxw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:70312",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:70312"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgclw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgclw"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Friesenska diskussionsklubben",
+        "party-id": "Q10499105"
+      },
+      "start": "1899",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens center",
+        "party-id": "Q10411412"
+      },
+      "start": "1891",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

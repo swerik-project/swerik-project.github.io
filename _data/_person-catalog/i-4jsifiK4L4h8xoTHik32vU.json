@@ -1,0 +1,65 @@
+{
+  "name": "knut styffe",
+  "swerik-id": "i-4jsifiK4L4h8xoTHik32vU",
+  "DOB": "1824-01-12",
+  "DOD": "1898-02-03",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bergs församling",
+    "link": "http://www.wikidata.org/entity/Q10428465"
+  },
+  "place-of-death": {
+    "place": "Hedvig Eleonora församling",
+    "link": "http://www.wikidata.org/entity/Q10519255"
+  },
+  "alt-names": [
+    "styffe"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Styffe%20SPA%202%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6194030",
+      "link": "https://www.wikidata.org/wiki/Q6194030"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "34652",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34652"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAABXpw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAABXpw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "seuNpYu6DKAAAAAAAABlPw",
+      "link": "https://portrattarkiv.se/details/seuNpYu6DKAAAAAAAABlPw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNLQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNLQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "mikael larsson",
+  "swerik-id": "i-WG1giJMSibawsd4Nrc2c3k",
+  "DOB": "1989-01-05",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Surteby-Kattunga församling",
+    "link": "http://www.wikidata.org/entity/Q10684173"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "mikael robin larsson"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns södra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Mikael%20Larsson%20%2848918435497%29%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q60823132",
+      "link": "https://www.wikidata.org/wiki/Q60823132"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0226631365426",
+      "link": "https://data.riksdagen.se/personlista/?iid=0226631365426&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "39797ca4-c136-41c6-bf6b-feb256dee6b3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_39797ca4-c136-41c6-bf6b-feb256dee6b3"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

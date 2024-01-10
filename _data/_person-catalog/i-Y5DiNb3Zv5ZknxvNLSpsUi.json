@@ -1,0 +1,69 @@
+{
+  "name": "ludvig kockum",
+  "swerik-id": "i-Y5DiNb3Zv5ZknxvNLSpsUi",
+  "DOB": "1835-05-15",
+  "DOD": "1905-04-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Skrävlinge församling",
+    "link": "http://www.wikidata.org/entity/Q10718358"
+  },
+  "place-of-death": {
+    "place": "Västra Skrävlinge församling",
+    "link": "http://www.wikidata.org/entity/Q10718358"
+  },
+  "alt-names": [
+    "carl ludvig paulus kockum",
+    "kockum"
+  ],
+  "iorter": [
+    "Bulltofta"
+  ],
+  "positions": [
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1896-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1877-01-01 00:00:00",
+      "end": "1885-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Ludvig%20Paulus%20Kockum.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5916859",
+      "link": "https://www.wikidata.org/wiki/Q5916859"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgReg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgReg"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1896"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "annika eclund",
+  "swerik-id": "i-DJ8dGLyQXx8GQeiGkcBRiK",
+  "DOB": "1961-04-12",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2017-10-01 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2017-05-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västra Götalands läns östra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4945656",
+      "link": "https://www.wikidata.org/wiki/Q4945656"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0480339311713",
+      "link": "https://data.riksdagen.se/personlista/?iid=0480339311713&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "025a1d23-9b88-40fc-aa67-f7c75a51f838",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_025a1d23-9b88-40fc-aa67-f7c75a51f838"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Kristdemokraterna",
+        "party-id": "Q213654"
+      },
+      "start": "2017-10-01",
+      "end": "2018-09-24"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "magnus andersson",
+  "swerik-id": "i-DS8CrcdMywGfGy5nhRKmEd",
+  "DOB": "1822-03-06",
+  "DOD": "1901-11-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gällaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10512291"
+  },
+  "place-of-death": {
+    "place": "Gällaryds församling",
+    "link": "http://www.wikidata.org/entity/Q10512291"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Gripenberg"
+  ],
+  "positions": [
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1884-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Andersson%201822%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5555392",
+      "link": "https://www.wikidata.org/wiki/Q5555392"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAAA5oow",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA5oow"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbBA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbBA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

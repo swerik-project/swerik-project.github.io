@@ -1,0 +1,50 @@
+{
+  "name": "gunnar lundmark",
+  "swerik-id": "i-M67EcVJtE4wpTpZn5BuTHJ",
+  "DOB": "1907-02-27",
+  "DOD": "1986-07-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Byske församling",
+    "link": "http://www.wikidata.org/entity/Q10438280"
+  },
+  "place-of-death": {
+    "place": "Lycksele församling",
+    "link": "http://www.wikidata.org/entity/Q10571243"
+  },
+  "alt-names": [
+    "j gunnar lundmark",
+    "jonas gunnar lundmark",
+    "lundmark"
+  ],
+  "iorter": [
+    "Lycksele"
+  ],
+  "positions": [
+    {
+      "start": "1957-09-05 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Västerbottens läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5967294",
+      "link": "https://www.wikidata.org/wiki/Q5967294"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfilg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfilg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

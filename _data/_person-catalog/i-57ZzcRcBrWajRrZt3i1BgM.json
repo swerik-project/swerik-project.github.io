@@ -1,0 +1,73 @@
+{
+  "name": "herman eriksson",
+  "swerik-id": "i-57ZzcRcBrWajRrZt3i1BgM",
+  "DOB": "1892-10-20",
+  "DOD": "1949-02-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Uppsala",
+    "link": "http://www.wikidata.org/entity/Q25286"
+  },
+  "place-of-death": {
+    "place": "Saltsjöbaden",
+    "link": "http://www.wikidata.org/entity/Q990771"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1941-03-07 00:00:00",
+      "end": "1944-09-30 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1939-10-15 00:00:00",
+      "end": "1941-03-07 00:00:00",
+      "role": "folkhushållningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    },
+    {
+      "start": "1939-10-15 00:00:00",
+      "end": "1941-03-07 00:00:00",
+      "role": "folkhushållningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson III",
+      "district": null
+    },
+    {
+      "start": "1938-09-01 00:00:00",
+      "end": "1939-10-14 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Hansson II",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/G%20Herman%20Eriksson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5716548",
+      "link": "https://www.wikidata.org/wiki/Q5716548"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "15432",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15432"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

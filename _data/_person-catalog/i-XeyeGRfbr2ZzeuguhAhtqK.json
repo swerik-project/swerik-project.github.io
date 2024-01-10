@@ -1,0 +1,73 @@
+{
+  "name": "axel carlsson",
+  "swerik-id": "i-XeyeGRfbr2ZzeuguhAhtqK",
+  "DOB": "1833-10-18",
+  "DOD": "1905-04-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "place-of-death": {
+    "place": "Vassända-Naglums församling",
+    "link": "http://www.wikidata.org/entity/Q10713341"
+  },
+  "alt-names": [
+    "carlsson"
+  ],
+  "iorter": [
+    "Carlsro",
+    "Hede"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1900-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Flundre, Väne och Bjärke domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Axel%20Carlsson%201833%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5603007",
+      "link": "https://www.wikidata.org/wiki/Q5603007"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABUkBg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABUkBg"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgZuA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZuA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1900"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

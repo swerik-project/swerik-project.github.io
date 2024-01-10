@@ -1,0 +1,99 @@
+{
+  "name": "värner ryden",
+  "swerik-id": "i-NKRTEKkMqyNZNU9RaYZLPC",
+  "DOB": "1878-09-16",
+  "DOD": "1930-09-14",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Asarums församling",
+    "link": "http://www.wikidata.org/entity/Q10419122"
+  },
+  "place-of-death": {
+    "place": "Storkyrkoförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q43549106"
+  },
+  "alt-names": [
+    "klas värner ryden",
+    "ryden"
+  ],
+  "iorter": [
+    "Islinge",
+    "Limhamn",
+    "Malmö"
+  ],
+  "positions": [
+    {
+      "start": "1929-01-01 00:00:00",
+      "end": "1930-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1929-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Fyrstadskretsen"
+    },
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1920-02-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    },
+    {
+      "start": "1917-10-19 00:00:00",
+      "end": "1919-11-28 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Edén",
+      "district": null
+    },
+    {
+      "start": "1907-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmö kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A4rner%20Ryd%C3%A9n%201928.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6085444",
+      "link": "https://www.wikidata.org/wiki/Q6085444"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6278",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6278"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgR4Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgR4Q"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28362",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28362"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

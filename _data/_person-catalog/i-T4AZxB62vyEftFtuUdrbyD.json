@@ -1,0 +1,50 @@
+{
+  "name": "hans hansson",
+  "swerik-id": "i-T4AZxB62vyEftFtuUdrbyD",
+  "DOB": "1889-01-05",
+  "DOD": "1935-07-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Rättviks församling",
+    "link": "http://www.wikidata.org/entity/Q10658553"
+  },
+  "place-of-death": {
+    "place": "Rättviks församling",
+    "link": "http://www.wikidata.org/entity/Q10658553"
+  },
+  "alt-names": [
+    "hansson"
+  ],
+  "iorter": [
+    "Rättvik"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1920-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kopparbergs läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Hansson%20SPA.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q116690088",
+      "link": "https://www.wikidata.org/wiki/Q116690088"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfUng",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfUng"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

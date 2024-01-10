@@ -1,0 +1,74 @@
+{
+  "name": "åke holmbäck",
+  "swerik-id": "i-L31knc1H7Q8uzLgTZoFx7A",
+  "DOB": "1889-04-16",
+  "DOD": "1976-03-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ryssby socken",
+    "link": "http://www.wikidata.org/entity/Q10658319"
+  },
+  "place-of-death": {
+    "place": "Helga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10519481"
+  },
+  "alt-names": [
+    "holmbäck",
+    "åke ernst vilhelm holmbäck"
+  ],
+  "iorter": [
+    "Uppsala"
+  ],
+  "positions": [
+    {
+      "start": "1950-01-01 00:00:00",
+      "end": "1952-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1942-01-01 00:00:00",
+      "end": "1949-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    },
+    {
+      "start": "1937-01-01 00:00:00",
+      "end": "1940-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85ke%20Holmb%C3%A4ck.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5811172",
+      "link": "https://www.wikidata.org/wiki/Q5811172"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcYg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcYg"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:28561",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28561"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

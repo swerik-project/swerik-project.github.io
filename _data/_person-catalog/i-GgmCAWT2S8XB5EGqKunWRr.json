@@ -1,0 +1,56 @@
+{
+  "name": "johan wilhelm petre",
+  "swerik-id": "i-GgmCAWT2S8XB5EGqKunWRr",
+  "DOB": "1819-02-17",
+  "DOD": "1900-07-15",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "place-of-death": {
+    "place": "Gävle församling",
+    "link": "http://www.wikidata.org/entity/Q10512441"
+  },
+  "alt-names": [
+    "janne petre",
+    "petre"
+  ],
+  "iorter": [
+    "Gävle"
+  ],
+  "positions": [
+    {
+      "start": "1869-01-01 00:00:00",
+      "end": "1869-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Gävle valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Wilhelm%20Petre.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6045814",
+      "link": "https://www.wikidata.org/wiki/Q6045814"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "Dysd0OxEWfAAAAAAAABDuA",
+      "link": "https://portrattarkiv.se/details/Dysd0OxEWfAAAAAAAABDuA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO2g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO2g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

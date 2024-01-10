@@ -1,0 +1,70 @@
+{
+  "name": "pontus af buren",
+  "swerik-id": "i-3PaU5JJkcCnHdn6JLYUvSY",
+  "DOB": "1835-03-26",
+  "DOD": "1905-04-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Ekeby församling",
+    "link": "http://www.wikidata.org/entity/Q10480523"
+  },
+  "place-of-death": {
+    "place": "Ekeby församling",
+    "link": "http://www.wikidata.org/entity/Q10480523"
+  },
+  "alt-names": [
+    "af buren",
+    "carl pontus af buren"
+  ],
+  "iorter": [
+    "Boxholm"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1904-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Blekinge läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Bur%C3%A9n%201835%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5590180",
+      "link": "https://www.wikidata.org/wiki/Q5590180"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17165",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17165"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfQjA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQjA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:63235",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63235"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1904"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

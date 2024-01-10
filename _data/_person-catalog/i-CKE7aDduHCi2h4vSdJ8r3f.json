@@ -1,0 +1,63 @@
+{
+  "name": "ludvig manderström",
+  "swerik-id": "i-CKE7aDduHCi2h4vSdJ8r3f",
+  "DOB": "1806-01-22",
+  "DOD": "1873-08-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hovförsamlingen",
+    "link": "http://www.wikidata.org/entity/Q10526665"
+  },
+  "place-of-death": {
+    "place": "Köln",
+    "link": "http://www.wikidata.org/entity/Q365"
+  },
+  "alt-names": [
+    "baron slusk",
+    "christoffer rutger ludvig manderström",
+    "christopher rutger ludvig manderström",
+    "manderström"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1873-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Västernorrlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ludvig%20Manderstr%C3%B6m%20%28art%20Johan%20Wilhelm%20Gertner%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4993034",
+      "link": "https://www.wikidata.org/wiki/Q4993034"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "9017",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9017"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgfqw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfqw"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:62275",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:62275"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

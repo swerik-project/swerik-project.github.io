@@ -1,0 +1,61 @@
+{
+  "name": "christian bulow",
+  "swerik-id": "i-ERiVJNFmpgUdsS9YuT6kpg",
+  "DOB": "1833-10-28",
+  "DOD": "1921-01-10",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Östra Ingelstads församling",
+    "link": "http://www.wikidata.org/entity/Q10728322"
+  },
+  "place-of-death": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "alt-names": [
+    "bulow",
+    "jöns christian jönsson bulow"
+  ],
+  "iorter": [
+    "Lund"
+  ],
+  "positions": [
+    {
+      "start": "1891-01-01 00:00:00",
+      "end": "1893-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Lunds valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20B%C3%BClow.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5591245",
+      "link": "https://www.wikidata.org/wiki/Q5591245"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "16219",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16219"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgOyA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgOyA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:31943",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:31943"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

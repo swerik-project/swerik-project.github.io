@@ -1,0 +1,51 @@
+{
+  "name": "ludvig torpadie",
+  "swerik-id": "i-5FU521gN8zSpeFz8GvYF6e",
+  "DOB": "1827-12-15",
+  "DOD": "1881-07-18",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nöbbele församling",
+    "link": "http://www.wikidata.org/entity/Q18331669"
+  },
+  "place-of-death": {
+    "place": "Kalmar",
+    "link": "http://www.wikidata.org/entity/Q26345"
+  },
+  "alt-names": [
+    "adolf ludvig frithiof torpadie",
+    "torpadie"
+  ],
+  "iorter": [
+    "Kalmar"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1880-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Kalmar valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ludvig%20Torpadie%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6213805",
+      "link": "https://www.wikidata.org/wiki/Q6213805"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgc_g",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc_g"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "gustaf de laval",
+  "swerik-id": "i-Cx7GhXwo6MUkSvgCyM6F5m",
+  "DOB": "1845-05-09",
+  "DOD": "1913-02-02",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Orsa församling",
+    "link": "http://www.wikidata.org/entity/Q10612116"
+  },
+  "place-of-death": {
+    "place": "Oscars församling",
+    "link": "http://www.wikidata.org/entity/Q10612973"
+  },
+  "alt-names": [
+    "carl gustaf patrik de laval",
+    "de laval",
+    "gustav de laval"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1902-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    },
+    {
+      "start": "1888-01-01 00:00:00",
+      "end": "1890-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/GustafDeLaval.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q364270",
+      "link": "https://www.wikidata.org/wiki/Q364270"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "17423",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17423"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAAu2A",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAAu2A"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:3867",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:3867"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "rkIpfGqHXrAAAAAAAAAu3A",
+      "link": "https://portrattarkiv.se/details/rkIpfGqHXrAAAAAAAAAu3A"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfNXA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNXA"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1888",
+      "end": "1890"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

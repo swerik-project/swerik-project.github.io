@@ -1,0 +1,51 @@
+{
+  "name": "hans ramel",
+  "swerik-id": "i-EgF6TKN1x6rdVrDC5ecKA2",
+  "DOB": "1867-08-19",
+  "DOD": "1957-01-23",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Öveds församling",
+    "link": "http://www.wikidata.org/entity/Q10728536"
+  },
+  "place-of-death": {
+    "place": "Öveds församling",
+    "link": "http://www.wikidata.org/entity/Q10728536"
+  },
+  "alt-names": [
+    "hans otto carl ramel",
+    "ramel"
+  ],
+  "iorter": [
+    "Övedskloster"
+  ],
+  "positions": [
+    {
+      "start": "1918-01-01 00:00:00",
+      "end": "1918-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Ramel%2C%20Hans%20i%20VJs%20julnummer%201942.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6062273",
+      "link": "https://www.wikidata.org/wiki/Q6062273"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgR0Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgR0Q"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

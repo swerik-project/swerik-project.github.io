@@ -1,0 +1,78 @@
+{
+  "name": "rebecka le moine",
+  "swerik-id": "i-48Dg2ScegN8mpc2UJq5sE2",
+  "DOB": "1990-08-01",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Östra Sallerups församling",
+    "link": "http://www.wikidata.org/entity/Q10728397"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2022-05-16 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2021-09-18 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Rebecka%20LM.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q57168699",
+      "link": "https://www.wikidata.org/wiki/Q57168699"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0546731406922",
+      "link": "https://data.riksdagen.se/personlista/?iid=0546731406922&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "67e327d0-b2ca-47eb-802a-c140187f0e0c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_67e327d0-b2ca-47eb-802a-c140187f0e0c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "2022-05-16",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

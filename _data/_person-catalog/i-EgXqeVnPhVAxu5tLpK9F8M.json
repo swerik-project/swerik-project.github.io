@@ -1,0 +1,80 @@
+{
+  "name": "vasiliki tsouplaki",
+  "swerik-id": "i-EgXqeVnPhVAxu5tLpK9F8M",
+  "DOB": "1980-02-27",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Vittinge församling",
+    "link": "http://www.wikidata.org/entity/Q10716432"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "karolina vasiliki tsouplaki"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2022-09-26 00:00:00",
+      "end": "2026-10-17 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2022-09-26 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2017-11-01 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Vasiliki%20Tsouplaki.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4983517",
+      "link": "https://www.wikidata.org/wiki/Q4983517"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0228027853620",
+      "link": "https://data.riksdagen.se/personlista/?iid=0228027853620&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "9d24d55a-be20-4caa-ac48-4da11b50969c",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_9d24d55a-be20-4caa-ac48-4da11b50969c"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Vänsterpartiet",
+        "party-id": "Q110837"
+      },
+      "start": "2018-09-24",
+      "end": "2022-09-26"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

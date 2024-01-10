@@ -1,0 +1,51 @@
+{
+  "name": "anders hylander",
+  "swerik-id": "i-35UuBmVbY5NHVF9pkhut8B",
+  "DOB": "1838-03-07",
+  "DOD": "1930-09-17",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Bro församling",
+    "link": "http://www.wikidata.org/entity/Q10435858"
+  },
+  "place-of-death": {
+    "place": "Bro församling",
+    "link": "http://www.wikidata.org/entity/Q10435858"
+  },
+  "alt-names": [
+    "anders patrik hylander",
+    "hylander"
+  ],
+  "iorter": [
+    "Röe"
+  ],
+  "positions": [
+    {
+      "start": "1876-01-01 00:00:00",
+      "end": "1878-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Patrik%20Hylander%201838%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5818682",
+      "link": "https://www.wikidata.org/wiki/Q5818682"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfSlQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfSlQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

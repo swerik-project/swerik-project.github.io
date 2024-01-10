@@ -1,0 +1,55 @@
+{
+  "name": "gustaf gustafsson",
+  "swerik-id": "i-Mg3qNfxJ72wwNFoo4NP8Br",
+  "DOB": "1865-08-21",
+  "DOD": "1933-12-27",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kumla församling",
+    "link": "http://www.wikidata.org/entity/Q10550065"
+  },
+  "place-of-death": {
+    "place": "Örebro Nikolai församling",
+    "link": "http://www.wikidata.org/entity/Q10727452"
+  },
+  "alt-names": [
+    "gustafsson"
+  ],
+  "iorter": [
+    "Norrköping"
+  ],
+  "positions": [
+    {
+      "start": "1919-01-01 00:00:00",
+      "end": "1919-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Kalmar läns norra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gust.%20Gustafsson%201959.JPG"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5777677",
+      "link": "https://www.wikidata.org/wiki/Q5777677"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "13311",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13311"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgccg",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgccg"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

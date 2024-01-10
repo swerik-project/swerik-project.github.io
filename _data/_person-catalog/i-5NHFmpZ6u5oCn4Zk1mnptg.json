@@ -1,0 +1,58 @@
+{
+  "name": "henrik reuterdahl",
+  "swerik-id": "i-5NHFmpZ6u5oCn4Zk1mnptg",
+  "DOB": "1795-09-10",
+  "DOD": "1870-06-28",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Malmö Karoli församling",
+    "link": "http://www.wikidata.org/entity/Q10576115"
+  },
+  "place-of-death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10710237"
+  },
+  "alt-names": [
+    "henric reuterdahl"
+  ],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1852-04-03 00:00:00",
+      "end": "1855-03-09 00:00:00",
+      "role": "ecklesiastikminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Sparre",
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Reuterdahl%2C%20Henrik%20%28ur%20dennes%20memoarer%201920%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q1348997",
+      "link": "https://www.wikidata.org/wiki/Q1348997"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "6604",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6604"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "9Y5iReTPHdAAAAAAAAAMkA",
+      "link": "https://portrattarkiv.se/details/9Y5iReTPHdAAAAAAAAAMkA"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:2128",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:2128"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

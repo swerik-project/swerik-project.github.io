@@ -1,0 +1,62 @@
+{
+  "name": "christer winden",
+  "swerik-id": "i-R9vYVJxSeKVQwwHwTyNhm9",
+  "DOB": "1944-11-15",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Västra Skrävlinge församling",
+    "link": "http://www.wikidata.org/entity/Q10718358"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "winden"
+  ],
+  "iorter": [
+    "Västerås"
+  ],
+  "positions": [
+    {
+      "start": "1991-09-30 00:00:00",
+      "end": "1994-10-03 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6244005",
+      "link": "https://www.wikidata.org/wiki/Q6244005"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0612453628106",
+      "link": "https://data.riksdagen.se/personlista/?iid=0612453628106&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f2e9a85a-f416-4820-a3ca-33d80dc07c44",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f2e9a85a-f416-4820-a3ca-33d80dc07c44"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Ny demokrati",
+        "party-id": "Q967278"
+      },
+      "start": "1991-09-30",
+      "end": "1994-10-03"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

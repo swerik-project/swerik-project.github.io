@@ -1,0 +1,84 @@
+{
+  "name": "frans berglöf",
+  "swerik-id": "i-NUyYiA4FVLLPSAatcw4E1K",
+  "DOB": "1841-11-11",
+  "DOD": "1903-05-08",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hälsingtuna församling",
+    "link": "http://www.wikidata.org/entity/Q10531498"
+  },
+  "place-of-death": {
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
+  },
+  "alt-names": [
+    "berglöf",
+    "frans johan erland berglöf"
+  ],
+  "iorter": [
+    "Söderhamn",
+    "Varberg"
+  ],
+  "positions": [
+    {
+      "start": "1894-01-01 00:00:00",
+      "end": "1895-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Laholms, Falkenbergs, Varbergs och Kungsbacka valkrets"
+    },
+    {
+      "start": "1887-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Söderhamns valkrets"
+    },
+    {
+      "start": "1882-01-01 00:00:00",
+      "end": "1887-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Söderhamns och Hudiksvalls valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Bergl%C3%B6f%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5572519",
+      "link": "https://www.wikidata.org/wiki/Q5572519"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "TNQaWo324IAAAAAAAADFLA",
+      "link": "https://portrattarkiv.se/details/TNQaWo324IAAAAAAAADFLA"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfO-Q",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfO-Q"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frihandelsvänliga centern",
+        "party-id": "Q10499121"
+      },
+      "start": "1895",
+      "end": "1895"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

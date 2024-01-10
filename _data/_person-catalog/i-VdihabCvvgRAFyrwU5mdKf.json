@@ -1,0 +1,87 @@
+{
+  "name": "jessica polfjärd",
+  "swerik-id": "i-VdihabCvvgRAFyrwU5mdKf",
+  "DOB": "1971-05-27",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Seoul",
+    "link": "http://www.wikidata.org/entity/Q8684"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "2018-09-24 00:00:00",
+      "end": "2019-07-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2014-09-29 00:00:00",
+      "end": "2018-09-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2010-10-04 00:00:00",
+      "end": "2014-09-29 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    },
+    {
+      "start": "2006-10-02 00:00:00",
+      "end": "2010-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Västmanlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jessica%20Polfj%C3%A4rd.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4559562",
+      "link": "https://www.wikidata.org/wiki/Q4559562"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0630824497414",
+      "link": "https://data.riksdagen.se/personlista/?iid=0630824497414&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "ba2d53c0-4f47-45f0-a961-ac265c2b8679",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_ba2d53c0-4f47-45f0-a961-ac265c2b8679"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "2018-09-24",
+      "end": "2019-07-01"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

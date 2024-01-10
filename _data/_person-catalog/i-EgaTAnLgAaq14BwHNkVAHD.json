@@ -1,0 +1,49 @@
+{
+  "name": "ragnar ekström",
+  "swerik-id": "i-EgaTAnLgAaq14BwHNkVAHD",
+  "DOB": "1905-01-26",
+  "DOD": "1986-01-24",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Björkviks församling",
+    "link": "http://www.wikidata.org/entity/Q10430628"
+  },
+  "place-of-death": {
+    "place": "Björkviks församling",
+    "link": "http://www.wikidata.org/entity/Q10430628"
+  },
+  "alt-names": [
+    "ekström",
+    "klas ragnar ekström"
+  ],
+  "iorter": [
+    "Djupdalen"
+  ],
+  "positions": [
+    {
+      "start": "1949-01-01 00:00:00",
+      "end": "1968-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5707649",
+      "link": "https://www.wikidata.org/wiki/Q5707649"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfPtQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfPtQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

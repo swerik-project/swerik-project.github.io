@@ -1,0 +1,76 @@
+{
+  "name": "bodil francke ohlsson",
+  "swerik-id": "i-MgqyLN2yypWAiyHpLmZGkg",
+  "DOB": "1934-06-06",
+  "DOD": "2021-04-11",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "place-of-death": {
+    "place": "Genarp",
+    "link": "http://www.wikidata.org/entity/Q277849"
+  },
+  "alt-names": [],
+  "iorter": [],
+  "positions": [
+    {
+      "start": "1998-05-07 00:00:00",
+      "end": "1998-10-05 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "http://www.wikidata.org/.well-known/genid/3fb34eee98729fe7810f9a83deb34076"
+    },
+    {
+      "start": "1995-10-23 00:00:00",
+      "end": "1998-04-02 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns södra valkrets"
+    },
+    {
+      "start": "1995-01-10 00:00:00",
+      "end": "1995-10-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns södra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4948688",
+      "link": "https://www.wikidata.org/wiki/Q4948688"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0366609643504",
+      "link": "https://data.riksdagen.se/personlista/?iid=0366609643504&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "2b50374e-f34d-40dc-9e70-2e51e2954c0f",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_2b50374e-f34d-40dc-9e70-2e51e2954c0f"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Miljöpartiet",
+        "party-id": "Q213451"
+      },
+      "start": "1998-05-07",
+      "end": "1998-10-05"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,103 @@
+{
+  "name": "carl lidbom",
+  "swerik-id": "i-YL4aQfT264wNd4jTiiKUox",
+  "DOB": "1926-03-02",
+  "DOD": "2004-07-26",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "place-of-death": {
+    "place": "Nykvarns kommun",
+    "link": "http://www.wikidata.org/entity/Q499460"
+  },
+  "alt-names": [
+    "carl gunnar lidbom",
+    "lidbom"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-04-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1975-11-10 00:00:00",
+      "end": "1976-10-08 00:00:00",
+      "role": "handelsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1975-01-01 00:00:00",
+      "end": "1975-11-01 00:00:00",
+      "role": "samordningsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Östergötlands läns valkrets"
+    },
+    {
+      "start": "1969-10-14 00:00:00",
+      "end": "1974-12-31 00:00:00",
+      "role": "konsultativt statsråd",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Palme I",
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5950208",
+      "link": "https://www.wikidata.org/wiki/Q5950208"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "bc42c1dd-6814-4d7e-9317-f62769755d43",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_bc42c1dd-6814-4d7e-9317-f62769755d43"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "1979-10-01",
+      "end": "1982-04-30"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

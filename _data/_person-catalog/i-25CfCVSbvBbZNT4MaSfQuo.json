@@ -1,0 +1,76 @@
+{
+  "name": "magnus hallenborg",
+  "swerik-id": "i-25CfCVSbvBbZNT4MaSfQuo",
+  "DOB": "1828-02-18",
+  "DOD": "1892-05-22",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Villie församling",
+    "link": "http://www.wikidata.org/entity/Q10715567"
+  },
+  "place-of-death": {
+    "place": "Stockholm",
+    "link": "http://www.wikidata.org/entity/Q1754"
+  },
+  "alt-names": [
+    "b magnus f c v hallenborg",
+    "bolivar magnus fredrik carl vilhelm hallenborg",
+    "hallenborg"
+  ],
+  "iorter": [
+    "Rydsgård"
+  ],
+  "positions": [
+    {
+      "start": "1867-01-01 00:00:00",
+      "end": "1892-05-22 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Hallenborg%201828%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5784613",
+      "link": "https://www.wikidata.org/wiki/Q5784613"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "12423",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12423"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "j6S8rJvx9lAAAAAAAAAQww",
+      "link": "https://portrattarkiv.se/details/j6S8rJvx9lAAAAAAAAAQww"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:62484",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:62484"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRpQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRpQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1892"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "carl johan jonsson",
+  "swerik-id": "i-Rp6aMcWBYXjoGH1gf7PbWh",
+  "DOB": "1855-02-02",
+  "DOD": "1939-06-05",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Hagshults församling",
+    "link": "http://www.wikidata.org/entity/Q10516026"
+  },
+  "place-of-death": {
+    "place": "Hagshults församling",
+    "link": "http://www.wikidata.org/entity/Q10516026"
+  },
+  "alt-names": [
+    "jonsson"
+  ],
+  "iorter": [
+    "Mörkhult"
+  ],
+  "positions": [
+    {
+      "start": "1923-01-01 00:00:00",
+      "end": "1924-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "1921-01-01 00:00:00",
+      "end": "1921-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns östra valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Johan%20Jonsson.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6140353",
+      "link": "https://www.wikidata.org/wiki/Q6140353"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgbKA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgbKA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

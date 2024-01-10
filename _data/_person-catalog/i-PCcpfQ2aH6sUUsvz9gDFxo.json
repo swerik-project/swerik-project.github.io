@@ -1,0 +1,57 @@
+{
+  "name": "johan andersson",
+  "swerik-id": "i-PCcpfQ2aH6sUUsvz9gDFxo",
+  "DOB": "1850-07-01",
+  "DOD": "1919-12-11",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Kärda församling",
+    "link": "http://www.wikidata.org/entity/Q10551752"
+  },
+  "place-of-death": {
+    "place": "Kärda församling",
+    "link": "http://www.wikidata.org/entity/Q10551752"
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Altofta"
+  ],
+  "positions": [
+    {
+      "start": "1915-01-25 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns västra valkrets"
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1914-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Jönköpings läns västra valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5554945",
+      "link": "https://www.wikidata.org/wiki/Q5554945"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "4e1scVvZ-EAAAAAAAAA8FQ",
+      "link": "https://portrattarkiv.se/details/4e1scVvZ-EAAAAAAAAA8FQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

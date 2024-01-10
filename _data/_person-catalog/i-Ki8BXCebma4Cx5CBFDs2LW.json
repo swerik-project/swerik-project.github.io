@@ -1,0 +1,102 @@
+{
+  "name": "thorsten larsson",
+  "swerik-id": "i-Ki8BXCebma4Cx5CBFDs2LW",
+  "DOB": "1913-09-16",
+  "DOD": "1996-04-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Knästorps församling",
+    "link": "http://www.wikidata.org/entity/Q10546806"
+  },
+  "place-of-death": {
+    "place": "Staffanstorps församling",
+    "link": "http://www.wikidata.org/entity/Q10677255"
+  },
+  "alt-names": [
+    "lars thorsten larsson",
+    "larsson"
+  ],
+  "iorter": [
+    "Nordanå",
+    "Staffanstorp"
+  ],
+  "positions": [
+    {
+      "start": "1979-10-01 00:00:00",
+      "end": "1982-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1976-10-04 00:00:00",
+      "end": "1979-10-01 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1974-01-10 00:00:00",
+      "end": "1976-10-04 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1971-01-11 00:00:00",
+      "end": "1974-01-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1959-01-01 00:00:00",
+      "end": "1970-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Thorsten%20Larsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5938913",
+      "link": "https://www.wikidata.org/wiki/Q5938913"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "421a66fa-fd07-41b6-ba42-be6c1e478d0b",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_421a66fa-fd07-41b6-ba42-be6c1e478d0b"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRdQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRdQ"
+    }
+  ],
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Centerpartiet",
+        "party-id": "Q110832"
+      },
+      "start": "1979-10-01",
+      "end": "1982-10-04"
+    }
+  ],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}

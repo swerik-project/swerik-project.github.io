@@ -1,0 +1,110 @@
+{
+  "name": "sven linders",
+  "swerik-id": "i-CWWYqdnnUFLvQEhYk3V8Wo",
+  "DOB": "1873-02-14",
+  "DOD": "1932-12-16",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Nevishögs församling",
+    "link": "http://www.wikidata.org/entity/Q10600213"
+  },
+  "place-of-death": {
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
+  },
+  "alt-names": [
+    "linders",
+    "sven nilsson linders"
+  ],
+  "iorter": [
+    "Nevishög"
+  ],
+  "positions": [
+    {
+      "start": "1927-01-01 00:00:00",
+      "end": "1932-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Malmöhus läns valkrets"
+    },
+    {
+      "start": "1924-10-18 00:00:00",
+      "end": "1926-06-07 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting III",
+      "district": null
+    },
+    {
+      "start": "1924-10-14 00:00:00",
+      "end": "1925-01-24 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting III",
+      "district": null
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "jordbruksminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1921-10-13 00:00:00",
+      "end": "1923-04-19 00:00:00",
+      "role": "landsbygdsminister",
+      "source": "minister",
+      "chamber": null,
+      "government": "Regeringen Branting II",
+      "district": null
+    },
+    {
+      "start": "1912-01-01 00:00:00",
+      "end": "1917-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Malmöhus läns mellersta valkrets"
+    },
+    {
+      "start": "1909-01-01 00:00:00",
+      "end": "1911-12-31 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Bara härads valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Sven%20Linders.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q5955664",
+      "link": "https://www.wikidata.org/wiki/Q5955664"
+    },
+    {
+      "authority": "Dictionary of Swedish National Biography ID",
+      "identifier": "10535",
+      "link": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10535"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgRmw",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgRmw"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v0.12.0",
+  "last-updated": "2024-01-08 17:17:12"
+}
