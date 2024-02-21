@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Towards the correct number of MPs per Riksdag session
+title: The Swerik MP catalog is now available
 date:   2024-02-21 00:44:16
 description: curation work 
 tags: formatting links
