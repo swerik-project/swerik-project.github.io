@@ -11,8 +11,8 @@ nav_order: 3
 The most recent release of The Swedish Parliament Corpus can be accessed <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest">here</a>.
 
 You can also directly download the corpus in
-- The records in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/download/latest/records.zip">ParlaClarin format</a>
-- The metadata in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/download/latest/dumps.zip">CSV format</a>
+- The records in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest/download/records.zip">ParlaClarin format</a>
+- The metadata in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest/download/dumps.zip">CSV format</a>
 
 <h2 class="repos">Publications</h2>
 <div class="publications">
