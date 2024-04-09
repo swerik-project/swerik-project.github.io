@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /data-and-code/
-title: "Data, Code & Publications"
+title: "Publications, Data & Code"
 description: ""
 nav: true
 years: [2024]
@@ -14,7 +14,10 @@ You can also directly download the corpus in
 - The records in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest/download/records.zip">ParlaClarin format</a>
 - The metadata in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest/download/dumps.zip">CSV format</a>
 
-<h2 class="repos">Publications</h2>
+<br>
+
+### Publications
+
 <div class="publications">
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
@@ -23,7 +26,9 @@ You can also directly download the corpus in
 </div>
 
 {% if site.data.repositories.github_repos %}
-<h2 class="repos">Source code</h2>
+
+### Source code
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.html repository=repo %}

@@ -10,7 +10,9 @@ nav_order: 1
 
 Swerik welcomes collaborations with research projects and individual scholars. Our working ideology is that researchers who work with the parliamentary infrastructure will also make it better.
 
-## Collaboration with research projects investing resources in Swerik
+<br>
+
+#### Collaboration with research projects investing resources in Swerik
 
 _What does it take to make leadership gender equal? Studies of political leadership in a gender balanced context_. PI: Josefina Eriksson (Uppsala University). Funder: The Swedish Research Council (2023–2026). Swerik collaboration: annotate interpellation debates.
 
@@ -18,7 +20,9 @@ _What will we eat? Food as a security policy issue in Sweden 1900–2025._ PI: J
 
 _Extending SWERIK_. PI: Måns Magnusson (Uppsala University). Funder: Centre for Digital Humanities and Social Sciences at Uppsala University (spring of 2024). Swerik collaboration: improve the segmentation of Swedish parliamentary speeches 1867–2023.
 
-## Collaborations with other research projects
+<br>
+
+#### Collaborations with other research projects
 
 _Political Representation: Tensions between Parliament and the People from the Age of Revolutions to the 21st Century_. PI: Pasi Ihalainen (Jyväskylä University). Funder: Research Council of Finland (2021–2026). Swerik collaboration: use Swerik data for an interface to explore different national parliamentary speeches.
 
