@@ -2,5 +2,8 @@ github_users:
   - swerik-project
 
 github_repos:
-  - welfare-state-analytics/riksdagen-corpus
+  - swerik-project/the-swedish-parliament-corpus
+  - swerik-project/riksdagen-records
+  - swerik-project/riksdagen-politicians
+  - swerik-project/pyriksdagen
   - swerik-project/swerik-project.github.io

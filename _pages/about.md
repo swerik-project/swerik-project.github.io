@@ -3,6 +3,7 @@ layout: about
 title: Swerik
 permalink: /
 subtitle: Research infrastructure project funded by Riksbankens Jubileumsfond
+nav: false
 
 profile:
   align: ""
