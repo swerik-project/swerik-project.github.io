@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /data-and-code/
-title: "Publications, Data & Code"
+permalink: /data-publications-and-code/
+title: "Data, Publications, & Code"
 description: ""
 nav: true
 years: [2024]
@@ -9,10 +9,6 @@ nav_order: 3
 ---
 
 The most recent release of The Swedish Parliament Corpus can be accessed <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest">here</a>.
-
-You can also directly download the corpus in
-- The records in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest/download/records.zip">ParlaClarin format</a>
-- The metadata in the <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest/download/dumps.zip">CSV format</a>
 
 <br>
 
