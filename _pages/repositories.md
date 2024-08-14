@@ -10,6 +10,8 @@ nav_order: 3
 
 The most recent release of The Swedish Parliament Corpus can be accessed <a href="https://github.com/swerik-project/the-swedish-parliament-corpus/releases/latest">here</a>.
 
+The Swerik database of all Swedish members of parliament since 1867, built through Wikidata, can also be explored <a href="https://swerik-project.github.io/person-catalog/">here</a>.
+
 <br>
 
 ### Publications
