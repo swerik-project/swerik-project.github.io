@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1940-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1940-12-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -48,6 +48,14 @@
   "party-affiliations": [
     {
       "party": {
+        "name": "Socialistiska partiet",
+        "party-id": "Q2425638"
+      },
+      "start": "1934",
+      "end": "1940"
+    },
+    {
+      "party": {
         "name": "Kilbomspartiet",
         "party-id": "Q111188360"
       },
@@ -56,13 +64,13 @@
     },
     {
       "party": {
-        "name": "Kommunistpartiet",
-        "party-id": "Q112116375"
+        "name": "Sveriges kommunistiska parti",
+        "party-id": "Q111285801"
       },
       "start": "1922",
       "end": "1929"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

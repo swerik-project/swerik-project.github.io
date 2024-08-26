@@ -23,8 +23,8 @@
   ],
   "positions": [
     {
-      "start": "1894-01-01 00:00:00",
-      "end": "1902-12-31 00:00:00",
+      "start": "1894-01-15 00:00:00",
+      "end": "1902-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -41,8 +41,8 @@
       "district": null
     },
     {
-      "start": "1889-01-01 00:00:00",
-      "end": "1890-12-31 00:00:00",
+      "start": "1889-01-15 00:00:00",
+      "end": "1890-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -50,8 +50,8 @@
       "district": "Linköpings valkrets"
     },
     {
-      "start": "1880-01-01 00:00:00",
-      "end": "1888-12-31 00:00:00",
+      "start": "1880-01-15 00:00:00",
+      "end": "1888-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -59,8 +59,8 @@
       "district": "Östergötlands läns valkrets"
     },
     {
-      "start": "1874-01-01 00:00:00",
-      "end": "1875-12-31 00:00:00",
+      "start": "1874-01-15 00:00:00",
+      "end": "1875-05-26 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -68,8 +68,8 @@
       "district": "Linköpings valkrets"
     },
     {
-      "start": "1867-01-01 00:00:00",
-      "end": "1867-12-31 00:00:00",
+      "start": "1867-01-15 00:00:00",
+      "end": "1867-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -120,6 +120,6 @@
       "end": "1867"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

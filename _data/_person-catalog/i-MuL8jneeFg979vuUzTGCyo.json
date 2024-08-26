@@ -23,8 +23,8 @@
   ],
   "positions": [
     {
-      "start": "1928-01-01 00:00:00",
-      "end": "1935-12-31 00:00:00",
+      "start": "1928-01-10 00:00:00",
+      "end": "1935-06-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -41,8 +41,8 @@
       "district": null
     },
     {
-      "start": "1903-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1903-01-15 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -75,7 +75,56 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfQug"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1935"
+    },
+    {
+      "party": {
+        "name": "Moderaterna",
+        "party-id": "Q110843"
+      },
+      "start": "1935",
+      "end": "1935"
+    },
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1928",
+      "end": "1934"
+    },
+    {
+      "party": {
+        "name": "högervilde",
+        "party-id": "Q111104528"
+      },
+      "start": "1908",
+      "end": "1908"
+    },
+    {
+      "party": {
+        "name": "vänstervilde",
+        "party-id": "Q111108382"
+      },
+      "start": "1907",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1903",
+      "end": "1906"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

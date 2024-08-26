@@ -1,7 +1,7 @@
 {
   "name": "björn ericson",
   "swerik-id": "i-EmjigjZuAQAJx6WM7GX1ZK",
-  "DOB": "1937",
+  "DOB": "1937-09-30",
   "DOD": "2012-04-24",
   "gender": "man",
   "place-of-birth": {
@@ -156,6 +156,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

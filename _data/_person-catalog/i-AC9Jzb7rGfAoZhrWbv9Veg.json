@@ -1,12 +1,12 @@
 {
   "name": "christina nilsson",
   "swerik-id": "i-AC9Jzb7rGfAoZhrWbv9Veg",
-  "DOB": "1956",
+  "DOB": "1956-07-06",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Linköpings domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10562793"
   },
   "place-of-death": {
     "place": null,
@@ -53,6 +53,6 @@
       "end": "2021-11-24"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

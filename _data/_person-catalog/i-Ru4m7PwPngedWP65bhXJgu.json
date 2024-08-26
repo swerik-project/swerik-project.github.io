@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1903-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1903-01-15 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Umeå tingslags valkrets"
     },
     {
-      "start": "1888-01-01 00:00:00",
-      "end": "1890-12-31 00:00:00",
+      "start": "1888-01-16 00:00:00",
+      "end": "1890-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -72,6 +72,6 @@
       "end": "1890"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

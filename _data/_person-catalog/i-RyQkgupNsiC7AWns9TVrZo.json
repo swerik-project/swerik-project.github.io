@@ -1,19 +1,21 @@
 {
   "name": "torsten karlsson",
   "swerik-id": "i-RyQkgupNsiC7AWns9TVrZo",
-  "DOB": "1923",
-  "DOD": null,
+  "DOB": "1923-02-23",
+  "DOD": "2014-09-02",
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Heda församling",
+    "link": "http://www.wikidata.org/entity/Q10519075"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Motala",
+    "link": "http://www.wikidata.org/entity/Q54357"
   },
   "alt-names": [
-    "karlsson"
+    "karlsson",
+    "torsten a karlsson",
+    "torsten allan karlsson"
   ],
   "iorter": [
     "Motala"
@@ -93,6 +95,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

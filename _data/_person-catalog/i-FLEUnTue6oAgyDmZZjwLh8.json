@@ -2,19 +2,20 @@
   "name": "anna greta leijon",
   "swerik-id": "i-FLEUnTue6oAgyDmZZjwLh8",
   "DOB": "1939-06-30",
-  "DOD": null,
+  "DOD": "2024-04-11",
   "gender": "woman",
   "place-of-birth": {
     "place": "Stockholm",
     "link": "http://www.wikidata.org/entity/Q1754"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Stockholms Sofia distrikt",
+    "link": "http://www.wikidata.org/entity/Q21667373"
   },
   "alt-names": [
     "anna greta leion",
     "anna greta lejon",
+    "anna margareta maria lejon",
     "annagreta leion",
     "annagreta lejon",
     "leijon"
@@ -180,6 +181,6 @@
       "end": "1990-06-13"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

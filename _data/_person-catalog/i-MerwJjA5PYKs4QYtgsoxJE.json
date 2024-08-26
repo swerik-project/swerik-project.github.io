@@ -1,16 +1,16 @@
 {
   "name": "erling wälivaara",
   "swerik-id": "i-MerwJjA5PYKs4QYtgsoxJE",
-  "DOB": "1941",
-  "DOD": null,
+  "DOB": "1941-07-20",
+  "DOD": "2022-11-17",
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Pajala församling",
+    "link": "http://www.wikidata.org/entity/Q10615166"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Örnäsets distrikt",
+    "link": "http://www.wikidata.org/entity/Q21721322"
   },
   "alt-names": [],
   "iorter": [],
@@ -71,6 +71,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -1,7 +1,7 @@
 {
   "name": "ingrid näslund",
   "swerik-id": "i-TBWJgK7R6pzsE6Ap5PiEb4",
-  "DOB": "1934-07-31",
+  "DOB": "1931-07-08",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -75,6 +75,6 @@
       "end": "2000-01-31"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -1,7 +1,7 @@
 {
   "name": "johan ohlsson",
   "swerik-id": "i-EEpr1Cx3sBrwmNG6AU1JMZ",
-  "DOB": "1824-07-22",
+  "DOB": "1824-07-21",
   "DOD": "1901-08-14",
   "gender": "man",
   "place-of-birth": {
@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1867-01-01 00:00:00",
-      "end": "1869-12-31 00:00:00",
+      "start": "1867-01-15 00:00:00",
+      "end": "1869-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -45,6 +45,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

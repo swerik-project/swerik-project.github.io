@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1933-01-01 00:00:00",
-      "end": "1945-12-31 00:00:00",
+      "start": "1933-01-10 00:00:00",
+      "end": "1945-12-29 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -83,7 +83,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgfHA"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet",
+        "party-id": "Q53764745"
+      },
+      "start": "1935",
+      "end": "1945"
+    },
+    {
+      "party": {
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

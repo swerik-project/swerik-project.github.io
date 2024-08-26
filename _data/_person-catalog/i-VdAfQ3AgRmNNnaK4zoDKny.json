@@ -1,7 +1,7 @@
 {
   "name": "per erik granström",
   "swerik-id": "i-VdAfQ3AgRmNNnaK4zoDKny",
-  "DOB": "1942",
+  "DOB": "1942-02-13",
   "DOD": "2011-07-24",
   "gender": "man",
   "place-of-birth": {
@@ -93,6 +93,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

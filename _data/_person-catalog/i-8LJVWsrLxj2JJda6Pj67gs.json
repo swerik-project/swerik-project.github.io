@@ -1,12 +1,12 @@
 {
   "name": "katarina olofsson",
   "swerik-id": "i-8LJVWsrLxj2JJda6Pj67gs",
-  "DOB": "1943",
+  "DOB": "1943-08-08",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
   },
   "place-of-death": {
     "place": null,
@@ -50,6 +50,6 @@
       "end": "2019-06-27"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

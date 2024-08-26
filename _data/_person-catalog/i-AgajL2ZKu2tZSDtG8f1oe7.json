@@ -1,12 +1,12 @@
 {
   "name": "per sundgren",
   "swerik-id": "i-AgajL2ZKu2tZSDtG8f1oe7",
-  "DOB": null,
+  "DOB": "1944-03-25",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Enskede-Årsta församling",
+    "link": "http://www.wikidata.org/entity/Q3438599"
   },
   "place-of-death": {
     "place": null,
@@ -55,6 +55,6 @@
       "end": "1997-10-07"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

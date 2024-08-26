@@ -5,8 +5,8 @@
   "DOD": "2021-12-03",
   "gender": "woman",
   "place-of-birth": {
-    "place": "Stortorp",
-    "link": "http://www.wikidata.org/entity/Q10681425"
+    "place": "Norrbyås församling",
+    "link": "http://www.wikidata.org/entity/Q10602750"
   },
   "place-of-death": {
     "place": null,
@@ -66,6 +66,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

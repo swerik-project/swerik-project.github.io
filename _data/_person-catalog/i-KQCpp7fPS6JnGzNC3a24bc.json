@@ -41,8 +41,8 @@
       "district": null
     },
     {
-      "start": "1905-01-01 00:00:00",
-      "end": "1906-12-31 00:00:00",
+      "start": "1905-01-16 00:00:00",
+      "end": "1906-05-28 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -59,8 +59,8 @@
       "district": null
     },
     {
-      "start": "1897-01-01 00:00:00",
-      "end": "1902-12-31 00:00:00",
+      "start": "1897-01-15 00:00:00",
+      "end": "1902-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -68,8 +68,8 @@
       "district": "Luleå och Haparanda valkrets"
     },
     {
-      "start": "1891-01-01 00:00:00",
-      "end": "1893-12-31 00:00:00",
+      "start": "1891-01-15 00:00:00",
+      "end": "1893-05-10 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -77,8 +77,8 @@
       "district": "Västerbottens läns valkrets"
     },
     {
-      "start": "1888-01-01 00:00:00",
-      "end": "1890-12-31 00:00:00",
+      "start": "1888-01-16 00:00:00",
+      "end": "1890-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -111,7 +111,16 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRmg"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1891",
+      "end": "1893"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

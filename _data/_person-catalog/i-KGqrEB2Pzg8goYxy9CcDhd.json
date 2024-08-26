@@ -1,12 +1,12 @@
 {
   "name": "lars gustafsson",
   "swerik-id": "i-KGqrEB2Pzg8goYxy9CcDhd",
-  "DOB": "1951",
+  "DOB": "1951-09-25",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Halmstads församling",
+    "link": "http://www.wikidata.org/entity/Q58455502"
   },
   "place-of-death": {
     "place": null,
@@ -80,6 +80,6 @@
       "end": "2014-09-29"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

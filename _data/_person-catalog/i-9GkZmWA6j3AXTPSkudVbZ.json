@@ -1,7 +1,7 @@
 {
   "name": "roland larsson",
   "swerik-id": "i-9GkZmWA6j3AXTPSkudVbZ",
-  "DOB": "1939",
+  "DOB": "1939-08-13",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -75,6 +75,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

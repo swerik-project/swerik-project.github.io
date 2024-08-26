@@ -1,7 +1,7 @@
 {
   "name": "kristina svensson",
   "swerik-id": "i-VXkZessNxc9eyPfvwLgWcK",
-  "DOB": "1940",
+  "DOB": "1940-11-08",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -13,6 +13,7 @@
     "link": null
   },
   "alt-names": [
+    "kristina margareta svensson",
     "svensson"
   ],
   "iorter": [
@@ -93,6 +94,6 @@
       "end": "1996-11-08"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

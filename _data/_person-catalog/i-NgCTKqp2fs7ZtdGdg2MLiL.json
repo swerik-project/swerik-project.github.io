@@ -2,15 +2,15 @@
   "name": "karl göran biörsmark",
   "swerik-id": "i-NgCTKqp2fs7ZtdGdg2MLiL",
   "DOB": "1936-03-29",
-  "DOD": null,
+  "DOD": "2021-12-25",
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Ulricehamns församling",
+    "link": "http://www.wikidata.org/entity/Q10708864"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Norrköpings Sankt Olai distrikt",
+    "link": "http://www.wikidata.org/entity/Q21580251"
   },
   "alt-names": [
     "biörsmark"
@@ -120,6 +120,6 @@
       "end": "2002-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

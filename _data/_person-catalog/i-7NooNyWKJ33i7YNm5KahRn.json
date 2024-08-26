@@ -21,7 +21,7 @@
   "positions": [
     {
       "start": "1929-04-05 00:00:00",
-      "end": "1936-12-31 00:00:00",
+      "end": "1936-06-27 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -29,8 +29,8 @@
       "district": "Örebro läns valkrets"
     },
     {
-      "start": "1925-01-01 00:00:00",
-      "end": "1928-12-31 00:00:00",
+      "start": "1925-01-10 00:00:00",
+      "end": "1928-06-08 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -38,8 +38,8 @@
       "district": "Örebro läns valkrets"
     },
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1918-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1918-12-23 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -93,6 +93,6 @@
       "end": "1918"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

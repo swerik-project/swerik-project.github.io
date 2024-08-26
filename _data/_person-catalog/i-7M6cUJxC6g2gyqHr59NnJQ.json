@@ -5,8 +5,8 @@
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": "Kristianstad",
-    "link": "http://www.wikidata.org/entity/Q26937"
+    "place": "Kristianstads Heliga Trefaldighets församling",
+    "link": "http://www.wikidata.org/entity/Q10549200"
   },
   "place-of-death": {
     "place": null,
@@ -51,6 +51,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

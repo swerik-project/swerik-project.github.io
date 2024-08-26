@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1912-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1912-05-31 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,8 +31,8 @@
       "district": "Örebro läns valkrets"
     },
     {
-      "start": "1907-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1907-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -83,7 +83,16 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcdw"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1908",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

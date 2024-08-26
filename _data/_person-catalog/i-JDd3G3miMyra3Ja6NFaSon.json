@@ -1,12 +1,12 @@
 {
   "name": "marielle lahti",
   "swerik-id": "i-JDd3G3miMyra3Ja6NFaSon",
-  "DOB": "1969",
+  "DOB": "1969-02-05",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Katrineholms församling",
+    "link": "http://www.wikidata.org/entity/Q10544406"
   },
   "place-of-death": {
     "place": null,
@@ -53,6 +53,6 @@
       "end": "2023-06-25"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

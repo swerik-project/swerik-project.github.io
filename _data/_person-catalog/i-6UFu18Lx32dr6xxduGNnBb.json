@@ -1,7 +1,7 @@
 {
   "name": "bo arvidson",
   "swerik-id": "i-6UFu18Lx32dr6xxduGNnBb",
-  "DOB": "1933",
+  "DOB": "1933-01-23",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -13,7 +13,8 @@
     "link": null
   },
   "alt-names": [
-    "arvidson"
+    "arvidson",
+    "bo ragnar arvidson"
   ],
   "iorter": [
     "Kävlinge"
@@ -66,6 +67,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

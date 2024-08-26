@@ -47,8 +47,8 @@
       "district": "Malmöhus läns valkrets"
     },
     {
-      "start": "1965-01-01 00:00:00",
-      "end": "1970-12-31 00:00:00",
+      "start": "1965-01-11 00:00:00",
+      "end": "1970-12-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -81,6 +81,6 @@
       "end": "1978-04-06"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

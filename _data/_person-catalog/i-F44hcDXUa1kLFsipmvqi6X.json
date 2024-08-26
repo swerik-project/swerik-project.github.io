@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1900-01-01 00:00:00",
-      "end": "1913-12-31 00:00:00",
+      "start": "1900-01-14 00:00:00",
+      "end": "1913-06-02 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,8 +31,8 @@
       "district": "Västra Götalands läns västra valkrets"
     },
     {
-      "start": "1894-01-01 00:00:00",
-      "end": "1896-12-31 00:00:00",
+      "start": "1894-01-15 00:00:00",
+      "end": "1896-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -112,6 +112,6 @@
       "end": "1894"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

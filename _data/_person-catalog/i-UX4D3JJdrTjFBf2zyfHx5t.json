@@ -1,0 +1,43 @@
+{
+  "name": "marie nordström",
+  "swerik-id": "i-UX4D3JJdrTjFBf2zyfHx5t",
+  "DOB": "1931-12-22",
+  "DOD": "2020-04-17",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "nordström"
+  ],
+  "iorter": [
+    "Lund"
+  ],
+  "positions": [
+    {
+      "start": "1981-10-06 00:00:00",
+      "end": "1982-06-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4970175",
+      "link": "https://www.wikidata.org/wiki/Q4970175"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
+}

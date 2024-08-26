@@ -1,8 +1,8 @@
 {
   "name": "helge hagberg",
   "swerik-id": "i-RqJoyqBtHk6qXvzc8mj8mb",
-  "DOB": "1932",
-  "DOD": null,
+  "DOB": "1932-02-21",
+  "DOD": "2019",
   "gender": "man",
   "place-of-birth": {
     "place": null,
@@ -102,6 +102,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

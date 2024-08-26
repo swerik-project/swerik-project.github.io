@@ -5,8 +5,8 @@
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": "Lund",
-    "link": "http://www.wikidata.org/entity/Q2167"
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
   },
   "place-of-death": {
     "place": null,
@@ -66,6 +66,6 @@
       "end": "2007-11-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

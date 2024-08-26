@@ -23,7 +23,7 @@
   ],
   "positions": [
     {
-      "start": "1935-01-01 00:00:00",
+      "start": "1935-01-10 00:00:00",
       "end": "1950-07-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -32,8 +32,8 @@
       "district": "Göteborgs kommuns valkrets"
     },
     {
-      "start": "1931-01-01 00:00:00",
-      "end": "1934-12-31 00:00:00",
+      "start": "1931-01-10 00:00:00",
+      "end": "1934-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -62,6 +62,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

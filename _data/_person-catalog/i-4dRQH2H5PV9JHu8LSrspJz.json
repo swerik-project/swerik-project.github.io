@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1897-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1897-01-15 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -31,8 +31,8 @@
       "district": "Vänersborgs och Åmåls valkrets"
     },
     {
-      "start": "1886-01-01 00:00:00",
-      "end": "1894-12-31 00:00:00",
+      "start": "1886-01-15 00:00:00",
+      "end": "1894-05-12 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -40,8 +40,8 @@
       "district": "Hallands läns valkrets"
     },
     {
-      "start": "1878-01-01 00:00:00",
-      "end": "1885-12-31 00:00:00",
+      "start": "1878-01-15 00:00:00",
+      "end": "1885-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -49,8 +49,8 @@
       "district": "Blekinge läns valkrets"
     },
     {
-      "start": "1873-01-01 00:00:00",
-      "end": "1875-12-31 00:00:00",
+      "start": "1873-01-15 00:00:00",
+      "end": "1875-05-26 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -104,6 +104,6 @@
       "end": "1894"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

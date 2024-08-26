@@ -1,12 +1,12 @@
 {
   "name": "ingemar vänerlöv",
   "swerik-id": "i-SmQxY46smWu5awEQ2oGr4n",
-  "DOB": "1944",
+  "DOB": "1944-11-04",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": "Brålanda",
-    "link": "http://www.wikidata.org/entity/Q2283709"
+    "place": "Vänersborgs församling",
+    "link": "http://www.wikidata.org/entity/Q18334839"
   },
   "place-of-death": {
     "place": null,
@@ -71,6 +71,6 @@
       "end": "2010-10-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

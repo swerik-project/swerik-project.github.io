@@ -1,5 +1,5 @@
 {
-  "name": "amalia pedersen",
+  "name": "amalia rud stenlöf",
   "swerik-id": "i-KGMyxbz9qWim28W7Po1nnR",
   "DOB": "1993-04-19",
   "DOD": null,
@@ -14,13 +14,14 @@
   },
   "alt-names": [
     "amalia maria rud pedersen",
+    "amalia pedersen",
     "amalia rud pedersen"
   ],
   "iorter": [],
   "positions": [
     {
       "start": "2022-09-26 00:00:00",
-      "end": "2026-10-17 00:00:00",
+      "end": "2024-01-07 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 0.0,
@@ -46,7 +47,16 @@
       "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_0e5801ac-d595-455d-83b3-f00f7d8d26bd"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Socialdemokraterna",
+        "party-id": "Q105112"
+      },
+      "start": "2022-09-26",
+      "end": "2024-01-07"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

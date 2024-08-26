@@ -1,7 +1,7 @@
 {
   "name": "berit löfstedt",
   "swerik-id": "i-MAohbgjULBda4ky5ZTSzv1",
-  "DOB": "1946",
+  "DOB": "1946-07-27",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -102,6 +102,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

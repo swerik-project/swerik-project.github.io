@@ -38,7 +38,7 @@
       "district": null
     },
     {
-      "start": "1912-01-01 00:00:00",
+      "start": "1912-01-15 00:00:00",
       "end": "1918-05-24 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -47,8 +47,8 @@
       "district": "Kopparbergs läns norra valkrets"
     },
     {
-      "start": "1891-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1891-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -110,6 +110,6 @@
       "end": "1894"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

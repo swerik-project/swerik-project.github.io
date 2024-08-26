@@ -1,7 +1,7 @@
 {
   "name": "birgitta rydle",
   "swerik-id": "i-WtVUiHZh5LgiVdShZaxhhB",
-  "DOB": "1928",
+  "DOB": "1928-07-25",
   "DOD": "2012-11-02",
   "gender": "woman",
   "place-of-birth": {
@@ -102,6 +102,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

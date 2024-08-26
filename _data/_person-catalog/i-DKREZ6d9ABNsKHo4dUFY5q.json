@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1894-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1894-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -29,8 +29,8 @@
       "district": "Nordals, Sundals och Valbo häraders valkrets"
     },
     {
-      "start": "1885-01-01 00:00:00",
-      "end": "1887-12-31 00:00:00",
+      "start": "1885-01-15 00:00:00",
+      "end": "1887-07-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -53,7 +53,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZNQ"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1894",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

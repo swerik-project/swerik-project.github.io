@@ -47,8 +47,8 @@
       "district": "Stockholms läns valkrets"
     },
     {
-      "start": "1969-01-01 00:00:00",
-      "end": "1970-12-31 00:00:00",
+      "start": "1969-01-10 00:00:00",
+      "end": "1970-12-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -57,7 +57,7 @@
     },
     {
       "start": "1957-11-14 00:00:00",
-      "end": "1968-12-31 00:00:00",
+      "end": "1968-12-12 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -66,7 +66,7 @@
     },
     {
       "start": "1953-09-08 00:00:00",
-      "end": "1956-12-31 00:00:00",
+      "end": "1956-12-13 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -99,6 +99,6 @@
       "end": "1979-10-01"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

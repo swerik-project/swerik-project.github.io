@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1914-01-01 00:00:00",
-      "end": "1914-12-31 00:00:00",
+      "start": "1914-01-15 00:00:00",
+      "end": "1914-12-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Stockholms läns södra valkrets"
     },
     {
-      "start": "1903-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1903-01-15 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -69,7 +69,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABge7Q"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Frisinnade försvarsvänner",
+        "party-id": "Q10499214"
+      },
+      "start": "1914",
+      "end": "1914"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1903",
+      "end": "1908"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

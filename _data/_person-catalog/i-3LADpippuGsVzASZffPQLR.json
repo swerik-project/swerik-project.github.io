@@ -23,8 +23,8 @@
   ],
   "positions": [
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1932-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1932-06-20 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -32,8 +32,8 @@
       "district": null
     },
     {
-      "start": "1918-01-01 00:00:00",
-      "end": "1921-12-31 00:00:00",
+      "start": "1918-01-15 00:00:00",
+      "end": "1921-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -41,8 +41,8 @@
       "district": null
     },
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1914-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1914-12-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -50,8 +50,8 @@
       "district": null
     },
     {
-      "start": "1909-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1909-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -59,8 +59,8 @@
       "district": null
     },
     {
-      "start": "1900-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1900-01-14 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -111,6 +111,6 @@
       "end": "1923"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

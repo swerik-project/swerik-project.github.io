@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1943-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1943-12-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -29,8 +29,8 @@
       "district": "Kalmar läns norra och södra landstingsområdens och Gotlands läns valkrets"
     },
     {
-      "start": "1920-01-01 00:00:00",
-      "end": "1921-12-31 00:00:00",
+      "start": "1920-01-10 00:00:00",
+      "end": "1921-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -53,7 +53,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRvg"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Bondeförbundet",
+        "party-id": "Q110472693"
+      },
+      "start": "1922",
+      "end": "1943"
+    },
+    {
+      "party": {
+        "name": "Jordbrukarnas fria grupp",
+        "party-id": "Q10540831"
+      },
+      "start": "1920",
+      "end": "1921"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

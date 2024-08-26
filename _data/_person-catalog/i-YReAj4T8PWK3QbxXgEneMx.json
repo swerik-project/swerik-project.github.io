@@ -1,7 +1,7 @@
 {
   "name": "helena frisk",
   "swerik-id": "i-YReAj4T8PWK3QbxXgEneMx",
-  "DOB": "1965",
+  "DOB": "1965-10-30",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -98,6 +98,6 @@
       "end": "2007-08-28"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

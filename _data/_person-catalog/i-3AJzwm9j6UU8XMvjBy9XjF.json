@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1907-01-01 00:00:00",
-      "end": "1912-12-31 00:00:00",
+      "start": "1907-01-15 00:00:00",
+      "end": "1912-05-31 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -30,8 +30,8 @@
       "district": "Kronobergs läns valkrets"
     },
     {
-      "start": "1903-01-01 00:00:00",
-      "end": "1906-12-31 00:00:00",
+      "start": "1903-01-15 00:00:00",
+      "end": "1906-05-28 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -90,6 +90,6 @@
       "end": "1905"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

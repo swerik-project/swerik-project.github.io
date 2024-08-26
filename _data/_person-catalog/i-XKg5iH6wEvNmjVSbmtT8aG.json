@@ -1,7 +1,7 @@
 {
   "name": "hugo andersson",
   "swerik-id": "i-XKg5iH6wEvNmjVSbmtT8aG",
-  "DOB": "1950",
+  "DOB": "1950-11-14",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -58,6 +58,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

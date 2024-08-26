@@ -1,0 +1,50 @@
+{
+  "name": "per waller",
+  "swerik-id": "i-W4ytnPuPTvRtJf3k6ST5af",
+  "DOB": "1888-12-17",
+  "DOD": "1953-11-13",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "place-of-death": {
+    "place": "Domkyrkoförsamlingen i Göteborg",
+    "link": "http://www.wikidata.org/entity/Q10475816"
+  },
+  "alt-names": [
+    "waller"
+  ],
+  "iorter": [
+    "Stockholm"
+  ],
+  "positions": [
+    {
+      "start": "1942-10-03 00:00:00",
+      "end": "1942-12-30 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Per%20Waller%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117289330",
+      "link": "https://www.wikidata.org/wiki/Q117289330"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABfkZQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfkZQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
+}

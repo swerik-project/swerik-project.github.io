@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1878-01-01 00:00:00",
-      "end": "1899-12-31 00:00:00",
+      "start": "1878-01-15 00:00:00",
+      "end": "1899-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -60,7 +60,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ9w"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1888",
+      "end": "1899"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiets filial",
+        "party-id": "Q10554126"
+      },
+      "start": "1878",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

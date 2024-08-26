@@ -1,7 +1,7 @@
 {
   "name": "lars stjernkvist",
   "swerik-id": "i-L8FJ5Uq6DWCoY3cXS1trPk",
-  "DOB": "1958",
+  "DOB": "1958-04-27",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -69,6 +69,6 @@
       "end": "1998-05-31"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

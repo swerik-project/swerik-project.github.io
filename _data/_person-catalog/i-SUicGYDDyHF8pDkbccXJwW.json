@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1894-01-01 00:00:00",
-      "end": "1907-12-31 00:00:00",
+      "start": "1894-01-15 00:00:00",
+      "end": "1907-06-03 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -29,8 +29,8 @@
       "district": "Östergötlands läns valkrets"
     },
     {
-      "start": "1888-01-01 00:00:00",
-      "end": "1890-12-31 00:00:00",
+      "start": "1888-01-16 00:00:00",
+      "end": "1890-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -38,8 +38,8 @@
       "district": "Hammarkinds och Skärkinds domsagas valkrets"
     },
     {
-      "start": "1883-01-01 00:00:00",
-      "end": "1887-12-31 00:00:00",
+      "start": "1883-01-15 00:00:00",
+      "end": "1887-07-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -47,8 +47,8 @@
       "district": "Östergötlands läns valkrets"
     },
     {
-      "start": "1876-01-01 00:00:00",
-      "end": "1881-12-31 00:00:00",
+      "start": "1876-01-15 00:00:00",
+      "end": "1881-04-29 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -97,6 +97,6 @@
       "end": "1881"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

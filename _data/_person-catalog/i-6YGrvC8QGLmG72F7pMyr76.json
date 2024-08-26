@@ -5,12 +5,12 @@
   "DOD": "2016-09-08",
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Kungsholms församling",
+    "link": "http://www.wikidata.org/entity/Q10550317"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Knislinge distrikt",
+    "link": "http://www.wikidata.org/entity/Q21560169"
   },
   "alt-names": [],
   "iorter": [],
@@ -43,6 +43,6 @@
       "end": "1979-04-01"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

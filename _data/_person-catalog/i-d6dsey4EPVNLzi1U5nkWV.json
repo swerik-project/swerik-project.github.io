@@ -1,7 +1,7 @@
 {
   "name": "göran allmer",
   "swerik-id": "i-d6dsey4EPVNLzi1U5nkWV",
-  "DOB": "1926",
+  "DOB": "1926-07-31",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -84,6 +84,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

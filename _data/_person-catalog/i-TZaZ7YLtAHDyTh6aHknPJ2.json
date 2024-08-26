@@ -5,14 +5,16 @@
   "DOD": "1984-04-06",
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Blidsbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10431327"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Örgryte församling",
+    "link": "http://www.wikidata.org/entity/Q10727562"
   },
-  "alt-names": [],
+  "alt-names": [
+    "stina linnea svegland"
+  ],
   "iorter": [],
   "positions": [
     {
@@ -61,6 +63,6 @@
       "end": "1982-10-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

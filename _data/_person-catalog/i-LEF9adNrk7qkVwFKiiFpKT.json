@@ -1,18 +1,20 @@
 {
   "name": "kajsa lunderquist",
   "swerik-id": "i-LEF9adNrk7qkVwFKiiFpKT",
-  "DOB": "1983",
+  "DOB": "1983-04-18",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Gottsunda församling",
+    "link": "http://www.wikidata.org/entity/Q10507730"
   },
   "place-of-death": {
     "place": null,
     "link": null
   },
-  "alt-names": [],
+  "alt-names": [
+    "kajsa karin elisabeth lunderquist"
+  ],
   "iorter": [],
   "positions": [
     {
@@ -62,6 +64,6 @@
       "end": "2014-02-23"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

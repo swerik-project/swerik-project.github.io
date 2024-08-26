@@ -40,8 +40,8 @@
       "district": null
     },
     {
-      "start": "1921-01-01 00:00:00",
-      "end": "1928-12-31 00:00:00",
+      "start": "1921-01-10 00:00:00",
+      "end": "1928-06-08 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -49,8 +49,8 @@
       "district": "Dalarnas läns valkrets"
     },
     {
-      "start": "1914-01-01 00:00:00",
-      "end": "1914-12-31 00:00:00",
+      "start": "1914-01-15 00:00:00",
+      "end": "1914-12-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -101,6 +101,6 @@
       "end": "1923"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

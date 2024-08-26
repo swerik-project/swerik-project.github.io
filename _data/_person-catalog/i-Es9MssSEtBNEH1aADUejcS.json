@@ -1,7 +1,7 @@
 {
   "name": "leif marklund",
   "swerik-id": "i-Es9MssSEtBNEH1aADUejcS",
-  "DOB": "1943",
+  "DOB": "1943-03-02",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -84,6 +84,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

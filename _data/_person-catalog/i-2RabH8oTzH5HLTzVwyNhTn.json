@@ -1,7 +1,7 @@
 {
   "name": "johnny ahlqvist",
   "swerik-id": "i-2RabH8oTzH5HLTzVwyNhTn",
-  "DOB": "1948",
+  "DOB": "1948-07-04",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -93,6 +93,6 @@
       "end": "2000-07-31"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

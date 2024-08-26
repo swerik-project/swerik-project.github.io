@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1897-01-01 00:00:00",
-      "end": "1902-12-31 00:00:00",
+      "start": "1897-01-15 00:00:00",
+      "end": "1902-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,8 +31,8 @@
       "district": "Malmöhus läns valkrets"
     },
     {
-      "start": "1885-01-01 00:00:00",
-      "end": "1891-12-31 00:00:00",
+      "start": "1885-01-15 00:00:00",
+      "end": "1891-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -40,8 +40,8 @@
       "district": "Skåne läns norra och östra valkrets"
     },
     {
-      "start": "1884-01-01 00:00:00",
-      "end": "1884-12-31 00:00:00",
+      "start": "1884-01-15 00:00:00",
+      "end": "1884-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -74,7 +74,24 @@
       "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:63767"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiets filial",
+        "party-id": "Q10554126"
+      },
+      "start": "1885",
+      "end": "1887"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1884",
+      "end": "1884"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

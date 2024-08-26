@@ -2,7 +2,7 @@
   "name": "lennart levi",
   "swerik-id": "i-cTvnFNCTwGHRy1gphkR7q",
   "DOB": "1930-05-20",
-  "DOD": null,
+  "DOD": "2024-02-18",
   "gender": "man",
   "place-of-birth": {
     "place": "Riga",
@@ -55,6 +55,6 @@
       "end": "2010-10-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

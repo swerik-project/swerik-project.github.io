@@ -1,12 +1,12 @@
 {
   "name": "lars andersson",
   "swerik-id": "i-BPyL9xrSiFW1DR7Gx5wkdi",
-  "DOB": "1959",
+  "DOB": "1959-01-02",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Limhamns församling",
+    "link": "http://www.wikidata.org/entity/Q10562025"
   },
   "place-of-death": {
     "place": null,
@@ -68,6 +68,6 @@
       "end": "1992-03-10"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -1,7 +1,7 @@
 {
   "name": "rune ryden",
   "swerik-id": "i-9ZfzFzDXHZKY5aBmYVFU3a",
-  "DOB": "1939",
+  "DOB": "1939-09-02",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -128,6 +128,6 @@
       "end": "1974-01-10"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -1,7 +1,7 @@
 {
   "name": "kjell nilsson",
   "swerik-id": "i-23owrgiLSgQRynhwKe5Tja",
-  "DOB": "1928",
+  "DOB": "1928-05-23",
   "DOD": "2014",
   "gender": "man",
   "place-of-birth": {
@@ -120,6 +120,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

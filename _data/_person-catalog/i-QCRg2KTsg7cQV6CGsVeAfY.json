@@ -1,7 +1,7 @@
 {
   "name": "hans andersson",
   "swerik-id": "i-QCRg2KTsg7cQV6CGsVeAfY",
-  "DOB": "1945",
+  "DOB": "1945-04-23",
   "DOD": "2008",
   "gender": "man",
   "place-of-birth": {
@@ -76,6 +76,6 @@
       "end": "2002-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

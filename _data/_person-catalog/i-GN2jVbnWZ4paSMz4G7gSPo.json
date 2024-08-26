@@ -1,7 +1,7 @@
 {
   "name": "lisbeth staaf igelström",
   "swerik-id": "i-GN2jVbnWZ4paSMz4G7gSPo",
-  "DOB": "1943",
+  "DOB": "1943-02-23",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -102,6 +102,6 @@
       "end": "2002-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -1,7 +1,7 @@
 {
   "name": "jan hyttring",
   "swerik-id": "i-CVCXfw1YgSNtfc8szARmnb",
-  "DOB": "1942",
+  "DOB": "1942-04-27",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -13,7 +13,8 @@
     "link": null
   },
   "alt-names": [
-    "hyttring"
+    "hyttring",
+    "jan evert hyttring"
   ],
   "iorter": [
     "Karlstad"
@@ -75,6 +76,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

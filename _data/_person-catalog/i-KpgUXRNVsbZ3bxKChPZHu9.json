@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1891-01-01 00:00:00",
-      "end": "1896-12-31 00:00:00",
+      "start": "1891-01-15 00:00:00",
+      "end": "1896-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -29,8 +29,8 @@
       "district": "Stockholms kommuns valkrets"
     },
     {
-      "start": "1882-01-01 00:00:00",
-      "end": "1887-12-31 00:00:00",
+      "start": "1882-01-16 00:00:00",
+      "end": "1887-07-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -63,7 +63,16 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfNCg"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Folkpartiet (1895–1900)",
+        "party-id": "Q10497448"
+      },
+      "start": "1895",
+      "end": "1896"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

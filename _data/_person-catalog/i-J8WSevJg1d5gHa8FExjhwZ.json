@@ -41,8 +41,8 @@
       "district": null
     },
     {
-      "start": "1897-01-01 00:00:00",
-      "end": "1905-12-31 00:00:00",
+      "start": "1897-01-15 00:00:00",
+      "end": "1905-10-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -50,8 +50,8 @@
       "district": "Karlshamns, Sölvesborgs och Ronneby valkrets"
     },
     {
-      "start": "1882-01-01 00:00:00",
-      "end": "1884-12-31 00:00:00",
+      "start": "1882-01-16 00:00:00",
+      "end": "1884-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -110,6 +110,6 @@
       "end": "1885"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1889-01-01 00:00:00",
-      "end": "1898-12-31 00:00:00",
+      "start": "1889-01-15 00:00:00",
+      "end": "1898-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -30,8 +30,8 @@
       "district": "Södermanlands läns valkrets"
     },
     {
-      "start": "1879-01-01 00:00:00",
-      "end": "1887-12-31 00:00:00",
+      "start": "1879-01-15 00:00:00",
+      "end": "1887-07-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -39,8 +39,8 @@
       "district": "Nyköpings, Strängnäs, Mariefreds och Trosa valkrets"
     },
     {
-      "start": "1871-01-01 00:00:00",
-      "end": "1878-12-31 00:00:00",
+      "start": "1871-01-16 00:00:00",
+      "end": "1878-05-25 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -69,6 +69,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

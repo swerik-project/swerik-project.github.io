@@ -1,7 +1,7 @@
 {
   "name": "ulla britt åbark",
   "swerik-id": "i-C5JetE1KcaA3AEzNVRe5CG",
-  "DOB": "1936",
+  "DOB": "1936-06-10",
   "DOD": "1992-05-20",
   "gender": "woman",
   "place-of-birth": {
@@ -120,6 +120,6 @@
       "end": "1992-05-20"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

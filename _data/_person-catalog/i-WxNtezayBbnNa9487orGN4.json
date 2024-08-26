@@ -1,7 +1,7 @@
 {
   "name": "ingvar johnsson",
   "swerik-id": "i-WxNtezayBbnNa9487orGN4",
-  "DOB": "1942",
+  "DOB": "1942-03-31",
   "DOD": "2011",
   "gender": "man",
   "place-of-birth": {
@@ -102,6 +102,6 @@
       "end": "2002-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

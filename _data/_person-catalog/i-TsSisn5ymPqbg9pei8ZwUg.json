@@ -1,7 +1,7 @@
 {
   "name": "sten sture paterson",
   "swerik-id": "i-TsSisn5ymPqbg9pei8ZwUg",
-  "DOB": "1919",
+  "DOB": "1919-08-29",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -75,6 +75,6 @@
       "end": "1987-10-06"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

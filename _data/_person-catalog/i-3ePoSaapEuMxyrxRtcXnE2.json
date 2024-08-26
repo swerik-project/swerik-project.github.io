@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1885-01-01 00:00:00",
-      "end": "1890-12-31 00:00:00",
+      "start": "1885-01-15 00:00:00",
+      "end": "1890-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -29,8 +29,8 @@
       "district": "Västra och Östra Hisings häraders valkrets"
     },
     {
-      "start": "1873-01-01 00:00:00",
-      "end": "1884-12-31 00:00:00",
+      "start": "1873-01-15 00:00:00",
+      "end": "1884-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -38,8 +38,8 @@
       "district": "Västra och Östra Hisings, Askims och Sävedals domsagas valkrets"
     },
     {
-      "start": "1867-01-01 00:00:00",
-      "end": "1872-12-31 00:00:00",
+      "start": "1867-01-15 00:00:00",
+      "end": "1872-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -90,6 +90,6 @@
       "end": "1887"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

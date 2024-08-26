@@ -1,12 +1,12 @@
 {
   "name": "karin östring bergman",
   "swerik-id": "i-X6twsyREWpraCXdp7kWKN8",
-  "DOB": "1971",
+  "DOB": "1971-07-26",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Ekeby församling",
+    "link": "http://www.wikidata.org/entity/Q10480525"
   },
   "place-of-death": {
     "place": null,
@@ -62,6 +62,6 @@
       "end": "2014-04-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

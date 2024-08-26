@@ -1,0 +1,55 @@
+{
+  "name": "maria hed",
+  "swerik-id": "i-RH6VCPhyxs9yYcfXJzPxYT",
+  "DOB": "1943-11-23",
+  "DOD": null,
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Eskilstuna Fors församling",
+    "link": "http://www.wikidata.org/entity/Q10489080"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "hed",
+    "sonja maria hed",
+    "sonja maria von zeipel"
+  ],
+  "iorter": [
+    "Malmköping"
+  ],
+  "positions": [
+    {
+      "start": "1990-10-02 00:00:00",
+      "end": "1991-06-20 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Södermanlands läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97971262",
+      "link": "https://www.wikidata.org/wiki/Q97971262"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0686532742102",
+      "link": "https://data.riksdagen.se/personlista/?iid=0686532742102&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "f7887de4-6233-4c6d-940c-6abfb1c09ac3",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_f7887de4-6233-4c6d-940c-6abfb1c09ac3"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
+}

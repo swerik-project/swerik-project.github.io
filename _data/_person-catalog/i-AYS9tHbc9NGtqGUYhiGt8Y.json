@@ -20,7 +20,7 @@
   ],
   "positions": [
     {
-      "start": "1885-01-01 00:00:00",
+      "start": "1885-01-15 00:00:00",
       "end": "1887-03-05 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -29,8 +29,8 @@
       "district": "Falu, Hedemora och Säters valkrets"
     },
     {
-      "start": "1875-01-01 00:00:00",
-      "end": "1881-12-31 00:00:00",
+      "start": "1875-01-15 00:00:00",
+      "end": "1881-04-29 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -68,6 +68,6 @@
       "end": "1881"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

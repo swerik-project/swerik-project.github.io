@@ -16,6 +16,15 @@
   "iorter": [],
   "positions": [
     {
+      "start": "2024-01-01 00:00:00",
+      "end": "2024-09-10 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Stockholms kommuns valkrets"
+    },
+    {
       "start": "2019-01-23 00:00:00",
       "end": "2021-11-30 00:00:00",
       "role": "ledamot",
@@ -53,6 +62,6 @@
       "end": "2021-11-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

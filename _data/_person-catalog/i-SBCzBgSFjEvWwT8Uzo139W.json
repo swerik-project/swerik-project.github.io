@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1889-01-01 00:00:00",
-      "end": "1910-12-31 00:00:00",
+      "start": "1889-01-15 00:00:00",
+      "end": "1910-06-11 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,8 +31,8 @@
       "district": "Kalmar läns södra valkrets"
     },
     {
-      "start": "1880-01-01 00:00:00",
-      "end": "1887-12-31 00:00:00",
+      "start": "1880-01-15 00:00:00",
+      "end": "1887-07-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -84,6 +84,6 @@
       "end": "1909"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -2,7 +2,7 @@
   "name": "carl johan wilson",
   "swerik-id": "i-Hco5dtZYVczhhatjt4A2Ah",
   "DOB": "1934-05-07",
-  "DOD": null,
+  "DOD": "2024-01-25",
   "gender": "man",
   "place-of-birth": {
     "place": "Jönköpings Kristina församling",
@@ -84,6 +84,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

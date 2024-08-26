@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1913-01-01 00:00:00",
-      "end": "1917-12-31 00:00:00",
+      "start": "1913-01-15 00:00:00",
+      "end": "1917-12-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Norrköpings och Linköpings valkrets"
     },
     {
-      "start": "1906-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1906-01-15 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -87,6 +87,6 @@
       "end": "1908"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

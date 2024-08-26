@@ -1,18 +1,19 @@
 {
   "name": "christer nilsson",
   "swerik-id": "i-QcuhAzXJzRZwdpi69xfMhk",
-  "DOB": "1941",
-  "DOD": null,
+  "DOB": "1941-10-21",
+  "DOD": "2019-02-15",
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Oskarshamns församling",
+    "link": "http://www.wikidata.org/entity/Q10613018"
   },
   "place-of-death": {
     "place": null,
     "link": null
   },
   "alt-names": [
+    "hans krister nilsson",
     "nilsson"
   ],
   "iorter": [
@@ -120,6 +121,6 @@
       "end": "1988-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

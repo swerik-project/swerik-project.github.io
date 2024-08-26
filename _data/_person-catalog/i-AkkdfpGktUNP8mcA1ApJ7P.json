@@ -20,7 +20,7 @@
   ],
   "positions": [
     {
-      "start": "1910-01-01 00:00:00",
+      "start": "1910-01-15 00:00:00",
       "end": "1910-02-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -29,8 +29,8 @@
       "district": "Stockholms kommuns valkrets"
     },
     {
-      "start": "1891-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1891-01-15 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -38,8 +38,8 @@
       "district": "Stockholms kommuns valkrets"
     },
     {
-      "start": "1885-01-01 00:00:00",
-      "end": "1887-12-31 00:00:00",
+      "start": "1885-01-15 00:00:00",
+      "end": "1887-07-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -90,6 +90,6 @@
       "end": "1899"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

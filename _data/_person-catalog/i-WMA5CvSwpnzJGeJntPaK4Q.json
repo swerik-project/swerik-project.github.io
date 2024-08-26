@@ -1,12 +1,12 @@
 {
   "name": "inge carlsson",
   "swerik-id": "i-WMA5CvSwpnzJGeJntPaK4Q",
-  "DOB": "1941",
+  "DOB": "1941-04-15",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Risinge församling",
+    "link": "http://www.wikidata.org/entity/Q10655757"
   },
   "place-of-death": {
     "place": null,
@@ -111,6 +111,6 @@
       "end": "2002-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

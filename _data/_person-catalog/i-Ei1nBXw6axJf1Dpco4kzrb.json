@@ -22,7 +22,7 @@
   "positions": [
     {
       "start": "1903-04-15 00:00:00",
-      "end": "1915-12-31 00:00:00",
+      "end": "1915-05-29 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -30,8 +30,8 @@
       "district": "Jämtlands läns valkrets"
     },
     {
-      "start": "1892-01-01 00:00:00",
-      "end": "1899-12-31 00:00:00",
+      "start": "1892-01-15 00:00:00",
+      "end": "1899-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -62,13 +62,29 @@
   "party-affiliations": [
     {
       "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1912",
+      "end": "1915"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1905",
+      "end": "1911"
+    },
+    {
+      "party": {
         "name": "Första kammarens minoritetsparti",
         "party-id": "Q10501500"
       },
-      "start": "1892",
-      "end": "1899"
+      "start": "1903",
+      "end": "1904"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

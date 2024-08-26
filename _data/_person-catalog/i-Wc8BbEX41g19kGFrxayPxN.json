@@ -1,7 +1,7 @@
 {
   "name": "lena boström",
   "swerik-id": "i-Wc8BbEX41g19kGFrxayPxN",
-  "DOB": "1935",
+  "DOB": "1935-10-15",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -75,6 +75,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

@@ -58,7 +58,7 @@
     }
   ],
   "portraits": [
-    "http://commons.wikimedia.org/wiki/Special:FilePath/Bi%C3%B6rck%20och%20Unger%20%28cropped%29.jpg"
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Bi%C3%B6rck%201938.jpg"
   ],
   "identifiers": [
     {
@@ -82,6 +82,6 @@
       "end": "1987-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

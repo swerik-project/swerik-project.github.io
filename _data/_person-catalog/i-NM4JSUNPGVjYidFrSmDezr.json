@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1909-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1909-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -44,7 +44,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfRIg"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1909",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

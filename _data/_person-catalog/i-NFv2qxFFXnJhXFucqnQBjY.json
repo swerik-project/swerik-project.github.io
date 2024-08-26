@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1937-01-01 00:00:00",
-      "end": "1956-12-31 00:00:00",
+      "start": "1937-01-11 00:00:00",
+      "end": "1956-12-13 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -44,6 +44,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

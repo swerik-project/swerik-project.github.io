@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1907-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1907-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -40,7 +40,16 @@
       "link": "https://www.wikidata.org/wiki/Q5960941"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1908",
+      "end": "1911"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

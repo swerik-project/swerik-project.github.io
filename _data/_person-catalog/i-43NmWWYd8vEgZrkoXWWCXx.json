@@ -1,12 +1,12 @@
 {
   "name": "rosita runegrund",
   "swerik-id": "i-43NmWWYd8vEgZrkoXWWCXx",
-  "DOB": "1947",
+  "DOB": "1947-04-10",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Rönnängs församling",
+    "link": "http://www.wikidata.org/entity/Q10659057"
   },
   "place-of-death": {
     "place": null,
@@ -73,6 +73,6 @@
       "end": "2010-10-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

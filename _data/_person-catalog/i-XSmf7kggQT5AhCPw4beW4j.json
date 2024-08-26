@@ -1,7 +1,7 @@
 {
   "name": "erik holmkvist",
   "swerik-id": "i-XSmf7kggQT5AhCPw4beW4j",
-  "DOB": "1929",
+  "DOB": "1929-11-18",
   "DOD": "2010",
   "gender": "man",
   "place-of-birth": {
@@ -66,6 +66,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }

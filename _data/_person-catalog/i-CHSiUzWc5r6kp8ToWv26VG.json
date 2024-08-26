@@ -5,12 +5,12 @@
   "DOD": "2017-08-25",
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Skellefteå Sankt Olovs församling",
+    "link": "http://www.wikidata.org/entity/Q10669986"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Stockholms Sankt Matteus distrikt",
+    "link": "http://www.wikidata.org/entity/Q21667372"
   },
   "alt-names": [
     "maj britt elisabet wallhorn"
@@ -55,6 +55,6 @@
       "end": "1999-10-15"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 13:34:28"
 }
