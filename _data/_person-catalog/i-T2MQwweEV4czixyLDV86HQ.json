@@ -86,30 +86,30 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:42226",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:42226"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:42226"
     },
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:60280",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:60280"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:60280"
     },
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:60442",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:60442"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:60442"
     },
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:60444",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:60444"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:60444"
     },
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:60446",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:60446"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:60446"
     }
   ],
   "party-affiliations": [],
   "data-version": "v1.1.0",
-  "last-updated": "2024-08-26 13:34:28"
+  "last-updated": "2024-08-26 14:02:24"
 }

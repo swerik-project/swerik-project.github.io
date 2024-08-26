@@ -47,7 +47,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:49845",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49845"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:49845"
     }
   ],
   "party-affiliations": [
@@ -69,5 +69,5 @@
     }
   ],
   "data-version": "v1.1.0",
-  "last-updated": "2024-08-26 13:34:28"
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -60,12 +60,12 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:28219",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28219"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:28219"
     },
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:988",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:988"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:988"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -75,5 +75,5 @@
   ],
   "party-affiliations": [],
   "data-version": "v1.1.0",
-  "last-updated": "2024-08-26 13:34:28"
+  "last-updated": "2024-08-26 14:02:24"
 }
