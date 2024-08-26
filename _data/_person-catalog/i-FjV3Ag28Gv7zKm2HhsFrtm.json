@@ -1,7 +1,7 @@
 {
   "name": "marianne carlström",
   "swerik-id": "i-FjV3Ag28Gv7zKm2HhsFrtm",
-  "DOB": "1946",
+  "DOB": "1946-08-21",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -104,6 +104,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

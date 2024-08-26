@@ -23,8 +23,8 @@
   ],
   "positions": [
     {
-      "start": "1919-01-01 00:00:00",
-      "end": "1940-12-31 00:00:00",
+      "start": "1919-01-10 00:00:00",
+      "end": "1940-12-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -33,7 +33,7 @@
     },
     {
       "start": "1897-03-16 00:00:00",
-      "end": "1917-12-31 00:00:00",
+      "end": "1917-12-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -63,7 +63,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:42168",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:42168"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:42168"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -121,6 +121,6 @@
       "end": "1899"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

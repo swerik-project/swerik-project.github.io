@@ -5,12 +5,12 @@
   "DOD": "2012-07-22",
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Grängesbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10509723"
   },
   "place-of-death": {
-    "place": "Träslövsläge",
-    "link": "http://www.wikidata.org/entity/Q28063849"
+    "place": "Veddige-Kungsäters församling",
+    "link": "http://www.wikidata.org/entity/Q10713566"
   },
   "alt-names": [],
   "iorter": [],
@@ -43,6 +43,6 @@
       "end": "1986-11-16"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

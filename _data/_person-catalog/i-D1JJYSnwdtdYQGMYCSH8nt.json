@@ -1,12 +1,12 @@
 {
   "name": "björn petersson",
   "swerik-id": "i-D1JJYSnwdtdYQGMYCSH8nt",
-  "DOB": "1982",
+  "DOB": "1982-05-27",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Mortorps församling",
+    "link": "http://www.wikidata.org/entity/Q10589452"
   },
   "place-of-death": {
     "place": null,
@@ -15,6 +15,15 @@
   "alt-names": [],
   "iorter": [],
   "positions": [
+    {
+      "start": "2024-02-21 00:00:00",
+      "end": "2024-03-24 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Kalmar läns valkrets"
+    },
     {
       "start": "2022-09-26 00:00:00",
       "end": "2022-10-06 00:00:00",
@@ -60,10 +69,10 @@
         "name": "Socialdemokraterna",
         "party-id": "Q105112"
       },
-      "start": "2022-09-26",
-      "end": "2022-10-06"
+      "start": "2024-02-21",
+      "end": "2024-03-24"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

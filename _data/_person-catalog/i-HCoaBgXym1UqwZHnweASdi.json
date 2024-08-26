@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1876-01-01 00:00:00",
-      "end": "1888-12-31 00:00:00",
+      "start": "1876-01-15 00:00:00",
+      "end": "1888-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -47,10 +47,27 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:32593",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:32593"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:32593"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens minoritetsparti",
+        "party-id": "Q10501500"
+      },
+      "start": "1888",
+      "end": "1888"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiets filial",
+        "party-id": "Q10554126"
+      },
+      "start": "1876",
+      "end": "1887"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

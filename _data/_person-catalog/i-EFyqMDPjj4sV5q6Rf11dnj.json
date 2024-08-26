@@ -13,6 +13,7 @@
     "link": "http://www.wikidata.org/entity/Q10706898"
   },
   "alt-names": [
+    "anders peter elisson",
     "anders petter elisson",
     "elisson"
   ],
@@ -21,7 +22,7 @@
   ],
   "positions": [
     {
-      "start": "1922-01-01 00:00:00",
+      "start": "1922-01-10 00:00:00",
       "end": "1928-04-02 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -30,8 +31,8 @@
       "district": "Kronobergs läns och Hallands läns valkrets"
     },
     {
-      "start": "1919-01-01 00:00:00",
-      "end": "1921-12-31 00:00:00",
+      "start": "1919-01-10 00:00:00",
+      "end": "1921-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -39,8 +40,8 @@
       "district": "Hallands läns valkrets"
     },
     {
-      "start": "1915-01-01 00:00:00",
-      "end": "1918-12-31 00:00:00",
+      "start": "1915-01-15 00:00:00",
+      "end": "1918-12-23 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -94,6 +95,6 @@
       "end": "1918"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

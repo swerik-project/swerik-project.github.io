@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1886-01-01 00:00:00",
-      "end": "1889-12-31 00:00:00",
+      "start": "1886-01-15 00:00:00",
+      "end": "1889-05-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -29,8 +29,8 @@
       "district": "Kristianstads läns valkrets"
     },
     {
-      "start": "1879-01-01 00:00:00",
-      "end": "1883-12-31 00:00:00",
+      "start": "1879-01-15 00:00:00",
+      "end": "1883-06-14 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -38,8 +38,8 @@
       "district": "Göteborgs stads valkrets"
     },
     {
-      "start": "1875-01-01 00:00:00",
-      "end": "1876-12-31 00:00:00",
+      "start": "1875-01-15 00:00:00",
+      "end": "1876-05-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -47,8 +47,8 @@
       "district": "Västra Götalands läns västra valkrets"
     },
     {
-      "start": "1867-01-01 00:00:00",
-      "end": "1869-12-31 00:00:00",
+      "start": "1867-01-15 00:00:00",
+      "end": "1869-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -78,7 +78,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:29271",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29271"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:29271"
     }
   ],
   "party-affiliations": [
@@ -107,6 +107,6 @@
       "end": "1869"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

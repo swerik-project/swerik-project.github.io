@@ -1,12 +1,12 @@
 {
   "name": "bassem nasr",
   "swerik-id": "i-Perad9eGoCowJz44FjB2ei",
-  "DOB": "1981",
+  "DOB": "1981-03-27",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Libanon",
+    "link": "http://www.wikidata.org/entity/Q822"
   },
   "place-of-death": {
     "place": null,
@@ -53,6 +53,6 @@
       "end": "2023-04-09"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

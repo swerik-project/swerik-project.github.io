@@ -1,0 +1,43 @@
+{
+  "name": "arne andersson",
+  "swerik-id": "i-EzcxskgMAVbnq8hM2F2km9",
+  "DOB": null,
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "andersson"
+  ],
+  "iorter": [
+    "Falun"
+  ],
+  "positions": [
+    {
+      "start": "1979-10-15 00:00:00",
+      "end": "1980-06-11 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Dalarnas läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98937434",
+      "link": "https://www.wikidata.org/wiki/Q98937434"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
+}

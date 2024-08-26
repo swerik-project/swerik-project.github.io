@@ -1,16 +1,16 @@
 {
   "name": "bengt a klang",
   "swerik-id": "i-Nhf4qG5vYhmYKAzZDTvxY8",
-  "DOB": "1936",
+  "DOB": "1936-04-23",
   "DOD": "2020-01-16",
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Lidköpings distrikt",
+    "link": "http://www.wikidata.org/entity/Q21567455"
   },
   "alt-names": [
     "bengt alfred klang"
@@ -55,6 +55,6 @@
       "end": "1988-03-13"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

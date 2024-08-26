@@ -1,7 +1,7 @@
 {
   "name": "ingrid andersson",
   "swerik-id": "i-3Qz6CXUz6kGGCR1aT9MZrB",
-  "DOB": "1939",
+  "DOB": "1939-06-11",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -130,6 +130,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

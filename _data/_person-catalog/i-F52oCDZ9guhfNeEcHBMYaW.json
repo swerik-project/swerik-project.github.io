@@ -5,12 +5,12 @@
   "DOD": "2014-06-10",
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Vasa församling",
+    "link": "http://www.wikidata.org/entity/Q10713238"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Örgryte församling",
+    "link": "http://www.wikidata.org/entity/Q10727562"
   },
   "alt-names": [],
   "iorter": [],
@@ -53,6 +53,6 @@
       "end": "1990-12-26"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

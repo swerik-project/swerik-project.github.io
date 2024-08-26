@@ -1,7 +1,7 @@
 {
   "name": "viola furubjelke",
   "swerik-id": "i-HuA2xXt8AknKvizfMoSFQt",
-  "DOB": "1946",
+  "DOB": "1946-07-17",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -93,6 +93,6 @@
       "end": "2002-01-01"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

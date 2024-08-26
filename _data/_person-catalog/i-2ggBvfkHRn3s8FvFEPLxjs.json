@@ -1,7 +1,7 @@
 {
   "name": "agne hansson",
   "swerik-id": "i-2ggBvfkHRn3s8FvFEPLxjs",
-  "DOB": "1938",
+  "DOB": "1938-08-07",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -122,6 +122,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

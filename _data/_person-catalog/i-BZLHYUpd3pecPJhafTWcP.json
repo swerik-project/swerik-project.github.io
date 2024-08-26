@@ -22,7 +22,7 @@
   "positions": [
     {
       "start": "1951-03-28 00:00:00",
-      "end": "1966-12-31 00:00:00",
+      "end": "1966-12-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -30,8 +30,8 @@
       "district": null
     },
     {
-      "start": "1946-01-01 00:00:00",
-      "end": "1955-12-31 00:00:00",
+      "start": "1946-01-10 00:00:00",
+      "end": "1955-12-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -39,7 +39,7 @@
       "district": "Blekinge läns och Kristianstads läns valkrets"
     },
     {
-      "start": "1944-01-01 00:00:00",
+      "start": "1944-01-10 00:00:00",
       "end": "1951-03-27 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -48,8 +48,8 @@
       "district": null
     },
     {
-      "start": "1937-01-01 00:00:00",
-      "end": "1940-12-31 00:00:00",
+      "start": "1937-01-11 00:00:00",
+      "end": "1940-12-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -71,6 +71,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

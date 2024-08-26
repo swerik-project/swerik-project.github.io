@@ -23,8 +23,8 @@
   ],
   "positions": [
     {
-      "start": "1925-01-01 00:00:00",
-      "end": "1932-12-31 00:00:00",
+      "start": "1925-01-10 00:00:00",
+      "end": "1932-06-20 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -32,8 +32,8 @@
       "district": "Östergötlands läns med Norrköpings valkrets"
     },
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1915-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1915-05-29 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -59,8 +59,8 @@
       "district": null
     },
     {
-      "start": "1894-01-01 00:00:00",
-      "end": "1907-12-31 00:00:00",
+      "start": "1894-01-15 00:00:00",
+      "end": "1907-06-03 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -90,7 +90,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:177",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:177"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:177"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -129,6 +129,6 @@
       "end": "1899"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

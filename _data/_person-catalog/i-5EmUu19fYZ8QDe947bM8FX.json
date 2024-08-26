@@ -15,7 +15,8 @@
   "alt-names": [
     "erikson",
     "eriksson",
-    "gustaf oskar erikson"
+    "gustaf oskar erikson",
+    "oskar eriksson"
   ],
   "iorter": [
     "Stockholm"
@@ -23,7 +24,7 @@
   "positions": [
     {
       "start": "1920-02-27 00:00:00",
-      "end": "1921-12-31 00:00:00",
+      "end": "1921-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -47,6 +48,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

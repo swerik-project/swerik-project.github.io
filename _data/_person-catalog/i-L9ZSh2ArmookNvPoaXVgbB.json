@@ -48,7 +48,7 @@
     }
   ],
   "portraits": [
-    "http://commons.wikimedia.org/wiki/Special:FilePath/All%20You%20Need%20is%20Love%20-%20Stockholm%20Pride%202014%20-%2016.jpg"
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Lotta%20Edholm%20Almedalen%202013%20%289219271753%29.jpg"
   ],
   "identifiers": [
     {
@@ -77,6 +77,6 @@
       "end": "1994-10-06"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

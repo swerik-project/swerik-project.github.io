@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1876-01-01 00:00:00",
-      "end": "1890-12-31 00:00:00",
+      "start": "1876-01-15 00:00:00",
+      "end": "1890-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -44,7 +44,16 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgc5A"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Nya lantmannapartiet",
+        "party-id": "Q10604308"
+      },
+      "start": "1889",
+      "end": "1889"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

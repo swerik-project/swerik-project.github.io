@@ -61,6 +61,11 @@
       "authority": "Swedish Parliament person GUID",
       "identifier": "24f105bb-e207-46f4-b9b9-c2d53216c0ef",
       "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_24f105bb-e207-46f4-b9b9-c2d53216c0ef"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3a3b68d1-2ec2-464b-bdd7-975c7220e882",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3a3b68d1-2ec2-464b-bdd7-975c7220e882"
     }
   ],
   "party-affiliations": [
@@ -73,6 +78,6 @@
       "end": "1979-10-01"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1928-01-01 00:00:00",
-      "end": "1932-12-31 00:00:00",
+      "start": "1928-01-10 00:00:00",
+      "end": "1932-06-20 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Östergötlands läns valkrets"
     },
     {
-      "start": "1921-01-01 00:00:00",
-      "end": "1921-12-31 00:00:00",
+      "start": "1921-01-10 00:00:00",
+      "end": "1921-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -72,6 +72,6 @@
       "end": "1921"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

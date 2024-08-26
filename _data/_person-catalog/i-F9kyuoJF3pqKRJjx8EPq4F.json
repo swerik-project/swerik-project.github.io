@@ -1,12 +1,12 @@
 {
   "name": "marcus jonsson",
   "swerik-id": "i-F9kyuoJF3pqKRJjx8EPq4F",
-  "DOB": "1980",
+  "DOB": "1980-07-24",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Bjursås församling",
+    "link": "http://www.wikidata.org/entity/Q10430414"
   },
   "place-of-death": {
     "place": null,
@@ -53,6 +53,6 @@
       "end": "2020-02-20"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

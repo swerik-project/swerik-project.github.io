@@ -23,7 +23,7 @@
   "positions": [
     {
       "start": "1892-03-08 00:00:00",
-      "end": "1907-12-31 00:00:00",
+      "end": "1907-06-03 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,8 +31,8 @@
       "district": "Skaraborgs läns valkrets"
     },
     {
-      "start": "1886-01-01 00:00:00",
-      "end": "1889-12-31 00:00:00",
+      "start": "1886-01-15 00:00:00",
+      "end": "1889-05-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -40,8 +40,8 @@
       "district": "Skaraborgs läns valkrets"
     },
     {
-      "start": "1874-01-01 00:00:00",
-      "end": "1884-12-31 00:00:00",
+      "start": "1874-01-15 00:00:00",
+      "end": "1884-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -69,7 +69,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgdPg"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1892",
+      "end": "1907"
+    },
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1874",
+      "end": "1884"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1897-01-01 00:00:00",
-      "end": "1898-12-31 00:00:00",
+      "start": "1897-01-15 00:00:00",
+      "end": "1898-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Ystads valkrets"
     },
     {
-      "start": "1888-01-01 00:00:00",
-      "end": "1896-12-31 00:00:00",
+      "start": "1888-01-16 00:00:00",
+      "end": "1896-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -49,7 +49,32 @@
       "link": "https://www.wikidata.org/wiki/Q6009010"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1895",
+      "end": "1898"
+    },
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1892",
+      "end": "1894"
+    },
+    {
+      "party": {
+        "name": "Andra kammarens frihandelsparti",
+        "party-id": "Q10411414"
+      },
+      "start": "1888",
+      "end": "1888"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

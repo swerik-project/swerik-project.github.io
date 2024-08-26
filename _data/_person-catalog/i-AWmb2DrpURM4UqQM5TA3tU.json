@@ -21,7 +21,7 @@
   ],
   "positions": [
     {
-      "start": "1965-01-01 00:00:00",
+      "start": "1965-01-11 00:00:00",
       "end": "1966-10-14 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -30,8 +30,8 @@
       "district": "Örebro läns valkrets"
     },
     {
-      "start": "1949-01-01 00:00:00",
-      "end": "1958-12-31 00:00:00",
+      "start": "1949-01-10 00:00:00",
+      "end": "1958-12-11 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -60,6 +60,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

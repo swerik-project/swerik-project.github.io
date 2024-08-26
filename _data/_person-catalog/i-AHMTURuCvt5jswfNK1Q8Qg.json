@@ -1,7 +1,7 @@
 {
   "name": "anita jönsson",
   "swerik-id": "i-AHMTURuCvt5jswfNK1Q8Qg",
-  "DOB": "1947",
+  "DOB": "1947-10-27",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -93,6 +93,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

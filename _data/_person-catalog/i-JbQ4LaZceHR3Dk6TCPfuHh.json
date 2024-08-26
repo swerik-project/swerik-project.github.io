@@ -1,7 +1,7 @@
 {
   "name": "gunilla andre",
   "swerik-id": "i-JbQ4LaZceHR3Dk6TCPfuHh",
-  "DOB": "1931",
+  "DOB": "1931-05-10",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -102,6 +102,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

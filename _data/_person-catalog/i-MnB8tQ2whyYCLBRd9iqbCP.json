@@ -20,7 +20,7 @@
   ],
   "positions": [
     {
-      "start": "1938-01-01 00:00:00",
+      "start": "1938-01-10 00:00:00",
       "end": "1940-10-08 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -43,6 +43,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }
