@@ -12,6 +12,8 @@ The most recent release of The Swedish Parliament Corpus can be accessed <a href
 
 The Swerik database of all Swedish members of parliament since 1867, built through Wikidata, can also be explored <a href="https://swerik-project.github.io/person-catalog/">here</a>.
 
+You can explore SWERIK's annotated speech data through the user-friendly interface  <a href="https://swedeb.se/public/index.html#/">SweDeb</a>, developed by Humlab (Umeå University).
+
 <br>
 
 ### Publications
