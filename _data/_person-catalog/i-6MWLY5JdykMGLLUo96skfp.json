@@ -1,12 +1,12 @@
 {
   "name": "lena olsson",
   "swerik-id": "i-6MWLY5JdykMGLLUo96skfp",
-  "DOB": "1958",
+  "DOB": "1958-02-10",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Malungs församling",
+    "link": "http://www.wikidata.org/entity/Q10576232"
   },
   "place-of-death": {
     "place": null,
@@ -82,6 +82,6 @@
       "end": "2014-09-29"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

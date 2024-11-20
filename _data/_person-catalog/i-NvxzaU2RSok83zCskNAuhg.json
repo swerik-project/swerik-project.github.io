@@ -1,0 +1,44 @@
+{
+  "name": "kerstin sandborg",
+  "swerik-id": "i-NvxzaU2RSok83zCskNAuhg",
+  "DOB": "1931-05-20",
+  "DOD": "2005-08-06",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": null,
+    "link": null
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "kerstin irene sandborg",
+    "sandborg"
+  ],
+  "iorter": [
+    "Ljungskile"
+  ],
+  "positions": [
+    {
+      "start": "1981-10-06 00:00:00",
+      "end": "1982-06-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": null
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q4976825",
+      "link": "https://www.wikidata.org/wiki/Q4976825"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
+}

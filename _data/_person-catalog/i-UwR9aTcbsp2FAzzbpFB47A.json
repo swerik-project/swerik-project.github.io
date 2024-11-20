@@ -1,12 +1,12 @@
 {
   "name": "dan eriksson",
   "swerik-id": "i-UwR9aTcbsp2FAzzbpFB47A",
-  "DOB": "1956",
+  "DOB": "1956-04-08",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Boo församling",
+    "link": "http://www.wikidata.org/entity/Q11056762"
   },
   "place-of-death": {
     "place": null,
@@ -58,6 +58,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

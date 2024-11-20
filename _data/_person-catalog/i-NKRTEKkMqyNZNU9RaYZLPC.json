@@ -23,8 +23,8 @@
   ],
   "positions": [
     {
-      "start": "1929-01-01 00:00:00",
-      "end": "1930-12-31 00:00:00",
+      "start": "1929-01-10 00:00:00",
+      "end": "1930-06-14 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -32,8 +32,8 @@
       "district": "Malmöhus läns valkrets"
     },
     {
-      "start": "1921-01-01 00:00:00",
-      "end": "1929-12-31 00:00:00",
+      "start": "1921-01-10 00:00:00",
+      "end": "1929-06-10 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -41,7 +41,7 @@
       "district": "Fyrstadskretsen"
     },
     {
-      "start": "1919-01-01 00:00:00",
+      "start": "1919-01-10 00:00:00",
       "end": "1920-02-11 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -59,8 +59,8 @@
       "district": null
     },
     {
-      "start": "1907-01-01 00:00:00",
-      "end": "1919-12-31 00:00:00",
+      "start": "1907-01-15 00:00:00",
+      "end": "1919-11-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -90,10 +90,10 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:28362",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:28362"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:28362"
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

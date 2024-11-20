@@ -31,8 +31,8 @@
       "district": null
     },
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1932-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1932-06-20 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -40,8 +40,8 @@
       "district": "Västerbottens läns och Norrbottens läns valkrets"
     },
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1921-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1921-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -72,8 +72,8 @@
   "party-affiliations": [
     {
       "party": {
-        "name": "Frisinnade landsföreningen",
-        "party-id": "Q10499215"
+        "name": "Frisinnade folkpartiet",
+        "party-id": "Q4887122"
       },
       "start": "1924",
       "end": "1932"
@@ -87,6 +87,6 @@
       "end": "1923"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

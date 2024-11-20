@@ -1,0 +1,56 @@
+{
+  "name": "märtha gårdestig",
+  "swerik-id": "i-Cdgsqn4Ts9WMwbjXcE4537",
+  "DOB": "1938-04-01",
+  "DOD": "2023-02-19",
+  "gender": "woman",
+  "place-of-birth": {
+    "place": "Björksele församling",
+    "link": "http://www.wikidata.org/entity/Q10430600"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "gårdestig",
+    "märta ingeborg gårdestig",
+    "märta ingeborg hedman",
+    "märtha ingeborg gårdestig"
+  ],
+  "iorter": [
+    "Forserum"
+  ],
+  "positions": [
+    {
+      "start": "1992-10-06 00:00:00",
+      "end": "1993-06-21 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q97971276",
+      "link": "https://www.wikidata.org/wiki/Q97971276"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "0934740593109",
+      "link": "https://data.riksdagen.se/personlista/?iid=0934740593109&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "57847f96-81fc-421d-94d8-7f377b74c3bc",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_57847f96-81fc-421d-94d8-7f377b74c3bc"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
+}

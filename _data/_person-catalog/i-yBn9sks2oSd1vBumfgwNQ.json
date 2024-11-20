@@ -1,7 +1,7 @@
 {
   "name": "bo nilsson",
   "swerik-id": "i-yBn9sks2oSd1vBumfgwNQ",
-  "DOB": "1940",
+  "DOB": "1940-11-14",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -93,6 +93,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

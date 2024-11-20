@@ -1,12 +1,12 @@
 {
   "name": "karin granbom ellison",
   "swerik-id": "i-SS4MgL3HhkwCjKYAxgBPkd",
-  "DOB": "1977",
+  "DOB": "1977-04-09",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": "Lund",
-    "link": "http://www.wikidata.org/entity/Q2167"
+    "place": "Lunds domkyrkoförsamling",
+    "link": "http://www.wikidata.org/entity/Q10570835"
   },
   "place-of-death": {
     "place": null,
@@ -82,6 +82,6 @@
       "end": "2014-09-29"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1908-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1908-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -46,7 +46,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAAA4FOw"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Det förenade högerpartiet",
+        "party-id": "Q111103693"
+      },
+      "start": "1910",
+      "end": "1911"
+    },
+    {
+      "party": {
+        "name": "Första kammarens protektionistiska parti",
+        "party-id": "Q7251368"
+      },
+      "start": "1908",
+      "end": "1909"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

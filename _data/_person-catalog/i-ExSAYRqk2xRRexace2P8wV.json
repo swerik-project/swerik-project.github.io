@@ -22,7 +22,7 @@
   "positions": [
     {
       "start": "1948-06-28 00:00:00",
-      "end": "1948-12-31 00:00:00",
+      "end": "1948-12-23 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Södermanlands läns valkrets"
     },
     {
-      "start": "1944-01-01 00:00:00",
-      "end": "1944-12-31 00:00:00",
+      "start": "1944-01-10 00:00:00",
+      "end": "1944-12-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -55,6 +55,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

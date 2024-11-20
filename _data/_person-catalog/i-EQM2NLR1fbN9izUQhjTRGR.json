@@ -1,0 +1,51 @@
+{
+  "name": "uno larsson",
+  "swerik-id": "i-EQM2NLR1fbN9izUQhjTRGR",
+  "DOB": "1915-09-09",
+  "DOD": "2012-05-06",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Longs församling",
+    "link": "http://www.wikidata.org/entity/Q10569213"
+  },
+  "place-of-death": {
+    "place": "Kristinehamns församling",
+    "link": "http://www.wikidata.org/entity/Q10549260"
+  },
+  "alt-names": [
+    "larsson",
+    "uno georg ingemar larsson"
+  ],
+  "iorter": [
+    "Kristinehamn"
+  ],
+  "positions": [
+    {
+      "start": "1970-11-17 00:00:00",
+      "end": "1970-12-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 1.0,
+      "government": null,
+      "district": "Värmlands läns valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Uno%20Larsson%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q117223085",
+      "link": "https://www.wikidata.org/wiki/Q117223085"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgcBQ",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgcBQ"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
+}

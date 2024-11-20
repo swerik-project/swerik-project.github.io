@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1918-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1918-12-23 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -31,8 +31,8 @@
       "district": "Stockholms kommuns valkrets"
     },
     {
-      "start": "1909-01-01 00:00:00",
-      "end": "1910-12-31 00:00:00",
+      "start": "1909-01-15 00:00:00",
+      "end": "1910-06-11 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -40,8 +40,8 @@
       "district": "Blekinge läns valkrets"
     },
     {
-      "start": "1907-01-01 00:00:00",
-      "end": "1908-12-31 00:00:00",
+      "start": "1907-01-15 00:00:00",
+      "end": "1908-06-04 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -71,12 +71,12 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:29934",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:29934"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:29934"
     },
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:40973",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:40973"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:40973"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -110,6 +110,6 @@
       "end": "1908"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

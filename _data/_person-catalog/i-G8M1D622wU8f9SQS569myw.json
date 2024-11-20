@@ -1,12 +1,12 @@
 {
   "name": "rebwar hassan",
   "swerik-id": "i-G8M1D622wU8f9SQS569myw",
-  "DOB": "1959",
+  "DOB": "1959-09-15",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Irak",
+    "link": "http://www.wikidata.org/entity/Q796"
   },
   "place-of-death": {
     "place": null,
@@ -53,6 +53,6 @@
       "end": "2013-05-17"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

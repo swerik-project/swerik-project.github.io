@@ -1,7 +1,7 @@
 {
   "name": "lars biörck",
   "swerik-id": "i-5gsXGTVMb4F5UcCNCBa8eN",
-  "DOB": "1939",
+  "DOB": "1939-12-18",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -66,6 +66,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

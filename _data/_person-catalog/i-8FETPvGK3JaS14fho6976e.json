@@ -1,12 +1,12 @@
 {
   "name": "stefan nilsson",
   "swerik-id": "i-8FETPvGK3JaS14fho6976e",
-  "DOB": "1959",
+  "DOB": "1959-05-20",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Varbergs församling",
+    "link": "http://www.wikidata.org/entity/Q10712922"
   },
   "place-of-death": {
     "place": null,
@@ -93,6 +93,6 @@
       "end": "2018-09-24"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

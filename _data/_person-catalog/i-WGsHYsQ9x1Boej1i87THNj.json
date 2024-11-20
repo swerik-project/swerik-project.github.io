@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1867-01-01 00:00:00",
-      "end": "1869-12-31 00:00:00",
+      "start": "1867-01-15 00:00:00",
+      "end": "1869-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -46,7 +46,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:66610",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:66610"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:66610"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -55,6 +55,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1891-01-01 00:00:00",
-      "end": "1896-12-31 00:00:00",
+      "start": "1891-01-15 00:00:00",
+      "end": "1896-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -45,7 +45,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgSGw"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "nya centern (partigrupp 1895-1896)",
+        "party-id": "Q10604300"
+      },
+      "start": "1895",
+      "end": "1896"
+    },
+    {
+      "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1893",
+      "end": "1894"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

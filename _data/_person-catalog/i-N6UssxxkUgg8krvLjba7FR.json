@@ -21,7 +21,7 @@
   ],
   "positions": [
     {
-      "start": "1881-01-01 00:00:00",
+      "start": "1881-01-15 00:00:00",
       "end": "1905-08-03 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -30,8 +30,8 @@
       "district": "Västernorrlands läns valkrets"
     },
     {
-      "start": "1877-01-01 00:00:00",
-      "end": "1879-12-31 00:00:00",
+      "start": "1877-01-15 00:00:00",
+      "end": "1879-05-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -40,7 +40,7 @@
     },
     {
       "start": "1873-02-05 00:00:00",
-      "end": "1875-12-31 00:00:00",
+      "end": "1875-05-26 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -81,6 +81,6 @@
       "end": "1904"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -5,14 +5,16 @@
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Nödinge församling",
+    "link": "http://www.wikidata.org/entity/Q10605528"
   },
   "place-of-death": {
     "place": null,
     "link": null
   },
-  "alt-names": [],
+  "alt-names": [
+    "sara susanne heikkinen breitholtz"
+  ],
   "iorter": [],
   "positions": [
     {
@@ -53,6 +55,6 @@
       "end": "2021-06-29"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

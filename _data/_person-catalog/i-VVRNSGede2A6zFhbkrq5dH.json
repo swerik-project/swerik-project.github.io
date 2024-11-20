@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1938-01-01 00:00:00",
-      "end": "1940-12-31 00:00:00",
+      "start": "1938-01-10 00:00:00",
+      "end": "1940-12-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Västra Götalands läns södra valkrets"
     },
     {
-      "start": "1937-01-01 00:00:00",
-      "end": "1937-12-31 00:00:00",
+      "start": "1937-01-11 00:00:00",
+      "end": "1937-06-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -39,8 +39,8 @@
       "district": "Älvsborgs läns valkrets"
     },
     {
-      "start": "1927-01-01 00:00:00",
-      "end": "1936-12-31 00:00:00",
+      "start": "1927-01-10 00:00:00",
+      "end": "1936-06-27 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -48,8 +48,8 @@
       "district": "Västra Götalands läns södra valkrets"
     },
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1924-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1924-06-14 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -77,7 +77,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgZ-Q"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1940"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1927",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

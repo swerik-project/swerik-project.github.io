@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1885-01-01 00:00:00",
-      "end": "1896-12-31 00:00:00",
+      "start": "1885-01-15 00:00:00",
+      "end": "1896-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -47,6 +47,14 @@
   "party-affiliations": [
     {
       "party": {
+        "name": "borgmästarepartiet",
+        "party-id": "Q10433181"
+      },
+      "start": "1892",
+      "end": "1894"
+    },
+    {
+      "party": {
         "name": "Andra kammarens center",
         "party-id": "Q10411412"
       },
@@ -62,6 +70,6 @@
       "end": "1888"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

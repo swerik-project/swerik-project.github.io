@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1929-01-01 00:00:00",
-      "end": "1931-12-31 00:00:00",
+      "start": "1929-01-10 00:00:00",
+      "end": "1931-06-08 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -30,8 +30,8 @@
       "district": "Värmlands läns valkrets"
     },
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1914-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1914-12-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -59,7 +59,24 @@
       "link": "https://portrattarkiv.se/details/vfWYdYT6EoAAAAAAAAAGZg"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1929",
+      "end": "1931"
+    },
+    {
+      "party": {
+        "name": "Liberala samlingspartiet",
+        "party-id": "Q1594086"
+      },
+      "start": "1912",
+      "end": "1914"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

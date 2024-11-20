@@ -1,7 +1,7 @@
 {
   "name": "nils nordh",
   "swerik-id": "i-EkHKGEpr4tEC2BogFc76Gt",
-  "DOB": "1931",
+  "DOB": "1931-12-23",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -13,6 +13,7 @@
     "link": null
   },
   "alt-names": [
+    "nils gustav nordh",
     "nordh"
   ],
   "iorter": [
@@ -84,6 +85,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

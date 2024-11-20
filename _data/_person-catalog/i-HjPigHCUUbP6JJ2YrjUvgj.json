@@ -5,8 +5,8 @@
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": "Forshaga",
-    "link": "http://www.wikidata.org/entity/Q1303800"
+    "place": "Forshaga församling",
+    "link": "http://www.wikidata.org/entity/Q10498112"
   },
   "place-of-death": {
     "place": null,
@@ -71,6 +71,6 @@
       "end": "2022-09-26"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

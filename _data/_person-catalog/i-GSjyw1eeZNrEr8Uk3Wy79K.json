@@ -1,0 +1,57 @@
+{
+  "name": "carl sundling",
+  "swerik-id": "i-GSjyw1eeZNrEr8Uk3Wy79K",
+  "DOB": "1826-04-10",
+  "DOD": "1895-03-25",
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Håbo-Tibble församling",
+    "link": "http://www.wikidata.org/entity/Q10531955"
+  },
+  "place-of-death": {
+    "place": "Salems församling",
+    "link": "http://www.wikidata.org/entity/Q10660414"
+  },
+  "alt-names": [
+    "carl gustaf sundling",
+    "gustaf sundling",
+    "sundling"
+  ],
+  "iorter": [
+    "Söderby"
+  ],
+  "positions": [
+    {
+      "start": "1887-01-15 00:00:00",
+      "end": "1887-07-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": "Södertörns domsagas valkrets"
+    }
+  ],
+  "portraits": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Sundling%20SPA%20%28cropped%29.jpg"
+  ],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q6196285",
+      "link": "https://www.wikidata.org/wiki/Q6196285"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "YB0QHyfj0hAAAAAAAACWrw",
+      "link": "https://portrattarkiv.se/details/YB0QHyfj0hAAAAAAAACWrw"
+    },
+    {
+      "authority": "Swedish Portrait Archive ID",
+      "identifier": "sj9PGLAlnmUAAAAAABgeHA",
+      "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABgeHA"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
+}

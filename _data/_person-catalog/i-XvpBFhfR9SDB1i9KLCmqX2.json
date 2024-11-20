@@ -22,8 +22,17 @@
   ],
   "positions": [
     {
+      "start": "1921-01-10 00:00:00",
+      "end": "1923-06-09 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 2.0,
+      "government": null,
+      "district": null
+    },
+    {
       "start": "1914-05-18 00:00:00",
-      "end": "1919-12-31 00:00:00",
+      "end": "1919-11-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -42,6 +51,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

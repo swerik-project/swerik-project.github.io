@@ -9,8 +9,8 @@
     "link": "http://www.wikidata.org/entity/Q70"
   },
   "place-of-death": {
-    "place": "Stockholm",
-    "link": "http://www.wikidata.org/entity/Q1754"
+    "place": "Tyska S:ta Gertruds församling",
+    "link": "http://www.wikidata.org/entity/Q10707814"
   },
   "alt-names": [
     "hallwyl",
@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1897-01-01 00:00:00",
-      "end": "1905-12-31 00:00:00",
+      "start": "1897-01-15 00:00:00",
+      "end": "1905-10-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,7 +31,7 @@
     }
   ],
   "portraits": [
-    "http://commons.wikimedia.org/wiki/Special:FilePath/Walther%20von%20Hallwyl.jpg"
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4tt%20av%20Walther%20von%20Hallwyl%201865%20av%20%C3%89douard%20Boutibonne%20-%20Hallwylska%20museet%20-%204550.tif"
   ],
   "identifiers": [
     {
@@ -51,6 +51,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

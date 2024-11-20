@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1898-01-01 00:00:00",
-      "end": "1910-12-31 00:00:00",
+      "start": "1898-01-15 00:00:00",
+      "end": "1910-06-11 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -30,8 +30,8 @@
       "district": "Gävleborgs läns valkrets"
     },
     {
-      "start": "1888-01-01 00:00:00",
-      "end": "1896-12-31 00:00:00",
+      "start": "1888-01-16 00:00:00",
+      "end": "1896-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -61,7 +61,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:49011",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:49011"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:49011"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -87,6 +87,6 @@
       "end": "1909"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

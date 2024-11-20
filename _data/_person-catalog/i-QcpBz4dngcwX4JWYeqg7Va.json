@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1883-01-01 00:00:00",
-      "end": "1902-12-31 00:00:00",
+      "start": "1883-01-15 00:00:00",
+      "end": "1902-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -30,8 +30,8 @@
       "district": "Södermanlands läns valkrets"
     },
     {
-      "start": "1867-01-01 00:00:00",
-      "end": "1869-12-31 00:00:00",
+      "start": "1867-01-15 00:00:00",
+      "end": "1869-05-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -64,6 +64,6 @@
       "end": "1902"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

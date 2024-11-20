@@ -29,7 +29,7 @@
       "district": null
     },
     {
-      "start": "1937-01-01 00:00:00",
+      "start": "1937-01-11 00:00:00",
       "end": "1947-07-23 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -39,7 +39,7 @@
     },
     {
       "start": "1932-03-31 00:00:00",
-      "end": "1936-12-31 00:00:00",
+      "end": "1936-06-27 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -69,7 +69,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:38279",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:38279"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:38279"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -95,6 +95,6 @@
       "end": "1934"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -24,8 +24,8 @@
   ],
   "positions": [
     {
-      "start": "1931-01-01 00:00:00",
-      "end": "1933-12-31 00:00:00",
+      "start": "1931-01-10 00:00:00",
+      "end": "1933-06-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -33,8 +33,8 @@
       "district": "Västra Götalands läns västra valkrets"
     },
     {
-      "start": "1920-01-01 00:00:00",
-      "end": "1925-12-31 00:00:00",
+      "start": "1920-01-10 00:00:00",
+      "end": "1925-06-10 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -42,8 +42,8 @@
       "district": "Västra Götalands läns västra valkrets"
     },
     {
-      "start": "1913-01-01 00:00:00",
-      "end": "1913-12-31 00:00:00",
+      "start": "1913-01-15 00:00:00",
+      "end": "1913-06-02 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -73,7 +73,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:45929",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45929"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:45929"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -99,6 +99,6 @@
       "end": "1923"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

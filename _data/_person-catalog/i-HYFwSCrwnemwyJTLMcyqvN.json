@@ -1,0 +1,61 @@
+{
+  "name": "mats karlsson",
+  "swerik-id": "i-HYFwSCrwnemwyJTLMcyqvN",
+  "DOB": "1943-12-29",
+  "DOD": null,
+  "gender": "man",
+  "place-of-birth": {
+    "place": "Lits församling",
+    "link": "http://www.wikidata.org/entity/Q10567892"
+  },
+  "place-of-death": {
+    "place": null,
+    "link": null
+  },
+  "alt-names": [
+    "karlsson",
+    "mats o karlsson",
+    "mats olof karlsson",
+    "olof mattias karlsson"
+  ],
+  "iorter": [
+    "Grillby"
+  ],
+  "positions": [
+    {
+      "start": "1985-09-30 00:00:00",
+      "end": "1986-06-06 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Uppsala läns valkrets"
+    }
+  ],
+  "portraits": [],
+  "identifiers": [
+    {
+      "authority": "Wikidata",
+      "identifier": "Q98937482",
+      "link": "https://www.wikidata.org/wiki/Q98937482"
+    },
+    {
+      "authority": "Riksdagen person-ID",
+      "identifier": "090502404202",
+      "link": "https://data.riksdagen.se/personlista/?iid=090502404202&utformat=html"
+    },
+    {
+      "authority": "Swedish Parliament person GUID",
+      "identifier": "3f582708-6bdf-409f-8f98-276545978b10",
+      "link": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/_3f582708-6bdf-409f-8f98-276545978b10"
+    },
+    {
+      "authority": "Uppsala University Alvin ID",
+      "identifier": "alvin-person:33887",
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:33887"
+    }
+  ],
+  "party-affiliations": [],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
+}

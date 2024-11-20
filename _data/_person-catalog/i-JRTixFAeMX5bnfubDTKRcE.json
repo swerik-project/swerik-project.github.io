@@ -39,7 +39,7 @@
       "district": null
     },
     {
-      "start": "1891-01-01 00:00:00",
+      "start": "1891-01-15 00:00:00",
       "end": "1916-02-29 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -70,7 +70,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:46512",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:46512"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:46512"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -109,6 +109,6 @@
       "end": "1894"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

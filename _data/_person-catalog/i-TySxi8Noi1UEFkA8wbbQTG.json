@@ -1,7 +1,7 @@
 {
   "name": "karl hagström",
   "swerik-id": "i-TySxi8Noi1UEFkA8wbbQTG",
-  "DOB": "1941",
+  "DOB": "1941-04-19",
   "DOD": "2018-08-02",
   "gender": "man",
   "place-of-birth": {
@@ -84,6 +84,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

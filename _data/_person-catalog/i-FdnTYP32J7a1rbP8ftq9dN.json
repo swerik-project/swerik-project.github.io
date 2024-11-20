@@ -23,8 +23,8 @@
   ],
   "positions": [
     {
-      "start": "1928-01-01 00:00:00",
-      "end": "1937-12-31 00:00:00",
+      "start": "1928-01-10 00:00:00",
+      "end": "1937-06-15 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -32,8 +32,8 @@
       "district": "Dalarnas läns valkrets"
     },
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1927-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1927-06-13 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -41,8 +41,8 @@
       "district": "Dalarnas läns valkrets"
     },
     {
-      "start": "1910-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1910-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -99,6 +99,6 @@
       "end": "1911"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

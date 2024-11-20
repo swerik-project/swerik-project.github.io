@@ -1,7 +1,7 @@
 {
   "name": "hugo hegeland",
   "swerik-id": "i-Ahzryxd2b7naJSD37mfHNJ",
-  "DOB": "1922",
+  "DOB": "1922-04-18",
   "DOD": "2009-10-10",
   "gender": "man",
   "place-of-birth": {
@@ -85,6 +85,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

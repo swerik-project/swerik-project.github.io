@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1956-01-01 00:00:00",
-      "end": "1963-12-31 00:00:00",
+      "start": "1956-01-10 00:00:00",
+      "end": "1963-12-13 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -30,8 +30,8 @@
       "district": "Malmöhus läns valkrets"
     },
     {
-      "start": "1933-01-01 00:00:00",
-      "end": "1955-12-31 00:00:00",
+      "start": "1933-01-10 00:00:00",
+      "end": "1955-12-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -56,7 +56,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:32663",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:32663"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:32663"
     }
   ],
   "party-affiliations": [
@@ -77,6 +77,6 @@
       "end": "1934"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

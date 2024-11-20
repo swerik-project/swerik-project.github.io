@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1909-01-01 00:00:00",
-      "end": "1909-12-31 00:00:00",
+      "start": "1909-01-15 00:00:00",
+      "end": "1909-05-26 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,8 +31,8 @@
       "district": "Jönköpings läns valkrets"
     },
     {
-      "start": "1892-01-01 00:00:00",
-      "end": "1907-12-31 00:00:00",
+      "start": "1892-01-15 00:00:00",
+      "end": "1907-06-03 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -57,7 +57,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:45941",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:45941"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:45941"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -66,6 +66,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }
