@@ -9,8 +9,8 @@
     "link": "http://www.wikidata.org/entity/Q10520535"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Helsingborg",
+    "link": "http://www.wikidata.org/entity/Q25411"
   },
   "alt-names": [
     "olsson"
@@ -131,6 +131,6 @@
       "end": "1995-01-09"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -1,7 +1,7 @@
 {
   "name": "britta sundin",
   "swerik-id": "i-7SJK192EL4VbjkLD12Xg8y",
-  "DOB": "1934",
+  "DOB": "1934-12-30",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
@@ -13,6 +13,7 @@
     "link": null
   },
   "alt-names": [
+    "britta stina sundin",
     "sundin"
   ],
   "iorter": [
@@ -84,6 +85,6 @@
       "end": "1998-10-05"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

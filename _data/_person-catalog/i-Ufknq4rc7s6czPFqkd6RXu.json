@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1888-01-01 00:00:00",
-      "end": "1890-12-31 00:00:00",
+      "start": "1888-01-16 00:00:00",
+      "end": "1890-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -29,8 +29,8 @@
       "district": "Västra Götalands läns västra valkrets"
     },
     {
-      "start": "1879-01-01 00:00:00",
-      "end": "1887-12-31 00:00:00",
+      "start": "1879-01-15 00:00:00",
+      "end": "1887-07-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -38,8 +38,8 @@
       "district": "Växjö, Eksjö, Vimmerby och Borgholms valkrets"
     },
     {
-      "start": "1870-01-01 00:00:00",
-      "end": "1878-12-31 00:00:00",
+      "start": "1870-01-15 00:00:00",
+      "end": "1878-05-25 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -69,7 +69,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:2077",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:2077"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:2077"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -98,6 +98,14 @@
     },
     {
       "party": {
+        "name": "Lantmannapartiet",
+        "party-id": "Q6487621"
+      },
+      "start": "1885",
+      "end": "1887"
+    },
+    {
+      "party": {
         "name": "Nya centern (partigrupp 1883-1887)",
         "party-id": "Q10604299"
       },
@@ -113,6 +121,6 @@
       "end": "1882"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

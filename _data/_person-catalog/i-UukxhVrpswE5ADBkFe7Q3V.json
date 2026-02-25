@@ -1,7 +1,7 @@
 {
   "name": "jan björkman",
   "swerik-id": "i-UukxhVrpswE5ADBkFe7Q3V",
-  "DOB": "1950",
+  "DOB": "1950-08-15",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -102,6 +102,6 @@
       "end": "2010-10-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

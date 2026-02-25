@@ -32,8 +32,8 @@
       "district": "Östersunds och Hudiksvalls valkrets"
     },
     {
-      "start": "1882-01-01 00:00:00",
-      "end": "1886-12-31 00:00:00",
+      "start": "1882-01-16 00:00:00",
+      "end": "1886-05-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -41,8 +41,8 @@
       "district": "Älvsborgs läns valkrets"
     },
     {
-      "start": "1867-01-01 00:00:00",
-      "end": "1875-12-31 00:00:00",
+      "start": "1867-01-15 00:00:00",
+      "end": "1875-05-26 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -72,7 +72,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:70",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:70"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:70"
     }
   ],
   "party-affiliations": [
@@ -85,6 +85,6 @@
       "end": "1887"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

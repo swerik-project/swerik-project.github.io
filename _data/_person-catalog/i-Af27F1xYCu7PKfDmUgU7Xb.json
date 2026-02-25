@@ -21,6 +21,15 @@
   ],
   "positions": [
     {
+      "start": "1976-10-04 00:00:00",
+      "end": "1977-08-16 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Skaraborgs läns valkrets"
+    },
+    {
       "start": "1974-01-10 00:00:00",
       "end": "1976-10-04 00:00:00",
       "role": "ledamot",
@@ -39,8 +48,8 @@
       "district": "Skaraborgs läns valkrets"
     },
     {
-      "start": "1961-01-01 00:00:00",
-      "end": "1970-12-31 00:00:00",
+      "start": "1961-01-10 00:00:00",
+      "end": "1970-12-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -70,9 +79,9 @@
         "party-id": "Q110832"
       },
       "start": "1976-10-04",
-      "end": "1977-08"
+      "end": "1977-08-16"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -5,8 +5,8 @@
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": "Örnsköldsvik",
-    "link": "http://www.wikidata.org/entity/Q28327"
+    "place": "Örnsköldsviks församling",
+    "link": "http://www.wikidata.org/entity/Q10727632"
   },
   "place-of-death": {
     "place": null,
@@ -53,6 +53,6 @@
       "end": "2022-09-26"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

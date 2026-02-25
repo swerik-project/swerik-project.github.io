@@ -1,18 +1,19 @@
 {
   "name": "annica hjerling",
   "swerik-id": "i-E9448xLY8M4wqwfcWUh29o",
-  "DOB": "1965",
+  "DOB": "1965-05-02",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Magra församling",
+    "link": "http://www.wikidata.org/entity/Q10575367"
   },
   "place-of-death": {
     "place": null,
     "link": null
   },
   "alt-names": [
+    "annica agardsson",
     "annica cecilia hjerling"
   ],
   "iorter": [],
@@ -55,6 +56,6 @@
       "end": "2019-01-21"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

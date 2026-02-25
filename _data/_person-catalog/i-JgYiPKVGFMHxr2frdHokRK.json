@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1924-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1924-06-14 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -31,8 +31,8 @@
       "district": "Stockholms stads valkrets"
     },
     {
-      "start": "1921-01-01 00:00:00",
-      "end": "1921-12-31 00:00:00",
+      "start": "1921-01-10 00:00:00",
+      "end": "1921-06-21 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -40,8 +40,8 @@
       "district": "Stockholms stads andra valkrets"
     },
     {
-      "start": "1912-01-01 00:00:00",
-      "end": "1914-12-31 00:00:00",
+      "start": "1912-01-15 00:00:00",
+      "end": "1914-12-17 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -49,8 +49,8 @@
       "district": "Gästriklands valkrets"
     },
     {
-      "start": "1906-01-01 00:00:00",
-      "end": "1911-12-31 00:00:00",
+      "start": "1906-01-15 00:00:00",
+      "end": "1911-06-01 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -58,8 +58,8 @@
       "district": "Gävle valkrets"
     },
     {
-      "start": "1902-01-01 00:00:00",
-      "end": "1905-12-31 00:00:00",
+      "start": "1902-01-15 00:00:00",
+      "end": "1905-10-18 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -89,7 +89,7 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:688",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:688"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:688"
     },
     {
       "authority": "Swedish Portrait Archive ID",
@@ -115,6 +115,6 @@
       "end": "1914"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

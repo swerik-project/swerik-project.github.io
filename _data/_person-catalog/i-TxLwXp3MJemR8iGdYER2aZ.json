@@ -17,7 +17,7 @@
   "positions": [
     {
       "start": "2022-09-26 00:00:00",
-      "end": "2026-10-17 00:00:00",
+      "end": "2024-01-07 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 0.0,
@@ -96,10 +96,10 @@
         "name": "Vänsterpartiet",
         "party-id": "Q110837"
       },
-      "start": "2018-09-24",
-      "end": "2022-09-26"
+      "start": "2022-09-26",
+      "end": "2024-01-07"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

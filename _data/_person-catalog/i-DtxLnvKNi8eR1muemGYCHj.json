@@ -1,7 +1,7 @@
 {
   "name": "liselotte wågö",
   "swerik-id": "i-DtxLnvKNi8eR1muemGYCHj",
-  "DOB": "1941",
+  "DOB": "1941-05-07",
   "DOD": "2012-10-28",
   "gender": "woman",
   "place-of-birth": {
@@ -75,6 +75,6 @@
       "end": "2002-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

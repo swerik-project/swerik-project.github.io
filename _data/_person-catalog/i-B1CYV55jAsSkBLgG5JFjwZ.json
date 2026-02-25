@@ -1,7 +1,7 @@
 {
   "name": "stig gustafsson",
   "swerik-id": "i-B1CYV55jAsSkBLgG5JFjwZ",
-  "DOB": "1931",
+  "DOB": "1931-03-28",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -147,6 +147,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

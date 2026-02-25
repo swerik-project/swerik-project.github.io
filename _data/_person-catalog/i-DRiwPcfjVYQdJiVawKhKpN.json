@@ -1,7 +1,7 @@
 {
   "name": "erkki tammenoksa",
   "swerik-id": "i-DRiwPcfjVYQdJiVawKhKpN",
-  "DOB": "1935",
+  "DOB": "1935-03-11",
   "DOD": "2017-10-12",
   "gender": "man",
   "place-of-birth": {
@@ -93,6 +93,6 @@
       "end": "1991-09-30"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

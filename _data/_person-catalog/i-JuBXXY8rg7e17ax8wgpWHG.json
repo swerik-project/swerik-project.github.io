@@ -1,12 +1,12 @@
 {
   "name": "dan kihlström",
   "swerik-id": "i-JuBXXY8rg7e17ax8wgpWHG",
-  "DOB": "1957",
+  "DOB": "1957-08-02",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Hjo stadsförsamling",
+    "link": "http://www.wikidata.org/entity/Q58656816"
   },
   "place-of-death": {
     "place": null,
@@ -71,6 +71,6 @@
       "end": "2010-10-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

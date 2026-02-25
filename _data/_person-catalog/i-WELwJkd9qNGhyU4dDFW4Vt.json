@@ -12,7 +12,9 @@
     "place": null,
     "link": null
   },
-  "alt-names": [],
+  "alt-names": [
+    "jeannette de las mercedes escanilla diaz"
+  ],
   "iorter": [],
   "positions": [
     {
@@ -26,7 +28,8 @@
     }
   ],
   "portraits": [
-    "http://commons.wikimedia.org/wiki/Special:FilePath/All%20You%20Need%20is%20Love%20-%20Stockholm%20Pride%202014%20-%2013.jpg"
+    "http://commons.wikimedia.org/wiki/Special:FilePath/All%20You%20Need%20is%20Love%20-%20Stockholm%20Pride%202014%20-%2013.jpg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannette%20Escanilla%20mars%202024%20d.jpg"
   ],
   "identifiers": [
     {
@@ -55,6 +58,6 @@
       "end": "2018-09-24"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

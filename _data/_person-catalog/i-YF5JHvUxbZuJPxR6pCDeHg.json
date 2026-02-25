@@ -1,7 +1,7 @@
 {
   "name": "lennart nilsson",
   "swerik-id": "i-YF5JHvUxbZuJPxR6pCDeHg",
-  "DOB": "1944",
+  "DOB": "1944-11-02",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -129,6 +129,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

@@ -5,15 +5,17 @@
   "DOD": "2019-07-22",
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Sorsele församling",
+    "link": "http://www.wikidata.org/entity/Q10674040"
   },
   "place-of-death": {
-    "place": null,
-    "link": null
+    "place": "Sävars distrikt",
+    "link": "http://www.wikidata.org/entity/Q21595832"
   },
   "alt-names": [
-    "gunilla sofia tjernberg"
+    "gunilla sofia tjernberg",
+    "gunilla sofia tjärnberg",
+    "gunilla tjärnberg"
   ],
   "iorter": [],
   "positions": [
@@ -75,6 +77,6 @@
       "end": "2010-10-04"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

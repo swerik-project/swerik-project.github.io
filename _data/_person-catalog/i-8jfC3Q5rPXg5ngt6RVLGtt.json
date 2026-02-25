@@ -1,7 +1,7 @@
 {
   "name": "lennart fremling",
   "swerik-id": "i-8jfC3Q5rPXg5ngt6RVLGtt",
-  "DOB": "1946",
+  "DOB": "1946-01-12",
   "DOD": "2013-07-17",
   "gender": "man",
   "place-of-birth": {
@@ -75,6 +75,6 @@
       "end": "2006-10-02"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

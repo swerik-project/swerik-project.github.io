@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1909-01-01 00:00:00",
-      "end": "1918-12-31 00:00:00",
+      "start": "1909-01-15 00:00:00",
+      "end": "1918-12-23 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -48,13 +48,21 @@
   "party-affiliations": [
     {
       "party": {
-        "name": "Första kammarens moderata parti",
-        "party-id": "Q10501501"
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
       },
       "start": "1912",
       "end": "1918"
+    },
+    {
+      "party": {
+        "name": "Första kammarens moderata parti",
+        "party-id": "Q10501501"
+      },
+      "start": "1909",
+      "end": "1911"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

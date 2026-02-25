@@ -21,7 +21,7 @@
   ],
   "positions": [
     {
-      "start": "1932-01-01 00:00:00",
+      "start": "1932-01-11 00:00:00",
       "end": "1945-05-09 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
@@ -30,8 +30,8 @@
       "district": "Skåne läns norra och östra valkrets"
     },
     {
-      "start": "1922-01-01 00:00:00",
-      "end": "1928-12-31 00:00:00",
+      "start": "1922-01-10 00:00:00",
+      "end": "1928-06-08 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -50,6 +50,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

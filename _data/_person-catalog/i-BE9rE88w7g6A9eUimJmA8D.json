@@ -5,19 +5,30 @@
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Sävsjö församling",
+    "link": "http://www.wikidata.org/entity/Q10688270"
   },
   "place-of-death": {
     "place": null,
     "link": null
   },
-  "alt-names": [],
+  "alt-names": [
+    "anders kenneth karlsson"
+  ],
   "iorter": [],
   "positions": [
     {
-      "start": "2022-03-20 00:00:00",
-      "end": "2026-10-17 00:00:00",
+      "start": "2023-02-20 00:00:00",
+      "end": "2023-09-12 00:00:00",
+      "role": "ledamot",
+      "source": "member_of_parliament",
+      "chamber": 0.0,
+      "government": null,
+      "district": "Jönköpings läns valkrets"
+    },
+    {
+      "start": "2022-09-11 00:00:00",
+      "end": "2023-02-19 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 0.0,
@@ -44,6 +55,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

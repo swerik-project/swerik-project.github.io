@@ -1,7 +1,7 @@
 {
   "name": "john andersson",
   "swerik-id": "i-HF1be62hHhvaXoZiyUz2HF",
-  "DOB": "1938",
+  "DOB": "1938-07-01",
   "DOD": "2000",
   "gender": "man",
   "place-of-birth": {
@@ -103,6 +103,6 @@
       "end": "1993-01-11"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

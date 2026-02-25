@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1933-01-01 00:00:00",
-      "end": "1936-12-31 00:00:00",
+      "start": "1933-01-10 00:00:00",
+      "end": "1936-06-27 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -44,7 +44,24 @@
       "link": "https://portrattarkiv.se/details/sj9PGLAlnmUAAAAAABfnkg"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Högerns riksdagsgrupp",
+        "party-id": "Q111077860"
+      },
+      "start": "1935",
+      "end": "1936"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1933",
+      "end": "1934"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

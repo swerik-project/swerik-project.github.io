@@ -13,7 +13,8 @@
     "link": "http://www.wikidata.org/entity/Q10500649"
   },
   "alt-names": [
-    "andersson"
+    "andersson",
+    "ernst gustaf andersson"
   ],
   "iorter": [
     "Bjertorp"
@@ -21,7 +22,7 @@
   "positions": [
     {
       "start": "1944-10-02 00:00:00",
-      "end": "1944-12-31 00:00:00",
+      "end": "1944-12-30 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -45,6 +46,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

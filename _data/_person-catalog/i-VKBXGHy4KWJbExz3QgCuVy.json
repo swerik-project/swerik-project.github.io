@@ -1,12 +1,12 @@
 {
   "name": "mona saint cyr",
   "swerik-id": "i-VKBXGHy4KWJbExz3QgCuVy",
-  "DOB": "1934",
+  "DOB": "1934-02-15",
   "DOD": null,
   "gender": "woman",
   "place-of-birth": {
-    "place": null,
-    "link": null
+    "place": "Engelbrekts församling",
+    "link": "http://www.wikidata.org/entity/Q10484135"
   },
   "place-of-death": {
     "place": null,
@@ -112,6 +112,6 @@
       "end": "1994-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

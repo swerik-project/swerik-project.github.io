@@ -13,7 +13,8 @@
     "link": "http://www.wikidata.org/entity/Q10670947"
   },
   "alt-names": [
-    "karlsson"
+    "karlsson",
+    "marianne elisabeth karlsson"
   ],
   "iorter": [
     "Skänninge"
@@ -93,6 +94,6 @@
       "end": "1988-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

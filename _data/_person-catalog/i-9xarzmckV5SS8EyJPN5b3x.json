@@ -20,7 +20,7 @@
   "positions": [
     {
       "start": "2022-09-26 00:00:00",
-      "end": "2026-10-17 00:00:00",
+      "end": "2023-09-12 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 0.0,
@@ -65,7 +65,8 @@
     }
   ],
   "portraits": [
-    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Wallmark%20%28M%29%20Sverige.jpg"
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Wallmark%20%28M%29%20Sverige.jpg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Wallmark%20in%202024%20%28cropped%29.jpg"
   ],
   "identifiers": [
     {
@@ -94,6 +95,6 @@
       "end": "2022-09-26"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

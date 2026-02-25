@@ -1,7 +1,7 @@
 {
   "name": "sven munke",
   "swerik-id": "i-46ebrLL8NYuv6JwHgpvypy",
-  "DOB": "1923",
+  "DOB": "1923-02-27",
   "DOD": null,
   "gender": "man",
   "place-of-birth": {
@@ -75,6 +75,6 @@
       "end": "1988-10-03"
     }
   ],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

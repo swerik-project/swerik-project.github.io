@@ -22,8 +22,8 @@
   ],
   "positions": [
     {
-      "start": "1925-01-01 00:00:00",
-      "end": "1932-12-31 00:00:00",
+      "start": "1925-01-10 00:00:00",
+      "end": "1932-06-20 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,8 +31,8 @@
       "district": "Östergötlands läns valkrets"
     },
     {
-      "start": "1918-01-01 00:00:00",
-      "end": "1920-12-31 00:00:00",
+      "start": "1918-01-15 00:00:00",
+      "end": "1920-06-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 2.0,
@@ -62,10 +62,27 @@
     {
       "authority": "Uppsala University Alvin ID",
       "identifier": "alvin-person:50924",
-      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%alvin-person:50924"
+      "link": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:50924"
     }
   ],
-  "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "party-affiliations": [
+    {
+      "party": {
+        "name": "Första kammarens nationella parti",
+        "party-id": "Q3480145"
+      },
+      "start": "1925",
+      "end": "1932"
+    },
+    {
+      "party": {
+        "name": "Lantmanna- och borgarepartiet inom andrakammaren",
+        "party-id": "Q10554125"
+      },
+      "start": "1918",
+      "end": "1920"
+    }
+  ],
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

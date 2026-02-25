@@ -20,8 +20,8 @@
   ],
   "positions": [
     {
-      "start": "1879-01-01 00:00:00",
-      "end": "1885-12-31 00:00:00",
+      "start": "1879-01-15 00:00:00",
+      "end": "1885-05-22 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -29,8 +29,8 @@
       "district": "Skåne läns norra och östra valkrets"
     },
     {
-      "start": "1868-01-01 00:00:00",
-      "end": "1868-12-31 00:00:00",
+      "start": "1868-01-15 00:00:00",
+      "end": "1868-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -54,6 +54,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }

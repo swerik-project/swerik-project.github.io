@@ -21,8 +21,8 @@
   ],
   "positions": [
     {
-      "start": "1899-01-01 00:00:00",
-      "end": "1903-12-31 00:00:00",
+      "start": "1899-01-16 00:00:00",
+      "end": "1903-05-23 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -31,7 +31,7 @@
     },
     {
       "start": "1889-04-17 00:00:00",
-      "end": "1898-12-31 00:00:00",
+      "end": "1898-05-16 00:00:00",
       "role": "ledamot",
       "source": "member_of_parliament",
       "chamber": 1.0,
@@ -55,6 +55,6 @@
     }
   ],
   "party-affiliations": [],
-  "data-version": "v0.12.0",
-  "last-updated": "2024-01-08 17:17:12"
+  "data-version": "v1.1.0",
+  "last-updated": "2024-08-26 14:02:24"
 }
