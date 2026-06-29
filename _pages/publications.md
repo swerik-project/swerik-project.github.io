@@ -16,6 +16,8 @@ Swerik welcomes collaborations with research projects and individual scholars. O
 
 _What does it take to make leadership gender equal? Studies of political leadership in a gender balanced context_. PI: Josefina Eriksson (Uppsala University). Funder: The Swedish Research Council (2023–2026). Swerik collaboration: annotate interpellation debates.
 
+_Making public property: A digital history of allemansrätten in Sweden and Finland, 1880–1950_. PI: Matti La Mela (Uppsala University). Funder: The Swedish Research Council (2023–2026). Swerik collaboration: annotate interpellation debates.
+
 _What will we eat? Food as a security policy issue in Sweden 1900–2025._ PI: Johanna Pettersson Fürst (Uppsala University). Funder: The Swedish Research Council (2023–2027). Swerik collaboration: run topic models on parliamentary data.
 
 _Extending SWERIK_. PI: Måns Magnusson (Uppsala University). Funder: Centre for Digital Humanities and Social Sciences at Uppsala University (spring of 2024). Swerik collaboration: improve the segmentation of Swedish parliamentary speeches 1867–2023.
