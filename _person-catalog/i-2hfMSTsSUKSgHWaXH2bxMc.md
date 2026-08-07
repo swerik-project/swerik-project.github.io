@@ -1,7 +1,0 @@
----
-layout: catalog
-title: SWERIK Person Catalog
----
-{% assign p = site.data._person-catalog.i-2hfMSTsSUKSgHWaXH2bxMc %}
-{% include person-catalog.html p=p %}
-
